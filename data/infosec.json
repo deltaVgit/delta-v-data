@@ -1,0 +1,303 @@
+{
+  "updatedAt": "2026-10-17T21:34:38Z",
+  "kev": [
+    {
+      "cve": "CVE-2026-102764",
+      "product": "Remote Support",
+      "vendor": "BeyondTrust",
+      "name": "BeyondTrust Remote Support Authentication Bypass by Spoofing Vulnerability",
+      "dateAdded": "2026-10-16",
+      "dueDate": "2026-10-19",
+      "knownRansomware": "Unknown"
+    },
+    {
+      "cve": "CVE-2025-61624",
+      "product": "Multiple Products",
+      "vendor": "Fortinet",
+      "name": "Fortinet Multiple Products Path Traversal Vulnerability",
+      "dateAdded": "2026-10-16",
+      "dueDate": "2026-10-19",
+      "knownRansomware": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-21589",
+      "product": "Multiple Products",
+      "vendor": "Atlassian",
+      "name": "Atlassian Multiple Products Files or Directories Accessible to External Parties Vulnerability",
+      "dateAdded": "2026-10-15",
+      "dueDate": "2026-10-18",
+      "knownRansomware": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-105134",
+      "product": "AhsayCBS",
+      "vendor": "Ahsay",
+      "name": "Ahsay AhsayCBS Command Injection Vulnerability",
+      "dateAdded": "2026-10-14",
+      "dueDate": "2026-10-17",
+      "knownRansomware": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-76519",
+      "product": "Secure Email Gateway",
+      "vendor": "Cisco",
+      "name": "Cisco Secure Email Gateway Relative Path Traversal Vulnerability",
+      "dateAdded": "2026-10-14",
+      "dueDate": "2026-10-17",
+      "knownRansomware": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-105133",
+      "product": "AhsayCBS",
+      "vendor": "Ahsay",
+      "name": "Ahsay AhsayCBS Improper Authentication Vulnerability",
+      "dateAdded": "2026-10-14",
+      "dueDate": "2026-10-17",
+      "knownRansomware": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-0322",
+      "product": "PAN-OS",
+      "vendor": "Palo Alto Networks",
+      "name": "Palo Alto Networks PAN-OS Code Injection Vulnerability",
+      "dateAdded": "2026-10-14",
+      "dueDate": "2026-10-17",
+      "knownRansomware": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-104935",
+      "product": "Connect Secure",
+      "vendor": "Ivanti",
+      "name": "Ivanti Connect Secure Authentication Bypass by Spoofing Vulnerability",
+      "dateAdded": "2026-10-13",
+      "dueDate": "2026-10-16",
+      "knownRansomware": "Unknown"
+    },
+    {
+      "cve": "CVE-2026-96951",
+      "product": "Windows",
+      "vendor": "Microsoft",
+      "name": "Microsoft Windows Command Injection Vulnerability",
+      "dateAdded": "2026-10-13",
+      "dueDate": "2026-10-16",
+      "knownRansomware": "Unknown"
+    },
+    {
+      "cve": "CVE-2015-5477",
+      "product": "BIND",
+      "vendor": "ISC",
+      "name": " ISC BIND Data Processing Errors Vulnerability",
+      "dateAdded": "2026-10-08",
+      "dueDate": "2026-10-11",
+      "knownRansomware": "Unknown"
+    },
+    {
+      "cve": "CVE-2016-3081",
+      "product": "Struts",
+      "vendor": "Apache",
+      "name": "Apache Struts Command Injection Vulnerability",
+      "dateAdded": "2026-10-08",
+      "dueDate": "2026-10-11",
+      "knownRansomware": "Unknown"
+    },
+    {
+      "cve": "CVE-2023-22894",
+      "product": "Strapi",
+      "vendor": "Strapi",
+      "name": "Strapi Cleartext Storage of Sensitive Information Vulnerability",
+      "dateAdded": "2026-10-08",
+      "dueDate": "2026-10-11",
+      "knownRansomware": "Unknown"
+    },
+    {
+      "cve": "CVE-2021-3199",
+      "product": "Docs",
+      "vendor": "ONLYOFFICE",
+      "name": "ONLYOFFICE Docs Server Path Traversal Vulnerability",
+      "dateAdded": "2026-10-08",
+      "dueDate": "2026-10-11",
+      "knownRansomware": "Unknown"
+    },
+    {
+      "cve": "CVE-2015-3306",
+      "product": "ProFTPD",
+      "vendor": "ProFTPD",
+      "name": "ProFTPD Improper Access Control Vulnerability",
+      "dateAdded": "2026-10-08",
+      "dueDate": "2026-10-11",
+      "knownRansomware": "Unknown"
+    }
+  ],
+  "cves": [
+    {
+      "id": "CVE-2026-93674",
+      "severity": "CRITICAL",
+      "score": 9.8,
+      "description": "IBM Langflow OSS 1.0.0 through 1.12.2 could allow a remote attacker to execute arbitrary code due to improper neutralization of special elements used in an OS command.",
+      "published": "2026-10-07T01:16:35.187"
+    },
+    {
+      "id": "CVE-2026-19572",
+      "severity": "CRITICAL",
+      "score": 9.3,
+      "description": "A security vulnerability has been identified in FlexNet Publisher lmadmin. The vulnerability exists in a SOAP handler, where a hardcoded authentication bypass could allow an unauthenticated user to obtain a privileged ad",
+      "published": "2026-10-07T04:18:09.053"
+    },
+    {
+      "id": "CVE-2026-14911",
+      "severity": "CRITICAL",
+      "score": 9.3,
+      "description": "Improper Neutralization of Input During Web Page Generation (“Cross-site Scripting”) in ASUS router modules allows a remote attacker to read DOM information, modify router settings, and cause a denial-of-service conditio",
+      "published": "2026-10-07T03:16:58.670"
+    },
+    {
+      "id": "CVE-2026-19386",
+      "severity": "CRITICAL",
+      "score": 9.3,
+      "description": "A stack-based buffer overflow in the ASUS router modules allows an authenticated nearby user to execute arbitrary code via a crafted configuration file upload that exceeds the expected buffer size.Refer to the ' Security",
+      "published": "2026-10-07T02:16:57.883"
+    },
+    {
+      "id": "CVE-2026-105324",
+      "severity": "CRITICAL",
+      "score": 9.2,
+      "description": "An HTTP header injection vulnerability in start-page-loader.cgi of ADM allows an unauthenticated remote attacker to read arbitrary files on the host system. By sending a crafted HTTP request with injected headers via the",
+      "published": "2026-10-07T02:16:57.433"
+    },
+    {
+      "id": "CVE-2026-81535",
+      "severity": "CRITICAL",
+      "score": 9.1,
+      "description": "In wolfSSH through 1.5.0 built with --enable-fwd, DoChannelOpen() in src/internal.c gates only direct-tcpip channel opens with the forwarding policy callback. forwarded-tcpip opens are admitted without an authorization c",
+      "published": "2026-10-07T03:16:59.567"
+    },
+    {
+      "id": "CVE-2026-83742",
+      "severity": "HIGH",
+      "score": 8.8,
+      "description": "Unsigned integer underflow in wstrncat() in src/port.c in wolfSSL wolfSSH from v1.4.11 through v1.5.0 on non-Windows platforms allows an authenticated remote attacker to write one out-of-bounds null byte past the end of ",
+      "published": "2026-10-07T03:16:59.880"
+    },
+    {
+      "id": "CVE-2026-83540",
+      "severity": "HIGH",
+      "score": 8.8,
+      "description": "When password or public key authentication is used with the Windows port of wolfSSHd, the Windows logon token acquired for one authenticated connection is not released before a token is acquired for a subsequent connecti",
+      "published": "2026-10-07T03:16:59.730"
+    },
+    {
+      "id": "CVE-2026-97679",
+      "severity": "HIGH",
+      "score": 8.8,
+      "description": "IBM Langflow OSS 1.0.0 through 1.12.2 could allow a remote authenticated attacker to execute arbitrary code due to improper neutralization of special elements used in an OS command ('Code Injection') related to improper ",
+      "published": "2026-10-07T01:16:36.643"
+    },
+    {
+      "id": "CVE-2026-102478",
+      "severity": "HIGH",
+      "score": 8.7,
+      "description": "In affected versions of Octopus Server, an authenticated user with permission to modify roles could bypass the protections preventing access abuse resulting in privilege escalation. It was possible for the built-in role ",
+      "published": "2026-10-07T02:16:56.320"
+    },
+    {
+      "id": "CVE-2026-16528",
+      "severity": "HIGH",
+      "score": 8.4,
+      "description": "Insertion of Sensitive Information into Log File in certain ASUS router models allows a remote authenticated attacker to obtain DDNS credentials from the system log, potentially enabling modification of DNS settings.Refe",
+      "published": "2026-10-07T02:16:57.730"
+    },
+    {
+      "id": "CVE-2026-106471",
+      "severity": "HIGH",
+      "score": 8.1,
+      "description": "A flaw was found in Candlepin. The central authorization filter incorrectly grants access when any one of multiple @Verify-annotated parameters is accessible, instead of requiring access to every verified entity. A low-p",
+      "published": "2026-10-07T02:16:57.583"
+    }
+  ],
+  "breaches": [
+    {
+      "name": "DoubleCounter",
+      "domain": "doublecounter.gg",
+      "date": "2026-10-04",
+      "count": 274922,
+      "data": "Email addresses, Geographic locations, Names, Usernames"
+    },
+    {
+      "name": "Medela",
+      "domain": "medela.com",
+      "date": "2026-09-07",
+      "count": 423947,
+      "data": "Email addresses, Employers, Job titles, Names, Phone numbers"
+    },
+    {
+      "name": "Neogen",
+      "domain": "neogen.com",
+      "date": "2026-08-29",
+      "count": 435963,
+      "data": "Email addresses, Employers, Job titles, Names, Phone numbers"
+    },
+    {
+      "name": "ManchesterAirportsGroup",
+      "domain": "magairports.com",
+      "date": "2026-08-27",
+      "count": 8849657,
+      "data": "Browser user agent details, Email addresses, Geographic locations, IP addresses, Names"
+    },
+    {
+      "name": "McKesson",
+      "domain": "mckesson.com",
+      "date": "2026-08-21",
+      "count": 6404340,
+      "data": "Dates of birth, Email addresses, Employers, Genders, Names"
+    },
+    {
+      "name": "OzHairAndBeauty",
+      "domain": "ozhairandbeauty.com",
+      "date": "2026-08-15",
+      "count": 1988331,
+      "data": "Email addresses, Geographic locations, Names, Phone numbers, Purchases"
+    },
+    {
+      "name": "Carhartt",
+      "domain": "carhartt.com",
+      "date": "2026-08-13",
+      "count": 12933413,
+      "data": "Email addresses, Names, Phone numbers, Physical addresses"
+    },
+    {
+      "name": "Sharecare",
+      "domain": "sharecare.com",
+      "date": "2026-08-12",
+      "count": 318185,
+      "data": "Dates of birth, Email addresses, Employers, Genders, Government issued IDs"
+    },
+    {
+      "name": "Fanlore",
+      "domain": "fanlore.org",
+      "date": "2026-08-06",
+      "count": 144520,
+      "data": "Email addresses, Names, Passwords, Usernames"
+    },
+    {
+      "name": "CyrusOne",
+      "domain": "cyrusone.com",
+      "date": "2026-08-05",
+      "count": 373460,
+      "data": "Email addresses, Employers, Job titles, Names, Phone numbers"
+    },
+    {
+      "name": "Chess2026",
+      "domain": "chess.com",
+      "date": "2026-08-03",
+      "count": 4653212,
+      "data": "Email addresses, Geographic locations, Names, Usernames"
+    },
+    {
+      "name": "Alcon",
+      "domain": "alcon.com",
+      "date": "2026-08-01",
+      "count": 218395,
+      "data": "Email addresses, Names, Phone numbers, Physical addresses"
+    }
+  ]
+}

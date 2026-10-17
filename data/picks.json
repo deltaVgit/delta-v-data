@@ -1,0 +1,29 @@
+{
+  "picks": [
+    {
+      "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
+      "source": "BleepingComputer",
+      "category": "cyber",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
+      "published_at": "Fri, 16 Oct 2026 16:00:59 -0400",
+      "score": 207.0
+    },
+    {
+      "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
+      "source": "CoinDesk",
+      "category": "cyber",
+      "url": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
+      "published_at": "Sat, 17 Oct 2026 02:30:00 +0000",
+      "score": 162.0
+    },
+    {
+      "title": "CFTC Wants to Drop Gemini’s $5M Settlement. A Judge Just Said No",
+      "source": "Decrypt",
+      "category": "macro",
+      "url": "https://decrypt.co/381149/cftc-wants-drop-gemini-5m-settlement-judge-said-no",
+      "published_at": "Fri, 16 Oct 2026 16:36:04 +0000",
+      "score": 120.0
+    }
+  ],
+  "updatedAt": "2026-10-17T23:16:38.227640+00:00"
+}

@@ -1,0 +1,286 @@
+{
+  "updated": "2026-10-17T23:15:15.716306Z",
+  "period": "2026-10-17 \u2192 2026-12-01",
+  "events": [
+    {
+      "date": "2026-10-20",
+      "label": "UK Unemployment Rate",
+      "currency": "GBP",
+      "impact": "medium",
+      "country": "UK"
+    },
+    {
+      "date": "2026-10-20",
+      "label": "PBoC Loan Prime Rate",
+      "currency": "CNY",
+      "impact": "high",
+      "country": "CN"
+    },
+    {
+      "date": "2026-10-21",
+      "label": "UK CPI (YoY)",
+      "currency": "GBP",
+      "impact": "high",
+      "country": "UK"
+    },
+    {
+      "date": "2026-10-22",
+      "label": "US New Home Sales",
+      "currency": "USD",
+      "impact": "low",
+      "country": "US"
+    },
+    {
+      "date": "2026-10-22",
+      "label": "US Initial Jobless Claims",
+      "currency": "USD",
+      "impact": "medium",
+      "country": "US"
+    },
+    {
+      "date": "2026-10-22",
+      "label": "China Trade Balance",
+      "currency": "CNY",
+      "impact": "medium",
+      "country": "CN"
+    },
+    {
+      "date": "2026-10-23",
+      "label": "German Ifo Business Climate",
+      "currency": "EUR",
+      "impact": "medium",
+      "country": "DE"
+    },
+    {
+      "date": "2026-10-27",
+      "label": "US GDP (QoQ advance)",
+      "currency": "USD",
+      "impact": "high",
+      "country": "US"
+    },
+    {
+      "date": "2026-10-27",
+      "label": "US ISM Manufacturing PMI",
+      "currency": "USD",
+      "impact": "medium",
+      "country": "US"
+    },
+    {
+      "date": "2026-10-27",
+      "label": "US Consumer Confidence",
+      "currency": "USD",
+      "impact": "medium",
+      "country": "US"
+    },
+    {
+      "date": "2026-10-27",
+      "label": "Swiss Trade Balance",
+      "currency": "CHF",
+      "impact": "low",
+      "country": "CH"
+    },
+    {
+      "date": "2026-10-28",
+      "label": "US Existing Home Sales",
+      "currency": "USD",
+      "impact": "low",
+      "country": "US"
+    },
+    {
+      "date": "2026-10-28",
+      "label": "US Treasury Auction",
+      "currency": "USD",
+      "impact": "low",
+      "country": "US"
+    },
+    {
+      "date": "2026-10-28",
+      "label": "EU Industrial Production",
+      "currency": "EUR",
+      "impact": "low",
+      "country": "EU"
+    },
+    {
+      "date": "2026-10-29",
+      "label": "US Initial Jobless Claims",
+      "currency": "USD",
+      "impact": "medium",
+      "country": "US"
+    },
+    {
+      "date": "2026-11-04",
+      "label": "US Treasury Auction",
+      "currency": "USD",
+      "impact": "low",
+      "country": "US"
+    },
+    {
+      "date": "2026-11-04",
+      "label": "Swiss CPI (YoY)",
+      "currency": "CHF",
+      "impact": "medium",
+      "country": "CH"
+    },
+    {
+      "date": "2026-11-05",
+      "label": "US Initial Jobless Claims",
+      "currency": "USD",
+      "impact": "medium",
+      "country": "US"
+    },
+    {
+      "date": "2026-11-05",
+      "label": "Swiss Unemployment Rate",
+      "currency": "CHF",
+      "impact": "medium",
+      "country": "CH"
+    },
+    {
+      "date": "2026-11-06",
+      "label": "US Non-Farm Payrolls",
+      "currency": "USD",
+      "impact": "high",
+      "country": "US"
+    },
+    {
+      "date": "2026-11-09",
+      "label": "China CPI (YoY)",
+      "currency": "CNY",
+      "impact": "medium",
+      "country": "CN"
+    },
+    {
+      "date": "2026-11-10",
+      "label": "EU ZEW Economic Sentiment",
+      "currency": "EUR",
+      "impact": "medium",
+      "country": "EU"
+    },
+    {
+      "date": "2026-11-11",
+      "label": "US CPI (MoM)",
+      "currency": "USD",
+      "impact": "high",
+      "country": "US"
+    },
+    {
+      "date": "2026-11-11",
+      "label": "EU Final CPI (YoY)",
+      "currency": "EUR",
+      "impact": "medium",
+      "country": "EU"
+    },
+    {
+      "date": "2026-11-12",
+      "label": "US Initial Jobless Claims",
+      "currency": "USD",
+      "impact": "medium",
+      "country": "US"
+    },
+    {
+      "date": "2026-11-12",
+      "label": "Japan GDP (QoQ)",
+      "currency": "JPY",
+      "impact": "medium",
+      "country": "JP"
+    },
+    {
+      "date": "2026-11-13",
+      "label": "US PPI (MoM)",
+      "currency": "USD",
+      "impact": "medium",
+      "country": "US"
+    },
+    {
+      "date": "2026-11-13",
+      "label": "EU CPI Flash (YoY)",
+      "currency": "EUR",
+      "impact": "high",
+      "country": "EU"
+    },
+    {
+      "date": "2026-11-13",
+      "label": "UK GDP (MoM)",
+      "currency": "GBP",
+      "impact": "medium",
+      "country": "UK"
+    },
+    {
+      "date": "2026-11-15",
+      "label": "China Industrial Production",
+      "currency": "CNY",
+      "impact": "medium",
+      "country": "CN"
+    },
+    {
+      "date": "2026-11-16",
+      "label": "US Retail Sales (MoM)",
+      "currency": "USD",
+      "impact": "medium",
+      "country": "US"
+    },
+    {
+      "date": "2026-11-16",
+      "label": "ECB Speech",
+      "currency": "EUR",
+      "impact": "medium",
+      "country": "EU"
+    },
+    {
+      "date": "2026-11-17",
+      "label": "UK Unemployment Rate",
+      "currency": "GBP",
+      "impact": "medium",
+      "country": "UK"
+    },
+    {
+      "date": "2026-11-18",
+      "label": "UK CPI (YoY)",
+      "currency": "GBP",
+      "impact": "high",
+      "country": "UK"
+    },
+    {
+      "date": "2026-11-19",
+      "label": "US Initial Jobless Claims",
+      "currency": "USD",
+      "impact": "medium",
+      "country": "US"
+    },
+    {
+      "date": "2026-11-19",
+      "label": "US ISM Services PMI",
+      "currency": "USD",
+      "impact": "medium",
+      "country": "US"
+    },
+    {
+      "date": "2026-11-19",
+      "label": "EU GDP (QoQ flash)",
+      "currency": "EUR",
+      "impact": "medium",
+      "country": "EU"
+    },
+    {
+      "date": "2026-11-19",
+      "label": "BoE Rate Decision",
+      "currency": "GBP",
+      "impact": "high",
+      "country": "UK"
+    },
+    {
+      "date": "2026-11-20",
+      "label": "US Durable Goods Orders",
+      "currency": "USD",
+      "impact": "medium",
+      "country": "US"
+    },
+    {
+      "date": "2026-11-20",
+      "label": "Japan CPI (YoY)",
+      "currency": "JPY",
+      "impact": "medium",
+      "country": "JP"
+    }
+  ]
+}
