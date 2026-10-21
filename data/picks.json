@@ -1,29 +1,101 @@
 {
-  "picks": [
-    {
-      "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
-      "source": "BleepingComputer",
-      "category": "macro",
-      "url": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
-      "published_at": "Tue, 20 Oct 2026 21:01:50 -0400",
-      "score": 255.0
-    },
-    {
-      "title": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
-      "source": "Decrypt",
-      "category": "macro",
-      "url": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
-      "published_at": "Tue, 20 Oct 2026 20:46:04 +0000",
-      "score": 195.0
-    },
-    {
-      "title": "Crypto firms, Wall Street push SEC to revise Regulation Crypto Assets as comments close",
-      "source": "The Block",
-      "category": "macro",
-      "url": "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444",
-      "published_at": "Tue, 20 Oct 2026 19:19:54 +0000",
-      "score": 156.0
-    }
-  ],
-  "updatedAt": "2026-10-21T10:58:19.621679+00:00"
+ "picks": [
+  {
+   "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
+   "url": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
+   "source": "BleepingComputer",
+   "published_at": "Tue, 20 Oct 2026 21:01:50 -0400",
+   "summary": "A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]",
+   "score": 60
+  },
+  {
+   "title": "Bürgel Says PHP Exploits Are Circulating Ahead of Critical Patches",
+   "url": "https://thedefiant.io/news/security/b-rgel-says-php-exploits-are-circulating-ahead-of-critical-patches",
+   "source": "The Defiant",
+   "published_at": "Wed, 21 Oct 2026 07:58:31 GMT",
+   "summary": "PHP’s fixes are scheduled for 10 a.m. ET; security advisories urge operators to restrict exposed services and prepare to patch immediately.",
+   "score": 40
+  },
+  {
+   "title": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
+   "url": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
+   "source": "Decrypt",
+   "published_at": "Tue, 20 Oct 2026 20:46:04 +0000",
+   "summary": "The North Korea-linked attacker behind April's $295 million Drift heist pushed 25,700 ETH through the mixer in two hours, and still controls roughly $198 million more.",
+   "score": 40
+  },
+  {
+   "title": "Zeabur shutting down after second security breach in two months",
+   "url": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
+   "source": "BleepingComputer",
+   "published_at": "Tue, 20 Oct 2026 15:33:02 -0400",
+   "summary": "Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million environment variable records and information for 321,810 accounts. [...]",
+   "score": 38
+  },
+  {
+   "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+   "url": "https://news-web.php.net/php.announce/509",
+   "source": "Hacker News Frontpage",
+   "published_at": "Tue, 20 Oct 2026 20:15:50 +0000",
+   "summary": "pa href=\"https://cert.europa.eu/publications/security-advisories/2026-018/\" rel=\"nofollow\"https://cert.europa.eu/publications/security-advisories/2026.../apa href=\"https://news.ycombinator.com/item?id=50167754\"https://news.ycombinator.com/item?id=50167754/a/phr /pComments URL: a href=\"https://news.y",
+   "score": 36
+  },
+  {
+   "title": "Hackers Abuse AI Pen-Test Tool Cairn to Automate Massive Attack Spree",
+   "url": "https://www.darkreading.com/cyberattacks-data-breaches/hackers-abuse-ai-pen-test-tool-cairn",
+   "source": "Dark Reading",
+   "published_at": "Tue, 20 Oct 2026 14:36:05 GMT",
+   "summary": "A Chinese-speaking attacker has compromised hundreds of websites across the globe, looting from big fish like John Deere, SharkNinja, and engine manufacturer Cummins.",
+   "score": 34
+  },
+  {
+   "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
+   "url": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
+   "source": "BleepingComputer",
+   "published_at": "Wed, 21 Oct 2026 04:36:24 -0400",
+   "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]",
+   "score": 32
+  },
+  {
+   "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+   "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+   "source": "Hacker News Frontpage",
+   "published_at": "Tue, 20 Oct 2026 22:21:05 +0000",
+   "summary": "",
+   "score": 32
+  },
+  {
+   "title": "You Are the Trigger: Speaker-Activated Backdoors",
+   "url": "https://arxiv.org/abs/2610.27210",
+   "source": "arXiv cs.LG",
+   "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
+   "summary": "arXiv:2610.27210v1 Announce Type: new Abstract: Speech models are increasingly used as an interface to AI systems, from transcription tools to voice agents. Existing audio backdoors require an attacker to introduce triggers at inference time. We study a different threat model in which the attacker c",
+   "score": 30
+  },
+  {
+   "title": "Sberbank Gains Russian Crypto Exchange Authorization Ahead of Planned December Launch",
+   "url": "https://thedefiant.io/converge/tradfi-and-fintech/sberbank-gains-russian-crypto-exchange-authorization-ahead-of-planned-december-launch",
+   "source": "The Defiant",
+   "published_at": "Tue, 20 Oct 2026 14:19:56 GMT",
+   "summary": "The bank plans to offer Bitcoin, Ether and USDT through its existing apps, while Russian rules impose testing and purchase limits on non-qualified investors.",
+   "score": 26
+  },
+  {
+   "title": "H2DF: Calibrated Target Bands for Controllable Language-Model Unlearning",
+   "url": "https://arxiv.org/abs/2610.26864",
+   "source": "arXiv cs.CL",
+   "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
+   "summary": "arXiv:2610.26864v1 Announce Type: new Abstract: Gradient ascent (GA) is a simple language-model unlearning baseline, but it continues increasing forget loss after useful forgetting has occurred. This unbounded pressure can damage retained utility and make forgotten examples abnormally high-loss. We ",
+   "score": 24
+  },
+  {
+   "title": "Real-Time Disturbance-Aware Koopman Model Predictive Control for Quadrotors in Spatially Varying Winds",
+   "url": "https://arxiv.org/abs/2610.27414",
+   "source": "arXiv cs.RO (Robotics)",
+   "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
+   "summary": "arXiv:2610.27414v1 Announce Type: new Abstract: Reliable quadrotor flight in disturbed environments requires predictive models that remain accurate as unmodeled aerodynamic effects change during deployment. We introduce a disturbance-aware Koopman Control Family (DA-KCF) framework that preserves an ",
+   "score": 24
+  }
+ ],
+ "updatedAt": "2026-10-21T11:26:13.125769+00:00"
 }
