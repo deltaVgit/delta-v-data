@@ -8,14 +8,6 @@
   "score": 44
  },
  {
-  "title": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
-  "url": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
-  "source": "Decrypt",
-  "published_at": "Tue, 20 Oct 2026 20:46:04 +0000",
-  "summary": "The North Korea-linked attacker behind April s $295 million Drift heist pushed 25,700 ETH through the mixer in two hours, and still controls roughly $198 million more.",
-  "score": 42
- },
- {
   "title": "CROWDSTRIKE, NVIDIA TO EXTEND AI AGENT SECURITY TO SILICON.",
   "url": "https://x.com/financialjuice/status/2112869389787603166",
   "source": "MarketNewsFeed [STOCKS]",
@@ -88,14 +80,6 @@
   "score": 30
  },
  {
-  "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
-  "url": "https://news-web.php.net/php.announce/509",
-  "source": "Hacker News Frontpage",
-  "published_at": "Tue, 20 Oct 2026 20:15:50 +0000",
-  "summary": "Comments URL: Points: 466",
-  "score": 30
- },
- {
   "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
   "url": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
   "source": "BleepingComputer",
@@ -157,6 +141,22 @@
   "source": "arXiv cs.AI",
   "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
   "summary": "arXiv:2610.27046v1 Announce Type: new Abstract: As AI systems begin to resolve open research problems, reliable verification becomes increasingly important. Formal mathematics provides a trusted framework for mathematical reasoning, enabling agents to produce machine-checkable proofs while conductin",
+  "score": 18
+ },
+ {
+  "title": "Teaching AI Agent to Play Poker Strategically Through Preference Optimization",
+  "url": "https://arxiv.org/abs/2610.27028",
+  "source": "arXiv cs.AI",
+  "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.27028v1 Announce Type: new Abstract: A poker agent can make a legal move and still make a strategically poor one. We ask whether compact AI agents can exhibit strategic behavior under hidden information and whether preference optimization can improve beyond static and zero-shot policies. ",
+  "score": 18
+ },
+ {
+  "title": "Does Multi-Agent Collaboration Reduce Hallucination in Clinical Tasks?",
+  "url": "https://arxiv.org/abs/2610.27027",
+  "source": "arXiv cs.AI",
+  "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.27027v1 Announce Type: new Abstract: Multi-agent LLM systems improve performance on clinical tasks, and that improvement is often read as evidence of a more trustworthy system. However, the two are not the same claim. A clinician acts on the stated reasoning and not only on the conclusion",
   "score": 18
  }
 ]
