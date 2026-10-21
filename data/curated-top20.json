@@ -16,11 +16,19 @@
   "score": 46
  },
  {
+  "title": "Neural nets are exceptionally vulnerable to goal self-hack",
+  "url": "https://www.lesswrong.com/posts/eCR373J3NZwFbacnd/neural-nets-are-exceptionally-vulnerable-to-goal-self-hack",
+  "source": "LessWrong",
+  "published_at": "Wed, 21 Oct 2026 17:53:01 GMT",
+  "summary": "Suppose we have an AI CEO, ruthlessly devoted to maximising shareholder value. Fortunately, we haven t been completely stupid, and have given it a rich definition of shareholder value, encompassing the success, flourishing, safety, preference satisfaction, and moral values of the shareholders, not j",
+  "score": 46
+ },
+ {
   "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
   "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
   "source": "Hacker News Frontpage",
   "published_at": "Wed, 21 Oct 2026 14:03:43 +0000",
-  "summary": "Comments URL: Points: 219",
+  "summary": "Comments URL: Points: 221",
   "score": 42
  },
  {
@@ -30,14 +38,6 @@
   "published_at": "Wed, 21 Oct 2026 21:15:39 GMT",
   "summary": "Cloud providers may be storing sensitive customer data, without either party knowing it. But when a provider is breached, the data comes home to roost.",
   "score": 38
- },
- {
-  "title": "BITCOIN HARDWARE WALLET HACKS FORCE A RETHINK OF SELF-CUSTODY",
-  "url": "https://www.tradingview.com/news/cryptobriefing:1f9fabb84094b:0-bitcoin-hardware-wallet-hacks-force-a-rethink-of-self-custody/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-21T18:15:50Z",
-  "summary": "",
-  "score": 34
  },
  {
   "title": "OpenAI agents disabled safety monitoring, one lied about it",
