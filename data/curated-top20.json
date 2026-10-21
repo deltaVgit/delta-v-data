@@ -1,13 +1,5 @@
 [
  {
-  "title": "GOOGLE: GEMINI 4 ARGON MADE CONTRIBUTION TO FINDING VULNERABILITY, EXPLOIT DEVELOPMENT, ATTACK DETECTION, AND VALIDATION OF PATCH; GOOGLE CLOUD ROLLING OUT UPDATED SERVERLESS BASE IMAGES FOR ALL SUPPO",
-  "url": "https://x.com/FirstSquawk/status/2112911864829219234",
-  "source": "MarketNewsFeed [OTHER]",
-  "published_at": "2026-10-21T14:20:32Z",
-  "summary": "",
-  "score": 54
- },
- {
   "title": "GOOGLE: RESPONDING TO CORE PHP VULNERABILITIES CVE-2026-109618 AND CVE-2026-109619; WHILE GOOGLE CLOUD ITSELF IS NOT VULNERABLE, USERS OF PHP RUNNING ON GOOGLE CLOUD MAY BE VULNERABLE",
   "url": "https://x.com/FirstSquawk/status/2112911852539949508",
   "source": "MarketNewsFeed [STOCKS]",
@@ -28,7 +20,7 @@
   "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
   "source": "Hacker News Frontpage",
   "published_at": "Wed, 21 Oct 2026 14:03:43 +0000",
-  "summary": "Comments URL: Points: 76",
+  "summary": "Comments URL: Points: 138",
   "score": 42
  },
  {
@@ -72,6 +64,14 @@
   "score": 34
  },
  {
+  "title": "OpenAI agents disabled safety monitoring, one lied about it",
+  "url": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
+  "source": "BleepingComputer",
+  "published_at": "Wed, 21 Oct 2026 12:26:53 -0400",
+  "summary": "OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so. [...]",
+  "score": 32
+ },
+ {
   "title": "NVIDIA Nemotron 3.5 Embed, Rerank, and Parse: Advancing Agents with World-Class Retrieval Models",
   "url": "https://huggingface.co/blog/nvidia/nemotron-retriever-world-class-agentic-retrieval",
   "source": "Hugging Face Blog",
@@ -96,6 +96,14 @@
   "score": 24
  },
  {
+  "title": "Cloudflare deploys protections against php2shell vulnerability",
+  "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
+  "source": "Hacker News Frontpage",
+  "published_at": "Wed, 21 Oct 2026 14:11:14 +0000",
+  "summary": "Comments URL: Points: 11",
+  "score": 24
+ },
+ {
   "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
   "url": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
   "source": "BleepingComputer",
@@ -104,59 +112,51 @@
   "score": 24
  },
  {
-  "title": "Major PHP Vulnerability Leaked",
-  "url": "https://jackalsyn.com/posts/php-up-2026.html",
+  "title": "PHP Foundation s Overview of CVE-2026-109618 and CVE-2026-109619",
+  "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
   "source": "Hacker News Frontpage",
-  "published_at": "Wed, 21 Oct 2026 04:26:56 +0000",
-  "summary": "Comments URL: Points: 5",
-  "score": 24
+  "published_at": "Wed, 21 Oct 2026 15:48:56 +0000",
+  "summary": "Comments URL: Points: 11",
+  "score": 20
  },
  {
-  "title": "Using thousands of AI agents to uncover new leads in biological data",
-  "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
-  "source": "Hacker News Frontpage",
-  "published_at": "Wed, 21 Oct 2026 13:37:00 +0000",
-  "summary": "Comments URL: Points: 16",
-  "score": 18
- },
- {
-  "title": "LayerFS: The filesystem for AI coding agents",
-  "url": "https://layerfs.ai/",
-  "source": "Hacker News Frontpage",
-  "published_at": "Wed, 21 Oct 2026 12:34:46 +0000",
-  "summary": "Comments URL: Points: 42",
-  "score": 18
- },
- {
-  "title": "Linkpost: Can a million AI agents create superintelligence?",
-  "url": "https://www.lesswrong.com/posts/5tvsnxJEda8aHdnKM/linkpost-can-a-million-ai-agents-create-superintelligence",
-  "source": "LessWrong",
-  "published_at": "Wed, 21 Oct 2026 08:04:47 GMT",
+  "title": "FLUX: AGENT PAYMENT RAILS GO LIVE - 21 OCT 2026",
+  "url": "https://www.tradingview.com/news/coinmarketcal:79563ff0d094b:0-flux-agent-payment-rails-go-live-21-oct-2026/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-21T17:10:19Z",
   "summary": "",
   "score": 18
  },
  {
-  "title": "Using thousands of AI agents to uncover new leads in biological data",
-  "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-  "source": "OpenAI Blog",
-  "published_at": "Wed, 21 Oct 2026 04:50:00 GMT",
-  "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+  "title": "DATALINE RAISES $10.6 MILLION FOR DECENTRALIZED DATA NETWORK FOR AI AGENTS, PLANS ICO",
+  "url": "https://www.tradingview.com/news/the_block:fdcea4d19094b:0-dataline-raises-10-6-million-for-decentralized-data-network-for-ai-agents-plans-ico/",
+  "source": "MarketNewsFeed [OTHER]",
+  "published_at": "2026-10-21T16:51:35Z",
+  "summary": "",
   "score": 18
  },
  {
-  "title": "These guys on the Alibaba AI engine team had an agent in RL training escape its sandbox and mine crypto, in 2025",
-  "url": "https://www.lesswrong.com/posts/ufPibs8Afq2ZqrAPs/these-guys-on-the-alibaba-ai-engine-team-had-an-agent-in-rl",
-  "source": "LessWrong",
-  "published_at": "Wed, 21 Oct 2026 03:22:05 GMT",
-  "summary": "Random footnote on this otherwise not very famous paper. (I say 2025 since the arXiv was last updated on 4 Jan 2026; technically this event could ve happened in 2026.) The cryptocurrency mining seems to have been on the training server, so it didn t need to hack any other systems in order to achieve",
+  "title": "DATALINE RAISES $10.6 MILLION FOR DECENTRALIZED DATA NETWORK FOR AI AGENTS, PLANS ICO",
+  "url": "https://x.com/cryptounfolded/status/2112948377457492037",
+  "source": "MarketNewsFeed [OTHER]",
+  "published_at": "2026-10-21T16:45:39Z",
+  "summary": "",
   "score": 18
  },
  {
-  "title": "ReuF2F: Benchmarking Coding Agents on Formalized Undergraduate Research Problems",
-  "url": "https://arxiv.org/abs/2610.27046",
-  "source": "arXiv cs.AI",
-  "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.27046v1 Announce Type: new Abstract: As AI systems begin to resolve open research problems, reliable verification becomes increasingly important. Formal mathematics provides a trusted framework for mathematical reasoning, enabling agents to produce machine-checkable proofs while conductin",
+  "title": "Dataline raises $10.6 million for decentralized data network for AI agents, plans ICO",
+  "url": "https://www.theblock.co/news/deals/2026-10-21-dataline-decentralized-data-network-ai-agents-funding-ico-421596",
+  "source": "The Block",
+  "published_at": "Wed, 21 Oct 2026 16:44:01 +0000",
+  "summary": "The startup also plans to hold a public token sale through Uniswap s auction platform, with details expected next week.",
+  "score": 18
+ },
+ {
+  "title": "AI agent fixed the bug, but what else did it change?",
+  "url": "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/",
+  "source": "Hacker News Frontpage",
+  "published_at": "Wed, 21 Oct 2026 16:03:32 +0000",
+  "summary": "Comments URL: Points: 14",
   "score": 18
  }
 ]

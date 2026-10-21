@@ -1,14 +1,6 @@
 {
  "picks": [
   {
-   "title": "GOOGLE: GEMINI 4 ARGON MADE CONTRIBUTION TO FINDING VULNERABILITY, EXPLOIT DEVELOPMENT, ATTACK DETECTION, AND VALIDATION OF PATCH; GOOGLE CLOUD ROLLING OUT UPDATED SERVERLESS BASE IMAGES FOR ALL SUPPO",
-   "url": "https://x.com/FirstSquawk/status/2112911864829219234",
-   "source": "MarketNewsFeed [OTHER]",
-   "published_at": "2026-10-21T14:20:32Z",
-   "summary": "",
-   "score": 70
-  },
-  {
    "title": "GOOGLE: RESPONDING TO CORE PHP VULNERABILITIES CVE-2026-109618 AND CVE-2026-109619; WHILE GOOGLE CLOUD ITSELF IS NOT VULNERABLE, USERS OF PHP RUNNING ON GOOGLE CLOUD MAY BE VULNERABLE",
    "url": "https://x.com/FirstSquawk/status/2112911852539949508",
    "source": "MarketNewsFeed [STOCKS]",
@@ -49,11 +41,19 @@
    "score": 30
   },
   {
+   "title": "Cloudflare deploys protections against php2shell vulnerability",
+   "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
+   "source": "Hacker News Frontpage",
+   "published_at": "Wed, 21 Oct 2026 14:11:14 +0000",
+   "summary": "Comments URL: Points: 11",
+   "score": 30
+  },
+  {
    "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
    "source": "Hacker News Frontpage",
    "published_at": "Wed, 21 Oct 2026 14:03:43 +0000",
-   "summary": "Comments URL: Points: 76",
+   "summary": "Comments URL: Points: 138",
    "score": 30
   },
   {
@@ -73,29 +73,29 @@
    "score": 30
   },
   {
-   "title": "Major PHP Vulnerability Leaked",
-   "url": "https://jackalsyn.com/posts/php-up-2026.html",
+   "title": "PHP Foundation s Overview of CVE-2026-109618 and CVE-2026-109619",
+   "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
    "source": "Hacker News Frontpage",
-   "published_at": "Wed, 21 Oct 2026 04:26:56 +0000",
-   "summary": "Comments URL: Points: 5",
-   "score": 30
+   "published_at": "Wed, 21 Oct 2026 15:48:56 +0000",
+   "summary": "Comments URL: Points: 11",
+   "score": 28
   },
   {
-   "title": "RIPPLE URGES SEC NOT TO CLASSIFY TOKENS AS SECURITIES INDEFINITELY",
-   "url": "https://www.tradingview.com/news/benzinga:9faa8bc0c094b:0-ripple-urges-sec-not-to-classify-tokens-as-securities-indefinitely/",
-   "source": "MarketNewsFeed [CRYPTO]",
-   "published_at": "2026-10-21T14:29:43Z",
+   "title": "US FINANCIAL CRIMES ENFORCEMENT NETWORK ISSUING ADMINISTRATIVE SUBPOENA TO ADVANCE INVESTIGATION INTO A GREEK BANK'S POTENTIAL TIES TO IRAN -STATEMENT",
+   "url": "https://x.com/financialjuice/status/2112952524411969970",
+   "source": "MarketNewsFeed [STOCKS]",
+   "published_at": "2026-10-21T17:02:11Z",
    "summary": "",
    "score": 16
   },
   {
-   "title": "SEC #CRYPTO EXEMPTION RULE STRIPS STATE POWER, CALIFORNIA SAYS –",
-   "url": "https://x.com/LiveSquawk/status/2112911752228950061",
-   "source": "MarketNewsFeed [CRYPTO]",
-   "published_at": "2026-10-21T14:20:03Z",
+   "title": "FINCEN HAS ALSO ISSUED MULTIPLE REQUESTS FOR INFORMATION CONCERNING RELATIONSHIPS OF BANKS WITH IRANIAN FINANCIAL INSTITUTIONS UNDER US SANCTIONS -STATEMENT",
+   "url": "https://x.com/financialjuice/status/2112952424155558335",
+   "source": "MarketNewsFeed [STOCKS]",
+   "published_at": "2026-10-21T17:01:40Z",
    "summary": "",
    "score": 16
   }
  ],
- "updatedAt": "2026-10-21T16:00:35.424627+00:00"
+ "updatedAt": "2026-10-21T17:22:18.534140+00:00"
 }
