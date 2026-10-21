@@ -16,28 +16,20 @@
   "score": 46
  },
  {
-  "title": "Neural nets are exceptionally vulnerable to goal self-hack",
-  "url": "https://www.lesswrong.com/posts/eCR373J3NZwFbacnd/neural-nets-are-exceptionally-vulnerable-to-goal-self-hack",
-  "source": "LessWrong",
-  "published_at": "Wed, 21 Oct 2026 17:53:01 GMT",
-  "summary": "Suppose we have an AI CEO, ruthlessly devoted to maximising shareholder value. Fortunately, we haven t been completely stupid, and have given it a rich definition of shareholder value, encompassing the success, flourishing, safety, preference satisfaction, and moral values of the shareholders, not j",
-  "score": 46
- },
- {
   "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
   "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
   "source": "Hacker News Frontpage",
   "published_at": "Wed, 21 Oct 2026 14:03:43 +0000",
-  "summary": "Comments URL: Points: 192",
+  "summary": "Comments URL: Points: 219",
   "score": 42
  },
  {
-  "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-  "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-  "source": "OpenAI Blog",
-  "published_at": "Wed, 21 Oct 2026 07:00:00 GMT",
-  "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-  "score": 42
+  "title": "TiDB Breach Exposes Flawed Cloud Security Assumptions",
+  "url": "https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security",
+  "source": "Dark Reading",
+  "published_at": "Wed, 21 Oct 2026 21:15:39 GMT",
+  "summary": "Cloud providers may be storing sensitive customer data, without either party knowing it. But when a provider is breached, the data comes home to roost.",
+  "score": 38
  },
  {
   "title": "BITCOIN HARDWARE WALLET HACKS FORCE A RETHINK OF SELF-CUSTODY",
@@ -56,6 +48,38 @@
   "score": 32
  },
  {
+  "title": "AWS SAYS THE EXPLOIT ATTEMPT ORIGINATED FROM AN IP ADDRESS ASSOCIATED WITH A COMMERCIAL ANONYMIZATION NETWORK, AND THAT PHP2SHELL IS NOW BEING BROADLY EXPLOITED IN THE WILD",
+  "url": "https://x.com/FirstSquawk/status/2113038977687323082",
+  "source": "MarketNewsFeed [STOCKS]",
+  "published_at": "2026-10-21T22:45:38Z",
+  "summary": "",
+  "score": 30
+ },
+ {
+  "title": "AWS SAYS AMAZON THREAT INTELLIGENCE IDENTIFIED PHP2SHELL EXPLOITATION PRIOR TO PUBLIC DISCLOSURE IN MADPOT, WITH THE ACTIVITY CONDUCTED BY A THREAT ACTOR, THOUGH IT REMAINS UNCLEAR HOW THE ACTOR ACQUI",
+  "url": "https://x.com/FirstSquawk/status/2113038962722033727",
+  "source": "MarketNewsFeed [STOCKS]",
+  "published_at": "2026-10-21T22:45:38Z",
+  "summary": "",
+  "score": 30
+ },
+ {
+  "title": "*AWS: PHP2SHELL IS NOW BEING BROADLY EXPLOITED IN THE WILD",
+  "url": "https://x.com/tradfi/status/2113038460185608287",
+  "source": "MarketNewsFeed [OTHER]",
+  "published_at": "2026-10-21T22:43:37Z",
+  "summary": "",
+  "score": 30
+ },
+ {
+  "title": "Oracle Security Alert Advisory – CVE-2026-91403",
+  "url": "https://www.oracle.com/security-alerts/alert-cve-2026-91403.html",
+  "source": "Hacker News Frontpage",
+  "published_at": "Wed, 21 Oct 2026 22:17:19 +0000",
+  "summary": "Comments URL: Points: 12",
+  "score": 30
+ },
+ {
   "title": "Nvidia Unveils Its Full-Stack Blueprint to Contain and Monitor AI Agents",
   "url": "https://decrypt.co/381570/nvidia-ai-agent-containment-tools-full-stack-blueprint",
   "source": "Decrypt",
@@ -72,20 +96,20 @@
   "score": 30
  },
  {
-  "title": "MICROSOFT ASSESSES STORM-0940 CAUSED RECENT CONNECTWISE SUPPLY CHAIN BREACH OF MULTI-TENANT APP",
-  "url": "https://x.com/financialjuice/status/2112984508513304924",
-  "source": "MarketNewsFeed [STOCKS]",
-  "published_at": "2026-10-21T19:09:14Z",
-  "summary": "",
-  "score": 28
- },
- {
   "title": "Global warming will breach 1.5°C – but deep, fast cuts can still bring it back",
   "url": "https://news.un.org/en/story/2026/10/1168634",
   "source": "Hacker News Frontpage",
   "published_at": "Wed, 21 Oct 2026 13:22:31 +0000",
   "summary": "Comments URL: Points: 8",
   "score": 28
+ },
+ {
+  "title": "BITCOIN, ETHEREUM, XRP, DOGECOIN REBOUND: CAN BTC BREAK $84,000 RESISTANCE?",
+  "url": "https://www.tradingview.com/news/benzinga:2f3468937094b:0-bitcoin-ethereum-xrp-dogecoin-rebound-can-btc-break-84-000-resistance/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-21T22:37:50Z",
+  "summary": "",
+  "score": 24
  },
  {
   "title": "Cloudflare deploys protections against php2shell vulnerability",
@@ -96,12 +120,28 @@
   "score": 24
  },
  {
+  "title": "Japan s Onamae Desktop Cloud hacked, up to 27,000 servers affected",
+  "url": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
+  "source": "BleepingComputer",
+  "published_at": "Wed, 21 Oct 2026 17:43:27 -0400",
+  "summary": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers servers. [...]",
+  "score": 22
+ },
+ {
   "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
   "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
   "source": "BleepingComputer",
   "published_at": "Wed, 21 Oct 2026 16:31:48 -0400",
   "summary": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]",
   "score": 22
+ },
+ {
+  "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
+  "url": "https://aws.amazon.com/security/security-bulletins/2026-143-aws/",
+  "source": "Hacker News Frontpage",
+  "published_at": "Wed, 21 Oct 2026 21:12:59 +0000",
+  "summary": "Comments URL: Points: 79",
+  "score": 20
  },
  {
   "title": "Potential third critical PHP CVE",
@@ -118,45 +158,5 @@
   "published_at": "Wed, 21 Oct 2026 15:48:56 +0000",
   "summary": "Comments URL: Points: 11",
   "score": 20
- },
- {
-  "title": "META CEO SAYS THE COMPANY EXPECTS TO GROW MUSE TO SERVE BILLIONS OF PEOPLE, ADDING THAT MORE THAN 10 MLN PEOPLE IN THE U.S. AND CANADA HAVE SET UP MUSE PERSONAL AGENTS IN JUST A MONTH AND A HALF - CON",
-  "url": "https://x.com/FirstSquawk/status/2113007068877898171",
-  "source": "MarketNewsFeed [STOCKS]",
-  "published_at": "2026-10-21T20:38:47Z",
-  "summary": "",
-  "score": 18
- },
- {
-  "title": "AM-Bench: A theoretically-grounded benchmark for agentic misalignment",
-  "url": "https://www.lesswrong.com/posts/JamFW6CSyrHuWW8FB/am-bench-a-theoretically-grounded-benchmark-for-agentic",
-  "source": "LessWrong",
-  "published_at": "Wed, 21 Oct 2026 19:54:02 GMT",
-  "summary": "This is a brief overview of our new paper (📄) AM-Bench: A Unified Taxonomy and Evaluation Suite for Agentic Misalignment accepted at NeurIPS E&D 2026 💫 Overview We introduce AM-Bench , a unified taxonomy and evaluation suite for agentic misalignment, a failure mode where models actively choose harmf",
-  "score": 18
- },
- {
-  "title": "FLUX: AGENT PAYMENT RAILS GO LIVE - 21 OCT 2026",
-  "url": "https://www.tradingview.com/news/coinmarketcal:79563ff0d094b:0-flux-agent-payment-rails-go-live-21-oct-2026/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-21T17:10:19Z",
-  "summary": "",
-  "score": 18
- },
- {
-  "title": "Dataline raises $10.6 million for decentralized data network for AI agents, plans ICO",
-  "url": "https://www.theblock.co/news/deals/2026-10-21-dataline-decentralized-data-network-ai-agents-funding-ico-421596",
-  "source": "The Block",
-  "published_at": "Wed, 21 Oct 2026 16:44:01 +0000",
-  "summary": "The startup also plans to hold a public token sale through Uniswap s auction platform, with details expected next week.",
-  "score": 18
- },
- {
-  "title": "The bridge to agent-scale Git infrastructure",
-  "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
-  "source": "Hacker News Frontpage",
-  "published_at": "Wed, 21 Oct 2026 16:09:28 +0000",
-  "summary": "Comments URL: Points: 3",
-  "score": 18
  }
 ]

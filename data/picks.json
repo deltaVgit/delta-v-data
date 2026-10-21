@@ -17,14 +17,6 @@
    "score": 64
   },
   {
-   "title": "Neural nets are exceptionally vulnerable to goal self-hack",
-   "url": "https://www.lesswrong.com/posts/eCR373J3NZwFbacnd/neural-nets-are-exceptionally-vulnerable-to-goal-self-hack",
-   "source": "LessWrong",
-   "published_at": "Wed, 21 Oct 2026 17:53:01 GMT",
-   "summary": "Suppose we have an AI CEO, ruthlessly devoted to maximising shareholder value. Fortunately, we haven t been completely stupid, and have given it a rich definition of shareholder value, encompassing the success, flourishing, safety, preference satisfaction, and moral values of the shareholders, not j",
-   "score": 64
-  },
-  {
    "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
    "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
    "source": "BleepingComputer",
@@ -33,11 +25,35 @@
    "score": 60
   },
   {
-   "title": "MICROSOFT ASSESSES STORM-0940 CAUSED RECENT CONNECTWISE SUPPLY CHAIN BREACH OF MULTI-TENANT APP",
-   "url": "https://x.com/financialjuice/status/2112984508513304924",
+   "title": "AWS SAYS THE EXPLOIT ATTEMPT ORIGINATED FROM AN IP ADDRESS ASSOCIATED WITH A COMMERCIAL ANONYMIZATION NETWORK, AND THAT PHP2SHELL IS NOW BEING BROADLY EXPLOITED IN THE WILD",
+   "url": "https://x.com/FirstSquawk/status/2113038977687323082",
    "source": "MarketNewsFeed [STOCKS]",
-   "published_at": "2026-10-21T19:09:14Z",
+   "published_at": "2026-10-21T22:45:38Z",
    "summary": "",
+   "score": 40
+  },
+  {
+   "title": "AWS SAYS AMAZON THREAT INTELLIGENCE IDENTIFIED PHP2SHELL EXPLOITATION PRIOR TO PUBLIC DISCLOSURE IN MADPOT, WITH THE ACTIVITY CONDUCTED BY A THREAT ACTOR, THOUGH IT REMAINS UNCLEAR HOW THE ACTOR ACQUI",
+   "url": "https://x.com/FirstSquawk/status/2113038962722033727",
+   "source": "MarketNewsFeed [STOCKS]",
+   "published_at": "2026-10-21T22:45:38Z",
+   "summary": "",
+   "score": 40
+  },
+  {
+   "title": "*AWS: PHP2SHELL IS NOW BEING BROADLY EXPLOITED IN THE WILD",
+   "url": "https://x.com/tradfi/status/2113038460185608287",
+   "source": "MarketNewsFeed [OTHER]",
+   "published_at": "2026-10-21T22:43:37Z",
+   "summary": "",
+   "score": 40
+  },
+  {
+   "title": "TiDB Breach Exposes Flawed Cloud Security Assumptions",
+   "url": "https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security",
+   "source": "Dark Reading",
+   "published_at": "Wed, 21 Oct 2026 21:15:39 GMT",
+   "summary": "Cloud providers may be storing sensitive customer data, without either party knowing it. But when a provider is breached, the data comes home to roost.",
    "score": 38
   },
   {
@@ -57,6 +73,14 @@
    "score": 34
   },
   {
+   "title": "Japan s Onamae Desktop Cloud hacked, up to 27,000 servers affected",
+   "url": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
+   "source": "BleepingComputer",
+   "published_at": "Wed, 21 Oct 2026 17:43:27 -0400",
+   "summary": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers servers. [...]",
+   "score": 34
+  },
+  {
    "title": "Cloudflare deploys protections against php2shell vulnerability",
    "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
    "source": "Hacker News Frontpage",
@@ -69,33 +93,9 @@
    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
    "source": "Hacker News Frontpage",
    "published_at": "Wed, 21 Oct 2026 14:03:43 +0000",
-   "summary": "Comments URL: Points: 192",
+   "summary": "Comments URL: Points: 219",
    "score": 30
-  },
-  {
-   "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-   "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-   "source": "Hacker News Frontpage",
-   "published_at": "Wed, 21 Oct 2026 14:00:26 +0000",
-   "summary": "Comments URL: Points: 4",
-   "score": 30
-  },
-  {
-   "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-   "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-   "source": "OpenAI Blog",
-   "published_at": "Wed, 21 Oct 2026 07:00:00 GMT",
-   "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-   "score": 30
-  },
-  {
-   "title": "Potential third critical PHP CVE",
-   "url": "https://elk.zone/m.webtoo.ls/@elise@katze.sh/117479383721672027",
-   "source": "Hacker News Frontpage",
-   "published_at": "Wed, 21 Oct 2026 18:57:52 +0000",
-   "summary": "Comments URL: Points: 13",
-   "score": 28
   }
  ],
- "updatedAt": "2026-10-21T20:53:12.696941+00:00"
+ "updatedAt": "2026-10-21T23:11:58.116006+00:00"
 }
