@@ -1,29 +1,29 @@
 {
   "picks": [
     {
-      "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
-      "source": "BleepingComputer",
+      "title": "Is Cyber Facing an Affordability Crisis?",
+      "source": "Dark Reading",
       "category": "macro",
-      "url": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
-      "published_at": "Tue, 20 Oct 2026 21:01:50 -0400",
-      "score": 255.0
+      "url": "https://www.darkreading.com/cybersecurity-operations/is-cyber-facing-an-affordability-crisis-",
+      "published_at": "Tue, 25 Aug 2026 14:53:13 GMT",
+      "score": 210.0
     },
     {
-      "title": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
-      "source": "Decrypt",
+      "title": "Hackers now exploit critical Gitea flaw in code injection attacks",
+      "source": "BleepingComputer",
       "category": "macro",
-      "url": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
-      "published_at": "Tue, 20 Oct 2026 20:46:04 +0000",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/",
+      "published_at": "Wed, 26 Aug 2026 07:07:48 -0400",
       "score": 195.0
     },
     {
-      "title": "Crypto firms, Wall Street push SEC to revise Regulation Crypto Assets as comments close",
-      "source": "The Block",
-      "category": "macro",
-      "url": "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444",
-      "published_at": "Tue, 20 Oct 2026 19:19:54 +0000",
-      "score": 156.0
+      "title": "Bitcoin takes a breather after adding 23% in 7 days as ETF demand holds steady",
+      "source": "CoinDesk",
+      "category": "market",
+      "url": "https://www.coindesk.com/markets/2026/08/26/bitcoin-takes-a-breather-after-adding-23-in-7-days-as-etf-demand-holds-steady",
+      "published_at": "Wed, 26 Aug 2026 10:45:29 +0000",
+      "score": 135.0
     }
   ],
-  "updatedAt": "2026-10-21T10:32:55.376422+00:00"
+  "updatedAt": "2026-10-21T10:53:09.433444+00:00"
 }
