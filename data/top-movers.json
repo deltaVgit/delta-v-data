@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T10:31:06Z",
+  "updated_at": "2026-10-21T10:53:24Z",
   "source": "Yahoo Finance screener + CoinGecko markets",
   "equities": {
     "gainers": [
@@ -80,38 +80,38 @@
   "crypto": {
     "gainers": [
       {
-        "symbol": "RAIN",
-        "name": "Rain",
-        "price": 0.00925,
-        "change_24h": 12.35,
-        "asset": "crypto"
-      },
-      {
         "symbol": "ZEC",
         "name": "Zcash",
-        "price": 1261.57,
-        "change_24h": 10.94,
+        "price": 1277.54,
+        "change_24h": 12.33,
         "asset": "crypto"
       },
       {
-        "symbol": "KAS",
-        "name": "Kaspa",
-        "price": 0.038681,
-        "change_24h": 10.83,
+        "symbol": "RAIN",
+        "name": "Rain",
+        "price": 0.009265,
+        "change_24h": 11.59,
         "asset": "crypto"
       },
       {
-        "symbol": "PYTH",
-        "name": "Pyth Network",
-        "price": 0.079808,
-        "change_24h": 10.49,
+        "symbol": "NEAR",
+        "name": "NEAR Protocol",
+        "price": 5.18,
+        "change_24h": 11.15,
         "asset": "crypto"
       },
       {
         "symbol": "ENA",
         "name": "Ethena",
-        "price": 0.204296,
-        "change_24h": 10.05,
+        "price": 0.205449,
+        "change_24h": 10.97,
+        "asset": "crypto"
+      },
+      {
+        "symbol": "PYTH",
+        "name": "Pyth Network",
+        "price": 0.080408,
+        "change_24h": 10.55,
         "asset": "crypto"
       }
     ],
@@ -119,36 +119,36 @@
       {
         "symbol": "MORPHO",
         "name": "Morpho",
-        "price": 2.33,
-        "change_24h": -3.74,
-        "asset": "crypto"
-      },
-      {
-        "symbol": "XMR",
-        "name": "Monero",
-        "price": 596.2,
-        "change_24h": -2.67,
-        "asset": "crypto"
-      },
-      {
-        "symbol": "BTW",
-        "name": "Bitway",
-        "price": 1.72,
-        "change_24h": -2.44,
+        "price": 2.36,
+        "change_24h": -2.38,
         "asset": "crypto"
       },
       {
         "symbol": "M",
         "name": "MemeCore",
-        "price": 0.764826,
-        "change_24h": -2.35,
+        "price": 0.760916,
+        "change_24h": -2.32,
+        "asset": "crypto"
+      },
+      {
+        "symbol": "XMR",
+        "name": "Monero",
+        "price": 597.86,
+        "change_24h": -2.3,
+        "asset": "crypto"
+      },
+      {
+        "symbol": "BTW",
+        "name": "Bitway",
+        "price": 1.79,
+        "change_24h": -0.6,
         "asset": "crypto"
       },
       {
         "symbol": "TRX",
         "name": "TRON",
-        "price": 0.330739,
-        "change_24h": -0.44,
+        "price": 0.330825,
+        "change_24h": -0.43,
         "asset": "crypto"
       }
     ]
