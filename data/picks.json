@@ -5,8 +5,16 @@
    "url": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
    "source": "BleepingComputer",
    "published_at": "Tue, 20 Oct 2026 21:01:50 -0400",
-   "summary": "A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]",
+   "summary": "A threat actor breached TeamUpdraft s website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]",
    "score": 60
+  },
+  {
+   "title": "DRIFT EXPLOITER SENDS $109M IN ETHER TO TORNADO CASH IN 2 DAYS",
+   "url": "https://www.tradingview.com/news/cointelegraph:74c2e9089094b:0-drift-exploiter-sends-109m-in-ether-to-tornado-cash-in-2-days/",
+   "source": "MarketNewsFeed [CRYPTO]",
+   "published_at": "2026-10-21T10:26:07Z",
+   "summary": "",
+   "score": 40
   },
   {
    "title": "Bürgel Says PHP Exploits Are Circulating Ahead of Critical Patches",
@@ -21,32 +29,16 @@
    "url": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
    "source": "Decrypt",
    "published_at": "Tue, 20 Oct 2026 20:46:04 +0000",
-   "summary": "The North Korea-linked attacker behind April's $295 million Drift heist pushed 25,700 ETH through the mixer in two hours, and still controls roughly $198 million more.",
+   "summary": "The North Korea-linked attacker behind April s $295 million Drift heist pushed 25,700 ETH through the mixer in two hours, and still controls roughly $198 million more.",
    "score": 40
-  },
-  {
-   "title": "Zeabur shutting down after second security breach in two months",
-   "url": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
-   "source": "BleepingComputer",
-   "published_at": "Tue, 20 Oct 2026 15:33:02 -0400",
-   "summary": "Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million environment variable records and information for 321,810 accounts. [...]",
-   "score": 38
   },
   {
    "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
    "url": "https://news-web.php.net/php.announce/509",
    "source": "Hacker News Frontpage",
    "published_at": "Tue, 20 Oct 2026 20:15:50 +0000",
-   "summary": "pa href=\"https://cert.europa.eu/publications/security-advisories/2026-018/\" rel=\"nofollow\"https://cert.europa.eu/publications/security-advisories/2026.../apa href=\"https://news.ycombinator.com/item?id=50167754\"https://news.ycombinator.com/item?id=50167754/a/phr /pComments URL: a href=\"https://news.y",
+   "summary": "Comments URL: Points: 466",
    "score": 36
-  },
-  {
-   "title": "Hackers Abuse AI Pen-Test Tool Cairn to Automate Massive Attack Spree",
-   "url": "https://www.darkreading.com/cyberattacks-data-breaches/hackers-abuse-ai-pen-test-tool-cairn",
-   "source": "Dark Reading",
-   "published_at": "Tue, 20 Oct 2026 14:36:05 GMT",
-   "summary": "A Chinese-speaking attacker has compromised hundreds of websites across the globe, looting from big fish like John Deere, SharkNinja, and engine manufacturer Cummins.",
-   "score": 34
   },
   {
    "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
@@ -57,12 +49,12 @@
    "score": 32
   },
   {
-   "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
-   "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+   "title": "Major PHP Vulnerability Leaked",
+   "url": "https://jackalsyn.com/posts/php-up-2026.html",
    "source": "Hacker News Frontpage",
-   "published_at": "Tue, 20 Oct 2026 22:21:05 +0000",
-   "summary": "",
-   "score": 32
+   "published_at": "Wed, 21 Oct 2026 04:26:56 +0000",
+   "summary": "Comments URL: Points: 5",
+   "score": 30
   },
   {
    "title": "You Are the Trigger: Speaker-Activated Backdoors",
@@ -73,29 +65,37 @@
    "score": 30
   },
   {
-   "title": "Sberbank Gains Russian Crypto Exchange Authorization Ahead of Planned December Launch",
-   "url": "https://thedefiant.io/converge/tradfi-and-fintech/sberbank-gains-russian-crypto-exchange-authorization-ahead-of-planned-december-launch",
-   "source": "The Defiant",
-   "published_at": "Tue, 20 Oct 2026 14:19:56 GMT",
-   "summary": "The bank plans to offer Bitcoin, Ether and USDT through its existing apps, while Russian rules impose testing and purchase limits on non-qualified investors.",
-   "score": 26
+   "title": "$SPCX - WALL STREET RAISES SPACEX TARGETS AFTER EARNINGSANALYSTS ARE TURNING MORE BULLISH ON SPACEX, WITH SEVERAL BANKS LIFTING THEIR PRICE TARGETS:🔸 MORGAN STANLEY: $300 — OVERWEIGHT🔸 WELLS FARGO: $2",
+   "url": "https://x.com/DeItaone/status/2112856976807899506",
+   "source": "MarketNewsFeed [OTHER]",
+   "published_at": "2026-10-21T10:42:34Z",
+   "summary": "",
+   "score": 28
   },
   {
-   "title": "H2DF: Calibrated Target Bands for Controllable Language-Model Unlearning",
-   "url": "https://arxiv.org/abs/2610.26864",
-   "source": "arXiv cs.CL",
-   "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
-   "summary": "arXiv:2610.26864v1 Announce Type: new Abstract: Gradient ascent (GA) is a simple language-model unlearning baseline, but it continues increasing forget loss after useful forgetting has occurred. This unbounded pressure can damage retained utility and make forgotten examples abnormally high-loss. We ",
-   "score": 24
+   "title": "$SPCX - JPMORGAN DOUBLES SPACEX PRICE TARGET TO $500JPMORGAN RAISED ITS SPACEX PRICE TARGET FROM $240 TO $500, MAINTAINING AN OVERWEIGHT RATING.THE BANK NOW FORECASTS $254 BILLION IN 2027 REVENUE AND ",
+   "url": "https://x.com/DeItaone/status/2112863117516390700",
+   "source": "MarketNewsFeed [STOCKS]",
+   "published_at": "2026-10-21T11:06:50Z",
+   "summary": "",
+   "score": 16
   },
   {
-   "title": "Real-Time Disturbance-Aware Koopman Model Predictive Control for Quadrotors in Spatially Varying Winds",
-   "url": "https://arxiv.org/abs/2610.27414",
-   "source": "arXiv cs.RO (Robotics)",
-   "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
-   "summary": "arXiv:2610.27414v1 Announce Type: new Abstract: Reliable quadrotor flight in disturbed environments requires predictive models that remain accurate as unmodeled aerodynamic effects change during deployment. We introduce a disturbance-aware Koopman Control Family (DA-KCF) framework that preserves an ",
-   "score": 24
+   "title": "OCC s final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban",
+   "url": "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban",
+   "source": "CoinDesk",
+   "published_at": "Wed, 21 Oct 2026 11:00:00 +0000",
+   "summary": "",
+   "score": 16
+  },
+  {
+   "title": "UK Banks Hit With 10,000 Complaints Over Blocked Crypto Transfers in 90 Days: Report",
+   "url": "https://decrypt.co/381475/uk-banks-hit-with-10000-complaints-over-blocked-crypto-transfers-in-90-days-report",
+   "source": "Decrypt",
+   "published_at": "Wed, 21 Oct 2026 10:29:41 +0000",
+   "summary": "Lloyds drew the most complaints despite having no published policy restricting crypto transfers, according to a Stand With Crypto report.",
+   "score": 16
   }
  ],
- "updatedAt": "2026-10-21T11:35:21.382690+00:00"
+ "updatedAt": "2026-10-21T11:35:59.839914+00:00"
 }

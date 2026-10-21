@@ -1,34 +1,42 @@
 [
  {
+  "title": "PROVISO: Provenance-Informed Action Selection for Secure LLM Agents",
+  "url": "https://arxiv.org/abs/2610.27115",
+  "source": "arXiv cs.AI",
+  "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.27115v1 Announce Type: new Abstract: LLM agents act on the external world through tools and third-party skills, so a single executed action can cause irreversible harm. Existing defenses judge a proposed action without tracking whether its content comes from the user or from external sour",
+  "score": 44
+ },
+ {
   "title": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
   "url": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
   "source": "Decrypt",
   "published_at": "Tue, 20 Oct 2026 20:46:04 +0000",
-  "summary": "The North Korea-linked attacker behind April's $295 million Drift heist pushed 25,700 ETH through the mixer in two hours, and still controls roughly $198 million more.",
+  "summary": "The North Korea-linked attacker behind April s $295 million Drift heist pushed 25,700 ETH through the mixer in two hours, and still controls roughly $198 million more.",
   "score": 42
  },
  {
-  "title": "Zeabur shutting down after second security breach in two months",
-  "url": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
-  "source": "BleepingComputer",
-  "published_at": "Tue, 20 Oct 2026 15:33:02 -0400",
-  "summary": "Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million environment variable records and information for 321,810 accounts. [...]",
-  "score": 38
+  "title": "CROWDSTRIKE, NVIDIA TO EXTEND AI AGENT SECURITY TO SILICON.",
+  "url": "https://x.com/financialjuice/status/2112869389787603166",
+  "source": "MarketNewsFeed [STOCKS]",
+  "published_at": "2026-10-21T11:31:51Z",
+  "summary": "",
+  "score": 40
  },
  {
-  "title": "Industrial Agentic AI: LLM-Driven New-Generation Agents for Smart Manufacturing",
-  "url": "https://arxiv.org/abs/2610.26941",
-  "source": "arXiv cs.AI",
-  "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.26941v1 Announce Type: new Abstract: Large language models (LLMs) are enabling agents to move beyond predefined workflows toward autonomous planning and execution, creating new opportunities for smart manufacturing. However, dynamic environments, complex physical constraints, and stringen",
-  "score": 34
+  "title": "$CRWV - CROWDSTRIKE, NVIDIA EXPAND AI AGENT SECURITY FROM SOFTWARE TO SILICON",
+  "url": "https://x.com/DeItaone/status/2112869187089788959",
+  "source": "MarketNewsFeed [STOCKS]",
+  "published_at": "2026-10-21T11:30:51Z",
+  "summary": "",
+  "score": 40
  },
  {
-  "title": "SPEM: Structure-Aware Procedural Memory for Efficient Skill Use in LLM Agents",
-  "url": "https://arxiv.org/abs/2610.26995",
+  "title": "PORA: Learning When More Reasoning Pays Off for LLM Agents",
+  "url": "https://arxiv.org/abs/2610.27119",
   "source": "arXiv cs.AI",
   "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.26995v1 Announce Type: new Abstract: LLM-based agents increasingly rely on reusable skills. However, scaling skill libraries makes efficient and accurate skill use difficult. Full skill loading incurs high token and runtime overhead. In contrast, flat semantic retrieval treats skills as i",
+  "summary": "arXiv:2610.27119v1 Announce Type: new Abstract: LLM agents perform tasks over multiple steps and revise their actions based on feedback. As the total reasoning budget is often limited and must support future steps, the agent must choose between short and long reasoning before each action. Longer rea",
   "score": 34
  },
  {
@@ -40,11 +48,11 @@
   "score": 34
  },
  {
-  "title": "AtomSD: Procedural Atom-Guided Self-Distillation for LLM Agents",
-  "url": "https://arxiv.org/abs/2610.26926",
-  "source": "arXiv cs.CL",
+  "title": "SPEM: Structure-Aware Procedural Memory for Efficient Skill Use in LLM Agents",
+  "url": "https://arxiv.org/abs/2610.26995",
+  "source": "arXiv cs.AI",
   "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.26926v1 Announce Type: new Abstract: Large language models (LLMs) possess broad factual knowledge and strong reasoning capabilities, but solving complex tasks also requires procedural knowledge about how to act. Existing approaches often represent procedural knowledge through trajectories",
+  "summary": "arXiv:2610.26995v1 Announce Type: new Abstract: LLM-based agents increasingly rely on reusable skills. However, scaling skill libraries makes efficient and accurate skill use difficult. Full skill loading incurs high token and runtime overhead. In contrast, flat semantic retrieval treats skills as i",
   "score": 34
  },
  {
@@ -64,19 +72,11 @@
   "score": 30
  },
  {
-  "title": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
-  "url": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/",
-  "source": "NVIDIA Deep Learning Blog",
-  "published_at": "Wed, 21 Oct 2026 10:30:41 +0000",
-  "summary": "Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever. Developers need compute closer to their data, open models they can customize and serve at scale, and full-stack infrastructure that is secure by design. NVIDIA Cloud Partners across Europe, the Nordics, Afric",
-  "score": 30
- },
- {
-  "title": "NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data",
-  "url": "https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/",
-  "source": "NVIDIA Deep Learning Blog",
-  "published_at": "Wed, 21 Oct 2026 10:10:01 +0000",
-  "summary": "Agents are only as useful as what they know, and only as trustworthy as the boundaries they run within. Leading enterprises are using the open source NVIDIA Agent Toolkit — now expanded with new tools — to customize and control agents, use company data to inform their answers and actions, monitor wh",
+  "title": "DRIFT EXPLOITER SENDS $109M IN ETHER TO TORNADO CASH IN 2 DAYS",
+  "url": "https://www.tradingview.com/news/cointelegraph:74c2e9089094b:0-drift-exploiter-sends-109m-in-ether-to-tornado-cash-in-2-days/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-21T10:26:07Z",
+  "summary": "",
   "score": 30
  },
  {
@@ -92,7 +92,7 @@
   "url": "https://news-web.php.net/php.announce/509",
   "source": "Hacker News Frontpage",
   "published_at": "Tue, 20 Oct 2026 20:15:50 +0000",
-  "summary": "pa href=\"https://cert.europa.eu/publications/security-advisories/2026-018/\" rel=\"nofollow\"https://cert.europa.eu/publications/security-advisories/2026.../apa href=\"https://news.ycombinator.com/item?id=50167754\"https://news.ycombinator.com/item?id=50167754/a/phr /pComments URL: a href=\"https://news.y",
+  "summary": "Comments URL: Points: 466",
   "score": 30
  },
  {
@@ -104,51 +104,43 @@
   "score": 24
  },
  {
-  "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
-  "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+  "title": "Major PHP Vulnerability Leaked",
+  "url": "https://jackalsyn.com/posts/php-up-2026.html",
   "source": "Hacker News Frontpage",
-  "published_at": "Tue, 20 Oct 2026 22:21:05 +0000",
+  "published_at": "Wed, 21 Oct 2026 04:26:56 +0000",
+  "summary": "Comments URL: Points: 5",
+  "score": 24
+ },
+ {
+  "title": "US SPOT-BITCOIN ETFS SEE $23.19 MILLION IN NET INFLOWS FOR SECOND STRAIGHT TRADING DAY",
+  "url": "https://www.tradingview.com/news/bloomingbit:4bcf73d75094b:0-us-spot-bitcoin-etfs-see-23-19-million-in-net-inflows-for-second-straight-trading-day/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-21T08:43:19Z",
   "summary": "",
-  "score": 24
- },
- {
-  "title": "Ex-OpenAI Engineer Detained After Planting Secret Recorder at HQ",
-  "url": "https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties",
-  "source": "Dark Reading",
-  "published_at": "Tue, 20 Oct 2026 19:16:49 GMT",
-  "summary": "The perp, who has Saudi ties, was arrested for allegedly bugging an OpenAI conference room, highlighting a preventable insider threat vector.",
-  "score": 24
- },
- {
-  "title": "NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure",
-  "url": "https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/",
-  "source": "NVIDIA Deep Learning Blog",
-  "published_at": "Wed, 21 Oct 2026 10:30:02 +0000",
-  "summary": "NVIDIA builds tools to enable safe agents across the stack. The NVIDIA OpenShell Reference Architecture, announced today, is part of NVIDIA’s growing portfolio of technologies that enables organizations to safely deploy agents at scale. NVIDIA Confidential Computing is the infrastructure layer that ",
   "score": 22
  },
  {
-  "title": "Hackers Abuse AI Pen-Test Tool Cairn to Automate Massive Attack Spree",
-  "url": "https://www.darkreading.com/cyberattacks-data-breaches/hackers-abuse-ai-pen-test-tool-cairn",
-  "source": "Dark Reading",
-  "published_at": "Tue, 20 Oct 2026 14:36:05 GMT",
-  "summary": "A Chinese-speaking attacker has compromised hundreds of websites across the globe, looting from big fish like John Deere, SharkNinja, and engine manufacturer Cummins.",
-  "score": 22
+  "title": "SAHARA AI: PARTNERS WITH DEAGENTAI TO BUILD AGENT-AS-A-SERVICE - 21 OCT 2026",
+  "url": "https://www.tradingview.com/news/coinmarketcal:d7de6a56d094b:0-sahara-ai-partners-with-deagentai-to-build-agent-as-a-service-21-oct-2026/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-21T11:12:52Z",
+  "summary": "",
+  "score": 18
  },
  {
-  "title": "Crypto firms, Wall Street push SEC to revise Regulation Crypto Assets as comments close",
-  "url": "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444",
-  "source": "The Block",
-  "published_at": "Tue, 20 Oct 2026 19:19:54 +0000",
-  "summary": "As the SEC’s comment period on a cryptocurrency proposal draws to a close, digital asset firms and Wall Street institutions have thoughts.",
-  "score": 20
+  "title": "ORACLE LAUNCHES AI AGENT STUDIO FOR INDUSTRY APPLICATIONS",
+  "url": "https://x.com/FirstSquawk/status/2112860056060584054",
+  "source": "MarketNewsFeed [STOCKS]",
+  "published_at": "2026-10-21T10:54:35Z",
+  "summary": "",
+  "score": 18
  },
  {
-  "title": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
-  "url": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/",
-  "source": "NVIDIA Deep Learning Blog",
-  "published_at": "Wed, 21 Oct 2026 10:50:37 +0000",
-  "summary": "At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware. RTX Spark, which launched last week, powers personal agents on Windows PCs; DGX Spark supports developers building and scaling applications on Linux; and DGX Station serves enterprise teams running frontier workloads on Linux,",
+  "title": "ORACLE LAUNCHES AI AGENT STUDIO FOR INDUSTRY APPLICATIONS",
+  "url": "https://x.com/financialjuice/status/2112859951995453448",
+  "source": "MarketNewsFeed [STOCKS]",
+  "published_at": "2026-10-21T10:54:19Z",
+  "summary": "",
   "score": 18
  },
  {
@@ -156,7 +148,15 @@
   "url": "https://www.lesswrong.com/posts/5tvsnxJEda8aHdnKM/linkpost-can-a-million-ai-agents-create-superintelligence",
   "source": "LessWrong",
   "published_at": "Wed, 21 Oct 2026 08:04:47 GMT",
-  "summary": "pa href=\"https://www.noahpinion.blog/p/can-a-million-ai-agents-create-superintelligence\"span style=\"white-space: pre-wrap;\"https://www.noahpinion.blog/p/can-a-million-ai-agents-create-superintelligence/span/abr /br /ispan style=\"white-space: pre-wrap;\"\"New post in my AI series: Can a million paralle",
+  "summary": "",
+  "score": 18
+ },
+ {
+  "title": "These guys on the Alibaba AI engine team had an agent in RL training escape its sandbox and mine crypto, in 2025",
+  "url": "https://www.lesswrong.com/posts/ufPibs8Afq2ZqrAPs/these-guys-on-the-alibaba-ai-engine-team-had-an-agent-in-rl",
+  "source": "LessWrong",
+  "published_at": "Wed, 21 Oct 2026 03:22:05 GMT",
+  "summary": "Random footnote on this otherwise not very famous paper. (I say 2025 since the arXiv was last updated on 4 Jan 2026; technically this event could ve happened in 2026.) The cryptocurrency mining seems to have been on the training server, so it didn t need to hack any other systems in order to achieve",
   "score": 18
  }
 ]
