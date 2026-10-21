@@ -1,29 +1,29 @@
 {
   "picks": [
     {
-      "title": "Restarting/reformulating the practice of shared sacredness experiences for secular people by developing a passive haptic feedback learning interface to rapidly teach partimento - the historical method",
-      "source": "LessWrong",
+      "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
+      "source": "BleepingComputer",
       "category": "macro",
-      "url": "https://www.lesswrong.com/posts/7mhrwQW3xP6tanJ57/restarting-reformulating-the-practice-of-shared-sacredness",
-      "published_at": "Tue, 20 Oct 2026 11:29:50 GMT",
-      "score": 186.0
+      "url": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
+      "published_at": "Tue, 20 Oct 2026 21:01:50 -0400",
+      "score": 255.0
     },
     {
-      "title": "BlackRock’s IBIT Bitcoin ETF draws $665 million inflow, highest since October 2025",
+      "title": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
+      "source": "Decrypt",
+      "category": "macro",
+      "url": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
+      "published_at": "Tue, 20 Oct 2026 20:46:04 +0000",
+      "score": 195.0
+    },
+    {
+      "title": "Crypto firms, Wall Street push SEC to revise Regulation Crypto Assets as comments close",
       "source": "The Block",
-      "category": "market",
-      "url": "https://www.theblock.co/news/markets/2026-10-20-blackrock-ibit-bitcoin-etf-665-million-421102",
-      "published_at": "Tue, 20 Oct 2026 07:05:24 +0000",
-      "score": 171.0
-    },
-    {
-      "title": "A visit to Samsung’s massive new semiconductor hub",
-      "source": "MIT Technology Review",
       "category": "macro",
-      "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
-      "published_at": "Tue, 20 Oct 2026 09:00:00 +0000",
-      "score": 168.0
+      "url": "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444",
+      "published_at": "Tue, 20 Oct 2026 19:19:54 +0000",
+      "score": 156.0
     }
   ],
-  "updatedAt": "2026-10-20T16:47:32.382728+00:00"
+  "updatedAt": "2026-10-21T10:32:55.376422+00:00"
 }

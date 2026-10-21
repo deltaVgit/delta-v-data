@@ -1,78 +1,78 @@
 {
-  "updated_at": "2026-10-20T16:46:05Z",
+  "updated_at": "2026-10-21T10:31:06Z",
   "source": "Yahoo Finance screener + CoinGecko markets",
   "equities": {
     "gainers": [
       {
         "symbol": "LION",
         "name": "Lionsgate Studios Corp",
-        "price": 12.07,
-        "change_24h": 13.65,
-        "asset": "equity"
-      },
-      {
-        "symbol": "TLK",
-        "name": "PT Telekomunikasi Indonesia, Tb",
-        "price": 11.57,
-        "change_24h": 10.72,
+        "price": 12.15,
+        "change_24h": 14.41,
         "asset": "equity"
       },
       {
         "symbol": "SLS",
         "name": "SELLAS Life Sciences Group, Inc",
-        "price": 11.6,
-        "change_24h": 10.58,
-        "asset": "equity"
-      },
-      {
-        "symbol": "EFX",
-        "name": "Equifax, Inc.",
-        "price": 174.74,
-        "change_24h": 10.2,
+        "price": 11.98,
+        "change_24h": 14.2,
         "asset": "equity"
       },
       {
         "symbol": "KVYO",
         "name": "Klaviyo, Inc. Series A",
-        "price": 19.29,
-        "change_24h": 10.07,
+        "price": 19.61,
+        "change_24h": 11.93,
+        "asset": "equity"
+      },
+      {
+        "symbol": "EQPT",
+        "name": "EquipmentShare.com Inc",
+        "price": 15.6,
+        "change_24h": 11.83,
+        "asset": "equity"
+      },
+      {
+        "symbol": "TLK",
+        "name": "PT Telekomunikasi Indonesia, Tb",
+        "price": 11.64,
+        "change_24h": 11.39,
         "asset": "equity"
       }
     ],
     "losers": [
       {
-        "symbol": "MLI",
-        "name": "Mueller Industries, Inc.",
-        "price": 55.02,
-        "change_24h": -9.53,
-        "asset": "equity"
-      },
-      {
-        "symbol": "GM",
-        "name": "General Motors Company",
-        "price": 75.88,
-        "change_24h": -8.3,
-        "asset": "equity"
-      },
-      {
         "symbol": "SE",
         "name": "Sea Limited",
-        "price": 81.37,
-        "change_24h": -8.02,
+        "price": 80.43,
+        "change_24h": -9.09,
         "asset": "equity"
       },
       {
-        "symbol": "AERO",
-        "name": "Grupo Aeromexico, S.A.B. de C.V",
-        "price": 14.66,
-        "change_24h": -7.74,
+        "symbol": "DPC",
+        "name": "DPC Holdings PLC",
+        "price": 29.12,
+        "change_24h": -8.91,
         "asset": "equity"
       },
       {
         "symbol": "TSEM",
         "name": "Tower Semiconductor Ltd.",
-        "price": 184.48,
-        "change_24h": -7.9,
+        "price": 183.78,
+        "change_24h": -8.25,
+        "asset": "equity"
+      },
+      {
+        "symbol": "GM",
+        "name": "General Motors Company",
+        "price": 77.09,
+        "change_24h": -6.84,
+        "asset": "equity"
+      },
+      {
+        "symbol": "LGN",
+        "name": "Legence Corp.",
+        "price": 41.23,
+        "change_24h": -6.74,
         "asset": "equity"
       }
     ]
@@ -80,75 +80,75 @@
   "crypto": {
     "gainers": [
       {
-        "symbol": "PEARL",
-        "name": "Pearl",
-        "price": 2.17,
-        "change_24h": 13.02,
+        "symbol": "RAIN",
+        "name": "Rain",
+        "price": 0.00925,
+        "change_24h": 12.35,
         "asset": "crypto"
       },
       {
-        "symbol": "PEPE",
-        "name": "Pepe",
-        "price": 5e-06,
-        "change_24h": 10.8,
+        "symbol": "ZEC",
+        "name": "Zcash",
+        "price": 1261.57,
+        "change_24h": 10.94,
         "asset": "crypto"
       },
       {
-        "symbol": "WLD",
-        "name": "Worldcoin",
-        "price": 0.565211,
-        "change_24h": 10.13,
+        "symbol": "KAS",
+        "name": "Kaspa",
+        "price": 0.038681,
+        "change_24h": 10.83,
         "asset": "crypto"
       },
       {
-        "symbol": "AERO",
-        "name": "Aerodrome Finance",
-        "price": 0.855126,
-        "change_24h": 9.9,
+        "symbol": "PYTH",
+        "name": "Pyth Network",
+        "price": 0.079808,
+        "change_24h": 10.49,
         "asset": "crypto"
       },
       {
-        "symbol": "JUP",
-        "name": "Jupiter",
-        "price": 0.314207,
-        "change_24h": 6.93,
+        "symbol": "ENA",
+        "name": "Ethena",
+        "price": 0.204296,
+        "change_24h": 10.05,
         "asset": "crypto"
       }
     ],
     "losers": [
       {
-        "symbol": "STX",
-        "name": "Stacks",
-        "price": 0.341502,
-        "change_24h": -4.95,
-        "asset": "crypto"
-      },
-      {
         "symbol": "MORPHO",
         "name": "Morpho",
-        "price": 2.39,
-        "change_24h": -4.71,
+        "price": 2.33,
+        "change_24h": -3.74,
         "asset": "crypto"
       },
       {
-        "symbol": "ARB",
-        "name": "Arbitrum",
-        "price": 0.18824,
-        "change_24h": -4.08,
+        "symbol": "XMR",
+        "name": "Monero",
+        "price": 596.2,
+        "change_24h": -2.67,
         "asset": "crypto"
       },
       {
-        "symbol": "FIGR_HELOC",
-        "name": "Figure Heloc",
-        "price": 1.018,
-        "change_24h": -2.16,
+        "symbol": "BTW",
+        "name": "Bitway",
+        "price": 1.72,
+        "change_24h": -2.44,
         "asset": "crypto"
       },
       {
-        "symbol": "WLFI",
-        "name": "World Liberty Financial",
-        "price": 0.053839,
-        "change_24h": -2.09,
+        "symbol": "M",
+        "name": "MemeCore",
+        "price": 0.764826,
+        "change_24h": -2.35,
+        "asset": "crypto"
+      },
+      {
+        "symbol": "TRX",
+        "name": "TRON",
+        "price": 0.330739,
+        "change_24h": -0.44,
         "asset": "crypto"
       }
     ]
