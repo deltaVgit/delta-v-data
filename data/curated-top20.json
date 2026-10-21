@@ -1,26 +1,34 @@
 [
  {
-  "title": "GOOGLE: RESPONDING TO CORE PHP VULNERABILITIES CVE-2026-109618 AND CVE-2026-109619; WHILE GOOGLE CLOUD ITSELF IS NOT VULNERABLE, USERS OF PHP RUNNING ON GOOGLE CLOUD MAY BE VULNERABLE",
-  "url": "https://x.com/FirstSquawk/status/2112911852539949508",
-  "source": "MarketNewsFeed [STOCKS]",
-  "published_at": "2026-10-21T14:20:19Z",
-  "summary": "",
-  "score": 44
+  "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
+  "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
+  "source": "BleepingComputer",
+  "published_at": "Wed, 21 Oct 2026 14:34:42 -0400",
+  "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]",
+  "score": 50
  },
  {
-  "title": "PROVISO: Provenance-Informed Action Selection for Secure LLM Agents",
-  "url": "https://arxiv.org/abs/2610.27115",
-  "source": "arXiv cs.AI",
-  "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.27115v1 Announce Type: new Abstract: LLM agents act on the external world through tools and third-party skills, so a single executed action can cause irreversible harm. Existing defenses judge a proposed action without tracking whether its content comes from the user or from external sour",
-  "score": 44
+  "title": "Neural nets are exceptionally vulnerable to goal self-hack",
+  "url": "https://www.alignmentforum.org/posts/eCR373J3NZwFbacnd/neural-nets-are-exceptionally-vulnerable-to-goal-self-hack",
+  "source": "Alignment Forum",
+  "published_at": "Wed, 21 Oct 2026 17:53:01 GMT",
+  "summary": "Suppose we have an AI CEO, ruthlessly devoted to maximising shareholder value. Fortunately, we haven t been completely stupid, and have given it a rich definition of shareholder value, encompassing the success, flourishing, safety, preference satisfaction, and moral values of the shareholders, not j",
+  "score": 46
+ },
+ {
+  "title": "Neural nets are exceptionally vulnerable to goal self-hack",
+  "url": "https://www.lesswrong.com/posts/eCR373J3NZwFbacnd/neural-nets-are-exceptionally-vulnerable-to-goal-self-hack",
+  "source": "LessWrong",
+  "published_at": "Wed, 21 Oct 2026 17:53:01 GMT",
+  "summary": "Suppose we have an AI CEO, ruthlessly devoted to maximising shareholder value. Fortunately, we haven t been completely stupid, and have given it a rich definition of shareholder value, encompassing the success, flourishing, safety, preference satisfaction, and moral values of the shareholders, not j",
+  "score": 46
  },
  {
   "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
   "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
   "source": "Hacker News Frontpage",
   "published_at": "Wed, 21 Oct 2026 14:03:43 +0000",
-  "summary": "Comments URL: Points: 138",
+  "summary": "Comments URL: Points: 184",
   "score": 42
  },
  {
@@ -32,35 +40,11 @@
   "score": 42
  },
  {
-  "title": "OPENAI: DUE TO SEVERITY OF THESE FLAWS & PHP’S WIDESPREAD USE, WE CONSIDER THIS BUG TO BE ONE OF THE MOST IMPACTFUL VULNERABILITIES IN RECENT MEMORY",
-  "url": "https://x.com/DeItaone/status/2112914578548122036",
-  "source": "MarketNewsFeed [OTHER]",
-  "published_at": "2026-10-21T14:31:19Z",
+  "title": "BITCOIN HARDWARE WALLET HACKS FORCE A RETHINK OF SELF-CUSTODY",
+  "url": "https://www.tradingview.com/news/cryptobriefing:1f9fabb84094b:0-bitcoin-hardware-wallet-hacks-force-a-rethink-of-self-custody/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-21T18:15:50Z",
   "summary": "",
-  "score": 38
- },
- {
-  "title": "PORA: Learning When More Reasoning Pays Off for LLM Agents",
-  "url": "https://arxiv.org/abs/2610.27119",
-  "source": "arXiv cs.AI",
-  "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.27119v1 Announce Type: new Abstract: LLM agents perform tasks over multiple steps and revise their actions based on feedback. As the total reasoning budget is often limited and must support future steps, the agent must choose between short and long reasoning before each action. Longer rea",
-  "score": 34
- },
- {
-  "title": "M-Plan: Comprehensive Planning For LLM Agents with Memory Arrangement",
-  "url": "https://arxiv.org/abs/2610.27032",
-  "source": "arXiv cs.AI",
-  "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.27032v1 Announce Type: new Abstract: Large language model (LLM)-based agents have recently demonstrated outstanding performance in single-turn tasks, yet they continue to struggle with long-horizon tasks, particularly in environments without prior training. A key limitation of single LLMs",
-  "score": 34
- },
- {
-  "title": "SPEM: Structure-Aware Procedural Memory for Efficient Skill Use in LLM Agents",
-  "url": "https://arxiv.org/abs/2610.26995",
-  "source": "arXiv cs.AI",
-  "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.26995v1 Announce Type: new Abstract: LLM-based agents increasingly rely on reusable skills. However, scaling skill libraries makes efficient and accurate skill use difficult. Full skill loading incurs high token and runtime overhead. In contrast, flat semantic retrieval treats skills as i",
   "score": 34
  },
  {
@@ -80,20 +64,20 @@
   "score": 30
  },
  {
+  "title": "MICROSOFT ASSESSES STORM-0940 CAUSED RECENT CONNECTWISE SUPPLY CHAIN BREACH OF MULTI-TENANT APP",
+  "url": "https://x.com/financialjuice/status/2112984508513304924",
+  "source": "MarketNewsFeed [STOCKS]",
+  "published_at": "2026-10-21T19:09:14Z",
+  "summary": "",
+  "score": 28
+ },
+ {
   "title": "Global warming will breach 1.5°C – but deep, fast cuts can still bring it back",
   "url": "https://news.un.org/en/story/2026/10/1168634",
   "source": "Hacker News Frontpage",
   "published_at": "Wed, 21 Oct 2026 13:22:31 +0000",
   "summary": "Comments URL: Points: 8",
   "score": 28
- },
- {
-  "title": "AI FIRMS DISCOVERED VULNERABILITY, THEY DID NOT CREATE IT - OFFICIAL.",
-  "url": "https://x.com/financialjuice/status/2112926267779756368",
-  "source": "MarketNewsFeed [OTHER]",
-  "published_at": "2026-10-21T15:17:49Z",
-  "summary": "",
-  "score": 24
  },
  {
   "title": "Cloudflare deploys protections against php2shell vulnerability",
@@ -120,6 +104,14 @@
   "score": 20
  },
  {
+  "title": "AM-Bench: A theoretically-grounded benchmark for agentic misalignment",
+  "url": "https://www.lesswrong.com/posts/JamFW6CSyrHuWW8FB/am-bench-a-theoretically-grounded-benchmark-for-agentic",
+  "source": "LessWrong",
+  "published_at": "Wed, 21 Oct 2026 19:54:02 GMT",
+  "summary": "This is a brief overview of our new paper (📄) AM-Bench: A Unified Taxonomy and Evaluation Suite for Agentic Misalignment accepted at NeurIPS E&D 2026 💫 Overview We introduce AM-Bench , a unified taxonomy and evaluation suite for agentic misalignment, a failure mode where models actively choose harmf",
+  "score": 18
+ },
+ {
   "title": "FLUX: AGENT PAYMENT RAILS GO LIVE - 21 OCT 2026",
   "url": "https://www.tradingview.com/news/coinmarketcal:79563ff0d094b:0-flux-agent-payment-rails-go-live-21-oct-2026/",
   "source": "MarketNewsFeed [CRYPTO]",
@@ -136,14 +128,6 @@
   "score": 18
  },
  {
-  "title": "DATALINE RAISES $10.6 MILLION FOR DECENTRALIZED DATA NETWORK FOR AI AGENTS, PLANS ICO",
-  "url": "https://x.com/cryptounfolded/status/2112948377457492037",
-  "source": "MarketNewsFeed [OTHER]",
-  "published_at": "2026-10-21T16:45:39Z",
-  "summary": "",
-  "score": 18
- },
- {
   "title": "Dataline raises $10.6 million for decentralized data network for AI agents, plans ICO",
   "url": "https://www.theblock.co/news/deals/2026-10-21-dataline-decentralized-data-network-ai-agents-funding-ico-421596",
   "source": "The Block",
@@ -152,11 +136,27 @@
   "score": 18
  },
  {
-  "title": "AI agent fixed the bug, but what else did it change?",
-  "url": "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/",
+  "title": "The bridge to agent-scale Git infrastructure",
+  "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
   "source": "Hacker News Frontpage",
-  "published_at": "Wed, 21 Oct 2026 16:03:32 +0000",
-  "summary": "Comments URL: Points: 14",
+  "published_at": "Wed, 21 Oct 2026 16:09:28 +0000",
+  "summary": "Comments URL: Points: 3",
+  "score": 18
+ },
+ {
+  "title": "Using thousands of AI agents to uncover new leads in biological data",
+  "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+  "source": "Hacker News Frontpage",
+  "published_at": "Wed, 21 Oct 2026 13:37:00 +0000",
+  "summary": "Comments URL: Points: 102",
+  "score": 18
+ },
+ {
+  "title": "Using thousands of AI agents to uncover new leads in biological data",
+  "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+  "source": "OpenAI Blog",
+  "published_at": "Wed, 21 Oct 2026 04:50:00 GMT",
+  "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
   "score": 18
  }
 ]

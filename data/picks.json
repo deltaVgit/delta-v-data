@@ -1,12 +1,36 @@
 {
  "picks": [
   {
-   "title": "GOOGLE: RESPONDING TO CORE PHP VULNERABILITIES CVE-2026-109618 AND CVE-2026-109619; WHILE GOOGLE CLOUD ITSELF IS NOT VULNERABLE, USERS OF PHP RUNNING ON GOOGLE CLOUD MAY BE VULNERABLE",
-   "url": "https://x.com/FirstSquawk/status/2112911852539949508",
+   "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
+   "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
+   "source": "BleepingComputer",
+   "published_at": "Wed, 21 Oct 2026 14:34:42 -0400",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]",
+   "score": 72
+  },
+  {
+   "title": "Neural nets are exceptionally vulnerable to goal self-hack",
+   "url": "https://www.alignmentforum.org/posts/eCR373J3NZwFbacnd/neural-nets-are-exceptionally-vulnerable-to-goal-self-hack",
+   "source": "Alignment Forum",
+   "published_at": "Wed, 21 Oct 2026 17:53:01 GMT",
+   "summary": "Suppose we have an AI CEO, ruthlessly devoted to maximising shareholder value. Fortunately, we haven t been completely stupid, and have given it a rich definition of shareholder value, encompassing the success, flourishing, safety, preference satisfaction, and moral values of the shareholders, not j",
+   "score": 64
+  },
+  {
+   "title": "Neural nets are exceptionally vulnerable to goal self-hack",
+   "url": "https://www.lesswrong.com/posts/eCR373J3NZwFbacnd/neural-nets-are-exceptionally-vulnerable-to-goal-self-hack",
+   "source": "LessWrong",
+   "published_at": "Wed, 21 Oct 2026 17:53:01 GMT",
+   "summary": "Suppose we have an AI CEO, ruthlessly devoted to maximising shareholder value. Fortunately, we haven t been completely stupid, and have given it a rich definition of shareholder value, encompassing the success, flourishing, safety, preference satisfaction, and moral values of the shareholders, not j",
+   "score": 64
+  },
+  {
+   "title": "MICROSOFT ASSESSES STORM-0940 CAUSED RECENT CONNECTWISE SUPPLY CHAIN BREACH OF MULTI-TENANT APP",
+   "url": "https://x.com/financialjuice/status/2112984508513304924",
    "source": "MarketNewsFeed [STOCKS]",
-   "published_at": "2026-10-21T14:20:19Z",
+   "published_at": "2026-10-21T19:09:14Z",
    "summary": "",
-   "score": 58
+   "score": 38
   },
   {
    "title": "Global warming will breach 1.5°C – but deep, fast cuts can still bring it back",
@@ -17,28 +41,20 @@
    "score": 38
   },
   {
+   "title": "BITCOIN HARDWARE WALLET HACKS FORCE A RETHINK OF SELF-CUSTODY",
+   "url": "https://www.tradingview.com/news/cryptobriefing:1f9fabb84094b:0-bitcoin-hardware-wallet-hacks-force-a-rethink-of-self-custody/",
+   "source": "MarketNewsFeed [CRYPTO]",
+   "published_at": "2026-10-21T18:15:50Z",
+   "summary": "",
+   "score": 34
+  },
+  {
    "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
    "url": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
    "source": "BleepingComputer",
    "published_at": "Wed, 21 Oct 2026 04:36:24 -0400",
    "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]",
    "score": 32
-  },
-  {
-   "title": "AI FIRMS DISCOVERED VULNERABILITY, THEY DID NOT CREATE IT - OFFICIAL.",
-   "url": "https://x.com/financialjuice/status/2112926267779756368",
-   "source": "MarketNewsFeed [OTHER]",
-   "published_at": "2026-10-21T15:17:49Z",
-   "summary": "",
-   "score": 30
-  },
-  {
-   "title": "OPENAI: DUE TO SEVERITY OF THESE FLAWS & PHP’S WIDESPREAD USE, WE CONSIDER THIS BUG TO BE ONE OF THE MOST IMPACTFUL VULNERABILITIES IN RECENT MEMORY",
-   "url": "https://x.com/DeItaone/status/2112914578548122036",
-   "source": "MarketNewsFeed [OTHER]",
-   "published_at": "2026-10-21T14:31:19Z",
-   "summary": "",
-   "score": 30
   },
   {
    "title": "Cloudflare deploys protections against php2shell vulnerability",
@@ -53,7 +69,7 @@
    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
    "source": "Hacker News Frontpage",
    "published_at": "Wed, 21 Oct 2026 14:03:43 +0000",
-   "summary": "Comments URL: Points: 138",
+   "summary": "Comments URL: Points: 184",
    "score": 30
   },
   {
@@ -79,23 +95,7 @@
    "published_at": "Wed, 21 Oct 2026 15:48:56 +0000",
    "summary": "Comments URL: Points: 11",
    "score": 28
-  },
-  {
-   "title": "US FINANCIAL CRIMES ENFORCEMENT NETWORK ISSUING ADMINISTRATIVE SUBPOENA TO ADVANCE INVESTIGATION INTO A GREEK BANK'S POTENTIAL TIES TO IRAN -STATEMENT",
-   "url": "https://x.com/financialjuice/status/2112952524411969970",
-   "source": "MarketNewsFeed [STOCKS]",
-   "published_at": "2026-10-21T17:02:11Z",
-   "summary": "",
-   "score": 16
-  },
-  {
-   "title": "FINCEN HAS ALSO ISSUED MULTIPLE REQUESTS FOR INFORMATION CONCERNING RELATIONSHIPS OF BANKS WITH IRANIAN FINANCIAL INSTITUTIONS UNDER US SANCTIONS -STATEMENT",
-   "url": "https://x.com/financialjuice/status/2112952424155558335",
-   "source": "MarketNewsFeed [STOCKS]",
-   "published_at": "2026-10-21T17:01:40Z",
-   "summary": "",
-   "score": 16
   }
  ],
- "updatedAt": "2026-10-21T17:22:18.534140+00:00"
+ "updatedAt": "2026-10-21T20:03:51.244171+00:00"
 }
