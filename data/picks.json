@@ -1,20 +1,28 @@
 {
  "picks": [
   {
-   "title": "DRIFT EXPLOITER SENDS $109M IN ETHER TO TORNADO CASH IN 2 DAYS",
-   "url": "https://www.tradingview.com/news/cointelegraph:74c2e9089094b:0-drift-exploiter-sends-109m-in-ether-to-tornado-cash-in-2-days/",
-   "source": "MarketNewsFeed [CRYPTO]",
-   "published_at": "2026-10-21T10:26:07Z",
+   "title": "GOOGLE: GEMINI 4 ARGON MADE CONTRIBUTION TO FINDING VULNERABILITY, EXPLOIT DEVELOPMENT, ATTACK DETECTION, AND VALIDATION OF PATCH; GOOGLE CLOUD ROLLING OUT UPDATED SERVERLESS BASE IMAGES FOR ALL SUPPO",
+   "url": "https://x.com/FirstSquawk/status/2112911864829219234",
+   "source": "MarketNewsFeed [OTHER]",
+   "published_at": "2026-10-21T14:20:32Z",
    "summary": "",
-   "score": 40
+   "score": 70
   },
   {
-   "title": "Bürgel Says PHP Exploits Are Circulating Ahead of Critical Patches",
-   "url": "https://thedefiant.io/news/security/b-rgel-says-php-exploits-are-circulating-ahead-of-critical-patches",
-   "source": "The Defiant",
-   "published_at": "Wed, 21 Oct 2026 07:58:31 GMT",
-   "summary": "PHP’s fixes are scheduled for 10 a.m. ET; security advisories urge operators to restrict exposed services and prepare to patch immediately.",
-   "score": 40
+   "title": "GOOGLE: RESPONDING TO CORE PHP VULNERABILITIES CVE-2026-109618 AND CVE-2026-109619; WHILE GOOGLE CLOUD ITSELF IS NOT VULNERABLE, USERS OF PHP RUNNING ON GOOGLE CLOUD MAY BE VULNERABLE",
+   "url": "https://x.com/FirstSquawk/status/2112911852539949508",
+   "source": "MarketNewsFeed [STOCKS]",
+   "published_at": "2026-10-21T14:20:19Z",
+   "summary": "",
+   "score": 58
+  },
+  {
+   "title": "Global warming will breach 1.5°C – but deep, fast cuts can still bring it back",
+   "url": "https://news.un.org/en/story/2026/10/1168634",
+   "source": "Hacker News Frontpage",
+   "published_at": "Wed, 21 Oct 2026 13:22:31 +0000",
+   "summary": "Comments URL: Points: 8",
+   "score": 38
   },
   {
    "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
@@ -25,6 +33,46 @@
    "score": 32
   },
   {
+   "title": "AI FIRMS DISCOVERED VULNERABILITY, THEY DID NOT CREATE IT - OFFICIAL.",
+   "url": "https://x.com/financialjuice/status/2112926267779756368",
+   "source": "MarketNewsFeed [OTHER]",
+   "published_at": "2026-10-21T15:17:49Z",
+   "summary": "",
+   "score": 30
+  },
+  {
+   "title": "OPENAI: DUE TO SEVERITY OF THESE FLAWS & PHP’S WIDESPREAD USE, WE CONSIDER THIS BUG TO BE ONE OF THE MOST IMPACTFUL VULNERABILITIES IN RECENT MEMORY",
+   "url": "https://x.com/DeItaone/status/2112914578548122036",
+   "source": "MarketNewsFeed [OTHER]",
+   "published_at": "2026-10-21T14:31:19Z",
+   "summary": "",
+   "score": 30
+  },
+  {
+   "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+   "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+   "source": "Hacker News Frontpage",
+   "published_at": "Wed, 21 Oct 2026 14:03:43 +0000",
+   "summary": "Comments URL: Points: 76",
+   "score": 30
+  },
+  {
+   "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+   "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+   "source": "Hacker News Frontpage",
+   "published_at": "Wed, 21 Oct 2026 14:00:26 +0000",
+   "summary": "Comments URL: Points: 4",
+   "score": 30
+  },
+  {
+   "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+   "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+   "source": "OpenAI Blog",
+   "published_at": "Wed, 21 Oct 2026 07:00:00 GMT",
+   "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+   "score": 30
+  },
+  {
    "title": "Major PHP Vulnerability Leaked",
    "url": "https://jackalsyn.com/posts/php-up-2026.html",
    "source": "Hacker News Frontpage",
@@ -33,69 +81,21 @@
    "score": 30
   },
   {
-   "title": "You Are the Trigger: Speaker-Activated Backdoors",
-   "url": "https://arxiv.org/abs/2610.27210",
-   "source": "arXiv cs.LG",
-   "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
-   "summary": "arXiv:2610.27210v1 Announce Type: new Abstract: Speech models are increasingly used as an interface to AI systems, from transcription tools to voice agents. Existing audio backdoors require an attacker to introduce triggers at inference time. We study a different threat model in which the attacker c",
-   "score": 30
-  },
-  {
-   "title": "$SPCX - WALL STREET RAISES SPACEX TARGETS AFTER EARNINGSANALYSTS ARE TURNING MORE BULLISH ON SPACEX, WITH SEVERAL BANKS LIFTING THEIR PRICE TARGETS:🔸 MORGAN STANLEY: $300 — OVERWEIGHT🔸 WELLS FARGO: $2",
-   "url": "https://x.com/DeItaone/status/2112856976807899506",
-   "source": "MarketNewsFeed [OTHER]",
-   "published_at": "2026-10-21T10:42:34Z",
-   "summary": "",
-   "score": 28
-  },
-  {
-   "title": "Why centralized exchanges refuse to list legacy crypto tokens without explicit SEC immunity",
-   "url": "https://www.coindesk.com/policy/2026/10/21/why-centralized-exchanges-refuse-to-list-legacy-crypto-tokens-without-explicit-sec-immunity",
-   "source": "CoinDesk",
-   "published_at": "Wed, 21 Oct 2026 12:12:36 +0000",
-   "summary": "",
-   "score": 16
-  },
-  {
-   "title": "KEY FACTS: XRPUSD $1.35; $1.8B INFLOWS; FILED SEC COMMENT; CLEAR $1.40",
-   "url": "https://www.tradingview.com/news/tradingview:bd0219e64ea10:0-key-facts-xrpusd-1-35-1-8b-inflows-filed-sec-comment-clear-1-40/",
+   "title": "RIPPLE URGES SEC NOT TO CLASSIFY TOKENS AS SECURITIES INDEFINITELY",
+   "url": "https://www.tradingview.com/news/benzinga:9faa8bc0c094b:0-ripple-urges-sec-not-to-classify-tokens-as-securities-indefinitely/",
    "source": "MarketNewsFeed [CRYPTO]",
-   "published_at": "2026-10-21T12:09:03Z",
+   "published_at": "2026-10-21T14:29:43Z",
    "summary": "",
    "score": 16
   },
   {
-   "title": "Securitize Will Mint Stablecoins Directly With Anchorage Digital Bank",
-   "url": "https://thedefiant.io/news/tradfi-and-fintech/securitize-will-mint-stablecoins-directly-with-anchorage-digital-bank",
-   "source": "The Defiant",
-   "published_at": "Wed, 21 Oct 2026 12:06:07 GMT",
-   "summary": "The tokenization platform behind funds from BlackRock, Apollo and KKR said it will source the dollars that settle those trades from a federally chartered bank instead of intermediaries.",
-   "score": 16
-  },
-  {
-   "title": "Blockchain Association Asks SEC to Double Crypto Startup Exemption to $10 Million",
-   "url": "https://thedefiant.io/news/regulation/blockchain-association-asks-sec-to-double-crypto-startup-exemption-to-10-million",
-   "source": "The Defiant",
-   "published_at": "Wed, 21 Oct 2026 12:03:07 GMT",
-   "summary": "The trade group backed Regulation Crypto Assets in its comment letter and asked the Commission to raise both offering caps, write the Howey guidance into the rule, and let third parties file for tokens already trading.",
-   "score": 16
-  },
-  {
-   "title": "$SPCX - JPMORGAN DOUBLES SPACEX PRICE TARGET TO $500JPMORGAN RAISED ITS SPACEX PRICE TARGET FROM $240 TO $500, MAINTAINING AN OVERWEIGHT RATING.THE BANK NOW FORECASTS $254 BILLION IN 2027 REVENUE AND ",
-   "url": "https://x.com/DeItaone/status/2112863117516390700",
-   "source": "MarketNewsFeed [STOCKS]",
-   "published_at": "2026-10-21T11:06:50Z",
-   "summary": "",
-   "score": 16
-  },
-  {
-   "title": "OCC s final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban",
-   "url": "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban",
-   "source": "CoinDesk",
-   "published_at": "Wed, 21 Oct 2026 11:00:00 +0000",
+   "title": "SEC #CRYPTO EXEMPTION RULE STRIPS STATE POWER, CALIFORNIA SAYS –",
+   "url": "https://x.com/LiveSquawk/status/2112911752228950061",
+   "source": "MarketNewsFeed [CRYPTO]",
+   "published_at": "2026-10-21T14:20:03Z",
    "summary": "",
    "score": 16
   }
  ],
- "updatedAt": "2026-10-21T12:35:22.952363+00:00"
+ "updatedAt": "2026-10-21T16:00:35.424627+00:00"
 }

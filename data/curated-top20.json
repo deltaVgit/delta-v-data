@@ -1,5 +1,21 @@
 [
  {
+  "title": "GOOGLE: GEMINI 4 ARGON MADE CONTRIBUTION TO FINDING VULNERABILITY, EXPLOIT DEVELOPMENT, ATTACK DETECTION, AND VALIDATION OF PATCH; GOOGLE CLOUD ROLLING OUT UPDATED SERVERLESS BASE IMAGES FOR ALL SUPPO",
+  "url": "https://x.com/FirstSquawk/status/2112911864829219234",
+  "source": "MarketNewsFeed [OTHER]",
+  "published_at": "2026-10-21T14:20:32Z",
+  "summary": "",
+  "score": 54
+ },
+ {
+  "title": "GOOGLE: RESPONDING TO CORE PHP VULNERABILITIES CVE-2026-109618 AND CVE-2026-109619; WHILE GOOGLE CLOUD ITSELF IS NOT VULNERABLE, USERS OF PHP RUNNING ON GOOGLE CLOUD MAY BE VULNERABLE",
+  "url": "https://x.com/FirstSquawk/status/2112911852539949508",
+  "source": "MarketNewsFeed [STOCKS]",
+  "published_at": "2026-10-21T14:20:19Z",
+  "summary": "",
+  "score": 44
+ },
+ {
   "title": "PROVISO: Provenance-Informed Action Selection for Secure LLM Agents",
   "url": "https://arxiv.org/abs/2610.27115",
   "source": "arXiv cs.AI",
@@ -8,20 +24,28 @@
   "score": 44
  },
  {
-  "title": "CROWDSTRIKE, NVIDIA TO EXTEND AI AGENT SECURITY TO SILICON.",
-  "url": "https://x.com/financialjuice/status/2112869389787603166",
-  "source": "MarketNewsFeed [STOCKS]",
-  "published_at": "2026-10-21T11:31:51Z",
-  "summary": "",
-  "score": 40
+  "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+  "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+  "source": "Hacker News Frontpage",
+  "published_at": "Wed, 21 Oct 2026 14:03:43 +0000",
+  "summary": "Comments URL: Points: 76",
+  "score": 42
  },
  {
-  "title": "$CRWV - CROWDSTRIKE, NVIDIA EXPAND AI AGENT SECURITY FROM SOFTWARE TO SILICON",
-  "url": "https://x.com/DeItaone/status/2112869187089788959",
-  "source": "MarketNewsFeed [STOCKS]",
-  "published_at": "2026-10-21T11:30:51Z",
+  "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+  "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+  "source": "OpenAI Blog",
+  "published_at": "Wed, 21 Oct 2026 07:00:00 GMT",
+  "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+  "score": 42
+ },
+ {
+  "title": "OPENAI: DUE TO SEVERITY OF THESE FLAWS & PHP’S WIDESPREAD USE, WE CONSIDER THIS BUG TO BE ONE OF THE MOST IMPACTFUL VULNERABILITIES IN RECENT MEMORY",
+  "url": "https://x.com/DeItaone/status/2112914578548122036",
+  "source": "MarketNewsFeed [OTHER]",
+  "published_at": "2026-10-21T14:31:19Z",
   "summary": "",
-  "score": 40
+  "score": 38
  },
  {
   "title": "PORA: Learning When More Reasoning Pays Off for LLM Agents",
@@ -48,14 +72,6 @@
   "score": 34
  },
  {
-  "title": "OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work",
-  "url": "https://decrypt.co/381467/openai-buys-orchestra-bio-ai-agents-drug-development",
-  "source": "Decrypt",
-  "published_at": "Tue, 20 Oct 2026 21:46:04 +0000",
-  "summary": "The ChatGPT maker is folding Orchestra’s drug-program agents into Rosalind, its life sciences suite, betting AI can shave time off the decade-plus it takes to bring a medicine to patients.",
-  "score": 32
- },
- {
   "title": "NVIDIA Nemotron 3.5 Embed, Rerank, and Parse: Advancing Agents with World-Class Retrieval Models",
   "url": "https://huggingface.co/blog/nvidia/nemotron-retriever-world-class-agentic-retrieval",
   "source": "Hugging Face Blog",
@@ -64,20 +80,20 @@
   "score": 30
  },
  {
-  "title": "DRIFT EXPLOITER SENDS $109M IN ETHER TO TORNADO CASH IN 2 DAYS",
-  "url": "https://www.tradingview.com/news/cointelegraph:74c2e9089094b:0-drift-exploiter-sends-109m-in-ether-to-tornado-cash-in-2-days/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-21T10:26:07Z",
-  "summary": "",
-  "score": 30
+  "title": "Global warming will breach 1.5°C – but deep, fast cuts can still bring it back",
+  "url": "https://news.un.org/en/story/2026/10/1168634",
+  "source": "Hacker News Frontpage",
+  "published_at": "Wed, 21 Oct 2026 13:22:31 +0000",
+  "summary": "Comments URL: Points: 8",
+  "score": 28
  },
  {
-  "title": "Bürgel Says PHP Exploits Are Circulating Ahead of Critical Patches",
-  "url": "https://thedefiant.io/news/security/b-rgel-says-php-exploits-are-circulating-ahead-of-critical-patches",
-  "source": "The Defiant",
-  "published_at": "Wed, 21 Oct 2026 07:58:31 GMT",
-  "summary": "PHP’s fixes are scheduled for 10 a.m. ET; security advisories urge operators to restrict exposed services and prepare to patch immediately.",
-  "score": 30
+  "title": "AI FIRMS DISCOVERED VULNERABILITY, THEY DID NOT CREATE IT - OFFICIAL.",
+  "url": "https://x.com/financialjuice/status/2112926267779756368",
+  "source": "MarketNewsFeed [OTHER]",
+  "published_at": "2026-10-21T15:17:49Z",
+  "summary": "",
+  "score": 24
  },
  {
   "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
@@ -96,27 +112,19 @@
   "score": 24
  },
  {
-  "title": "SAHARA AI: PARTNERS WITH DEAGENTAI TO BUILD AGENT-AS-A-SERVICE - 21 OCT 2026",
-  "url": "https://www.tradingview.com/news/coinmarketcal:d7de6a56d094b:0-sahara-ai-partners-with-deagentai-to-build-agent-as-a-service-21-oct-2026/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-21T11:12:52Z",
-  "summary": "",
+  "title": "Using thousands of AI agents to uncover new leads in biological data",
+  "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+  "source": "Hacker News Frontpage",
+  "published_at": "Wed, 21 Oct 2026 13:37:00 +0000",
+  "summary": "Comments URL: Points: 16",
   "score": 18
  },
  {
-  "title": "ORACLE LAUNCHES AI AGENT STUDIO FOR INDUSTRY APPLICATIONS",
-  "url": "https://x.com/FirstSquawk/status/2112860056060584054",
-  "source": "MarketNewsFeed [STOCKS]",
-  "published_at": "2026-10-21T10:54:35Z",
-  "summary": "",
-  "score": 18
- },
- {
-  "title": "ORACLE LAUNCHES AI AGENT STUDIO FOR INDUSTRY APPLICATIONS",
-  "url": "https://x.com/financialjuice/status/2112859951995453448",
-  "source": "MarketNewsFeed [STOCKS]",
-  "published_at": "2026-10-21T10:54:19Z",
-  "summary": "",
+  "title": "LayerFS: The filesystem for AI coding agents",
+  "url": "https://layerfs.ai/",
+  "source": "Hacker News Frontpage",
+  "published_at": "Wed, 21 Oct 2026 12:34:46 +0000",
+  "summary": "Comments URL: Points: 42",
   "score": 18
  },
  {
@@ -125,6 +133,14 @@
   "source": "LessWrong",
   "published_at": "Wed, 21 Oct 2026 08:04:47 GMT",
   "summary": "",
+  "score": 18
+ },
+ {
+  "title": "Using thousands of AI agents to uncover new leads in biological data",
+  "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+  "source": "OpenAI Blog",
+  "published_at": "Wed, 21 Oct 2026 04:50:00 GMT",
+  "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
   "score": 18
  },
  {
@@ -141,22 +157,6 @@
   "source": "arXiv cs.AI",
   "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
   "summary": "arXiv:2610.27046v1 Announce Type: new Abstract: As AI systems begin to resolve open research problems, reliable verification becomes increasingly important. Formal mathematics provides a trusted framework for mathematical reasoning, enabling agents to produce machine-checkable proofs while conductin",
-  "score": 18
- },
- {
-  "title": "Teaching AI Agent to Play Poker Strategically Through Preference Optimization",
-  "url": "https://arxiv.org/abs/2610.27028",
-  "source": "arXiv cs.AI",
-  "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.27028v1 Announce Type: new Abstract: A poker agent can make a legal move and still make a strategically poor one. We ask whether compact AI agents can exhibit strategic behavior under hidden information and whether preference optimization can improve beyond static and zero-shot policies. ",
-  "score": 18
- },
- {
-  "title": "Does Multi-Agent Collaboration Reduce Hallucination in Clinical Tasks?",
-  "url": "https://arxiv.org/abs/2610.27027",
-  "source": "arXiv cs.AI",
-  "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.27027v1 Announce Type: new Abstract: Multi-agent LLM systems improve performance on clinical tasks, and that improvement is often read as evidence of a more trustworthy system. However, the two are not the same claim. A clinician acts on the stated reasoning and not only on the conclusion",
   "score": 18
  }
 ]
