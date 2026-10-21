@@ -112,14 +112,6 @@
   "score": 24
  },
  {
-  "title": "US SPOT-BITCOIN ETFS SEE $23.19 MILLION IN NET INFLOWS FOR SECOND STRAIGHT TRADING DAY",
-  "url": "https://www.tradingview.com/news/bloomingbit:4bcf73d75094b:0-us-spot-bitcoin-etfs-see-23-19-million-in-net-inflows-for-second-straight-trading-day/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-21T08:43:19Z",
-  "summary": "",
-  "score": 22
- },
- {
   "title": "SAHARA AI: PARTNERS WITH DEAGENTAI TO BUILD AGENT-AS-A-SERVICE - 21 OCT 2026",
   "url": "https://www.tradingview.com/news/coinmarketcal:d7de6a56d094b:0-sahara-ai-partners-with-deagentai-to-build-agent-as-a-service-21-oct-2026/",
   "source": "MarketNewsFeed [CRYPTO]",
@@ -157,6 +149,14 @@
   "source": "LessWrong",
   "published_at": "Wed, 21 Oct 2026 03:22:05 GMT",
   "summary": "Random footnote on this otherwise not very famous paper. (I say 2025 since the arXiv was last updated on 4 Jan 2026; technically this event could ve happened in 2026.) The cryptocurrency mining seems to have been on the training server, so it didn t need to hack any other systems in order to achieve",
+  "score": 18
+ },
+ {
+  "title": "ReuF2F: Benchmarking Coding Agents on Formalized Undergraduate Research Problems",
+  "url": "https://arxiv.org/abs/2610.27046",
+  "source": "arXiv cs.AI",
+  "published_at": "Wed, 21 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.27046v1 Announce Type: new Abstract: As AI systems begin to resolve open research problems, reliable verification becomes increasingly important. Formal mathematics provides a trusted framework for mathematical reasoning, enabling agents to produce machine-checkable proofs while conductin",
   "score": 18
  }
 ]
