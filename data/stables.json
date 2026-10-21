@@ -1,0 +1,68 @@
+{
+  "updated_at": "2026-10-21T10:41:28Z",
+  "source": "https://stablecoins.llama.fi/stablecoins",
+  "stablecoins": [
+    {
+      "name": "Tether",
+      "symbol": "USDT",
+      "circulating": 182729760618.20932
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "circulating": 72171473847.2952
+    },
+    {
+      "name": "Sky Dollar",
+      "symbol": "USDS",
+      "circulating": 6820876446.219029
+    },
+    {
+      "name": "Dai",
+      "symbol": "DAI",
+      "circulating": 4754340465.398417
+    },
+    {
+      "name": "Ethena USDe",
+      "symbol": "USDe",
+      "circulating": 4661168065.921606
+    },
+    {
+      "name": "World Liberty Financial USD",
+      "symbol": "USD1",
+      "circulating": 4011632804.5535984
+    },
+    {
+      "name": "Global Dollar",
+      "symbol": "USDG",
+      "circulating": 3064912786.6528473
+    },
+    {
+      "name": "PayPal USD",
+      "symbol": "PYUSD",
+      "circulating": 2861084826.1729417
+    },
+    {
+      "name": "Ripple USD",
+      "symbol": "RLUSD",
+      "circulating": 2374521924.4746003
+    },
+    {
+      "name": "BlackRock USD",
+      "symbol": "BUIDL",
+      "circulating": 2186226217.587649
+    },
+    {
+      "name": "USDD",
+      "symbol": "USDD",
+      "circulating": 1756290553.9608781
+    },
+    {
+      "name": "Falcon USD",
+      "symbol": "USDf",
+      "circulating": 1718433462.4251904
+    }
+  ],
+  "stablecoinChains": [],
+  "total_circulating": 289110722018.8712
+}
