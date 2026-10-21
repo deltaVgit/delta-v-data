@@ -28,7 +28,7 @@
   "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
   "source": "Hacker News Frontpage",
   "published_at": "Wed, 21 Oct 2026 14:03:43 +0000",
-  "summary": "Comments URL: Points: 184",
+  "summary": "Comments URL: Points: 192",
   "score": 42
  },
  {
@@ -54,6 +54,14 @@
   "published_at": "Wed, 21 Oct 2026 12:26:53 -0400",
   "summary": "OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so. [...]",
   "score": 32
+ },
+ {
+  "title": "Nvidia Unveils Its Full-Stack Blueprint to Contain and Monitor AI Agents",
+  "url": "https://decrypt.co/381570/nvidia-ai-agent-containment-tools-full-stack-blueprint",
+  "source": "Decrypt",
+  "published_at": "Wed, 21 Oct 2026 20:16:02 +0000",
+  "summary": "Nvidia s OpenShell Reference Architecture pairs a software sandbox on Vera CPUs with Sentry monitoring on BlueField-4 chips, aiming to let companies run autonomous agents while enforcing limits agents cannot reach.",
+  "score": 30
  },
  {
   "title": "NVIDIA Nemotron 3.5 Embed, Rerank, and Parse: Advancing Agents with World-Class Retrieval Models",
@@ -88,12 +96,20 @@
   "score": 24
  },
  {
-  "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
-  "url": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
+  "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
+  "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
   "source": "BleepingComputer",
-  "published_at": "Wed, 21 Oct 2026 04:36:24 -0400",
-  "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]",
-  "score": 24
+  "published_at": "Wed, 21 Oct 2026 16:31:48 -0400",
+  "summary": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]",
+  "score": 22
+ },
+ {
+  "title": "Potential third critical PHP CVE",
+  "url": "https://elk.zone/m.webtoo.ls/@elise@katze.sh/117479383721672027",
+  "source": "Hacker News Frontpage",
+  "published_at": "Wed, 21 Oct 2026 18:57:52 +0000",
+  "summary": "Comments URL: Points: 13",
+  "score": 20
  },
  {
   "title": "PHP Foundation s Overview of CVE-2026-109618 and CVE-2026-109619",
@@ -102,6 +118,14 @@
   "published_at": "Wed, 21 Oct 2026 15:48:56 +0000",
   "summary": "Comments URL: Points: 11",
   "score": 20
+ },
+ {
+  "title": "META CEO SAYS THE COMPANY EXPECTS TO GROW MUSE TO SERVE BILLIONS OF PEOPLE, ADDING THAT MORE THAN 10 MLN PEOPLE IN THE U.S. AND CANADA HAVE SET UP MUSE PERSONAL AGENTS IN JUST A MONTH AND A HALF - CON",
+  "url": "https://x.com/FirstSquawk/status/2113007068877898171",
+  "source": "MarketNewsFeed [STOCKS]",
+  "published_at": "2026-10-21T20:38:47Z",
+  "summary": "",
+  "score": 18
  },
  {
   "title": "AM-Bench: A theoretically-grounded benchmark for agentic misalignment",
@@ -120,14 +144,6 @@
   "score": 18
  },
  {
-  "title": "DATALINE RAISES $10.6 MILLION FOR DECENTRALIZED DATA NETWORK FOR AI AGENTS, PLANS ICO",
-  "url": "https://www.tradingview.com/news/the_block:fdcea4d19094b:0-dataline-raises-10-6-million-for-decentralized-data-network-for-ai-agents-plans-ico/",
-  "source": "MarketNewsFeed [OTHER]",
-  "published_at": "2026-10-21T16:51:35Z",
-  "summary": "",
-  "score": 18
- },
- {
   "title": "Dataline raises $10.6 million for decentralized data network for AI agents, plans ICO",
   "url": "https://www.theblock.co/news/deals/2026-10-21-dataline-decentralized-data-network-ai-agents-funding-ico-421596",
   "source": "The Block",
@@ -141,22 +157,6 @@
   "source": "Hacker News Frontpage",
   "published_at": "Wed, 21 Oct 2026 16:09:28 +0000",
   "summary": "Comments URL: Points: 3",
-  "score": 18
- },
- {
-  "title": "Using thousands of AI agents to uncover new leads in biological data",
-  "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
-  "source": "Hacker News Frontpage",
-  "published_at": "Wed, 21 Oct 2026 13:37:00 +0000",
-  "summary": "Comments URL: Points: 102",
-  "score": 18
- },
- {
-  "title": "Using thousands of AI agents to uncover new leads in biological data",
-  "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-  "source": "OpenAI Blog",
-  "published_at": "Wed, 21 Oct 2026 04:50:00 GMT",
-  "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
   "score": 18
  }
 ]
