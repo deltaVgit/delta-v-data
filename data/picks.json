@@ -57,6 +57,14 @@
    "score": 38
   },
   {
+   "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
+   "url": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
+   "source": "Hacker News Frontpage",
+   "published_at": "Thu, 22 Oct 2026 21:24:41 +0000",
+   "summary": "Comments URL: Points: 128",
+   "score": 34
+  },
+  {
    "title": "AI #191: The Hackening Begins",
    "url": "https://www.lesswrong.com/posts/ZoMJdvq9meE4shyzJ/ai-191-the-hackening-begins",
    "source": "LessWrong",
@@ -87,15 +95,7 @@
    "published_at": "Thu, 22 Oct 2026 16:18:47 +0000",
    "summary": "One of the GPUs from a stolen shipment of RTX 5090 graphics cards has appeared for sale online. Police have identified three employees at an airport who stole the goods.",
    "score": 30
-  },
-  {
-   "title": "GitLab warns of new max severity code execution vulnerability",
-   "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
-   "source": "BleepingComputer",
-   "published_at": "Thu, 22 Oct 2026 07:41:48 -0400",
-   "summary": "GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...]",
-   "score": 30
   }
  ],
- "updatedAt": "2026-10-22T22:28:19.157996+00:00"
+ "updatedAt": "2026-10-22T23:32:18.677060+00:00"
 }

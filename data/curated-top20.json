@@ -32,6 +32,14 @@
   "score": 34
  },
  {
+  "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
+  "url": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
+  "source": "Hacker News Frontpage",
+  "published_at": "Thu, 22 Oct 2026 21:24:41 +0000",
+  "summary": "Comments URL: Points: 128",
+  "score": 32
+ },
+ {
   "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
   "url": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
   "source": "BleepingComputer",
@@ -54,6 +62,14 @@
   "published_at": "Thu, 22 Oct 2026 16:22:45 -0400",
   "summary": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]",
   "score": 28
+ },
+ {
+  "title": "BITCOIN ETFS LOG $525M INFLOW AS ETHEREUM ETFS ATTRACT $14M",
+  "url": "https://www.tradingview.com/news/cryptobriefing:2064ba919094b:0-bitcoin-etfs-log-525m-inflow-as-ethereum-etfs-attract-14m/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-22T22:49:50Z",
+  "summary": "",
+  "score": 24
  },
  {
   "title": "Lightning Labs Urges Immediate Updates Over Certificate Vulnerability",
@@ -120,6 +136,14 @@
   "score": 20
  },
  {
+  "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+  "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+  "source": "Hugging Face Blog",
+  "published_at": "Thu, 22 Oct 2026 22:24:34 GMT",
+  "summary": "",
+  "score": 18
+ },
+ {
   "title": "The full context of the AI agent quote at the end of AI Gone Wild on Netflix",
   "url": "https://www.lesswrong.com/posts/DjT6CqbNiWNFuHBXw/the-full-context-of-the-ai-agent-quote-at-the-end-of-ai-gone",
   "source": "LessWrong",
@@ -132,31 +156,7 @@
   "url": "https://github.com/NVIDIA/OpenShell",
   "source": "Hacker News Frontpage",
   "published_at": "Thu, 22 Oct 2026 17:44:06 +0000",
-  "summary": "Comments URL: Points: 224",
-  "score": 18
- },
- {
-  "title": "The public notebook of a Claude agent with a continuous life",
-  "url": "https://intenex.github.io/personhood/",
-  "source": "Hacker News Frontpage",
-  "published_at": "Thu, 22 Oct 2026 16:57:56 +0000",
-  "summary": "Comments URL: Points: 8",
-  "score": 18
- },
- {
-  "title": "Major Banks Find Rogue AI Agents Inside Customer Accounts—And They’re Horrified",
-  "url": "https://decrypt.co/381602/banks-rogue-ai-agents-inside-customer-accounts",
-  "source": "Decrypt",
-  "published_at": "Thu, 22 Oct 2026 15:24:18 +0000",
-  "summary": "Major banks including Morgan Stanley, JPMorgan, Bank of America, and Citi are moving to restrict third-party AI agents that log in with customers’ credentials.",
-  "score": 18
- },
- {
-  "title": "Mesa Loosens Rules Around AI Agents For Code Comments / Commit Messages",
-  "url": "https://www.phoronix.com/news/Mesa-Loosens-AGENTS-MD",
-  "source": "Phoronix",
-  "published_at": "Thu, 22 Oct 2026 08:03:30 -0400",
-  "summary": "The Mesa 3D graphics driver project has loosened its rules laid out in their AGENTS.md for AI agents to permit AI/LLM assistance in generating code comments and commit/patch messages, as long as a human is ultimately reviewing/editing it in the end...",
+  "summary": "Comments URL: Points: 252",
   "score": 18
  }
 ]
