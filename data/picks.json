@@ -41,22 +41,6 @@
    "score": 40
   },
   {
-   "title": "AWS SAYS THE EXPLOIT ATTEMPT ORIGINATED FROM AN IP ADDRESS ASSOCIATED WITH A COMMERCIAL ANONYMIZATION NETWORK, AND THAT PHP2SHELL IS NOW BEING BROADLY EXPLOITED IN THE WILD",
-   "url": "https://x.com/FirstSquawk/status/2113038977687323082",
-   "source": "MarketNewsFeed [STOCKS]",
-   "published_at": "2026-10-21T22:45:38Z",
-   "summary": "",
-   "score": 40
-  },
-  {
-   "title": "AWS SAYS AMAZON THREAT INTELLIGENCE IDENTIFIED PHP2SHELL EXPLOITATION PRIOR TO PUBLIC DISCLOSURE IN MADPOT, WITH THE ACTIVITY CONDUCTED BY A THREAT ACTOR, THOUGH IT REMAINS UNCLEAR HOW THE ACTOR ACQUI",
-   "url": "https://x.com/FirstSquawk/status/2113038962722033727",
-   "source": "MarketNewsFeed [STOCKS]",
-   "published_at": "2026-10-21T22:45:38Z",
-   "summary": "",
-   "score": 40
-  },
-  {
    "title": "TiDB Breach Exposes Flawed Cloud Security Assumptions",
    "url": "https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security",
    "source": "Dark Reading",
@@ -85,17 +69,33 @@
    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
    "source": "Hacker News Frontpage",
    "published_at": "Wed, 21 Oct 2026 14:03:43 +0000",
-   "summary": "Comments URL: Points: 243",
+   "summary": "Comments URL: Points: 250",
    "score": 30
   },
   {
-   "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-   "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+   "title": "Oracle Security Alert Advisory – CVE-2026-91403",
+   "url": "https://www.oracle.com/security-alerts/alert-cve-2026-91403.html",
    "source": "Hacker News Frontpage",
-   "published_at": "Wed, 21 Oct 2026 14:00:26 +0000",
-   "summary": "Comments URL: Points: 4",
-   "score": 30
+   "published_at": "Wed, 21 Oct 2026 22:17:19 +0000",
+   "summary": "Comments URL: Points: 12",
+   "score": 28
+  },
+  {
+   "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
+   "url": "https://aws.amazon.com/security/security-bulletins/2026-143-aws/",
+   "source": "Hacker News Frontpage",
+   "published_at": "Wed, 21 Oct 2026 21:12:59 +0000",
+   "summary": "Comments URL: Points: 79",
+   "score": 28
+  },
+  {
+   "title": "Potential third critical PHP CVE",
+   "url": "https://elk.zone/m.webtoo.ls/@elise@katze.sh/117479383721672027",
+   "source": "Hacker News Frontpage",
+   "published_at": "Wed, 21 Oct 2026 18:57:52 +0000",
+   "summary": "Comments URL: Points: 13",
+   "score": 28
   }
  ],
- "updatedAt": "2026-10-22T04:25:51.078566+00:00"
+ "updatedAt": "2026-10-22T06:32:39.305297+00:00"
 }

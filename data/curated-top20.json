@@ -28,7 +28,7 @@
   "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
   "source": "Hacker News Frontpage",
   "published_at": "Wed, 21 Oct 2026 14:03:43 +0000",
-  "summary": "Comments URL: Points: 243",
+  "summary": "Comments URL: Points: 250",
   "score": 42
  },
  {
@@ -61,22 +61,6 @@
   "source": "The Defiant",
   "published_at": "Thu, 22 Oct 2026 03:39:17 GMT",
   "summary": "PHP has shipped fixes for four supported branches. The flaws can let attackers run code on vulnerable web servers without logging in.",
-  "score": 30
- },
- {
-  "title": "AWS SAYS THE EXPLOIT ATTEMPT ORIGINATED FROM AN IP ADDRESS ASSOCIATED WITH A COMMERCIAL ANONYMIZATION NETWORK, AND THAT PHP2SHELL IS NOW BEING BROADLY EXPLOITED IN THE WILD",
-  "url": "https://x.com/FirstSquawk/status/2113038977687323082",
-  "source": "MarketNewsFeed [STOCKS]",
-  "published_at": "2026-10-21T22:45:38Z",
-  "summary": "",
-  "score": 30
- },
- {
-  "title": "AWS SAYS AMAZON THREAT INTELLIGENCE IDENTIFIED PHP2SHELL EXPLOITATION PRIOR TO PUBLIC DISCLOSURE IN MADPOT, WITH THE ACTIVITY CONDUCTED BY A THREAT ACTOR, THOUGH IT REMAINS UNCLEAR HOW THE ACTOR ACQUI",
-  "url": "https://x.com/FirstSquawk/status/2113038962722033727",
-  "source": "MarketNewsFeed [STOCKS]",
-  "published_at": "2026-10-21T22:45:38Z",
-  "summary": "",
   "score": 30
  },
  {
@@ -152,11 +136,27 @@
   "score": 20
  },
  {
+  "title": "UAE Transitions 50% of Gov t Services to Agentic AI",
+  "url": "https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai",
+  "source": "Dark Reading",
+  "published_at": "Thu, 22 Oct 2026 05:00:00 GMT",
+  "summary": "The United Arab Emirates says it s creating a foundation of security and safety as it transforms its public service footprint.",
+  "score": 18
+ },
+ {
   "title": "TrainBridge: Agentic NPU Training Optimization Guided by GPU Compilation Evidence",
   "url": "https://arxiv.org/abs/2610.29171",
   "source": "arXiv cs.CL",
   "published_at": "Thu, 22 Oct 2026 00:00:00 -0400",
   "summary": "arXiv:2610.29171v1 Announce Type: new Abstract: We study how to improve training efficiency on Ascend NPUs. In the NPU training programs we study, framework-level compilation optimizations such as operator fusion are only partially applied, leaving fragmented computation and avoidable execution over",
+  "score": 18
+ },
+ {
+  "title": "An Explicit Feedback Contract for Iterative ML-Agent Harnesses",
+  "url": "https://arxiv.org/abs/2610.28798",
+  "source": "arXiv cs.LG",
+  "published_at": "Thu, 22 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.28798v1 Announce Type: new Abstract: Iterative ML agents develop models by editing code, running experiments, reading a validation score, and choosing what to try next. In current harnesses this loop is served by an exact validation score returned after every attempt, which leaves the val",
   "score": 18
  }
 ]
