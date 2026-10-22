@@ -8,28 +8,12 @@
   "score": 54
  },
  {
-  "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
-  "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
-  "source": "BleepingComputer",
-  "published_at": "Wed, 21 Oct 2026 14:34:42 -0400",
-  "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]",
-  "score": 50
- },
- {
   "title": "Neural nets are exceptionally vulnerable to goal self-hack",
   "url": "https://www.alignmentforum.org/posts/eCR373J3NZwFbacnd/neural-nets-are-exceptionally-vulnerable-to-goal-self-hack",
   "source": "Alignment Forum",
   "published_at": "Wed, 21 Oct 2026 17:53:01 GMT",
   "summary": "Suppose we have an AI CEO, ruthlessly devoted to maximising shareholder value. Fortunately, we haven t been completely stupid, and have given it a rich definition of shareholder value, encompassing the success, flourishing, safety, preference satisfaction, and moral values of the shareholders, not j",
   "score": 46
- },
- {
-  "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
-  "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-  "source": "Hacker News Frontpage",
-  "published_at": "Wed, 21 Oct 2026 14:03:43 +0000",
-  "summary": "Comments URL: Points: 250",
-  "score": 42
  },
  {
   "title": "TiDB Breach Exposes Flawed Cloud Security Assumptions",
@@ -56,6 +40,14 @@
   "score": 34
  },
  {
+  "title": "NVIDIA'S HUANG CALLS FOR MORE FINE-GRAINED CONTROL OF AI AGENTS",
+  "url": "https://x.com/financialjuice/status/2113161405348401184",
+  "source": "MarketNewsFeed [STOCKS]",
+  "published_at": "2026-10-22T06:52:04Z",
+  "summary": "",
+  "score": 30
+ },
+ {
   "title": "Cloudflare CEO Reports Millions of PHP2Shell Exploit Attempts",
   "url": "https://thedefiant.io/news/security/cloudflare-ceo-reports-millions-of-php2shell-exploit-attempts",
   "source": "The Defiant",
@@ -80,20 +72,12 @@
   "score": 30
  },
  {
-  "title": "BITCOIN, ETHEREUM, XRP, DOGECOIN RISE AS SCOTT BESSENT COMPARES GENIUS ACT TO LINCOLN'S CURRENCY MILESTONE: ANALYST NOTES BTC'S SENTIMENT- DEFYING MOVE",
-  "url": "https://www.tradingview.com/news/benzinga:c288fdfb7094b:0-bitcoin-ethereum-xrp-dogecoin-rise-as-scott-bessent-compares-genius-act-to-lincoln-s-currency-milestone-analyst-notes-btc-s-sentiment-defying-move/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-22T03:20:45Z",
-  "summary": "",
-  "score": 24
- },
- {
-  "title": "Cloudflare deploys protections against php2shell vulnerability",
-  "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
-  "source": "Hacker News Frontpage",
-  "published_at": "Wed, 21 Oct 2026 14:11:14 +0000",
-  "summary": "Comments URL: Points: 11",
-  "score": 24
+  "title": "Chinese Prosecutors Seek Confiscation of 61,896 Bitcoin in Qian Case",
+  "url": "https://thedefiant.io/news/regulation/chinese-prosecutors-seek-confiscation-of-61-896-bitcoin-in-qian-case",
+  "source": "The Defiant",
+  "published_at": "Thu, 22 Oct 2026 06:42:39 GMT",
+  "summary": "The Tianjin application provides for victim restitution, while ownership claims to the UK-held coins must be assessed under Chinese law.",
+  "score": 22
  },
  {
   "title": "Japan s Onamae Desktop Cloud hacked, up to 27,000 servers affected",
@@ -136,6 +120,14 @@
   "score": 20
  },
  {
+  "title": "DATALINE RAISES $10.6 MILLION SEED ROUND, PLANS AI-AGENT DATA NETWORK EXPANSION AND TOKEN LAUNCH",
+  "url": "https://www.tradingview.com/news/bloomingbit:7fb207559094b:0-dataline-raises-10-6-million-seed-round-plans-ai-agent-data-network-expansion-and-token-launch/",
+  "source": "MarketNewsFeed [OTHER]",
+  "published_at": "2026-10-22T09:25:05Z",
+  "summary": "",
+  "score": 18
+ },
+ {
   "title": "UAE Transitions 50% of Gov t Services to Agentic AI",
   "url": "https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai",
   "source": "Dark Reading",
@@ -157,6 +149,14 @@
   "source": "arXiv cs.LG",
   "published_at": "Thu, 22 Oct 2026 00:00:00 -0400",
   "summary": "arXiv:2610.28798v1 Announce Type: new Abstract: Iterative ML agents develop models by editing code, running experiments, reading a validation score, and choosing what to try next. In current harnesses this loop is served by an exact validation score returned after every attempt, which leaves the val",
+  "score": 18
+ },
+ {
+  "title": "Measure First, Then Allocate: Calibrated Rollout Budgets for MCP Agents in Reinforcement Learning",
+  "url": "https://arxiv.org/abs/2610.28785",
+  "source": "arXiv cs.LG",
+  "published_at": "Thu, 22 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.28785v1 Announce Type: new Abstract: Training tool-using language models requires costly interaction, yet identical rewards within a rollout group provide no group-relative learning signal. We use reward disagreement to guide harness evaluation and the allocation of rollouts for policy tr",
   "score": 18
  }
 ]
