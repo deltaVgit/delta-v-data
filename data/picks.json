@@ -1,6 +1,14 @@
 {
  "picks": [
   {
+   "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
+   "url": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
+   "source": "BleepingComputer",
+   "published_at": "Thu, 22 Oct 2026 15:12:51 -0400",
+   "summary": "Hackers compromised the LiteLLM project s PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
+   "score": 68
+  },
+  {
    "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
    "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
    "source": "Ars Technica",
@@ -25,20 +33,20 @@
    "score": 40
   },
   {
+   "title": "Capcom confirms data breach affecting 11.7 million accounts",
+   "url": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
+   "source": "BleepingComputer",
+   "published_at": "Thu, 22 Oct 2026 16:22:45 -0400",
+   "summary": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]",
+   "score": 38
+  },
+  {
    "title": "New Serious PHP Vulnerabilities Released and Patched",
    "url": "https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html",
    "source": "Schneier on Security",
    "published_at": "2026-10-22T13:26:51Z",
    "summary": "PHP maintainers have released two critical vulnerabilities: PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution. All PHP users are strongly encouraged to update immediately. Who is at risk: all PHP installations serving web requ",
    "score": 38
-  },
-  {
-   "title": "BITCOIN ‘GOES TO ZERO’ AFTER A HACK, CHAMATH PALIHAPITIYA PREDICTS",
-   "url": "https://www.tradingview.com/news/benzinga:ea75e23d6094b:0-bitcoin-goes-to-zero-after-a-hack-chamath-palihapitiya-predicts/",
-   "source": "MarketNewsFeed [CRYPTO]",
-   "published_at": "2026-10-22T15:39:48Z",
-   "summary": "",
-   "score": 34
   },
   {
    "title": "AI #191: The Hackening Begins",
@@ -87,15 +95,7 @@
    "published_at": "Thu, 22 Oct 2026 08:51:31 +0000",
    "summary": "Comments URL: Points: 41",
    "score": 28
-  },
-  {
-   "title": "Researchers Flag Swell Rate Manipulation After Railway Key-Drain Warning",
-   "url": "https://thedefiant.io/news/hacks/researchers-flag-swell-rate-manipulation-after-railway-key-drain-warning",
-   "source": "The Defiant",
-   "published_at": "Thu, 22 Oct 2026 14:18:51 GMT",
-   "summary": "Researchers flagged inflated swETH and rswETH rates after the cloud-platform disclosure; the reported 2,513 ETH held by Swell is not a confirmed loss.",
-   "score": 26
   }
  ],
- "updatedAt": "2026-10-22T19:06:09.341904+00:00"
+ "updatedAt": "2026-10-22T20:34:35.178936+00:00"
 }

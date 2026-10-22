@@ -8,12 +8,12 @@
   "score": 46
  },
  {
-  "title": "BITCOIN ‘GOES TO ZERO’ AFTER A HACK, CHAMATH PALIHAPITIYA PREDICTS",
-  "url": "https://www.tradingview.com/news/benzinga:ea75e23d6094b:0-bitcoin-goes-to-zero-after-a-hack-chamath-palihapitiya-predicts/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-22T15:39:48Z",
-  "summary": "",
-  "score": 34
+  "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
+  "url": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
+  "source": "BleepingComputer",
+  "published_at": "Thu, 22 Oct 2026 15:12:51 -0400",
+  "summary": "Hackers compromised the LiteLLM project s PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
+  "score": 38
  },
  {
   "title": "LLM Agents Play Pokemon Showdown",
@@ -22,22 +22,6 @@
   "published_at": "Thu, 22 Oct 2026 02:13:48 +0000",
   "summary": "Comments URL: Points: 3",
   "score": 34
- },
- {
-  "title": "A Mechanistic Study of Automated Failure Attribution in LLM-based Agentic Systems",
-  "url": "https://arxiv.org/abs/2610.28811",
-  "source": "arXiv cs.LG",
-  "published_at": "Thu, 22 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.28811v1 Announce Type: new Abstract: Agentic systems have demonstrated strong capabilities on complex tasks by enabling multiple interacting large language model (LLM)-based agents to collaborate and execute subtasks in parallel. However, this collaborative structure introduces new challe",
-  "score": 34
- },
- {
-  "title": "ANTHROPIC SAYS IT HAS DONATED THE AGENT SKILLS OPEN STANDARD TO THE AGENTIC AI FOUNDATION, ALONG WITH THE AGENT SKILLS NAME, LOGO, GITHUB ORGANIZATION AND DOMAIN, AND HAS PROPOSED A ROADMAP FOR AGENT ",
-  "url": "https://x.com/FirstSquawk/status/2113335401213739137",
-  "source": "MarketNewsFeed [OTHER]",
-  "published_at": "2026-10-22T18:23:31Z",
-  "summary": "",
-  "score": 32
  },
  {
   "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
@@ -54,6 +38,30 @@
   "published_at": "Thu, 22 Oct 2026 09:09:12 -0400",
   "summary": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
   "score": 30
+ },
+ {
+  "title": "Capcom confirms data breach affecting 11.7 million accounts",
+  "url": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
+  "source": "BleepingComputer",
+  "published_at": "Thu, 22 Oct 2026 16:22:45 -0400",
+  "summary": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]",
+  "score": 28
+ },
+ {
+  "title": "OPENAI AIMS TO SECURE SIGNATURES BY THE END OF NEXT WEEK - CNBC",
+  "url": "https://x.com/financialjuice/status/2113365135414976966",
+  "source": "MarketNewsFeed [STOCKS]",
+  "published_at": "2026-10-22T20:21:41Z",
+  "summary": "",
+  "score": 24
+ },
+ {
+  "title": "OPENAI IN TALKS TO SECURE MORE COMPUTING CAPACITY FROM UAE - CNBC",
+  "url": "https://x.com/financialjuice/status/2113364994608050464",
+  "source": "MarketNewsFeed [STOCKS]",
+  "published_at": "2026-10-22T20:21:26Z",
+  "summary": "",
+  "score": 24
  },
  {
   "title": "Lightning Labs Urges Immediate Updates Over Certificate Vulnerability",
@@ -112,6 +120,14 @@
   "score": 20
  },
  {
+  "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+  "url": "https://github.com/NVIDIA/OpenShell",
+  "source": "Hacker News Frontpage",
+  "published_at": "Thu, 22 Oct 2026 17:44:06 +0000",
+  "summary": "Comments URL: Points: 141",
+  "score": 18
+ },
+ {
   "title": "The public notebook of a Claude agent with a continuous life",
   "url": "https://intenex.github.io/personhood/",
   "source": "Hacker News Frontpage",
@@ -141,22 +157,6 @@
   "source": "Dark Reading",
   "published_at": "Thu, 22 Oct 2026 05:00:00 GMT",
   "summary": "The United Arab Emirates says it s creating a foundation of security and safety as it transforms its public service footprint.",
-  "score": 18
- },
- {
-  "title": "TrainBridge: Agentic NPU Training Optimization Guided by GPU Compilation Evidence",
-  "url": "https://arxiv.org/abs/2610.29171",
-  "source": "arXiv cs.CL",
-  "published_at": "Thu, 22 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.29171v1 Announce Type: new Abstract: We study how to improve training efficiency on Ascend NPUs. In the NPU training programs we study, framework-level compilation optimizations such as operator fusion are only partially applied, leaving fragmented computation and avoidable execution over",
-  "score": 18
- },
- {
-  "title": "An Explicit Feedback Contract for Iterative ML-Agent Harnesses",
-  "url": "https://arxiv.org/abs/2610.28798",
-  "source": "arXiv cs.LG",
-  "published_at": "Thu, 22 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.28798v1 Announce Type: new Abstract: Iterative ML agents develop models by editing code, running experiments, reading a validation score, and choosing what to try next. In current harnesses this loop is served by an exact validation score returned after every attempt, which leaves the val",
   "score": 18
  }
 ]
