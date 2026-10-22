@@ -1,5 +1,13 @@
 [
  {
+  "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
+  "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
+  "source": "Ars Technica",
+  "published_at": "Thu, 22 Oct 2026 15:25:02 +0000",
+  "summary": "Hackers were already probing the bug before defenders were told it existed.",
+  "score": 46
+ },
+ {
   "title": "BITCOIN ‘GOES TO ZERO’ AFTER A HACK, CHAMATH PALIHAPITIYA PREDICTS",
   "url": "https://www.tradingview.com/news/benzinga:ea75e23d6094b:0-bitcoin-goes-to-zero-after-a-hack-chamath-palihapitiya-predicts/",
   "source": "MarketNewsFeed [CRYPTO]",
@@ -24,11 +32,19 @@
   "score": 34
  },
  {
-  "title": "Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure",
-  "url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
-  "source": "Hacker News Frontpage",
-  "published_at": "Thu, 22 Oct 2026 11:50:36 +0000",
-  "summary": "Comments URL: Points: 193",
+  "title": "ANTHROPIC SAYS IT HAS DONATED THE AGENT SKILLS OPEN STANDARD TO THE AGENTIC AI FOUNDATION, ALONG WITH THE AGENT SKILLS NAME, LOGO, GITHUB ORGANIZATION AND DOMAIN, AND HAS PROPOSED A ROADMAP FOR AGENT ",
+  "url": "https://x.com/FirstSquawk/status/2113335401213739137",
+  "source": "MarketNewsFeed [OTHER]",
+  "published_at": "2026-10-22T18:23:31Z",
+  "summary": "",
+  "score": 32
+ },
+ {
+  "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
+  "url": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
+  "source": "BleepingComputer",
+  "published_at": "Thu, 22 Oct 2026 13:18:22 -0400",
+  "summary": "Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
   "score": 30
  },
  {
@@ -45,14 +61,6 @@
   "source": "The Defiant",
   "published_at": "Thu, 22 Oct 2026 17:01:57 GMT",
   "summary": "New binaries block trust in compromised eMudhra certificate keys. Updating Go on a host alone does not patch software already installed.",
-  "score": 24
- },
- {
-  "title": "QUANTUM COMPUTING TIMELINES ARE SHRINKING FASTER THAN MARKETS APPRECIATE.AND INSTITUTIONAL ALLOCATORS ARE ALREADY PULLING BACK FROM BITCOIN AND ETHEREUM EXPOSURE BECAUSE OF IT.APOSTOLOS KADIS OF MAKES",
-  "url": "https://x.com/LiveSquawk/status/2113285459115667748",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-22T15:05:24Z",
-  "summary": "",
   "score": 24
  },
  {
@@ -104,19 +112,19 @@
   "score": 20
  },
  {
+  "title": "The public notebook of a Claude agent with a continuous life",
+  "url": "https://intenex.github.io/personhood/",
+  "source": "Hacker News Frontpage",
+  "published_at": "Thu, 22 Oct 2026 16:57:56 +0000",
+  "summary": "Comments URL: Points: 8",
+  "score": 18
+ },
+ {
   "title": "Major Banks Find Rogue AI Agents Inside Customer Accounts—And They’re Horrified",
   "url": "https://decrypt.co/381602/banks-rogue-ai-agents-inside-customer-accounts",
   "source": "Decrypt",
   "published_at": "Thu, 22 Oct 2026 15:24:18 +0000",
   "summary": "Major banks including Morgan Stanley, JPMorgan, Bank of America, and Citi are moving to restrict third-party AI agents that log in with customers’ credentials.",
-  "score": 18
- },
- {
-  "title": "JUST IN: 🇺🇸 MORGAN STANLEY, BANK OF AMERICA, JPMORGAN, AND WELLS FARGO DETECT UNAUTHORIZED AI AGENTS ACCESSING CUSTOMER ACCOUNTS AND ATTEMPTING TO ACT WITHOUT USER INSTRUCTIONS.",
-  "url": "https://x.com/WatcherGuru/status/2113276483137630365",
-  "source": "MarketNewsFeed [STOCKS]",
-  "published_at": "2026-10-22T14:29:23Z",
-  "summary": "",
   "score": 18
  },
  {
@@ -149,14 +157,6 @@
   "source": "arXiv cs.LG",
   "published_at": "Thu, 22 Oct 2026 00:00:00 -0400",
   "summary": "arXiv:2610.28798v1 Announce Type: new Abstract: Iterative ML agents develop models by editing code, running experiments, reading a validation score, and choosing what to try next. In current harnesses this loop is served by an exact validation score returned after every attempt, which leaves the val",
-  "score": 18
- },
- {
-  "title": "Measure First, Then Allocate: Calibrated Rollout Budgets for MCP Agents in Reinforcement Learning",
-  "url": "https://arxiv.org/abs/2610.28785",
-  "source": "arXiv cs.LG",
-  "published_at": "Thu, 22 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.28785v1 Announce Type: new Abstract: Training tool-using language models requires costly interaction, yet identical rewards within a rollout group provide no group-relative learning signal. We use reward disagreement to guide harness evaluation and the allocation of rollouts for policy tr",
   "score": 18
  }
 ]
