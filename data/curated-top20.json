@@ -8,6 +8,14 @@
   "score": 46
  },
  {
+  "title": "Railway warns devs to rotate secrets after potential breach",
+  "url": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
+  "source": "BleepingComputer",
+  "published_at": "Thu, 22 Oct 2026 17:25:31 -0400",
+  "summary": "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]",
+  "score": 38
+ },
+ {
   "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
   "url": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
   "source": "BleepingComputer",
@@ -48,22 +56,6 @@
   "score": 28
  },
  {
-  "title": "OPENAI AIMS TO SECURE SIGNATURES BY THE END OF NEXT WEEK - CNBC",
-  "url": "https://x.com/financialjuice/status/2113365135414976966",
-  "source": "MarketNewsFeed [STOCKS]",
-  "published_at": "2026-10-22T20:21:41Z",
-  "summary": "",
-  "score": 24
- },
- {
-  "title": "OPENAI IN TALKS TO SECURE MORE COMPUTING CAPACITY FROM UAE - CNBC",
-  "url": "https://x.com/financialjuice/status/2113364994608050464",
-  "source": "MarketNewsFeed [STOCKS]",
-  "published_at": "2026-10-22T20:21:26Z",
-  "summary": "",
-  "score": 24
- },
- {
   "title": "Lightning Labs Urges Immediate Updates Over Certificate Vulnerability",
   "url": "https://thedefiant.io/news/security/lightning-labs-urges-immediate-updates-over-certificate-vulnerability",
   "source": "The Defiant",
@@ -96,6 +88,14 @@
   "score": 24
  },
  {
+  "title": "ARK 21SHARES BITCOIN ETF - 21SHARES US LLC TO TERMINATE SUPPORT SERVICES AGREEMENT WITH ARK EFFECTIVE DEC 22, 2026 - SEC FILING",
+  "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4682NP:0-ark-21shares-bitcoin-etf-21shares-us-llc-to-terminate-support-services-agreement-with-ark-effective-dec-22-2026-sec-filing/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-22T21:53:44Z",
+  "summary": "",
+  "score": 22
+ },
+ {
   "title": "AI #191: The Hackening Begins",
   "url": "https://www.lesswrong.com/posts/ZoMJdvq9meE4shyzJ/ai-191-the-hackening-begins",
   "source": "LessWrong",
@@ -120,11 +120,19 @@
   "score": 20
  },
  {
+  "title": "The full context of the AI agent quote at the end of AI Gone Wild on Netflix",
+  "url": "https://www.lesswrong.com/posts/DjT6CqbNiWNFuHBXw/the-full-context-of-the-ai-agent-quote-at-the-end-of-ai-gone",
+  "source": "LessWrong",
+  "published_at": "Thu, 22 Oct 2026 21:25:39 GMT",
+  "summary": "Over the weekend my family and I saw the brief documentary AI Gone Wild (27 m) on Netflix, and after watching it, we looked into one of the quotes from one of the agents, and found something that I think is kind of interesting. Perhaps I could say at the outset that I m not trying to argue any parti",
+  "score": 18
+ },
+ {
   "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
   "url": "https://github.com/NVIDIA/OpenShell",
   "source": "Hacker News Frontpage",
   "published_at": "Thu, 22 Oct 2026 17:44:06 +0000",
-  "summary": "Comments URL: Points: 141",
+  "summary": "Comments URL: Points: 224",
   "score": 18
  },
  {
@@ -149,14 +157,6 @@
   "source": "Phoronix",
   "published_at": "Thu, 22 Oct 2026 08:03:30 -0400",
   "summary": "The Mesa 3D graphics driver project has loosened its rules laid out in their AGENTS.md for AI agents to permit AI/LLM assistance in generating code comments and commit/patch messages, as long as a human is ultimately reviewing/editing it in the end...",
-  "score": 18
- },
- {
-  "title": "UAE Transitions 50% of Gov t Services to Agentic AI",
-  "url": "https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai",
-  "source": "Dark Reading",
-  "published_at": "Thu, 22 Oct 2026 05:00:00 GMT",
-  "summary": "The United Arab Emirates says it s creating a foundation of security and safety as it transforms its public service footprint.",
   "score": 18
  }
 ]
