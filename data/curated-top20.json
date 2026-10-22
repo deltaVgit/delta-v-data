@@ -1,11 +1,11 @@
 [
  {
-  "title": "There isn t an easy exploit for this PHP vulnerability",
-  "url": "https://eliastaylor.com/noexploit/",
-  "source": "Hacker News Frontpage",
-  "published_at": "Wed, 21 Oct 2026 23:13:27 +0000",
-  "summary": "Comments URL: Points: 10",
-  "score": 54
+  "title": "BITCOIN ‘GOES TO ZERO’ AFTER A HACK, CHAMATH PALIHAPITIYA PREDICTS",
+  "url": "https://www.tradingview.com/news/benzinga:ea75e23d6094b:0-bitcoin-goes-to-zero-after-a-hack-chamath-palihapitiya-predicts/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-22T15:39:48Z",
+  "summary": "",
+  "score": 34
  },
  {
   "title": "LLM Agents Play Pokemon Showdown",
@@ -28,7 +28,7 @@
   "url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
   "source": "Hacker News Frontpage",
   "published_at": "Thu, 22 Oct 2026 11:50:36 +0000",
-  "summary": "Comments URL: Points: 123",
+  "summary": "Comments URL: Points: 193",
   "score": 30
  },
  {
@@ -40,12 +40,20 @@
   "score": 30
  },
  {
-  "title": "MAJOR U.S. BANKS DETECT UNAUTHORIZED AI AGENTS ACCESSING CUSTOMER ACCOUNTS — AXIOSMAJOR BANKS, INCLUDING $JPM, $BAC, $MS AND $WFC, ARE CONFRONTING SECURITY RISKS FROM THIRD-PARTY AI AGENTS ACCESSING C",
-  "url": "https://x.com/DeItaone/status/2113268796618068421",
-  "source": "MarketNewsFeed [STOCKS]",
-  "published_at": "2026-10-22T13:58:51Z",
+  "title": "Lightning Labs Urges Immediate Updates Over Certificate Vulnerability",
+  "url": "https://thedefiant.io/news/security/lightning-labs-urges-immediate-updates-over-certificate-vulnerability",
+  "source": "The Defiant",
+  "published_at": "Thu, 22 Oct 2026 17:01:57 GMT",
+  "summary": "New binaries block trust in compromised eMudhra certificate keys. Updating Go on a host alone does not patch software already installed.",
+  "score": 24
+ },
+ {
+  "title": "QUANTUM COMPUTING TIMELINES ARE SHRINKING FASTER THAN MARKETS APPRECIATE.AND INSTITUTIONAL ALLOCATORS ARE ALREADY PULLING BACK FROM BITCOIN AND ETHEREUM EXPOSURE BECAUSE OF IT.APOSTOLOS KADIS OF MAKES",
+  "url": "https://x.com/LiveSquawk/status/2113285459115667748",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-22T15:05:24Z",
   "summary": "",
-  "score": 28
+  "score": 24
  },
  {
   "title": "New Serious PHP Vulnerabilities Released and Patched",
@@ -72,19 +80,19 @@
   "score": 24
  },
  {
+  "title": "AI #191: The Hackening Begins",
+  "url": "https://www.lesswrong.com/posts/ZoMJdvq9meE4shyzJ/ai-191-the-hackening-begins",
+  "source": "LessWrong",
+  "published_at": "Thu, 22 Oct 2026 15:20:56 GMT",
+  "summary": "It was the probably worst day in cybersecurity history. So far. Not only is there a critical flaw in PHP that due to a leak was announced a day before the fix would be available, sending most of the internet scrambling for solutions and likely dooming a lot of long tail websites permanently, there w",
+  "score": 22
+ },
+ {
   "title": "Chinese Prosecutors Seek to Confiscate $5.1B in Bitcoin Seized by UK in Qian Case",
   "url": "https://decrypt.co/381580/chinese-prosecutors-seek-to-confiscate-5-1b-in-bitcoin-seized-by-uk-in-qian-case",
   "source": "Decrypt",
   "published_at": "Thu, 22 Oct 2026 10:09:42 +0000",
   "summary": "A Tianjin court will hear the application after a six-month notice period, while a parallel fight over the same coins continues in London.",
-  "score": 22
- },
- {
-  "title": "Chinese Prosecutors Seek Confiscation of 61,896 Bitcoin in Qian Case",
-  "url": "https://thedefiant.io/news/regulation/chinese-prosecutors-seek-confiscation-of-61-896-bitcoin-in-qian-case",
-  "source": "The Defiant",
-  "published_at": "Thu, 22 Oct 2026 06:42:39 GMT",
-  "summary": "The Tianjin application provides for victim restitution, while ownership claims to the UK-held coins must be assessed under Chinese law.",
   "score": 22
  },
  {
@@ -96,34 +104,18 @@
   "score": 20
  },
  {
+  "title": "Major Banks Find Rogue AI Agents Inside Customer Accounts—And They’re Horrified",
+  "url": "https://decrypt.co/381602/banks-rogue-ai-agents-inside-customer-accounts",
+  "source": "Decrypt",
+  "published_at": "Thu, 22 Oct 2026 15:24:18 +0000",
+  "summary": "Major banks including Morgan Stanley, JPMorgan, Bank of America, and Citi are moving to restrict third-party AI agents that log in with customers’ credentials.",
+  "score": 18
+ },
+ {
   "title": "JUST IN: 🇺🇸 MORGAN STANLEY, BANK OF AMERICA, JPMORGAN, AND WELLS FARGO DETECT UNAUTHORIZED AI AGENTS ACCESSING CUSTOMER ACCOUNTS AND ATTEMPTING TO ACT WITHOUT USER INSTRUCTIONS.",
   "url": "https://x.com/WatcherGuru/status/2113276483137630365",
   "source": "MarketNewsFeed [STOCKS]",
   "published_at": "2026-10-22T14:29:23Z",
-  "summary": "",
-  "score": 18
- },
- {
-  "title": "MAJOR US BANKS DETECT UNAUTHORIZED THIRD-PARTY AI AGENTS IN ACCOUNTS - AXIOS",
-  "url": "https://x.com/FirstSquawk/status/2113269841717244321",
-  "source": "MarketNewsFeed [STOCKS]",
-  "published_at": "2026-10-22T14:03:06Z",
-  "summary": "",
-  "score": 18
- },
- {
-  "title": "SQUARE TECH SIGNS MOU TO EXPLORE AI AGENT STABLECOIN PAYMENTS IN KOREA",
-  "url": "https://www.tradingview.com/news/tradingview:4ecd6d39bd357:0-square-tech-signs-mou-to-explore-ai-agent-stablecoin-payments-in-korea/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-22T13:28:26Z",
-  "summary": "",
-  "score": 18
- },
- {
-  "title": "AEREDIUM LAUNCHES AI GUARDRAILS TO CONTROL HOW AUTONOMOUS AGENTS MOVE MONEY AND WRITE CODE",
-  "url": "https://www.tradingview.com/news/chainwire:afc4809f5094b:0-aeredium-launches-ai-guardrails-to-control-how-autonomous-agents-move-money-and-write-code/",
-  "source": "MarketNewsFeed [OTHER]",
-  "published_at": "2026-10-22T12:32:08Z",
   "summary": "",
   "score": 18
  },
@@ -157,6 +149,14 @@
   "source": "arXiv cs.LG",
   "published_at": "Thu, 22 Oct 2026 00:00:00 -0400",
   "summary": "arXiv:2610.28798v1 Announce Type: new Abstract: Iterative ML agents develop models by editing code, running experiments, reading a validation score, and choosing what to try next. In current harnesses this loop is served by an exact validation score returned after every attempt, which leaves the val",
+  "score": 18
+ },
+ {
+  "title": "Measure First, Then Allocate: Calibrated Rollout Budgets for MCP Agents in Reinforcement Learning",
+  "url": "https://arxiv.org/abs/2610.28785",
+  "source": "arXiv cs.LG",
+  "published_at": "Thu, 22 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.28785v1 Announce Type: new Abstract: Training tool-using language models requires costly interaction, yet identical rewards within a rollout group provide no group-relative learning signal. We use reward disagreement to guide harness evaluation and the allocation of rollouts for policy tr",
   "score": 18
  }
 ]

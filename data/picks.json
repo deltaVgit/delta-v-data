@@ -1,19 +1,11 @@
 {
  "picks": [
   {
-   "title": "There isn t an easy exploit for this PHP vulnerability",
-   "url": "https://eliastaylor.com/noexploit/",
-   "source": "Hacker News Frontpage",
-   "published_at": "Wed, 21 Oct 2026 23:13:27 +0000",
-   "summary": "Comments URL: Points: 10",
-   "score": 70
-  },
-  {
    "title": "Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure",
    "url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
    "source": "Hacker News Frontpage",
    "published_at": "Thu, 22 Oct 2026 11:50:36 +0000",
-   "summary": "Comments URL: Points: 123",
+   "summary": "Comments URL: Points: 193",
    "score": 40
   },
   {
@@ -31,6 +23,38 @@
    "published_at": "2026-10-22T13:26:51Z",
    "summary": "PHP maintainers have released two critical vulnerabilities: PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution. All PHP users are strongly encouraged to update immediately. Who is at risk: all PHP installations serving web requ",
    "score": 38
+  },
+  {
+   "title": "BITCOIN ‘GOES TO ZERO’ AFTER A HACK, CHAMATH PALIHAPITIYA PREDICTS",
+   "url": "https://www.tradingview.com/news/benzinga:ea75e23d6094b:0-bitcoin-goes-to-zero-after-a-hack-chamath-palihapitiya-predicts/",
+   "source": "MarketNewsFeed [CRYPTO]",
+   "published_at": "2026-10-22T15:39:48Z",
+   "summary": "",
+   "score": 34
+  },
+  {
+   "title": "AI #191: The Hackening Begins",
+   "url": "https://www.lesswrong.com/posts/ZoMJdvq9meE4shyzJ/ai-191-the-hackening-begins",
+   "source": "LessWrong",
+   "published_at": "Thu, 22 Oct 2026 15:20:56 GMT",
+   "summary": "It was the probably worst day in cybersecurity history. So far. Not only is there a critical flaw in PHP that due to a leak was announced a day before the fix would be available, sending most of the internet scrambling for solutions and likely dooming a lot of long tail websites permanently, there w",
+   "score": 34
+  },
+  {
+   "title": "Lightning Labs Urges Immediate Updates Over Certificate Vulnerability",
+   "url": "https://thedefiant.io/news/security/lightning-labs-urges-immediate-updates-over-certificate-vulnerability",
+   "source": "The Defiant",
+   "published_at": "Thu, 22 Oct 2026 17:01:57 GMT",
+   "summary": "New binaries block trust in compromised eMudhra certificate keys. Updating Go on a host alone does not patch software already installed.",
+   "score": 30
+  },
+  {
+   "title": "GPUs from Nvidia RTX 5090 stolen $470,000 shipment from Brazil airport appear for sale online, identified by serial numbers",
+   "url": "https://www.tomshardware.com/pc-components/gpus/gpus-from-nvidia-rtx-5090-stolen-usd470-000-shipment-from-brazil-airport-appear-for-sale-online-identified-by-serial-numbers-three-employees-identified-by-police-helped-steal-equipment",
+   "source": "Tom's Hardware",
+   "published_at": "Thu, 22 Oct 2026 16:18:47 +0000",
+   "summary": "One of the GPUs from a stolen shipment of RTX 5090 graphics cards has appeared for sale online. Police have identified three employees at an airport who stole the goods.",
+   "score": 30
   },
   {
    "title": "GitLab warns of new max severity code execution vulnerability",
@@ -65,37 +89,13 @@
    "score": 26
   },
   {
-   "title": "SOFI LAUNCHES SOFI EARN (SOFIE), THE FIRST AND ONLY NATIONAL BANK-ISSUED TOKENIZED DEPOSIT FOR CONSUMERS",
-   "url": "https://www.tradingview.com/news/business_wire:7f6adfa073500:0-sofi-launches-sofi-earn-sofie-the-first-and-only-national-bank-issued-tokenized-deposit-for-consumers/",
-   "source": "MarketNewsFeed [OTHER]",
-   "published_at": "2026-10-22T12:04:01Z",
-   "summary": "",
-   "score": 26
-  },
-  {
    "title": "480,000 phishing emails sent from a PC hidden behind a fridge in a Japanese hotel room",
    "url": "https://www.tomshardware.com/tech-industry/cyber-security/480-000-phishing-emails-sent-from-a-pc-hidden-behind-a-fridge-in-a-japanese-hotel-room-chinese-couple-arrested-over-fraud-operation-leaching-hotel-wi-fi",
    "source": "Tom's Hardware",
    "published_at": "Thu, 22 Oct 2026 09:30:00 +0000",
    "summary": "Almost 500,000 phishing emails were sent from a PC hidden behind a fridge in a Kobe, Japan, hotel room.",
    "score": 24
-  },
-  {
-   "title": "JUST IN: 🇺🇸 MORGAN STANLEY, BANK OF AMERICA, JPMORGAN, AND WELLS FARGO DETECT UNAUTHORIZED AI AGENTS ACCESSING CUSTOMER ACCOUNTS AND ATTEMPTING TO ACT WITHOUT USER INSTRUCTIONS.",
-   "url": "https://x.com/WatcherGuru/status/2113276483137630365",
-   "source": "MarketNewsFeed [STOCKS]",
-   "published_at": "2026-10-22T14:29:23Z",
-   "summary": "",
-   "score": 16
-  },
-  {
-   "title": "MAJOR US BANKS DETECT UNAUTHORIZED THIRD-PARTY AI AGENTS IN ACCOUNTS - AXIOS",
-   "url": "https://x.com/FirstSquawk/status/2113269841717244321",
-   "source": "MarketNewsFeed [STOCKS]",
-   "published_at": "2026-10-22T14:03:06Z",
-   "summary": "",
-   "score": 16
   }
  ],
- "updatedAt": "2026-10-22T14:40:35.405149+00:00"
+ "updatedAt": "2026-10-22T17:16:32.619890+00:00"
 }
