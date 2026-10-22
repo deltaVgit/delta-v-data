@@ -8,14 +8,6 @@
   "score": 54
  },
  {
-  "title": "Neural nets are exceptionally vulnerable to goal self-hack",
-  "url": "https://www.alignmentforum.org/posts/eCR373J3NZwFbacnd/neural-nets-are-exceptionally-vulnerable-to-goal-self-hack",
-  "source": "Alignment Forum",
-  "published_at": "Wed, 21 Oct 2026 17:53:01 GMT",
-  "summary": "Suppose we have an AI CEO, ruthlessly devoted to maximising shareholder value. Fortunately, we haven t been completely stupid, and have given it a rich definition of shareholder value, encompassing the success, flourishing, safety, preference satisfaction, and moral values of the shareholders, not j",
-  "score": 46
- },
- {
   "title": "TiDB Breach Exposes Flawed Cloud Security Assumptions",
   "url": "https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security",
   "source": "Dark Reading",
@@ -40,11 +32,11 @@
   "score": 34
  },
  {
-  "title": "NVIDIA'S HUANG CALLS FOR MORE FINE-GRAINED CONTROL OF AI AGENTS",
-  "url": "https://x.com/financialjuice/status/2113161405348401184",
-  "source": "MarketNewsFeed [STOCKS]",
-  "published_at": "2026-10-22T06:52:04Z",
-  "summary": "",
+  "title": "Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure",
+  "url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
+  "source": "Hacker News Frontpage",
+  "published_at": "Thu, 22 Oct 2026 11:50:36 +0000",
+  "summary": "Comments URL: Points: 12",
   "score": 30
  },
  {
@@ -72,6 +64,46 @@
   "score": 30
  },
  {
+  "title": "KALSHI AND BITGO ($BTGO) LAUNCH CRYPTO-BACKED MARGIN LOANSKALSHI PRIME AND BITGO LAUNCHED HODL MARGINING, ALLOWING ELIGIBLE TRADERS TO BORROW DOLLARS AGAINST BITCOIN, ETHEREUM AND STABLECOINS WITHOUT ",
+  "url": "https://x.com/DeItaone/status/2113240481253458026",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-22T12:06:32Z",
+  "summary": "",
+  "score": 24
+ },
+ {
+  "title": "BNB CHAIN, BINANCE'S CZ BREAK SILENCE ON PHP'S CRITICAL VULNERABILITY AMID INDUSTRY-WIDE RESPONSE",
+  "url": "https://www.tradingview.com/news/u_today:fc39e5058094b:0-bnb-chain-binance-s-cz-break-silence-on-php-s-critical-vulnerability-amid-industry-wide-response/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-22T11:54:39Z",
+  "summary": "",
+  "score": 24
+ },
+ {
+  "title": "GitLab warns of new max severity code execution vulnerability",
+  "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
+  "source": "BleepingComputer",
+  "published_at": "Thu, 22 Oct 2026 07:41:48 -0400",
+  "summary": "GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...]",
+  "score": 24
+ },
+ {
+  "title": "Several Linux Kernel Vulnerabilities Accidentally Posted To Public Kernel Mailing List",
+  "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+  "source": "Phoronix",
+  "published_at": "Thu, 22 Oct 2026 06:05:53 -0400",
+  "summary": "Seemingly as an accident, overnight several new Linux kernel vulnerability reports were posted to the public Linux kernel mailing list rather than the private security mailing list. The vulnerabilities have yet to be patched on mainline but at least in some cases there are patches undergoing testing",
+  "score": 24
+ },
+ {
+  "title": "Chinese Prosecutors Seek to Confiscate $5.1B in Bitcoin Seized by UK in Qian Case",
+  "url": "https://decrypt.co/381580/chinese-prosecutors-seek-to-confiscate-5-1b-in-bitcoin-seized-by-uk-in-qian-case",
+  "source": "Decrypt",
+  "published_at": "Thu, 22 Oct 2026 10:09:42 +0000",
+  "summary": "A Tianjin court will hear the application after a six-month notice period, while a parallel fight over the same coins continues in London.",
+  "score": 22
+ },
+ {
   "title": "Chinese Prosecutors Seek Confiscation of 61,896 Bitcoin in Qian Case",
   "url": "https://thedefiant.io/news/regulation/chinese-prosecutors-seek-confiscation-of-61-896-bitcoin-in-qian-case",
   "source": "The Defiant",
@@ -80,20 +112,12 @@
   "score": 22
  },
  {
-  "title": "Japan s Onamae Desktop Cloud hacked, up to 27,000 servers affected",
-  "url": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
-  "source": "BleepingComputer",
-  "published_at": "Wed, 21 Oct 2026 17:43:27 -0400",
-  "summary": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers servers. [...]",
-  "score": 22
- },
- {
-  "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
-  "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
-  "source": "BleepingComputer",
-  "published_at": "Wed, 21 Oct 2026 16:31:48 -0400",
-  "summary": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]",
-  "score": 22
+  "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+  "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+  "source": "Hacker News Frontpage",
+  "published_at": "Thu, 22 Oct 2026 08:51:31 +0000",
+  "summary": "Comments URL: Points: 41",
+  "score": 20
  },
  {
   "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
@@ -112,14 +136,6 @@
   "score": 20
  },
  {
-  "title": "PHP Foundation s Overview of CVE-2026-109618 and CVE-2026-109619",
-  "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-  "source": "Hacker News Frontpage",
-  "published_at": "Wed, 21 Oct 2026 15:48:56 +0000",
-  "summary": "Comments URL: Points: 11",
-  "score": 20
- },
- {
   "title": "DATALINE RAISES $10.6 MILLION SEED ROUND, PLANS AI-AGENT DATA NETWORK EXPANSION AND TOKEN LAUNCH",
   "url": "https://www.tradingview.com/news/bloomingbit:7fb207559094b:0-dataline-raises-10-6-million-seed-round-plans-ai-agent-data-network-expansion-and-token-launch/",
   "source": "MarketNewsFeed [OTHER]",
@@ -128,35 +144,19 @@
   "score": 18
  },
  {
+  "title": "Mesa Loosens Rules Around AI Agents For Code Comments / Commit Messages",
+  "url": "https://www.phoronix.com/news/Mesa-Loosens-AGENTS-MD",
+  "source": "Phoronix",
+  "published_at": "Thu, 22 Oct 2026 08:03:30 -0400",
+  "summary": "The Mesa 3D graphics driver project has loosened its rules laid out in their AGENTS.md for AI agents to permit AI/LLM assistance in generating code comments and commit/patch messages, as long as a human is ultimately reviewing/editing it in the end...",
+  "score": 18
+ },
+ {
   "title": "UAE Transitions 50% of Gov t Services to Agentic AI",
   "url": "https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai",
   "source": "Dark Reading",
   "published_at": "Thu, 22 Oct 2026 05:00:00 GMT",
   "summary": "The United Arab Emirates says it s creating a foundation of security and safety as it transforms its public service footprint.",
-  "score": 18
- },
- {
-  "title": "TrainBridge: Agentic NPU Training Optimization Guided by GPU Compilation Evidence",
-  "url": "https://arxiv.org/abs/2610.29171",
-  "source": "arXiv cs.CL",
-  "published_at": "Thu, 22 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.29171v1 Announce Type: new Abstract: We study how to improve training efficiency on Ascend NPUs. In the NPU training programs we study, framework-level compilation optimizations such as operator fusion are only partially applied, leaving fragmented computation and avoidable execution over",
-  "score": 18
- },
- {
-  "title": "An Explicit Feedback Contract for Iterative ML-Agent Harnesses",
-  "url": "https://arxiv.org/abs/2610.28798",
-  "source": "arXiv cs.LG",
-  "published_at": "Thu, 22 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.28798v1 Announce Type: new Abstract: Iterative ML agents develop models by editing code, running experiments, reading a validation score, and choosing what to try next. In current harnesses this loop is served by an exact validation score returned after every attempt, which leaves the val",
-  "score": 18
- },
- {
-  "title": "Measure First, Then Allocate: Calibrated Rollout Budgets for MCP Agents in Reinforcement Learning",
-  "url": "https://arxiv.org/abs/2610.28785",
-  "source": "arXiv cs.LG",
-  "published_at": "Thu, 22 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.28785v1 Announce Type: new Abstract: Training tool-using language models requires costly interaction, yet identical rewards within a rollout group provide no group-relative learning signal. We use reward disagreement to guide harness evaluation and the allocation of rollouts for policy tr",
   "score": 18
  }
 ]
