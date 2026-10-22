@@ -13,32 +13,24 @@
    "url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
    "source": "Hacker News Frontpage",
    "published_at": "Thu, 22 Oct 2026 11:50:36 +0000",
-   "summary": "Comments URL: Points: 12",
+   "summary": "Comments URL: Points: 123",
    "score": 40
   },
   {
-   "title": "Cloudflare CEO Reports Millions of PHP2Shell Exploit Attempts",
-   "url": "https://thedefiant.io/news/security/cloudflare-ceo-reports-millions-of-php2shell-exploit-attempts",
-   "source": "The Defiant",
-   "published_at": "Thu, 22 Oct 2026 03:39:17 GMT",
-   "summary": "PHP has shipped fixes for four supported branches. The flaws can let attackers run code on vulnerable web servers without logging in.",
+   "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
+   "url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
+   "source": "BleepingComputer",
+   "published_at": "Thu, 22 Oct 2026 09:09:12 -0400",
+   "summary": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
    "score": 40
   },
   {
-   "title": "TiDB Breach Exposes Flawed Cloud Security Assumptions",
-   "url": "https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security",
-   "source": "Dark Reading",
-   "published_at": "Wed, 21 Oct 2026 21:15:39 GMT",
-   "summary": "Cloud providers may be storing sensitive customer data, without either party knowing it. But when a provider is breached, the data comes home to roost.",
+   "title": "New Serious PHP Vulnerabilities Released and Patched",
+   "url": "https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html",
+   "source": "Schneier on Security",
+   "published_at": "2026-10-22T13:26:51Z",
+   "summary": "PHP maintainers have released two critical vulnerabilities: PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution. All PHP users are strongly encouraged to update immediately. Who is at risk: all PHP installations serving web requ",
    "score": 38
-  },
-  {
-   "title": "BNB CHAIN, BINANCE'S CZ BREAK SILENCE ON PHP'S CRITICAL VULNERABILITY AMID INDUSTRY-WIDE RESPONSE",
-   "url": "https://www.tradingview.com/news/u_today:fc39e5058094b:0-bnb-chain-binance-s-cz-break-silence-on-php-s-critical-vulnerability-amid-industry-wide-response/",
-   "source": "MarketNewsFeed [CRYPTO]",
-   "published_at": "2026-10-22T11:54:39Z",
-   "summary": "",
-   "score": 30
   },
   {
    "title": "GitLab warns of new max severity code execution vulnerability",
@@ -65,28 +57,12 @@
    "score": 28
   },
   {
-   "title": "Oracle Security Alert Advisory – CVE-2026-91403",
-   "url": "https://www.oracle.com/security-alerts/alert-cve-2026-91403.html",
-   "source": "Hacker News Frontpage",
-   "published_at": "Wed, 21 Oct 2026 22:17:19 +0000",
-   "summary": "Comments URL: Points: 12",
-   "score": 28
-  },
-  {
-   "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
-   "url": "https://aws.amazon.com/security/security-bulletins/2026-143-aws/",
-   "source": "Hacker News Frontpage",
-   "published_at": "Wed, 21 Oct 2026 21:12:59 +0000",
-   "summary": "Comments URL: Points: 79",
-   "score": 28
-  },
-  {
-   "title": "Potential third critical PHP CVE",
-   "url": "https://elk.zone/m.webtoo.ls/@elise@katze.sh/117479383721672027",
-   "source": "Hacker News Frontpage",
-   "published_at": "Wed, 21 Oct 2026 18:57:52 +0000",
-   "summary": "Comments URL: Points: 13",
-   "score": 28
+   "title": "Researchers Flag Swell Rate Manipulation After Railway Key-Drain Warning",
+   "url": "https://thedefiant.io/news/hacks/researchers-flag-swell-rate-manipulation-after-railway-key-drain-warning",
+   "source": "The Defiant",
+   "published_at": "Thu, 22 Oct 2026 14:18:51 GMT",
+   "summary": "Researchers flagged inflated swETH and rswETH rates after the cloud-platform disclosure; the reported 2,513 ETH held by Swell is not a confirmed loss.",
+   "score": 26
   },
   {
    "title": "SOFI LAUNCHES SOFI EARN (SOFIE), THE FIRST AND ONLY NATIONAL BANK-ISSUED TOKENIZED DEPOSIT FOR CONSUMERS",
@@ -95,7 +71,31 @@
    "published_at": "2026-10-22T12:04:01Z",
    "summary": "",
    "score": 26
+  },
+  {
+   "title": "480,000 phishing emails sent from a PC hidden behind a fridge in a Japanese hotel room",
+   "url": "https://www.tomshardware.com/tech-industry/cyber-security/480-000-phishing-emails-sent-from-a-pc-hidden-behind-a-fridge-in-a-japanese-hotel-room-chinese-couple-arrested-over-fraud-operation-leaching-hotel-wi-fi",
+   "source": "Tom's Hardware",
+   "published_at": "Thu, 22 Oct 2026 09:30:00 +0000",
+   "summary": "Almost 500,000 phishing emails were sent from a PC hidden behind a fridge in a Kobe, Japan, hotel room.",
+   "score": 24
+  },
+  {
+   "title": "JUST IN: 🇺🇸 MORGAN STANLEY, BANK OF AMERICA, JPMORGAN, AND WELLS FARGO DETECT UNAUTHORIZED AI AGENTS ACCESSING CUSTOMER ACCOUNTS AND ATTEMPTING TO ACT WITHOUT USER INSTRUCTIONS.",
+   "url": "https://x.com/WatcherGuru/status/2113276483137630365",
+   "source": "MarketNewsFeed [STOCKS]",
+   "published_at": "2026-10-22T14:29:23Z",
+   "summary": "",
+   "score": 16
+  },
+  {
+   "title": "MAJOR US BANKS DETECT UNAUTHORIZED THIRD-PARTY AI AGENTS IN ACCOUNTS - AXIOS",
+   "url": "https://x.com/FirstSquawk/status/2113269841717244321",
+   "source": "MarketNewsFeed [STOCKS]",
+   "published_at": "2026-10-22T14:03:06Z",
+   "summary": "",
+   "score": 16
   }
  ],
- "updatedAt": "2026-10-22T12:18:21.741276+00:00"
+ "updatedAt": "2026-10-22T14:40:35.405149+00:00"
 }
