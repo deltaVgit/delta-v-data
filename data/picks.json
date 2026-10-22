@@ -25,20 +25,20 @@
    "score": 64
   },
   {
-   "title": "Neural nets are exceptionally vulnerable to goal self-hack",
-   "url": "https://www.lesswrong.com/posts/eCR373J3NZwFbacnd/neural-nets-are-exceptionally-vulnerable-to-goal-self-hack",
-   "source": "LessWrong",
-   "published_at": "Wed, 21 Oct 2026 17:53:01 GMT",
-   "summary": "Suppose we have an AI CEO, ruthlessly devoted to maximising shareholder value. Fortunately, we haven t been completely stupid, and have given it a rich definition of shareholder value, encompassing the success, flourishing, safety, preference satisfaction, and moral values of the shareholders, not j",
-   "score": 64
-  },
-  {
    "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
    "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
    "source": "BleepingComputer",
    "published_at": "Wed, 21 Oct 2026 16:31:48 -0400",
    "summary": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]",
    "score": 60
+  },
+  {
+   "title": "Cloudflare CEO Reports Millions of PHP2Shell Exploit Attempts",
+   "url": "https://thedefiant.io/news/security/cloudflare-ceo-reports-millions-of-php2shell-exploit-attempts",
+   "source": "The Defiant",
+   "published_at": "Thu, 22 Oct 2026 03:39:17 GMT",
+   "summary": "PHP has shipped fixes for four supported branches. The flaws can let attackers run code on vulnerable web servers without logging in.",
+   "score": 40
   },
   {
    "title": "AWS SAYS THE EXPLOIT ATTEMPT ORIGINATED FROM AN IP ADDRESS ASSOCIATED WITH A COMMERCIAL ANONYMIZATION NETWORK, AND THAT PHP2SHELL IS NOW BEING BROADLY EXPLOITED IN THE WILD",
@@ -53,14 +53,6 @@
    "url": "https://x.com/FirstSquawk/status/2113038962722033727",
    "source": "MarketNewsFeed [STOCKS]",
    "published_at": "2026-10-21T22:45:38Z",
-   "summary": "",
-   "score": 40
-  },
-  {
-   "title": "*AWS: PHP2SHELL IS NOW BEING BROADLY EXPLOITED IN THE WILD",
-   "url": "https://x.com/tradfi/status/2113038460185608287",
-   "source": "MarketNewsFeed [OTHER]",
-   "published_at": "2026-10-21T22:43:37Z",
    "summary": "",
    "score": 40
   },
@@ -93,9 +85,17 @@
    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
    "source": "Hacker News Frontpage",
    "published_at": "Wed, 21 Oct 2026 14:03:43 +0000",
-   "summary": "Comments URL: Points: 230",
+   "summary": "Comments URL: Points: 243",
+   "score": 30
+  },
+  {
+   "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+   "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+   "source": "Hacker News Frontpage",
+   "published_at": "Wed, 21 Oct 2026 14:00:26 +0000",
+   "summary": "Comments URL: Points: 4",
    "score": 30
   }
  ],
- "updatedAt": "2026-10-22T01:32:26.329504+00:00"
+ "updatedAt": "2026-10-22T04:25:51.078566+00:00"
 }
