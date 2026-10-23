@@ -1,19 +1,19 @@
 [
  {
-  "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
-  "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
-  "source": "Ars Technica",
-  "published_at": "Thu, 22 Oct 2026 15:25:02 +0000",
-  "summary": "Hackers were already probing the bug before defenders were told it existed.",
-  "score": 46
- },
- {
   "title": "PerMIT: Securing Persistent Memory for LLM Agents via Machine-Checked Integrity Theorems and Scalable Community Trust",
   "url": "https://arxiv.org/abs/2610.28987",
   "source": "arXiv cs.AI",
   "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
   "summary": "arXiv:2610.28987v1 Announce Type: new Abstract: Persistent memory is a largely undefended surface for injection and poisoning, and the same risk limits memory sharing among agents. We present PerMIT, a memory architecture with provable integrity guarantees under an explicit trust assumption: only us",
   "score": 44
+ },
+ {
+  "title": "China-aligned hackers deploy AI agents in massive ConnectWise supply chain attack",
+  "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-says-china-aligned-hackers-used-ai-agents-in-connectwise-supply-chain-attack-agents-attempted-sign-ins-at-more-than-2-250-microsoft-365-tenants-with-some-of-the-groups-attacks-reaching-privileged-access-in-under-three-hours",
+  "source": "Tom's Hardware",
+  "published_at": "Fri, 23 Oct 2026 10:30:00 +0000",
+  "summary": "Microsoft says China-aligned Storm-0940 used the ARTEX AI agent framework in the ConnectWise Cloud Backup supply chain attack.",
+  "score": 40
  },
  {
   "title": "Railway warns devs to rotate secrets after potential breach",
@@ -24,12 +24,12 @@
   "score": 38
  },
  {
-  "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
-  "url": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
-  "source": "BleepingComputer",
-  "published_at": "Thu, 22 Oct 2026 15:12:51 -0400",
-  "summary": "Hackers compromised the LiteLLM project s PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
-  "score": 38
+  "title": "BITCOIN COULD BE HACKED AND FALL TO ZERO, WARNS CHAMATH PALIHAPITIYA",
+  "url": "https://www.tradingview.com/news/coinpedia:0eb102337094b:0-bitcoin-could-be-hacked-and-fall-to-zero-warns-chamath-palihapitiya/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-23T07:44:34Z",
+  "summary": "",
+  "score": 34
  },
  {
   "title": "Behavior Beyond Text: Evaluating Refusal Transfer Failure in LLM Agents",
@@ -60,30 +60,22 @@
   "url": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
   "source": "Hacker News Best",
   "published_at": "Thu, 22 Oct 2026 21:24:41 +0000",
-  "summary": "Comments URL: Points: 375",
+  "summary": "Comments URL: Points: 429",
   "score": 32
  },
  {
-  "title": "Capcom confirms data breach affecting 11.7 million accounts",
-  "url": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
-  "source": "BleepingComputer",
-  "published_at": "Thu, 22 Oct 2026 16:22:45 -0400",
-  "summary": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]",
+  "title": "CoinDCX Acknowledges Wallet-Sweeping Losses After Denying New Breach",
+  "url": "https://thedefiant.io/news/hacks/coindcx-acknowledges-wallet-sweeping-losses-after-denying-new-breach",
+  "source": "The Defiant",
+  "published_at": "Fri, 23 Oct 2026 06:50:59 GMT",
+  "summary": "The exchange says affected deposits were credited, but has not disclosed the size of its losses.",
   "score": 28
  },
  {
-  "title": "BOJ FLAGS PROFIT PRESSURES FROM RISING RAW MATERIAL AND ENERGY PRICES, WITH SOME FIRMS VULNERABLE TO HIGHER OIL COSTS",
-  "url": "https://x.com/FirstSquawk/status/2113513347375391020",
-  "source": "MarketNewsFeed [MACRO]",
-  "published_at": "2026-10-23T06:10:36Z",
-  "summary": "",
-  "score": 24
- },
- {
-  "title": "IOTEX: ADOPTS A FORMAL VULNERABILITY DISCLOSURE POLICY - 23 OCT 2026",
-  "url": "https://www.tradingview.com/news/coinmarketcal:2c032b6e1094b:0-iotex-adopts-a-formal-vulnerability-disclosure-policy-23-oct-2026/",
+  "title": "IOTEX INTRODUCED FORMAL VULNERABILITY DISCLOSURE POLICY",
+  "url": "https://www.tradingview.com/news/coindar:894542ce6094b:0-iotex-introduced-formal-vulnerability-disclosure-policy/",
   "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-23T05:05:36Z",
+  "published_at": "2026-10-23T07:35:15Z",
   "summary": "",
   "score": 24
  },
@@ -112,22 +104,6 @@
   "score": 24
  },
  {
-  "title": "ETHEREUM DELAYS GLAMSTERDAM HOODI TESTNET LAUNCH OVER SECURITY RISKS",
-  "url": "https://www.tradingview.com/news/cointelegraph:03940a310094b:0-ethereum-delays-glamsterdam-hoodi-testnet-launch-over-security-risks/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-23T05:14:56Z",
-  "summary": "",
-  "score": 22
- },
- {
-  "title": "ETHEREUM DELAYS GLAMSTERDAM TEST AFTER SECURITY DEVS FLAG RISK TO EXISTING CONTRACTS",
-  "url": "https://x.com/cryptounfolded/status/2113496997705523231",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-23T05:05:41Z",
-  "summary": "",
-  "score": 22
- },
- {
   "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
   "url": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
   "source": "CoinDesk",
@@ -136,27 +112,51 @@
   "score": 22
  },
  {
-  "title": "BITCOIN CORE CHANGES SECURITY POLICY AS AI MAKES BUGS EASIER TO FIND",
-  "url": "https://www.tradingview.com/news/cointelegraph:487104f44094b:0-bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-23T04:46:57Z",
-  "summary": "",
-  "score": 22
- },
- {
-  "title": "AI #191: The Hackening Begins",
-  "url": "https://www.lesswrong.com/posts/ZoMJdvq9meE4shyzJ/ai-191-the-hackening-begins",
+  "title": "Gnerk Asks How Big a Swarm Can Get Before It Stops Being One Agent",
+  "url": "https://www.lesswrong.com/posts/goawvtgQcrMZtezXv/gnerk-asks-how-big-a-swarm-can-get-before-it-stops-being-one",
   "source": "LessWrong",
-  "published_at": "Thu, 22 Oct 2026 15:20:56 GMT",
-  "summary": "It was the probably worst day in cybersecurity history. So far. Not only is there a critical flaw in PHP that due to a leak was announced a day before the fix would be available, sending most of the internet scrambling for solutions and likely dooming a lot of long tail websites permanently, there w",
-  "score": 22
+  "published_at": "Fri, 23 Oct 2026 09:48:55 GMT",
+  "summary": "Introduction (Narrator Voice, Morgan Freeman): Gnerk sat there thinking deeply about the recent swarm attacks. Gnerk might not be the smartest tool in the shed but he had pointed the dull tools he had at this problem for a long time. He had the tools of spectral graph theory at hand. “Do you ever dr",
+  "score": 18
  },
  {
-  "title": "OMDIA FORECASTS ASIA-PACIFIC AI AGENT MARKET TO REACH US$11.2 BILLION BY 2030",
-  "url": "https://x.com/FirstSquawk/status/2113458258229027103",
-  "source": "MarketNewsFeed [MACRO]",
-  "published_at": "2026-10-23T02:31:43Z",
-  "summary": "",
+  "title": "GenXR-Bench: Benchmarking Coding Agents for Interactive XR Development",
+  "url": "https://arxiv.org/abs/2610.29014",
+  "source": "arXiv cs.AI",
+  "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.29014v1 Announce Type: new Abstract: Coding agents are rapidly advancing from single-file generation to long-horizon repository-scale engineering, yet the evaluation of their capabilities to author interactive extended reality (XR) applications remains an open challenge. Unlike traditiona",
+  "score": 18
+ },
+ {
+  "title": "An Evidence-Driven Multi-Agent Compound AI System for Head and Neck Proton Radiotherapy Planning",
+  "url": "https://arxiv.org/abs/2610.29010",
+  "source": "arXiv cs.AI",
+  "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.29010v1 Announce Type: new Abstract: Radiation treatment planning requires balancing competing objectives to satisfy clinical criteria while accommodating physicians preferences. This study aims to develop an evidence-driven, multi-agent compound AI system that integrates DRL-based automa",
+  "score": 18
+ },
+ {
+  "title": "AgentPolicyForge: From Executable Environments to Policy Benchmarks and Adaptive Guards",
+  "url": "https://arxiv.org/abs/2610.28989",
+  "source": "arXiv cs.AI",
+  "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.28989v1 Announce Type: new Abstract: Customized agent deployments define policies over tools, resources, and execution conditions. Providing these policies in the task agent s prompt does not reliably prevent violations. Training a guard requires examples of tool calls that comply with or",
+  "score": 18
+ },
+ {
+  "title": "Self-Improving Agents with World Model Predictive Paths",
+  "url": "https://arxiv.org/abs/2610.28945",
+  "source": "arXiv cs.AI",
+  "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.28945v1 Announce Type: new Abstract: Large language model (LLM) agents are increasingly expected to interact with environments and improve their decisions during deployment. However, how anticipating future outcomes and drawing on accumulated interaction experience can jointly support dec",
+  "score": 18
+ },
+ {
+  "title": "Back Up Before You Regret: Measuring Backup Awareness and Automating Backup in Coding Agents",
+  "url": "https://arxiv.org/abs/2610.28934",
+  "source": "arXiv cs.AI",
+  "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.28934v1 Announce Type: new Abstract: Coding agents now complete tasks autonomously, modifying real-world state such as artifacts, software environments, and configurations along the way. Yet they show limited backup awareness: recognizing that an action will modify state that may later be",
   "score": 18
  }
 ]

@@ -1,20 +1,12 @@
 {
  "picks": [
   {
-   "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
-   "url": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
-   "source": "BleepingComputer",
-   "published_at": "Thu, 22 Oct 2026 15:12:51 -0400",
-   "summary": "Hackers compromised the LiteLLM project s PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
-   "score": 68
-  },
-  {
-   "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
-   "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
-   "source": "Ars Technica",
-   "published_at": "Thu, 22 Oct 2026 15:25:02 +0000",
-   "summary": "Hackers were already probing the bug before defenders were told it existed.",
-   "score": 64
+   "title": "CoinDCX Acknowledges Wallet-Sweeping Losses After Denying New Breach",
+   "url": "https://thedefiant.io/news/hacks/coindcx-acknowledges-wallet-sweeping-losses-after-denying-new-breach",
+   "source": "The Defiant",
+   "published_at": "Fri, 23 Oct 2026 06:50:59 GMT",
+   "summary": "The exchange says affected deposits were credited, but has not disclosed the size of its losses.",
+   "score": 38
   },
   {
    "title": "Railway warns devs to rotate secrets after potential breach",
@@ -25,12 +17,20 @@
    "score": 38
   },
   {
-   "title": "Capcom confirms data breach affecting 11.7 million accounts",
-   "url": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
-   "source": "BleepingComputer",
-   "published_at": "Thu, 22 Oct 2026 16:22:45 -0400",
-   "summary": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]",
-   "score": 38
+   "title": "China-aligned hackers deploy AI agents in massive ConnectWise supply chain attack",
+   "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-says-china-aligned-hackers-used-ai-agents-in-connectwise-supply-chain-attack-agents-attempted-sign-ins-at-more-than-2-250-microsoft-365-tenants-with-some-of-the-groups-attacks-reaching-privileged-access-in-under-three-hours",
+   "source": "Tom's Hardware",
+   "published_at": "Fri, 23 Oct 2026 10:30:00 +0000",
+   "summary": "Microsoft says China-aligned Storm-0940 used the ARTEX AI agent framework in the ConnectWise Cloud Backup supply chain attack.",
+   "score": 34
+  },
+  {
+   "title": "BITCOIN COULD BE HACKED AND FALL TO ZERO, WARNS CHAMATH PALIHAPITIYA",
+   "url": "https://www.tradingview.com/news/coinpedia:0eb102337094b:0-bitcoin-could-be-hacked-and-fall-to-zero-warns-chamath-palihapitiya/",
+   "source": "MarketNewsFeed [CRYPTO]",
+   "published_at": "2026-10-23T07:44:34Z",
+   "summary": "",
+   "score": 34
   },
   {
    "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
@@ -45,38 +45,14 @@
    "url": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
    "source": "Hacker News Best",
    "published_at": "Thu, 22 Oct 2026 21:24:41 +0000",
-   "summary": "Comments URL: Points: 375",
+   "summary": "Comments URL: Points: 429",
    "score": 34
   },
   {
-   "title": "AI #191: The Hackening Begins",
-   "url": "https://www.lesswrong.com/posts/ZoMJdvq9meE4shyzJ/ai-191-the-hackening-begins",
-   "source": "LessWrong",
-   "published_at": "Thu, 22 Oct 2026 15:20:56 GMT",
-   "summary": "It was the probably worst day in cybersecurity history. So far. Not only is there a critical flaw in PHP that due to a leak was announced a day before the fix would be available, sending most of the internet scrambling for solutions and likely dooming a lot of long tail websites permanently, there w",
-   "score": 34
-  },
-  {
-   "title": "CITIGROUP SAYS IT ELECTED JAMES FLANAGAN AS A DIRECTOR AND APPOINTED HIM TO THE AUDIT COMMITTEE ON OCTOBER 21, 2026, WITH FLANAGAN ALSO APPOINTED AS A BOARD MEMBER OF CITIBANK, N.A. - SEC FILING",
-   "url": "https://x.com/FirstSquawk/status/2113381095077183888",
-   "source": "MarketNewsFeed [STOCKS]",
-   "published_at": "2026-10-22T21:25:13Z",
-   "summary": "",
-   "score": 32
-  },
-  {
-   "title": "BOJ FLAGS PROFIT PRESSURES FROM RISING RAW MATERIAL AND ENERGY PRICES, WITH SOME FIRMS VULNERABLE TO HIGHER OIL COSTS",
-   "url": "https://x.com/FirstSquawk/status/2113513347375391020",
-   "source": "MarketNewsFeed [MACRO]",
-   "published_at": "2026-10-23T06:10:36Z",
-   "summary": "",
-   "score": 30
-  },
-  {
-   "title": "IOTEX: ADOPTS A FORMAL VULNERABILITY DISCLOSURE POLICY - 23 OCT 2026",
-   "url": "https://www.tradingview.com/news/coinmarketcal:2c032b6e1094b:0-iotex-adopts-a-formal-vulnerability-disclosure-policy-23-oct-2026/",
+   "title": "IOTEX INTRODUCED FORMAL VULNERABILITY DISCLOSURE POLICY",
+   "url": "https://www.tradingview.com/news/coindar:894542ce6094b:0-iotex-introduced-formal-vulnerability-disclosure-policy/",
    "source": "MarketNewsFeed [CRYPTO]",
-   "published_at": "2026-10-23T05:05:36Z",
+   "published_at": "2026-10-23T07:35:15Z",
    "summary": "",
    "score": 30
   },
@@ -89,13 +65,37 @@
    "score": 30
   },
   {
-   "title": "GPUs from Nvidia RTX 5090 stolen $470,000 shipment from Brazil airport appear for sale online, identified by serial numbers",
-   "url": "https://www.tomshardware.com/pc-components/gpus/gpus-from-nvidia-rtx-5090-stolen-usd470-000-shipment-from-brazil-airport-appear-for-sale-online-identified-by-serial-numbers-three-employees-identified-by-police-helped-steal-equipment",
-   "source": "Tom's Hardware",
-   "published_at": "Thu, 22 Oct 2026 16:18:47 +0000",
-   "summary": "One of the GPUs from a stolen shipment of RTX 5090 graphics cards has appeared for sale online. Police have identified three employees at an airport who stole the goods.",
-   "score": 30
+   "title": "RUSSIAN CENTRAL BANK LEAVES KEY RATE AT 14.00%; EST 14.00%",
+   "url": "https://x.com/FirstSquawk/status/2113578860751339601",
+   "source": "MarketNewsFeed [MACRO]",
+   "published_at": "2026-10-23T10:30:59Z",
+   "summary": "",
+   "score": 16
+  },
+  {
+   "title": "Sweden’s central bank revives e-krona debate as stablecoins and digital euro loom",
+   "url": "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom",
+   "source": "CoinDesk",
+   "published_at": "Fri, 23 Oct 2026 08:57:34 +0000",
+   "summary": "",
+   "score": 16
+  },
+  {
+   "title": "IDF STARTS MILITARY ACTION IN WEST BANK FOLLOWING SHOOTING INCIDENT.",
+   "url": "https://x.com/FirstSquawk/status/2113544510328406396",
+   "source": "MarketNewsFeed [MACRO]",
+   "published_at": "2026-10-23T08:14:25Z",
+   "summary": "",
+   "score": 16
+  },
+  {
+   "title": "State Bank of India Suffers a Customer PII Data Leak",
+   "url": "https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak",
+   "source": "Dark Reading",
+   "published_at": "Fri, 23 Oct 2026 03:30:00 GMT",
+   "summary": "Relatively small data breaches in India can turn quite serious, thanks to a sophisticated underground market for trading PII.",
+   "score": 16
   }
  ],
- "updatedAt": "2026-10-23T06:39:08.390574+00:00"
+ "updatedAt": "2026-10-23T11:16:10.734128+00:00"
 }
