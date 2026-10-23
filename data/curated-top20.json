@@ -16,22 +16,6 @@
   "score": 40
  },
  {
-  "title": "Railway warns devs to rotate secrets after potential breach",
-  "url": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
-  "source": "BleepingComputer",
-  "published_at": "Thu, 22 Oct 2026 17:25:31 -0400",
-  "summary": "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]",
-  "score": 38
- },
- {
-  "title": "BITCOIN COULD BE HACKED AND FALL TO ZERO, WARNS CHAMATH PALIHAPITIYA",
-  "url": "https://www.tradingview.com/news/coinpedia:0eb102337094b:0-bitcoin-could-be-hacked-and-fall-to-zero-warns-chamath-palihapitiya/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-23T07:44:34Z",
-  "summary": "",
-  "score": 34
- },
- {
   "title": "Behavior Beyond Text: Evaluating Refusal Transfer Failure in LLM Agents",
   "url": "https://arxiv.org/abs/2610.28982",
   "source": "arXiv cs.AI",
@@ -60,8 +44,16 @@
   "url": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
   "source": "Hacker News Best",
   "published_at": "Thu, 22 Oct 2026 21:24:41 +0000",
-  "summary": "Comments URL: Points: 429",
+  "summary": "Comments URL: Points: 432",
   "score": 32
+ },
+ {
+  "title": "AI Agents as Insider Threats: Inside Microsoft s Bet on a Unified Security Stack",
+  "url": "https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack",
+  "source": "Dark Reading",
+  "published_at": "Fri, 23 Oct 2026 11:38:28 GMT",
+  "summary": "Microsoft s Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may multiply — not contain — the risk.",
+  "score": 28
  },
  {
   "title": "CoinDCX Acknowledges Wallet-Sweeping Losses After Denying New Breach",
@@ -72,10 +64,10 @@
   "score": 28
  },
  {
-  "title": "IOTEX INTRODUCED FORMAL VULNERABILITY DISCLOSURE POLICY",
-  "url": "https://www.tradingview.com/news/coindar:894542ce6094b:0-iotex-introduced-formal-vulnerability-disclosure-policy/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-23T07:35:15Z",
+  "title": "Bitcoin s volatility is well above euro-dollar gyrations, though it has calmed to rival Nvidia s",
+  "url": "https://www.coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s",
+  "source": "CoinDesk",
+  "published_at": "Fri, 23 Oct 2026 11:22:33 +0000",
   "summary": "",
   "score": 24
  },
@@ -96,12 +88,12 @@
   "score": 24
  },
  {
-  "title": "Lightning Labs Urges Immediate Updates Over Certificate Vulnerability",
-  "url": "https://thedefiant.io/news/security/lightning-labs-urges-immediate-updates-over-certificate-vulnerability",
-  "source": "The Defiant",
-  "published_at": "Thu, 22 Oct 2026 17:01:57 GMT",
-  "summary": "New binaries block trust in compromised eMudhra certificate keys. Updating Go on a host alone does not patch software already installed.",
-  "score": 24
+  "title": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
+  "url": "https://decrypt.co/381681/ethereum-delays-glamsterdam-testnet-fork-over-gas-security-flaws",
+  "source": "Decrypt",
+  "published_at": "Fri, 23 Oct 2026 11:49:37 +0000",
+  "summary": "The Hoodi testnet fork is off after ChainSecurity found gas changes that could let contracts lock in failures, citing 13 real-world cases.",
+  "score": 22
  },
  {
   "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
@@ -110,6 +102,22 @@
   "published_at": "Fri, 23 Oct 2026 04:59:34 +0000",
   "summary": "",
   "score": 22
+ },
+ {
+  "title": "US banks scramble to restrict AI agent activity",
+  "url": "https://www.tomshardware.com/tech-industry/cyber-security/us-banks-scramble-to-restrict-ai-agent-activity-agents-detected-accessing-customer-accounts-or-even-attempting-to-make-transactions-in-breach-of-policy",
+  "source": "Tom's Hardware",
+  "published_at": "Fri, 23 Oct 2026 11:30:00 +0000",
+  "summary": "Several U.S. banks are blocking AI agents from making transactions on their platforms. They fear that those agents could go rogue and there s no way to tell if the moves they make are legitimate or not.",
+  "score": 18
+ },
+ {
+  "title": "Claude and Grok among AI agents used to automate attacks on Latin American institutions",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/cybercartel-hacking-gang-used-claude-and-grok-ai-agents-to-automate-attacks-on-latin-american-institutions-passwords-and-details-stolen-from-over-400-institutions-including-banks-and-payment-apps",
+  "source": "Tom's Hardware",
+  "published_at": "Fri, 23 Oct 2026 11:00:00 +0000",
+  "summary": "Claude and Grok are among the AI agents that are being used to automate attacks on Latin American institutions, including banks and payment apps, by a group calling themselves CyberCartel.",
+  "score": 18
  },
  {
   "title": "Gnerk Asks How Big a Swarm Can Get Before It Stops Being One Agent",
@@ -149,14 +157,6 @@
   "source": "arXiv cs.AI",
   "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
   "summary": "arXiv:2610.28945v1 Announce Type: new Abstract: Large language model (LLM) agents are increasingly expected to interact with environments and improve their decisions during deployment. However, how anticipating future outcomes and drawing on accumulated interaction experience can jointly support dec",
-  "score": 18
- },
- {
-  "title": "Back Up Before You Regret: Measuring Backup Awareness and Automating Backup in Coding Agents",
-  "url": "https://arxiv.org/abs/2610.28934",
-  "source": "arXiv cs.AI",
-  "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.28934v1 Announce Type: new Abstract: Coding agents now complete tasks autonomously, modifying real-world state such as artifacts, software environments, and configurations along the way. Yet they show limited backup awareness: recognizing that an action will modify state that may later be",
   "score": 18
  }
 ]

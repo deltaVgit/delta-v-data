@@ -9,27 +9,11 @@
    "score": 38
   },
   {
-   "title": "Railway warns devs to rotate secrets after potential breach",
-   "url": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
-   "source": "BleepingComputer",
-   "published_at": "Thu, 22 Oct 2026 17:25:31 -0400",
-   "summary": "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]",
-   "score": 38
-  },
-  {
    "title": "China-aligned hackers deploy AI agents in massive ConnectWise supply chain attack",
    "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-says-china-aligned-hackers-used-ai-agents-in-connectwise-supply-chain-attack-agents-attempted-sign-ins-at-more-than-2-250-microsoft-365-tenants-with-some-of-the-groups-attacks-reaching-privileged-access-in-under-three-hours",
    "source": "Tom's Hardware",
    "published_at": "Fri, 23 Oct 2026 10:30:00 +0000",
    "summary": "Microsoft says China-aligned Storm-0940 used the ARTEX AI agent framework in the ConnectWise Cloud Backup supply chain attack.",
-   "score": 34
-  },
-  {
-   "title": "BITCOIN COULD BE HACKED AND FALL TO ZERO, WARNS CHAMATH PALIHAPITIYA",
-   "url": "https://www.tradingview.com/news/coinpedia:0eb102337094b:0-bitcoin-could-be-hacked-and-fall-to-zero-warns-chamath-palihapitiya/",
-   "source": "MarketNewsFeed [CRYPTO]",
-   "published_at": "2026-10-23T07:44:34Z",
-   "summary": "",
    "score": 34
   },
   {
@@ -45,24 +29,24 @@
    "url": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
    "source": "Hacker News Best",
    "published_at": "Thu, 22 Oct 2026 21:24:41 +0000",
-   "summary": "Comments URL: Points: 429",
+   "summary": "Comments URL: Points: 432",
    "score": 34
   },
   {
-   "title": "IOTEX INTRODUCED FORMAL VULNERABILITY DISCLOSURE POLICY",
-   "url": "https://www.tradingview.com/news/coindar:894542ce6094b:0-iotex-introduced-formal-vulnerability-disclosure-policy/",
+   "title": "PAYBIS ADDS IDEAL, BLIK, MULTIBANCO AND EPS FOR BUYING CRYPTO IN EUROPE",
+   "url": "https://www.tradingview.com/news/newsbtc:8e2ee95ab094b:0-paybis-adds-ideal-blik-multibanco-and-eps-for-buying-crypto-in-europe/",
    "source": "MarketNewsFeed [CRYPTO]",
-   "published_at": "2026-10-23T07:35:15Z",
+   "published_at": "2026-10-23T11:38:18Z",
    "summary": "",
-   "score": 30
+   "score": 16
   },
   {
-   "title": "Lightning Labs Urges Immediate Updates Over Certificate Vulnerability",
-   "url": "https://thedefiant.io/news/security/lightning-labs-urges-immediate-updates-over-certificate-vulnerability",
-   "source": "The Defiant",
-   "published_at": "Thu, 22 Oct 2026 17:01:57 GMT",
-   "summary": "New binaries block trust in compromised eMudhra certificate keys. Updating Go on a host alone does not patch software already installed.",
-   "score": 30
+   "title": "US banks scramble to restrict AI agent activity",
+   "url": "https://www.tomshardware.com/tech-industry/cyber-security/us-banks-scramble-to-restrict-ai-agent-activity-agents-detected-accessing-customer-accounts-or-even-attempting-to-make-transactions-in-breach-of-policy",
+   "source": "Tom's Hardware",
+   "published_at": "Fri, 23 Oct 2026 11:30:00 +0000",
+   "summary": "Several U.S. banks are blocking AI agents from making transactions on their platforms. They fear that those agents could go rogue and there s no way to tell if the moves they make are legitimate or not.",
+   "score": 16
   },
   {
    "title": "RUSSIAN CENTRAL BANK LEAVES KEY RATE AT 14.00%; EST 14.00%",
@@ -95,7 +79,23 @@
    "published_at": "Fri, 23 Oct 2026 03:30:00 GMT",
    "summary": "Relatively small data breaches in India can turn quite serious, thanks to a sophisticated underground market for trading PII.",
    "score": 16
+  },
+  {
+   "title": "BITCOIN TO DODGE AI CRASH, ANALYST SAYS",
+   "url": "https://www.tradingview.com/news/u_today:07934cce7094b:0-bitcoin-to-dodge-ai-crash-analyst-says/",
+   "source": "MarketNewsFeed [CRYPTO]",
+   "published_at": "2026-10-23T09:18:00Z",
+   "summary": "",
+   "score": 14
+  },
+  {
+   "title": "HSBC LAUNCHES HONG KONG DOLLAR STABLECOIN FOR RETAIL PAYMENTS",
+   "url": "https://www.tradingview.com/news/cointelegraph:f1c169baf094b:0-hsbc-launches-hong-kong-dollar-stablecoin-for-retail-payments/",
+   "source": "MarketNewsFeed [STOCKS]",
+   "published_at": "2026-10-23T08:59:17Z",
+   "summary": "",
+   "score": 10
   }
  ],
- "updatedAt": "2026-10-23T11:16:10.734128+00:00"
+ "updatedAt": "2026-10-23T12:03:27.237176+00:00"
 }
