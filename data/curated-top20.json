@@ -1,5 +1,13 @@
 [
  {
+  "title": "CROWDSTRIKE CEO GEORGE KURTZ: WILL SEE A LOT OF BREACHES IN COMING MONTHS FROM PHP VULNERABILITY - CNBC INTERVIEW",
+  "url": "https://x.com/DeItaone/status/2113651295534137692",
+  "source": "MarketNewsFeed [OTHER]",
+  "published_at": "2026-10-23T15:18:47Z",
+  "summary": "",
+  "score": 52
+ },
+ {
   "title": "PerMIT: Securing Persistent Memory for LLM Agents via Machine-Checked Integrity Theorems and Scalable Community Trust",
   "url": "https://arxiv.org/abs/2610.28987",
   "source": "arXiv cs.AI",
@@ -32,22 +40,6 @@
   "score": 34
  },
  {
-  "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
-  "url": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
-  "source": "Ars Technica",
-  "published_at": "Thu, 22 Oct 2026 22:25:33 +0000",
-  "summary": "Userland exploit relies on integer overflow found in SmileBasic interpreter.",
-  "score": 32
- },
- {
-  "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
-  "url": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
-  "source": "Hacker News Best",
-  "published_at": "Thu, 22 Oct 2026 21:24:41 +0000",
-  "summary": "Comments URL: Points: 432",
-  "score": 32
- },
- {
   "title": "AI Agents as Insider Threats: Inside Microsoft s Bet on a Unified Security Stack",
   "url": "https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack",
   "source": "Dark Reading",
@@ -62,6 +54,14 @@
   "published_at": "Fri, 23 Oct 2026 06:50:59 GMT",
   "summary": "The exchange says affected deposits were credited, but has not disclosed the size of its losses.",
   "score": 28
+ },
+ {
+  "title": "QUANTUM COMPUTING TIMELINES ARE SHRINKING FASTER THAN MARKETS APPRECIATE.AND INSTITUTIONAL ALLOCATORS ARE ALREADY PULLING BACK FROM BITCOIN AND ETHEREUM EXPOSURE BECAUSE OF IT. MAKES THE CASE ON LIVES",
+  "url": "https://x.com/LiveSquawk/status/2113622456111915361",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-23T13:24:14Z",
+  "summary": "",
+  "score": 24
  },
  {
   "title": "Bitcoin s volatility is well above euro-dollar gyrations, though it has calmed to rival Nvidia s",
@@ -86,6 +86,14 @@
   "published_at": "Thu, 22 Oct 2026 23:18:52 GMT",
   "summary": "Ethereum contracts can verify alternative signatures today, but protecting existing accounts requires more than adding a new signer. Bitcoin’s P2MR proposal does not itself add post-quantum signatures.",
   "score": 24
+ },
+ {
+  "title": "Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy",
+  "url": "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt",
+  "source": "CoinDesk",
+  "published_at": "Fri, 23 Oct 2026 12:03:53 +0000",
+  "summary": "",
+  "score": 22
  },
  {
   "title": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
@@ -120,6 +128,14 @@
   "score": 18
  },
  {
+  "title": "You gave your AI agent access, but who is giving it orders?",
+  "url": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
+  "source": "BleepingComputer",
+  "published_at": "Fri, 23 Oct 2026 10:00:10 -0400",
+  "summary": "AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its Agent Trust Hub helps protect agents through skill verification, secure connectivity, and runtime co",
+  "score": 18
+ },
+ {
   "title": "Gnerk Asks How Big a Swarm Can Get Before It Stops Being One Agent",
   "url": "https://www.lesswrong.com/posts/goawvtgQcrMZtezXv/gnerk-asks-how-big-a-swarm-can-get-before-it-stops-being-one",
   "source": "LessWrong",
@@ -141,22 +157,6 @@
   "source": "arXiv cs.AI",
   "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
   "summary": "arXiv:2610.29010v1 Announce Type: new Abstract: Radiation treatment planning requires balancing competing objectives to satisfy clinical criteria while accommodating physicians preferences. This study aims to develop an evidence-driven, multi-agent compound AI system that integrates DRL-based automa",
-  "score": 18
- },
- {
-  "title": "AgentPolicyForge: From Executable Environments to Policy Benchmarks and Adaptive Guards",
-  "url": "https://arxiv.org/abs/2610.28989",
-  "source": "arXiv cs.AI",
-  "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.28989v1 Announce Type: new Abstract: Customized agent deployments define policies over tools, resources, and execution conditions. Providing these policies in the task agent s prompt does not reliably prevent violations. Training a guard requires examples of tool calls that comply with or",
-  "score": 18
- },
- {
-  "title": "Self-Improving Agents with World Model Predictive Paths",
-  "url": "https://arxiv.org/abs/2610.28945",
-  "source": "arXiv cs.AI",
-  "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.28945v1 Announce Type: new Abstract: Large language model (LLM) agents are increasingly expected to interact with environments and improve their decisions during deployment. However, how anticipating future outcomes and drawing on accumulated interaction experience can jointly support dec",
   "score": 18
  }
 ]

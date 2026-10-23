@@ -1,6 +1,14 @@
 {
  "picks": [
   {
+   "title": "CROWDSTRIKE CEO GEORGE KURTZ: WILL SEE A LOT OF BREACHES IN COMING MONTHS FROM PHP VULNERABILITY - CNBC INTERVIEW",
+   "url": "https://x.com/DeItaone/status/2113651295534137692",
+   "source": "MarketNewsFeed [OTHER]",
+   "published_at": "2026-10-23T15:18:47Z",
+   "summary": "",
+   "score": 68
+  },
+  {
    "title": "CoinDCX Acknowledges Wallet-Sweeping Losses After Denying New Breach",
    "url": "https://thedefiant.io/news/hacks/coindcx-acknowledges-wallet-sweeping-losses-after-denying-new-breach",
    "source": "The Defiant",
@@ -17,27 +25,59 @@
    "score": 34
   },
   {
-   "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
-   "url": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
-   "source": "Ars Technica",
-   "published_at": "Thu, 22 Oct 2026 22:25:33 +0000",
-   "summary": "Userland exploit relies on integer overflow found in SmileBasic interpreter.",
-   "score": 34
-  },
-  {
-   "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
-   "url": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
-   "source": "Hacker News Best",
-   "published_at": "Thu, 22 Oct 2026 21:24:41 +0000",
-   "summary": "Comments URL: Points: 432",
-   "score": 34
-  },
-  {
-   "title": "PAYBIS ADDS IDEAL, BLIK, MULTIBANCO AND EPS FOR BUYING CRYPTO IN EUROPE",
-   "url": "https://www.tradingview.com/news/newsbtc:8e2ee95ab094b:0-paybis-adds-ideal-blik-multibanco-and-eps-for-buying-crypto-in-europe/",
-   "source": "MarketNewsFeed [CRYPTO]",
-   "published_at": "2026-10-23T11:38:18Z",
+   "title": "SOFI LAUNCHES YIELD-BEARING TOKENIZED BANK DEPOSIT WITH STABLECOIN CONVERSION",
+   "url": "https://www.tradingview.com/news/newsbtc:9d772f3a7094b:0-sofi-launches-yield-bearing-tokenized-bank-deposit-with-stablecoin-conversion/",
+   "source": "MarketNewsFeed [STOCKS]",
+   "published_at": "2026-10-23T13:49:30Z",
    "summary": "",
+   "score": 26
+  },
+  {
+   "title": "Phantom rolls out Kalshi prediction markets to US users, says it’s ‘confident and comfortable’ amid state lawsuits",
+   "url": "https://www.theblock.co/news/markets/2026-10-23-phantom-rolls-out-kalshi-prediction-markets-us-421652",
+   "source": "The Block",
+   "published_at": "Fri, 23 Oct 2026 13:00:00 +0000",
+   "summary": "Phantom users will fund trades with CASH stablecoins, with market restrictions applied in Michigan, Nevada and Washington.",
+   "score": 18
+  },
+  {
+   "title": "SOURCE FAMILIAR WITH TAMPA TALKS: LEBANON-ISRAEL ROUND HELD IN POSITIVE ATMOSPHERE",
+   "url": "https://x.com/FirstSquawk/status/2113649901171352008",
+   "source": "MarketNewsFeed [ENERGY]",
+   "published_at": "2026-10-23T15:13:17Z",
+   "summary": "",
+   "score": 16
+  },
+  {
+   "title": "SEC Adds Tokenization to 2027 Examination Priorities",
+   "url": "https://thedefiant.io/converge/regulation/sec-adds-tokenization-to-2027-examination-priorities",
+   "source": "The Defiant",
+   "published_at": "Fri, 23 Oct 2026 14:27:17 GMT",
+   "summary": "Clearing agencies and entities covered by Regulation SCI face explicit tokenization scrutiny, while transfer-agent technology reviews continue from 2026.",
+   "score": 16
+  },
+  {
+   "title": "Singapore, Malaysia and Thailand central banks expand cross-border stablecoin initiative involving Ripple, Visa and Mastercard",
+   "url": "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492",
+   "source": "The Block",
+   "published_at": "Fri, 23 Oct 2026 12:55:26 +0000",
+   "summary": "Malaysia and Thailand have joined Singapore s BLOOM initiative for cross-border stablecoin and tokenized deposit settlement.",
+   "score": 16
+  },
+  {
+   "title": "FCC issues first bans under new chip-level rule",
+   "url": "https://www.tomshardware.com/tech-industry/cyber-security/fcc-bans-first-two-devices-from-the-us-under-new-chip-level-rule-huawei-subsidiary-chip-boasts-face-detection-algorithm",
+   "source": "Tom's Hardware",
+   "published_at": "Fri, 23 Oct 2026 12:15:00 +0000",
+   "summary": "FCC bans a dashcam and wireless video transmitter produced by HiSilicon, a subsidiary of Huawei for containing an AI chip that advertises face detection algorithms.",
+   "score": 16
+  },
+  {
+   "title": "Swedish government offices to ban ChatGPT and Claude",
+   "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+   "source": "Hacker News Frontpage",
+   "published_at": "Fri, 23 Oct 2026 11:39:54 +0000",
+   "summary": "Comments URL: Points: 20",
    "score": 16
   },
   {
@@ -49,53 +89,13 @@
    "score": 16
   },
   {
-   "title": "RUSSIAN CENTRAL BANK LEAVES KEY RATE AT 14.00%; EST 14.00%",
-   "url": "https://x.com/FirstSquawk/status/2113578860751339601",
-   "source": "MarketNewsFeed [MACRO]",
-   "published_at": "2026-10-23T10:30:59Z",
-   "summary": "",
-   "score": 16
-  },
-  {
    "title": "Sweden’s central bank revives e-krona debate as stablecoins and digital euro loom",
    "url": "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom",
    "source": "CoinDesk",
    "published_at": "Fri, 23 Oct 2026 08:57:34 +0000",
    "summary": "",
    "score": 16
-  },
-  {
-   "title": "IDF STARTS MILITARY ACTION IN WEST BANK FOLLOWING SHOOTING INCIDENT.",
-   "url": "https://x.com/FirstSquawk/status/2113544510328406396",
-   "source": "MarketNewsFeed [MACRO]",
-   "published_at": "2026-10-23T08:14:25Z",
-   "summary": "",
-   "score": 16
-  },
-  {
-   "title": "State Bank of India Suffers a Customer PII Data Leak",
-   "url": "https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak",
-   "source": "Dark Reading",
-   "published_at": "Fri, 23 Oct 2026 03:30:00 GMT",
-   "summary": "Relatively small data breaches in India can turn quite serious, thanks to a sophisticated underground market for trading PII.",
-   "score": 16
-  },
-  {
-   "title": "BITCOIN TO DODGE AI CRASH, ANALYST SAYS",
-   "url": "https://www.tradingview.com/news/u_today:07934cce7094b:0-bitcoin-to-dodge-ai-crash-analyst-says/",
-   "source": "MarketNewsFeed [CRYPTO]",
-   "published_at": "2026-10-23T09:18:00Z",
-   "summary": "",
-   "score": 14
-  },
-  {
-   "title": "HSBC LAUNCHES HONG KONG DOLLAR STABLECOIN FOR RETAIL PAYMENTS",
-   "url": "https://www.tradingview.com/news/cointelegraph:f1c169baf094b:0-hsbc-launches-hong-kong-dollar-stablecoin-for-retail-payments/",
-   "source": "MarketNewsFeed [STOCKS]",
-   "published_at": "2026-10-23T08:59:17Z",
-   "summary": "",
-   "score": 10
   }
  ],
- "updatedAt": "2026-10-23T12:03:27.237176+00:00"
+ "updatedAt": "2026-10-23T15:47:12.406997+00:00"
 }
