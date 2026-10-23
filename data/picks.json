@@ -57,20 +57,20 @@
    "score": 34
   },
   {
-   "title": "HACKER INFINITE-MINTS TOKENS ON INITIA CHAIN, WITHDRAWS $2.6 MILLION SO FAR",
-   "url": "https://x.com/cryptounfolded/status/2113655087079760184",
-   "source": "MarketNewsFeed [OTHER]",
-   "published_at": "2026-10-23T15:33:49Z",
-   "summary": "",
-   "score": 34
-  },
-  {
    "title": "China-aligned hackers deploy AI agents in massive ConnectWise supply chain attack",
    "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-says-china-aligned-hackers-used-ai-agents-in-connectwise-supply-chain-attack-agents-attempted-sign-ins-at-more-than-2-250-microsoft-365-tenants-with-some-of-the-groups-attacks-reaching-privileged-access-in-under-three-hours",
    "source": "Tom's Hardware",
    "published_at": "Fri, 23 Oct 2026 10:30:00 +0000",
    "summary": "Microsoft says China-aligned Storm-0940 used the ARTEX AI agent framework in the ConnectWise Cloud Backup supply chain attack.",
    "score": 34
+  },
+  {
+   "title": "OPENAI: RED-TEAMING EXERCISE UNCOVERS VULNERABILITY ENABLING UNAUTHENTICATED REMOTE CODE EXECUTION IN BROTLI COMPRESSION LIBRARY",
+   "url": "https://x.com/financialjuice/status/2113767384339341649",
+   "source": "MarketNewsFeed [OTHER]",
+   "published_at": "2026-10-23T22:59:54Z",
+   "summary": "",
+   "score": 30
   },
   {
    "title": "PHP shares mitigation for new RCE vulnerability with no patch",
@@ -97,5 +97,5 @@
    "score": 26
   }
  ],
- "updatedAt": "2026-10-23T22:57:51.209222+00:00"
+ "updatedAt": "2026-10-23T23:09:48.276340+00:00"
 }

@@ -16,6 +16,14 @@
   "score": 40
  },
  {
+  "title": "OPENAI: RED-TEAMING EXERCISE UNCOVERS VULNERABILITY ENABLING UNAUTHENTICATED REMOTE CODE EXECUTION IN BROTLI COMPRESSION LIBRARY",
+  "url": "https://x.com/financialjuice/status/2113767384339341649",
+  "source": "MarketNewsFeed [OTHER]",
+  "published_at": "2026-10-23T22:59:54Z",
+  "summary": "",
+  "score": 38
+ },
+ {
   "title": "Behavior Beyond Text: Evaluating Refusal Transfer Failure in LLM Agents",
   "url": "https://arxiv.org/abs/2610.28982",
   "source": "arXiv cs.AI",
@@ -80,14 +88,6 @@
   "score": 24
  },
  {
-  "title": "OpenAI: Securing our frontier model training environment",
-  "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
-  "source": "Hacker News Frontpage",
-  "published_at": "Fri, 23 Oct 2026 19:50:56 +0000",
-  "summary": "Comments URL: Points: 47",
-  "score": 24
- },
- {
   "title": "BITCOIN, ETHEREUM, XRP, DOGECOIN STEADY AS TRADERS BRACE FOR POTENTIAL WEEKEND VOLATILITY",
   "url": "https://www.tradingview.com/news/benzinga:bb55ea9db094b:0-bitcoin-ethereum-xrp-dogecoin-steady-as-traders-brace-for-potential-weekend-volatility/",
   "source": "MarketNewsFeed [CRYPTO]",
@@ -144,19 +144,19 @@
   "score": 22
  },
  {
-  "title": "HACKER INFINITE-MINTS TOKENS ON INITIA CHAIN, WITHDRAWS $2.6 MILLION SO FAR",
-  "url": "https://x.com/cryptounfolded/status/2113655087079760184",
-  "source": "MarketNewsFeed [OTHER]",
-  "published_at": "2026-10-23T15:33:49Z",
-  "summary": "",
-  "score": 22
- },
- {
   "title": "Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy",
   "url": "https://www.coindesk.com/tech/2026/10/23/bitcoin-will-now-stop-hiding-bugs-an-ai-can-find-in-one-prompt",
   "source": "CoinDesk",
   "published_at": "Fri, 23 Oct 2026 12:03:53 +0000",
   "summary": "",
+  "score": 22
+ },
+ {
+  "title": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
+  "url": "https://decrypt.co/381681/ethereum-delays-glamsterdam-testnet-fork-over-gas-security-flaws",
+  "source": "Decrypt",
+  "published_at": "Fri, 23 Oct 2026 11:49:37 +0000",
+  "summary": "The Hoodi testnet fork is off after ChainSecurity found gas changes that could let contracts lock in failures, citing 13 real-world cases.",
   "score": 22
  }
 ]
