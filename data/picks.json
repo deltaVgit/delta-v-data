@@ -1,14 +1,6 @@
 {
  "picks": [
   {
-   "title": "CROWDSTRIKE CEO GEORGE KURTZ: WILL SEE A LOT OF BREACHES IN COMING MONTHS FROM PHP VULNERABILITY - CNBC INTERVIEW",
-   "url": "https://x.com/DeItaone/status/2113651295534137692",
-   "source": "MarketNewsFeed [OTHER]",
-   "published_at": "2026-10-23T15:18:47Z",
-   "summary": "",
-   "score": 68
-  },
-  {
    "title": "INITIA HALTS BLOCKCHAIN AFTER EXPLOIT REPORTEDLY DRAINS OVER $2.6M",
    "url": "https://www.tradingview.com/news/cointelegraph:90bf0ce4c094b:0-initia-halts-blockchain-after-exploit-reportedly-drains-over-2-6m/",
    "source": "MarketNewsFeed [CRYPTO]",
@@ -49,12 +41,12 @@
    "score": 38
   },
   {
-   "title": "CoinDCX Acknowledges Wallet-Sweeping Losses After Denying New Breach",
-   "url": "https://thedefiant.io/news/hacks/coindcx-acknowledges-wallet-sweeping-losses-after-denying-new-breach",
-   "source": "The Defiant",
-   "published_at": "Fri, 23 Oct 2026 06:50:59 GMT",
-   "summary": "The exchange says affected deposits were credited, but has not disclosed the size of its losses.",
-   "score": 38
+   "title": "The Hackening",
+   "url": "https://www.lesswrong.com/posts/iqgZaJMnmyDCYfnuC/the-hackening-1",
+   "source": "LessWrong",
+   "published_at": "Fri, 23 Oct 2026 21:20:54 GMT",
+   "summary": "Last week at a small conference, there was talk about a future event referred to as The Hackening. As in, within 6-12 months, many predicted that due to advanced AIs and AI agents the internet would become a severely hostile place. Some worried that this could rise to the level of ‘assume any phone ",
+   "score": 34
   },
   {
    "title": "Gradient Routing Generalizes to Unrouted Hack Types",
@@ -89,6 +81,14 @@
    "score": 30
   },
   {
+   "title": "CVE Tracker",
+   "url": "https://cve.0xosprey.com/",
+   "source": "Hacker News Frontpage",
+   "published_at": "Fri, 23 Oct 2026 21:21:47 +0000",
+   "summary": "Comments URL: Points: 7",
+   "score": 28
+  },
+  {
    "title": "SOFI LAUNCHES YIELD-BEARING TOKENIZED BANK DEPOSIT WITH STABLECOIN CONVERSION",
    "url": "https://www.tradingview.com/news/newsbtc:9d772f3a7094b:0-sofi-launches-yield-bearing-tokenized-bank-deposit-with-stablecoin-conversion/",
    "source": "MarketNewsFeed [STOCKS]",
@@ -97,5 +97,5 @@
    "score": 26
   }
  ],
- "updatedAt": "2026-10-23T20:11:07.108925+00:00"
+ "updatedAt": "2026-10-23T22:57:51.209222+00:00"
 }

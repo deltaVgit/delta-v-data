@@ -1,13 +1,5 @@
 [
  {
-  "title": "CROWDSTRIKE CEO GEORGE KURTZ: WILL SEE A LOT OF BREACHES IN COMING MONTHS FROM PHP VULNERABILITY - CNBC INTERVIEW",
-  "url": "https://x.com/DeItaone/status/2113651295534137692",
-  "source": "MarketNewsFeed [OTHER]",
-  "published_at": "2026-10-23T15:18:47Z",
-  "summary": "",
-  "score": 52
- },
- {
   "title": "PerMIT: Securing Persistent Memory for LLM Agents via Machine-Checked Integrity Theorems and Scalable Community Trust",
   "url": "https://arxiv.org/abs/2610.28987",
   "source": "arXiv cs.AI",
@@ -29,14 +21,6 @@
   "source": "arXiv cs.AI",
   "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
   "summary": "arXiv:2610.28982v1 Announce Type: new Abstract: While large language models are increasingly deployed as tool-calling agents, their safety evaluations still focus primarily on their ability to refuse harmful requests in text. We investigate whether the refusal behavior in text transfers to tool use.",
-  "score": 34
- },
- {
-  "title": "IFC-MCQ: Automatically Generating Multiple-Choice Benchmarks for Evaluating LLM Agents on IFC Data Retrieval",
-  "url": "https://arxiv.org/abs/2610.30533",
-  "source": "arXiv cs.CL",
-  "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.30533v1 Announce Type: new Abstract: Industry Foundation Classes (IFC), the standard for building information exchange in architecture, engineering, and construction (AEC), is increasingly queried through large language models (LLMs) using natural language. Evaluating these systems at sca",
   "score": 34
  },
  {
@@ -88,12 +72,20 @@
   "score": 28
  },
  {
-  "title": "CoinDCX Acknowledges Wallet-Sweeping Losses After Denying New Breach",
-  "url": "https://thedefiant.io/news/hacks/coindcx-acknowledges-wallet-sweeping-losses-after-denying-new-breach",
-  "source": "The Defiant",
-  "published_at": "Fri, 23 Oct 2026 06:50:59 GMT",
-  "summary": "The exchange says affected deposits were credited, but has not disclosed the size of its losses.",
-  "score": 28
+  "title": "BITCOIN, ETHEREUM, SOLANA DRAW UNEVEN CORPORATE BETS—WHICH IS GAINING GROUND?",
+  "url": "https://www.tradingview.com/news/benzinga:b0b7fb853094b:0-bitcoin-ethereum-solana-draw-uneven-corporate-bets-which-is-gaining-ground/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-23T21:36:56Z",
+  "summary": "",
+  "score": 24
+ },
+ {
+  "title": "OpenAI: Securing our frontier model training environment",
+  "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+  "source": "Hacker News Frontpage",
+  "published_at": "Fri, 23 Oct 2026 19:50:56 +0000",
+  "summary": "Comments URL: Points: 47",
+  "score": 24
  },
  {
   "title": "BITCOIN, ETHEREUM, XRP, DOGECOIN STEADY AS TRADERS BRACE FOR POTENTIAL WEEKEND VOLATILITY",
@@ -118,6 +110,14 @@
   "published_at": "Fri, 23 Oct 2026 11:22:33 +0000",
   "summary": "",
   "score": 24
+ },
+ {
+  "title": "The Hackening",
+  "url": "https://www.lesswrong.com/posts/iqgZaJMnmyDCYfnuC/the-hackening-1",
+  "source": "LessWrong",
+  "published_at": "Fri, 23 Oct 2026 21:20:54 GMT",
+  "summary": "Last week at a small conference, there was talk about a future event referred to as The Hackening. As in, within 6-12 months, many predicted that due to advanced AIs and AI agents the internet would become a severely hostile place. Some worried that this could rise to the level of ‘assume any phone ",
+  "score": 22
  },
  {
   "title": "Gradient Routing Generalizes to Unrouted Hack Types",
