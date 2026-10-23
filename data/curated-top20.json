@@ -24,19 +24,19 @@
   "score": 38
  },
  {
-  "title": "LLM Agents Play Pokemon Showdown",
-  "url": "https://olivergrabner.com/research/pokemon/",
-  "source": "Hacker News Frontpage",
-  "published_at": "Thu, 22 Oct 2026 02:13:48 +0000",
-  "summary": "Comments URL: Points: 3",
-  "score": 34
+  "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
+  "url": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
+  "source": "Ars Technica",
+  "published_at": "Thu, 22 Oct 2026 22:25:33 +0000",
+  "summary": "Userland exploit relies on integer overflow found in SmileBasic interpreter.",
+  "score": 32
  },
  {
   "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
   "url": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
   "source": "Hacker News Frontpage",
   "published_at": "Thu, 22 Oct 2026 21:24:41 +0000",
-  "summary": "Comments URL: Points: 128",
+  "summary": "Comments URL: Points: 270",
   "score": 32
  },
  {
@@ -62,6 +62,14 @@
   "published_at": "Thu, 22 Oct 2026 16:22:45 -0400",
   "summary": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]",
   "score": 28
+ },
+ {
+  "title": "Bitcoin and Ethereum Take Different Paths to Post-Quantum Wallets",
+  "url": "https://thedefiant.io/news/security/bitcoin-and-ethereum-take-different-paths-to-post-quantum-wallets",
+  "source": "The Defiant",
+  "published_at": "Thu, 22 Oct 2026 23:18:52 GMT",
+  "summary": "Ethereum contracts can verify alternative signatures today, but protecting existing accounts requires more than adding a new signer. Bitcoin’s P2MR proposal does not itself add post-quantum signatures.",
+  "score": 24
  },
  {
   "title": "BITCOIN ETFS LOG $525M INFLOW AS ETHEREUM ETFS ATTRACT $14M",
@@ -149,14 +157,6 @@
   "source": "LessWrong",
   "published_at": "Thu, 22 Oct 2026 21:25:39 GMT",
   "summary": "Over the weekend my family and I saw the brief documentary AI Gone Wild (27 m) on Netflix, and after watching it, we looked into one of the quotes from one of the agents, and found something that I think is kind of interesting. Perhaps I could say at the outset that I m not trying to argue any parti",
-  "score": 18
- },
- {
-  "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-  "url": "https://github.com/NVIDIA/OpenShell",
-  "source": "Hacker News Frontpage",
-  "published_at": "Thu, 22 Oct 2026 17:44:06 +0000",
-  "summary": "Comments URL: Points: 252",
   "score": 18
  }
 ]

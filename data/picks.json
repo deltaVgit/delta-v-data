@@ -57,11 +57,19 @@
    "score": 38
   },
   {
+   "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
+   "url": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
+   "source": "Ars Technica",
+   "published_at": "Thu, 22 Oct 2026 22:25:33 +0000",
+   "summary": "Userland exploit relies on integer overflow found in SmileBasic interpreter.",
+   "score": 34
+  },
+  {
    "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
    "url": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
    "source": "Hacker News Frontpage",
    "published_at": "Thu, 22 Oct 2026 21:24:41 +0000",
-   "summary": "Comments URL: Points: 128",
+   "summary": "Comments URL: Points: 270",
    "score": 34
   },
   {
@@ -87,15 +95,7 @@
    "published_at": "Thu, 22 Oct 2026 17:01:57 GMT",
    "summary": "New binaries block trust in compromised eMudhra certificate keys. Updating Go on a host alone does not patch software already installed.",
    "score": 30
-  },
-  {
-   "title": "GPUs from Nvidia RTX 5090 stolen $470,000 shipment from Brazil airport appear for sale online, identified by serial numbers",
-   "url": "https://www.tomshardware.com/pc-components/gpus/gpus-from-nvidia-rtx-5090-stolen-usd470-000-shipment-from-brazil-airport-appear-for-sale-online-identified-by-serial-numbers-three-employees-identified-by-police-helped-steal-equipment",
-   "source": "Tom's Hardware",
-   "published_at": "Thu, 22 Oct 2026 16:18:47 +0000",
-   "summary": "One of the GPUs from a stolen shipment of RTX 5090 graphics cards has appeared for sale online. Police have identified three employees at an airport who stole the goods.",
-   "score": 30
   }
  ],
- "updatedAt": "2026-10-22T23:32:18.677060+00:00"
+ "updatedAt": "2026-10-23T00:56:15.407170+00:00"
 }
