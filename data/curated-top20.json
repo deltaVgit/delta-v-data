@@ -8,6 +8,14 @@
   "score": 46
  },
  {
+  "title": "PerMIT: Securing Persistent Memory for LLM Agents via Machine-Checked Integrity Theorems and Scalable Community Trust",
+  "url": "https://arxiv.org/abs/2610.28987",
+  "source": "arXiv cs.AI",
+  "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.28987v1 Announce Type: new Abstract: Persistent memory is a largely undefended surface for injection and poisoning, and the same risk limits memory sharing among agents. We present PerMIT, a memory architecture with provable integrity guarantees under an explicit trust assumption: only us",
+  "score": 44
+ },
+ {
   "title": "Railway warns devs to rotate secrets after potential breach",
   "url": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
   "source": "BleepingComputer",
@@ -24,6 +32,22 @@
   "score": 38
  },
  {
+  "title": "Behavior Beyond Text: Evaluating Refusal Transfer Failure in LLM Agents",
+  "url": "https://arxiv.org/abs/2610.28982",
+  "source": "arXiv cs.AI",
+  "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.28982v1 Announce Type: new Abstract: While large language models are increasingly deployed as tool-calling agents, their safety evaluations still focus primarily on their ability to refuse harmful requests in text. We investigate whether the refusal behavior in text transfers to tool use.",
+  "score": 34
+ },
+ {
+  "title": "IFC-MCQ: Automatically Generating Multiple-Choice Benchmarks for Evaluating LLM Agents on IFC Data Retrieval",
+  "url": "https://arxiv.org/abs/2610.30533",
+  "source": "arXiv cs.CL",
+  "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.30533v1 Announce Type: new Abstract: Industry Foundation Classes (IFC), the standard for building information exchange in architecture, engineering, and construction (AEC), is increasingly queried through large language models (LLMs) using natural language. Evaluating these systems at sca",
+  "score": 34
+ },
+ {
   "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
   "url": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
   "source": "Ars Technica",
@@ -36,24 +60,8 @@
   "url": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
   "source": "Hacker News Best",
   "published_at": "Thu, 22 Oct 2026 21:24:41 +0000",
-  "summary": "Comments URL: Points: 325",
+  "summary": "Comments URL: Points: 362",
   "score": 32
- },
- {
-  "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
-  "url": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
-  "source": "BleepingComputer",
-  "published_at": "Thu, 22 Oct 2026 13:18:22 -0400",
-  "summary": "Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
-  "score": 30
- },
- {
-  "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
-  "url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
-  "source": "BleepingComputer",
-  "published_at": "Thu, 22 Oct 2026 09:09:12 -0400",
-  "summary": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
-  "score": 30
  },
  {
   "title": "Capcom confirms data breach affecting 11.7 million accounts",
@@ -64,19 +72,27 @@
   "score": 28
  },
  {
+  "title": "IOTEX: ADOPTS A FORMAL VULNERABILITY DISCLOSURE POLICY - 23 OCT 2026",
+  "url": "https://www.tradingview.com/news/coinmarketcal:2c032b6e1094b:0-iotex-adopts-a-formal-vulnerability-disclosure-policy-23-oct-2026/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-23T05:05:36Z",
+  "summary": "",
+  "score": 24
+ },
+ {
+  "title": "BITCOIN, ETHEREUM, XRP, DOGECOIN SINK AS IRAN WAR FEARS RETURN: ANALYST SAYS DEEPER BTC CORRECTION WON’T BE ‘WEIRD’",
+  "url": "https://www.tradingview.com/news/benzinga:b0a40451f094b:0-bitcoin-ethereum-xrp-dogecoin-sink-as-iran-war-fears-return-analyst-says-deeper-btc-correction-won-t-be-weird/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-23T03:30:40Z",
+  "summary": "",
+  "score": 24
+ },
+ {
   "title": "Bitcoin and Ethereum Take Different Paths to Post-Quantum Wallets",
   "url": "https://thedefiant.io/news/security/bitcoin-and-ethereum-take-different-paths-to-post-quantum-wallets",
   "source": "The Defiant",
   "published_at": "Thu, 22 Oct 2026 23:18:52 GMT",
   "summary": "Ethereum contracts can verify alternative signatures today, but protecting existing accounts requires more than adding a new signer. Bitcoin’s P2MR proposal does not itself add post-quantum signatures.",
-  "score": 24
- },
- {
-  "title": "BITCOIN ETFS LOG $525M INFLOW AS ETHEREUM ETFS ATTRACT $14M",
-  "url": "https://www.tradingview.com/news/cryptobriefing:2064ba919094b:0-bitcoin-etfs-log-525m-inflow-as-ethereum-etfs-attract-14m/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-22T22:49:50Z",
-  "summary": "",
   "score": 24
  },
  {
@@ -88,34 +104,42 @@
   "score": 24
  },
  {
-  "title": "New Serious PHP Vulnerabilities Released and Patched",
-  "url": "https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html",
-  "source": "Schneier on Security",
-  "published_at": "2026-10-22T13:26:51Z",
-  "summary": "PHP maintainers have released two critical vulnerabilities: PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution. All PHP users are strongly encouraged to update immediately. Who is at risk: all PHP installations serving web requ",
-  "score": 24
- },
- {
-  "title": "GitLab warns of new max severity code execution vulnerability",
-  "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
-  "source": "BleepingComputer",
-  "published_at": "Thu, 22 Oct 2026 07:41:48 -0400",
-  "summary": "GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...]",
-  "score": 24
- },
- {
-  "title": "Several Linux Kernel Vulnerabilities Accidentally Posted To Public Kernel Mailing List",
-  "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
-  "source": "Phoronix",
-  "published_at": "Thu, 22 Oct 2026 06:05:53 -0400",
-  "summary": "Seemingly as an accident, overnight several new Linux kernel vulnerability reports were posted to the public Linux kernel mailing list rather than the private security mailing list. The vulnerabilities have yet to be patched on mainline but at least in some cases there are patches undergoing testing",
-  "score": 24
- },
- {
-  "title": "ARK 21SHARES BITCOIN ETF - 21SHARES US LLC TO TERMINATE SUPPORT SERVICES AGREEMENT WITH ARK EFFECTIVE DEC 22, 2026 - SEC FILING",
-  "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4682NP:0-ark-21shares-bitcoin-etf-21shares-us-llc-to-terminate-support-services-agreement-with-ark-effective-dec-22-2026-sec-filing/",
+  "title": "ETHEREUM DELAYS GLAMSTERDAM HOODI TESTNET LAUNCH OVER SECURITY RISKS",
+  "url": "https://www.tradingview.com/news/cointelegraph:03940a310094b:0-ethereum-delays-glamsterdam-hoodi-testnet-launch-over-security-risks/",
   "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-22T21:53:44Z",
+  "published_at": "2026-10-23T05:14:56Z",
+  "summary": "",
+  "score": 22
+ },
+ {
+  "title": "ETHEREUM DELAYS GLAMSTERDAM TEST AFTER SECURITY DEVS FLAG RISK TO EXISTING CONTRACTS",
+  "url": "https://x.com/cryptounfolded/status/2113496997705523231",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-23T05:05:41Z",
+  "summary": "",
+  "score": 22
+ },
+ {
+  "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
+  "url": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
+  "source": "CoinDesk",
+  "published_at": "Fri, 23 Oct 2026 04:59:34 +0000",
+  "summary": "",
+  "score": 22
+ },
+ {
+  "title": "BITCOIN CORE CHANGES SECURITY POLICY AS AI MAKES BUGS EASIER TO FIND",
+  "url": "https://www.tradingview.com/news/cointelegraph:487104f44094b:0-bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-23T04:46:57Z",
+  "summary": "",
+  "score": 22
+ },
+ {
+  "title": "CZ SAYS AI HACKING FEARS IN CRYPTO ARE OVERBLOWN, WARNS PHISHING IS THE REAL THREAT",
+  "url": "https://www.tradingview.com/news/cryptobriefing:b12d561fc094b:0-cz-says-ai-hacking-fears-in-crypto-are-overblown-warns-phishing-is-the-real-threat/",
+  "source": "MarketNewsFeed [OTHER]",
+  "published_at": "2026-10-23T04:28:15Z",
   "summary": "",
   "score": 22
  },
@@ -128,35 +152,11 @@
   "score": 22
  },
  {
-  "title": "Chinese Prosecutors Seek to Confiscate $5.1B in Bitcoin Seized by UK in Qian Case",
-  "url": "https://decrypt.co/381580/chinese-prosecutors-seek-to-confiscate-5-1b-in-bitcoin-seized-by-uk-in-qian-case",
-  "source": "Decrypt",
-  "published_at": "Thu, 22 Oct 2026 10:09:42 +0000",
-  "summary": "A Tianjin court will hear the application after a six-month notice period, while a parallel fight over the same coins continues in London.",
-  "score": 22
- },
- {
-  "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
-  "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
-  "source": "Hacker News Frontpage",
-  "published_at": "Thu, 22 Oct 2026 08:51:31 +0000",
-  "summary": "Comments URL: Points: 41",
-  "score": 20
- },
- {
-  "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-  "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-  "source": "Hugging Face Blog",
-  "published_at": "Thu, 22 Oct 2026 22:24:34 GMT",
+  "title": "OMDIA FORECASTS ASIA-PACIFIC AI AGENT MARKET TO REACH US$11.2 BILLION BY 2030",
+  "url": "https://x.com/FirstSquawk/status/2113458258229027103",
+  "source": "MarketNewsFeed [MACRO]",
+  "published_at": "2026-10-23T02:31:43Z",
   "summary": "",
-  "score": 18
- },
- {
-  "title": "The full context of the AI agent quote at the end of AI Gone Wild on Netflix",
-  "url": "https://www.lesswrong.com/posts/DjT6CqbNiWNFuHBXw/the-full-context-of-the-ai-agent-quote-at-the-end-of-ai-gone",
-  "source": "LessWrong",
-  "published_at": "Thu, 22 Oct 2026 21:25:39 GMT",
-  "summary": "Over the weekend my family and I saw the brief documentary AI Gone Wild (27 m) on Netflix, and after watching it, we looked into one of the quotes from one of the agents, and found something that I think is kind of interesting. Perhaps I could say at the outset that I m not trying to argue any parti",
   "score": 18
  }
 ]
