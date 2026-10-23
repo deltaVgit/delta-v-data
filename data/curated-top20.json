@@ -120,6 +120,14 @@
   "score": 24
  },
  {
+  "title": "Gradient Routing Generalizes to Unrouted Hack Types",
+  "url": "https://www.lesswrong.com/posts/ie7bSp5ZDwYkCQxuv/gradient-routing-generalizes-to-unrouted-hack-types",
+  "source": "LessWrong",
+  "published_at": "Fri, 23 Oct 2026 19:55:10 GMT",
+  "summary": "TLDR: I lightly extend Ward, Hu et al (2026) to measure how well gradient routing generalizes. I route gradients on one type of reward hack (e.g. ones that reason in English) and check whether this suppresses other types at test time (e.g. ones that reason in French), despite the model being trained",
+  "score": 22
+ },
+ {
   "title": "CMCC GLOBAL PLANS TOKENIZED BITCOIN FUNDS WITH TETHER AND BITFINEX SECURITIES",
   "url": "https://www.tradingview.com/news/newsbtc:fb86de8ee094b:0-cmcc-global-plans-tokenized-bitcoin-funds-with-tether-and-bitfinex-securities/",
   "source": "MarketNewsFeed [CRYPTO]",
@@ -149,14 +157,6 @@
   "source": "CoinDesk",
   "published_at": "Fri, 23 Oct 2026 12:03:53 +0000",
   "summary": "",
-  "score": 22
- },
- {
-  "title": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
-  "url": "https://decrypt.co/381681/ethereum-delays-glamsterdam-testnet-fork-over-gas-security-flaws",
-  "source": "Decrypt",
-  "published_at": "Fri, 23 Oct 2026 11:49:37 +0000",
-  "summary": "The Hoodi testnet fork is off after ChainSecurity found gas changes that could let contracts lock in failures, citing 13 real-world cases.",
   "score": 22
  }
 ]

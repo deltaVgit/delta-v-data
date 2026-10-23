@@ -57,6 +57,14 @@
    "score": 38
   },
   {
+   "title": "Gradient Routing Generalizes to Unrouted Hack Types",
+   "url": "https://www.lesswrong.com/posts/ie7bSp5ZDwYkCQxuv/gradient-routing-generalizes-to-unrouted-hack-types",
+   "source": "LessWrong",
+   "published_at": "Fri, 23 Oct 2026 19:55:10 GMT",
+   "summary": "TLDR: I lightly extend Ward, Hu et al (2026) to measure how well gradient routing generalizes. I route gradients on one type of reward hack (e.g. ones that reason in English) and check whether this suppresses other types at test time (e.g. ones that reason in French), despite the model being trained",
+   "score": 34
+  },
+  {
    "title": "HACKER INFINITE-MINTS TOKENS ON INITIA CHAIN, WITHDRAWS $2.6 MILLION SO FAR",
    "url": "https://x.com/cryptounfolded/status/2113655087079760184",
    "source": "MarketNewsFeed [OTHER]",
@@ -87,15 +95,7 @@
    "published_at": "2026-10-23T13:49:30Z",
    "summary": "",
    "score": 26
-  },
-  {
-   "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
-   "source": "BleepingComputer",
-   "published_at": "Fri, 23 Oct 2026 14:54:41 -0400",
-   "summary": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
-   "score": 24
   }
  ],
- "updatedAt": "2026-10-23T19:51:48.570431+00:00"
+ "updatedAt": "2026-10-23T20:11:07.108925+00:00"
 }
