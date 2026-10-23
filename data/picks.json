@@ -9,6 +9,22 @@
    "score": 68
   },
   {
+   "title": "Initia Halts L1 and Rollups After Reported Mint Exploit",
+   "url": "https://thedefiant.io/news/hacks/initia-halts-l1-and-rollups-after-reported-mint-exploit",
+   "source": "The Defiant",
+   "published_at": "Fri, 23 Oct 2026 16:19:13 GMT",
+   "summary": "Analyst Spreek estimated $2.6 million had been cashed out; Ethereum records show stablecoin swaps and a later 1,135.5 ETH transfer.",
+   "score": 40
+  },
+  {
+   "title": "Quest Diagnostics confirms data breach exposed patient records",
+   "url": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
+   "source": "BleepingComputer",
+   "published_at": "Fri, 23 Oct 2026 12:40:07 -0400",
+   "summary": "American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...]",
+   "score": 38
+  },
+  {
    "title": "CoinDCX Acknowledges Wallet-Sweeping Losses After Denying New Breach",
    "url": "https://thedefiant.io/news/hacks/coindcx-acknowledges-wallet-sweeping-losses-after-denying-new-breach",
    "source": "The Defiant",
@@ -17,12 +33,28 @@
    "score": 38
   },
   {
+   "title": "HACKER INFINITE-MINTS TOKENS ON INITIA CHAIN, WITHDRAWS $2.6 MILLION SO FAR",
+   "url": "https://x.com/cryptounfolded/status/2113655087079760184",
+   "source": "MarketNewsFeed [OTHER]",
+   "published_at": "2026-10-23T15:33:49Z",
+   "summary": "",
+   "score": 34
+  },
+  {
    "title": "China-aligned hackers deploy AI agents in massive ConnectWise supply chain attack",
    "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-says-china-aligned-hackers-used-ai-agents-in-connectwise-supply-chain-attack-agents-attempted-sign-ins-at-more-than-2-250-microsoft-365-tenants-with-some-of-the-groups-attacks-reaching-privileged-access-in-under-three-hours",
    "source": "Tom's Hardware",
    "published_at": "Fri, 23 Oct 2026 10:30:00 +0000",
    "summary": "Microsoft says China-aligned Storm-0940 used the ARTEX AI agent framework in the ConnectWise Cloud Backup supply chain attack.",
    "score": 34
+  },
+  {
+   "title": "PHP shares mitigation for new RCE vulnerability with no patch",
+   "url": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
+   "source": "BleepingComputer",
+   "published_at": "Fri, 23 Oct 2026 11:38:05 -0400",
+   "summary": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]",
+   "score": 30
   },
   {
    "title": "SOFI LAUNCHES YIELD-BEARING TOKENIZED BANK DEPOSIT WITH STABLECOIN CONVERSION",
@@ -41,61 +73,29 @@
    "score": 18
   },
   {
-   "title": "SOURCE FAMILIAR WITH TAMPA TALKS: LEBANON-ISRAEL ROUND HELD IN POSITIVE ATMOSPHERE",
-   "url": "https://x.com/FirstSquawk/status/2113649901171352008",
-   "source": "MarketNewsFeed [ENERGY]",
-   "published_at": "2026-10-23T15:13:17Z",
+   "title": "SEC FLAGS TOKENIZATION AS HIGH-RISK AREA IN 2027 MARKET EXAMINATIONS",
+   "url": "https://www.tradingview.com/news/cointelegraph:fea77f7a6094b:0-sec-flags-tokenization-as-high-risk-area-in-2027-market-examinations/",
+   "source": "MarketNewsFeed [CRYPTO]",
+   "published_at": "2026-10-23T16:28:28Z",
    "summary": "",
    "score": 16
   },
   {
-   "title": "SEC Adds Tokenization to 2027 Examination Priorities",
-   "url": "https://thedefiant.io/converge/regulation/sec-adds-tokenization-to-2027-examination-priorities",
-   "source": "The Defiant",
-   "published_at": "Fri, 23 Oct 2026 14:27:17 GMT",
-   "summary": "Clearing agencies and entities covered by Regulation SCI face explicit tokenization scrutiny, while transfer-agent technology reviews continue from 2026.",
+   "title": "POLL: BANK OF CANADA TO HIKE OVERNIGHT RATE TWICE BY END-MARCH, SAID 16 OF 29 ECONOMISTS (VS 17 OF 34 FORECASTING HOLD UNTIL MID-2027 IN AUGUST POLL).",
+   "url": "https://x.com/financialjuice/status/2113663437850964025",
+   "source": "MarketNewsFeed [MACRO]",
+   "published_at": "2026-10-23T16:07:04Z",
+   "summary": "",
    "score": 16
   },
   {
-   "title": "Singapore, Malaysia and Thailand central banks expand cross-border stablecoin initiative involving Ripple, Visa and Mastercard",
-   "url": "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492",
-   "source": "The Block",
-   "published_at": "Fri, 23 Oct 2026 12:55:26 +0000",
-   "summary": "Malaysia and Thailand have joined Singapore s BLOOM initiative for cross-border stablecoin and tokenized deposit settlement.",
-   "score": 16
-  },
-  {
-   "title": "FCC issues first bans under new chip-level rule",
-   "url": "https://www.tomshardware.com/tech-industry/cyber-security/fcc-bans-first-two-devices-from-the-us-under-new-chip-level-rule-huawei-subsidiary-chip-boasts-face-detection-algorithm",
-   "source": "Tom's Hardware",
-   "published_at": "Fri, 23 Oct 2026 12:15:00 +0000",
-   "summary": "FCC bans a dashcam and wireless video transmitter produced by HiSilicon, a subsidiary of Huawei for containing an AI chip that advertises face detection algorithms.",
-   "score": 16
-  },
-  {
-   "title": "Swedish government offices to ban ChatGPT and Claude",
-   "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
-   "source": "Hacker News Frontpage",
-   "published_at": "Fri, 23 Oct 2026 11:39:54 +0000",
-   "summary": "Comments URL: Points: 20",
-   "score": 16
-  },
-  {
-   "title": "US banks scramble to restrict AI agent activity",
-   "url": "https://www.tomshardware.com/tech-industry/cyber-security/us-banks-scramble-to-restrict-ai-agent-activity-agents-detected-accessing-customer-accounts-or-even-attempting-to-make-transactions-in-breach-of-policy",
-   "source": "Tom's Hardware",
-   "published_at": "Fri, 23 Oct 2026 11:30:00 +0000",
-   "summary": "Several U.S. banks are blocking AI agents from making transactions on their platforms. They fear that those agents could go rogue and there s no way to tell if the moves they make are legitimate or not.",
-   "score": 16
-  },
-  {
-   "title": "Sweden’s central bank revives e-krona debate as stablecoins and digital euro loom",
-   "url": "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom",
-   "source": "CoinDesk",
-   "published_at": "Fri, 23 Oct 2026 08:57:34 +0000",
+   "title": "POLL: THE BANK OF CANADA TO RAISE OVERNIGHT RATE TO 2.50% ON OCTOBER 28TH, SAID 19 OF 34 ECONOMISTS.",
+   "url": "https://x.com/financialjuice/status/2113663383157223494",
+   "source": "MarketNewsFeed [MACRO]",
+   "published_at": "2026-10-23T16:06:49Z",
    "summary": "",
    "score": 16
   }
  ],
- "updatedAt": "2026-10-23T15:47:12.406997+00:00"
+ "updatedAt": "2026-10-23T16:57:55.429328+00:00"
 }

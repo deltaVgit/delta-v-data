@@ -40,6 +40,22 @@
   "score": 34
  },
  {
+  "title": "Initia Halts L1 and Rollups After Reported Mint Exploit",
+  "url": "https://thedefiant.io/news/hacks/initia-halts-l1-and-rollups-after-reported-mint-exploit",
+  "source": "The Defiant",
+  "published_at": "Fri, 23 Oct 2026 16:19:13 GMT",
+  "summary": "Analyst Spreek estimated $2.6 million had been cashed out; Ethereum records show stablecoin swaps and a later 1,135.5 ETH transfer.",
+  "score": 30
+ },
+ {
+  "title": "Quest Diagnostics confirms data breach exposed patient records",
+  "url": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
+  "source": "BleepingComputer",
+  "published_at": "Fri, 23 Oct 2026 12:40:07 -0400",
+  "summary": "American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...]",
+  "score": 28
+ },
+ {
   "title": "AI Agents as Insider Threats: Inside Microsoft s Bet on a Unified Security Stack",
   "url": "https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack",
   "source": "Dark Reading",
@@ -56,11 +72,11 @@
   "score": 28
  },
  {
-  "title": "QUANTUM COMPUTING TIMELINES ARE SHRINKING FASTER THAN MARKETS APPRECIATE.AND INSTITUTIONAL ALLOCATORS ARE ALREADY PULLING BACK FROM BITCOIN AND ETHEREUM EXPOSURE BECAUSE OF IT. MAKES THE CASE ON LIVES",
-  "url": "https://x.com/LiveSquawk/status/2113622456111915361",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-23T13:24:14Z",
-  "summary": "",
+  "title": "PHP shares mitigation for new RCE vulnerability with no patch",
+  "url": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
+  "source": "BleepingComputer",
+  "published_at": "Fri, 23 Oct 2026 11:38:05 -0400",
+  "summary": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]",
   "score": 24
  },
  {
@@ -72,20 +88,12 @@
   "score": 24
  },
  {
-  "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-  "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-  "source": "OpenAI Blog",
-  "published_at": "Fri, 23 Oct 2026 00:00:00 GMT",
-  "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
-  "score": 24
- },
- {
-  "title": "Bitcoin and Ethereum Take Different Paths to Post-Quantum Wallets",
-  "url": "https://thedefiant.io/news/security/bitcoin-and-ethereum-take-different-paths-to-post-quantum-wallets",
-  "source": "The Defiant",
-  "published_at": "Thu, 22 Oct 2026 23:18:52 GMT",
-  "summary": "Ethereum contracts can verify alternative signatures today, but protecting existing accounts requires more than adding a new signer. Bitcoin’s P2MR proposal does not itself add post-quantum signatures.",
-  "score": 24
+  "title": "HACKER INFINITE-MINTS TOKENS ON INITIA CHAIN, WITHDRAWS $2.6 MILLION SO FAR",
+  "url": "https://x.com/cryptounfolded/status/2113655087079760184",
+  "source": "MarketNewsFeed [OTHER]",
+  "published_at": "2026-10-23T15:33:49Z",
+  "summary": "",
+  "score": 22
  },
  {
   "title": "Bitcoin Core changes security rules as AI makes finding code bugs dangerously easy",
@@ -149,14 +157,6 @@
   "source": "arXiv cs.AI",
   "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
   "summary": "arXiv:2610.29014v1 Announce Type: new Abstract: Coding agents are rapidly advancing from single-file generation to long-horizon repository-scale engineering, yet the evaluation of their capabilities to author interactive extended reality (XR) applications remains an open challenge. Unlike traditiona",
-  "score": 18
- },
- {
-  "title": "An Evidence-Driven Multi-Agent Compound AI System for Head and Neck Proton Radiotherapy Planning",
-  "url": "https://arxiv.org/abs/2610.29010",
-  "source": "arXiv cs.AI",
-  "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.29010v1 Announce Type: new Abstract: Radiation treatment planning requires balancing competing objectives to satisfy clinical criteria while accommodating physicians preferences. This study aims to develop an evidence-driven, multi-agent compound AI system that integrates DRL-based automa",
   "score": 18
  }
 ]
