@@ -40,6 +40,30 @@
   "score": 34
  },
  {
+  "title": "INITIA HALTS BLOCKCHAIN AFTER EXPLOIT REPORTEDLY DRAINS OVER $2.6M",
+  "url": "https://www.tradingview.com/news/cointelegraph:90bf0ce4c094b:0-initia-halts-blockchain-after-exploit-reportedly-drains-over-2-6m/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-23T18:48:51Z",
+  "summary": "",
+  "score": 30
+ },
+ {
+  "title": "Agora Says Initia Exploit Hit Third-Party Product Using AUSD",
+  "url": "https://thedefiant.io/news/hacks/agora-says-initia-exploit-hit-third-party-product-using-ausd",
+  "source": "The Defiant",
+  "published_at": "Fri, 23 Oct 2026 17:27:28 GMT",
+  "summary": "Ethereum records show 1.4 million AUSD left a bridge adapter, while Agora says it has no smart contracts deployed on Initia.",
+  "score": 30
+ },
+ {
+  "title": "Agora Freezes AUSD Account Linked to Initia Exploit",
+  "url": "https://thedefiant.io/news/hacks/agora-freezes-ausd-account-linked-to-initia-exploit",
+  "source": "The Defiant",
+  "published_at": "Fri, 23 Oct 2026 17:08:01 GMT",
+  "summary": "Agora says it has no contracts on Initia; the targeted Ethereum account had already swapped 1.4 million AUSD for ETH.",
+  "score": 30
+ },
+ {
   "title": "Initia Halts L1 and Rollups After Reported Mint Exploit",
   "url": "https://thedefiant.io/news/hacks/initia-halts-l1-and-rollups-after-reported-mint-exploit",
   "source": "The Defiant",
@@ -60,7 +84,7 @@
   "url": "https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack",
   "source": "Dark Reading",
   "published_at": "Fri, 23 Oct 2026 11:38:28 GMT",
-  "summary": "Microsoft s Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may multiply — not contain — the risk.",
+  "summary": "Microsoft s Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may compound — not contain — the risk.",
   "score": 28
  },
  {
@@ -70,6 +94,14 @@
   "published_at": "Fri, 23 Oct 2026 06:50:59 GMT",
   "summary": "The exchange says affected deposits were credited, but has not disclosed the size of its losses.",
   "score": 28
+ },
+ {
+  "title": "BITCOIN, ETHEREUM, XRP, DOGECOIN STEADY AS TRADERS BRACE FOR POTENTIAL WEEKEND VOLATILITY",
+  "url": "https://www.tradingview.com/news/benzinga:bb55ea9db094b:0-bitcoin-ethereum-xrp-dogecoin-steady-as-traders-brace-for-potential-weekend-volatility/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-23T19:35:34Z",
+  "summary": "",
+  "score": 24
  },
  {
   "title": "PHP shares mitigation for new RCE vulnerability with no patch",
@@ -86,6 +118,22 @@
   "published_at": "Fri, 23 Oct 2026 11:22:33 +0000",
   "summary": "",
   "score": 24
+ },
+ {
+  "title": "CMCC GLOBAL PLANS TOKENIZED BITCOIN FUNDS WITH TETHER AND BITFINEX SECURITIES",
+  "url": "https://www.tradingview.com/news/newsbtc:fb86de8ee094b:0-cmcc-global-plans-tokenized-bitcoin-funds-with-tether-and-bitfinex-securities/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-23T19:07:31Z",
+  "summary": "",
+  "score": 22
+ },
+ {
+  "title": "Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt",
+  "url": "https://decrypt.co/381715/bitcoin-core-security-policy-ai-threats",
+  "source": "Decrypt",
+  "published_at": "Fri, 23 Oct 2026 17:16:03 +0000",
+  "summary": "Developers will now backport fixes and cut releases immediately for flaws flagged as “easily discoverable,” abandoning long embargoes for bugs an attacker can surface with a single AI prompt.",
+  "score": 22
  },
  {
   "title": "HACKER INFINITE-MINTS TOKENS ON INITIA CHAIN, WITHDRAWS $2.6 MILLION SO FAR",
@@ -110,53 +158,5 @@
   "published_at": "Fri, 23 Oct 2026 11:49:37 +0000",
   "summary": "The Hoodi testnet fork is off after ChainSecurity found gas changes that could let contracts lock in failures, citing 13 real-world cases.",
   "score": 22
- },
- {
-  "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
-  "url": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
-  "source": "CoinDesk",
-  "published_at": "Fri, 23 Oct 2026 04:59:34 +0000",
-  "summary": "",
-  "score": 22
- },
- {
-  "title": "US banks scramble to restrict AI agent activity",
-  "url": "https://www.tomshardware.com/tech-industry/cyber-security/us-banks-scramble-to-restrict-ai-agent-activity-agents-detected-accessing-customer-accounts-or-even-attempting-to-make-transactions-in-breach-of-policy",
-  "source": "Tom's Hardware",
-  "published_at": "Fri, 23 Oct 2026 11:30:00 +0000",
-  "summary": "Several U.S. banks are blocking AI agents from making transactions on their platforms. They fear that those agents could go rogue and there s no way to tell if the moves they make are legitimate or not.",
-  "score": 18
- },
- {
-  "title": "Claude and Grok among AI agents used to automate attacks on Latin American institutions",
-  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/cybercartel-hacking-gang-used-claude-and-grok-ai-agents-to-automate-attacks-on-latin-american-institutions-passwords-and-details-stolen-from-over-400-institutions-including-banks-and-payment-apps",
-  "source": "Tom's Hardware",
-  "published_at": "Fri, 23 Oct 2026 11:00:00 +0000",
-  "summary": "Claude and Grok are among the AI agents that are being used to automate attacks on Latin American institutions, including banks and payment apps, by a group calling themselves CyberCartel.",
-  "score": 18
- },
- {
-  "title": "You gave your AI agent access, but who is giving it orders?",
-  "url": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
-  "source": "BleepingComputer",
-  "published_at": "Fri, 23 Oct 2026 10:00:10 -0400",
-  "summary": "AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its Agent Trust Hub helps protect agents through skill verification, secure connectivity, and runtime co",
-  "score": 18
- },
- {
-  "title": "Gnerk Asks How Big a Swarm Can Get Before It Stops Being One Agent",
-  "url": "https://www.lesswrong.com/posts/goawvtgQcrMZtezXv/gnerk-asks-how-big-a-swarm-can-get-before-it-stops-being-one",
-  "source": "LessWrong",
-  "published_at": "Fri, 23 Oct 2026 09:48:55 GMT",
-  "summary": "Introduction (Narrator Voice, Morgan Freeman): Gnerk sat there thinking deeply about the recent swarm attacks. Gnerk might not be the smartest tool in the shed but he had pointed the dull tools he had at this problem for a long time. He had the tools of spectral graph theory at hand. “Do you ever dr",
-  "score": 18
- },
- {
-  "title": "GenXR-Bench: Benchmarking Coding Agents for Interactive XR Development",
-  "url": "https://arxiv.org/abs/2610.29014",
-  "source": "arXiv cs.AI",
-  "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.29014v1 Announce Type: new Abstract: Coding agents are rapidly advancing from single-file generation to long-horizon repository-scale engineering, yet the evaluation of their capabilities to author interactive extended reality (XR) applications remains an open challenge. Unlike traditiona",
-  "score": 18
  }
 ]
