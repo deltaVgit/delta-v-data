@@ -96,14 +96,6 @@
   "score": 22
  },
  {
-  "title": "BITCOIN WALLET ELECTRUM URGES IMMEDIATE UPDATE AFTER FINDING CRITICAL SECURITY FLAW",
-  "url": "https://www.tradingview.com/news/bloomingbit:2b9876947094b:0-bitcoin-wallet-electrum-urges-immediate-update-after-finding-critical-security-flaw/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-24T15:52:15Z",
-  "summary": "",
-  "score": 22
- },
- {
   "title": "Patching reward hacks won’t fix reward hacking",
   "url": "https://www.lesswrong.com/posts/nWiPLEgaXdAQNwXBd/patching-reward-hacks-won-t-fix-reward-hacking",
   "source": "LessWrong",
@@ -117,14 +109,6 @@
   "source": "LessWrong",
   "published_at": "Fri, 23 Oct 2026 21:20:54 GMT",
   "summary": "Last week at a small conference, there was talk about a future event referred to as The Hackening. As in, within 6-12 months, many predicted that due to advanced AIs and AI agents the internet would become a severely hostile place. Some worried that this could rise to the level of ‘assume any phone ",
-  "score": 22
- },
- {
-  "title": "Gradient Routing Generalizes to Unrouted Hack Types",
-  "url": "https://www.lesswrong.com/posts/ie7bSp5ZDwYkCQxuv/gradient-routing-generalizes-to-unrouted-hack-types",
-  "source": "LessWrong",
-  "published_at": "Fri, 23 Oct 2026 19:55:10 GMT",
-  "summary": "TLDR: I lightly extend Ward, Hu et al (2026) to measure how well gradient routing generalizes. I route gradients on one type of reward hack (e.g. ones that reason in English) and check whether this suppresses other types at test time (e.g. ones that reason in French), despite the model being trained",
   "score": 22
  },
  {
@@ -158,5 +142,21 @@
   "published_at": "Fri, 23 Oct 2026 21:21:47 +0000",
   "summary": "Comments URL: Points: 7",
   "score": 20
+ },
+ {
+  "title": "US banks scramble to restrict AI agent activity",
+  "url": "https://www.tomshardware.com/tech-industry/cyber-security/us-banks-scramble-to-restrict-ai-agent-activity-agents-detected-accessing-customer-accounts-or-even-attempting-to-make-transactions-in-breach-of-policy",
+  "source": "Tom's Hardware",
+  "published_at": "Fri, 23 Oct 2026 11:30:00 +0000",
+  "summary": "Several U.S. banks are blocking AI agents from making transactions on their platforms. They fear that those agents could go rogue and there s no way to tell if the moves they make are legitimate or not.",
+  "score": 18
+ },
+ {
+  "title": "You gave your AI agent access, but who is giving it orders?",
+  "url": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
+  "source": "BleepingComputer",
+  "published_at": "Fri, 23 Oct 2026 10:00:10 -0400",
+  "summary": "AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its Agent Trust Hub helps protect agents through skill verification, secure connectivity, and runtime co",
+  "score": 18
  }
 ]

@@ -73,14 +73,6 @@
    "score": 34
   },
   {
-   "title": "Gradient Routing Generalizes to Unrouted Hack Types",
-   "url": "https://www.lesswrong.com/posts/ie7bSp5ZDwYkCQxuv/gradient-routing-generalizes-to-unrouted-hack-types",
-   "source": "LessWrong",
-   "published_at": "Fri, 23 Oct 2026 19:55:10 GMT",
-   "summary": "TLDR: I lightly extend Ward, Hu et al (2026) to measure how well gradient routing generalizes. I route gradients on one type of reward hack (e.g. ones that reason in English) and check whether this suppresses other types at test time (e.g. ones that reason in French), despite the model being trained",
-   "score": 34
-  },
-  {
    "title": "Node.js Vulnerability Blog",
    "url": "https://nodejs.org/en/blog/vulnerability",
    "source": "Hacker News Frontpage",
@@ -95,7 +87,15 @@
    "published_at": "Fri, 23 Oct 2026 11:38:05 -0400",
    "summary": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]",
    "score": 30
+  },
+  {
+   "title": "CVE Tracker",
+   "url": "https://cve.0xosprey.com/",
+   "source": "Hacker News Frontpage",
+   "published_at": "Fri, 23 Oct 2026 21:21:47 +0000",
+   "summary": "Comments URL: Points: 7",
+   "score": 28
   }
  ],
- "updatedAt": "2026-10-24T20:38:36.504194+00:00"
+ "updatedAt": "2026-10-24T21:55:02.169865+00:00"
 }
