@@ -1,6 +1,14 @@
 {
  "picks": [
   {
+   "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
+   "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
+   "source": "BleepingComputer",
+   "published_at": "Sat, 24 Oct 2026 10:17:32 -0400",
+   "summary": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast. [...]",
+   "score": 40
+  },
+  {
    "title": "Agora Says Initia Exploit Hit Third-Party Product Using AUSD",
    "url": "https://thedefiant.io/news/hacks/agora-says-initia-exploit-hit-third-party-product-using-ausd",
    "source": "The Defiant",
@@ -14,14 +22,6 @@
    "source": "The Defiant",
    "published_at": "Fri, 23 Oct 2026 17:08:01 GMT",
    "summary": "Agora says it has no contracts on Initia; the targeted Ethereum account had already swapped 1.4 million AUSD for ETH.",
-   "score": 40
-  },
-  {
-   "title": "Initia Halts L1 and Rollups After Reported Mint Exploit",
-   "url": "https://thedefiant.io/news/hacks/initia-halts-l1-and-rollups-after-reported-mint-exploit",
-   "source": "The Defiant",
-   "published_at": "Fri, 23 Oct 2026 16:19:13 GMT",
-   "summary": "Analyst Spreek estimated $2.6 million had been cashed out; Ethereum records show stablecoin swaps and a later 1,135.5 ETH transfer.",
    "score": 40
   },
   {
@@ -45,7 +45,7 @@
    "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
    "source": "Hacker News Frontpage",
    "published_at": "Sat, 24 Oct 2026 05:49:57 +0000",
-   "summary": "Comments URL: Points: 186",
+   "summary": "Comments URL: Points: 323",
    "score": 34
   },
   {
@@ -97,5 +97,5 @@
    "score": 24
   }
  ],
- "updatedAt": "2026-10-24T11:37:28.645468+00:00"
+ "updatedAt": "2026-10-24T14:38:29.471208+00:00"
 }

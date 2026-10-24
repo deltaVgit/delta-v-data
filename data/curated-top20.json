@@ -1,10 +1,18 @@
 [
  {
+  "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
+  "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
+  "source": "BleepingComputer",
+  "published_at": "Sat, 24 Oct 2026 10:17:32 -0400",
+  "summary": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast. [...]",
+  "score": 40
+ },
+ {
   "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
   "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
   "source": "Hacker News Frontpage",
   "published_at": "Sat, 24 Oct 2026 05:49:57 +0000",
-  "summary": "Comments URL: Points: 186",
+  "summary": "Comments URL: Points: 323",
   "score": 36
  },
  {
@@ -21,14 +29,6 @@
   "source": "The Defiant",
   "published_at": "Fri, 23 Oct 2026 17:08:01 GMT",
   "summary": "Agora says it has no contracts on Initia; the targeted Ethereum account had already swapped 1.4 million AUSD for ETH.",
-  "score": 30
- },
- {
-  "title": "Initia Halts L1 and Rollups After Reported Mint Exploit",
-  "url": "https://thedefiant.io/news/hacks/initia-halts-l1-and-rollups-after-reported-mint-exploit",
-  "source": "The Defiant",
-  "published_at": "Fri, 23 Oct 2026 16:19:13 GMT",
-  "summary": "Analyst Spreek estimated $2.6 million had been cashed out; Ethereum records show stablecoin swaps and a later 1,135.5 ETH transfer.",
   "score": 30
  },
  {
@@ -70,14 +70,6 @@
   "published_at": "Fri, 23 Oct 2026 11:22:33 +0000",
   "summary": "",
   "score": 24
- },
- {
-  "title": "U.S. SPOT BITCOIN ETFS POST SECOND STRAIGHT DAY OF OUTFLOWS, WITH $137.94 MILLION WITHDRAWN",
-  "url": "https://www.tradingview.com/news/bloomingbit:ff5a4f235094b:0-u-s-spot-bitcoin-etfs-post-second-straight-day-of-outflows-with-137-94-million-withdrawn/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-24T09:38:10Z",
-  "summary": "",
-  "score": 22
  },
  {
   "title": "Patching reward hacks won’t fix reward hacking",
@@ -128,14 +120,6 @@
   "score": 22
  },
  {
-  "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
-  "url": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
-  "source": "CoinDesk",
-  "published_at": "Fri, 23 Oct 2026 04:59:34 +0000",
-  "summary": "",
-  "score": 22
- },
- {
   "title": "CVE Tracker",
   "url": "https://cve.0xosprey.com/",
   "source": "Hacker News Frontpage",
@@ -158,5 +142,21 @@
   "published_at": "Fri, 23 Oct 2026 11:30:00 +0000",
   "summary": "Several U.S. banks are blocking AI agents from making transactions on their platforms. They fear that those agents could go rogue and there s no way to tell if the moves they make are legitimate or not.",
   "score": 18
+ },
+ {
+  "title": "You gave your AI agent access, but who is giving it orders?",
+  "url": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
+  "source": "BleepingComputer",
+  "published_at": "Fri, 23 Oct 2026 10:00:10 -0400",
+  "summary": "AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its Agent Trust Hub helps protect agents through skill verification, secure connectivity, and runtime co",
+  "score": 18
+ },
+ {
+  "title": "JUST IN: CRYPTO IS DUMPING $SOL FALLS UNDER $100$XRP FALLS UNDER $1.30 $ETH FALLS UNDER $2,350BITCOIN $BTC FALLS UNDER $80,000OVER $200,000,000 IN LEVERAGED CRYPTO LONG POSITIONS HAVE BEEN LIQUIDATED ",
+  "url": "https://x.com/WatcherGuru/status/2113999860462465397",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-24T14:23:53Z",
+  "summary": "",
+  "score": 12
  }
 ]
