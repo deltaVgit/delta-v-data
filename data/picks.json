@@ -1,14 +1,6 @@
 {
  "picks": [
   {
-   "title": "INITIA HALTS BLOCKCHAIN AFTER EXPLOIT REPORTEDLY DRAINS OVER $2.6M",
-   "url": "https://www.tradingview.com/news/cointelegraph:90bf0ce4c094b:0-initia-halts-blockchain-after-exploit-reportedly-drains-over-2-6m/",
-   "source": "MarketNewsFeed [CRYPTO]",
-   "published_at": "2026-10-23T18:48:51Z",
-   "summary": "",
-   "score": 66
-  },
-  {
    "title": "Agora Says Initia Exploit Hit Third-Party Product Using AUSD",
    "url": "https://thedefiant.io/news/hacks/agora-says-initia-exploit-hit-third-party-product-using-ausd",
    "source": "The Defiant",
@@ -65,14 +57,6 @@
    "score": 34
   },
   {
-   "title": "OPENAI: RED-TEAMING EXERCISE UNCOVERS VULNERABILITY ENABLING UNAUTHENTICATED REMOTE CODE EXECUTION IN BROTLI COMPRESSION LIBRARY",
-   "url": "https://x.com/financialjuice/status/2113767384339341649",
-   "source": "MarketNewsFeed [OTHER]",
-   "published_at": "2026-10-23T22:59:54Z",
-   "summary": "",
-   "score": 30
-  },
-  {
    "title": "PHP shares mitigation for new RCE vulnerability with no patch",
    "url": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
    "source": "BleepingComputer",
@@ -95,7 +79,23 @@
    "published_at": "Fri, 23 Oct 2026 14:54:41 -0400",
    "summary": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
    "score": 24
+  },
+  {
+   "title": "Phantom rolls out Kalshi prediction markets to US users, says it’s ‘confident and comfortable’ amid state lawsuits",
+   "url": "https://www.theblock.co/news/markets/2026-10-23-phantom-rolls-out-kalshi-prediction-markets-us-421652",
+   "source": "The Block",
+   "published_at": "Fri, 23 Oct 2026 13:00:00 +0000",
+   "summary": "Phantom users will fund trades with CASH stablecoins, with market restrictions applied in Michigan, Nevada and Washington.",
+   "score": 18
+  },
+  {
+   "title": "Netanyahu Considering Crypto Plan to Dodge Banking Sanctions on Israel",
+   "url": "https://decrypt.co/381758/netanyahu-crypto-plan-banking-sanctions-israel",
+   "source": "Decrypt",
+   "published_at": "Fri, 23 Oct 2026 21:16:03 +0000",
+   "summary": "Days before Israel’s election, Netanyahu said he has asked for a blockchain plan in case banks are hit with sanctions, and told Israelis to prepare for a rainy day after Trump.",
+   "score": 16
   }
  ],
- "updatedAt": "2026-10-24T01:32:29.914820+00:00"
+ "updatedAt": "2026-10-24T06:23:34.337744+00:00"
 }

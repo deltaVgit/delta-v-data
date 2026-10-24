@@ -16,28 +16,12 @@
   "score": 40
  },
  {
-  "title": "OPENAI: RED-TEAMING EXERCISE UNCOVERS VULNERABILITY ENABLING UNAUTHENTICATED REMOTE CODE EXECUTION IN BROTLI COMPRESSION LIBRARY",
-  "url": "https://x.com/financialjuice/status/2113767384339341649",
-  "source": "MarketNewsFeed [OTHER]",
-  "published_at": "2026-10-23T22:59:54Z",
-  "summary": "",
-  "score": 38
- },
- {
   "title": "Behavior Beyond Text: Evaluating Refusal Transfer Failure in LLM Agents",
   "url": "https://arxiv.org/abs/2610.28982",
   "source": "arXiv cs.AI",
   "published_at": "Fri, 23 Oct 2026 00:00:00 -0400",
   "summary": "arXiv:2610.28982v1 Announce Type: new Abstract: While large language models are increasingly deployed as tool-calling agents, their safety evaluations still focus primarily on their ability to refuse harmful requests in text. We investigate whether the refusal behavior in text transfers to tool use.",
   "score": 34
- },
- {
-  "title": "INITIA HALTS BLOCKCHAIN AFTER EXPLOIT REPORTEDLY DRAINS OVER $2.6M",
-  "url": "https://www.tradingview.com/news/cointelegraph:90bf0ce4c094b:0-initia-halts-blockchain-after-exploit-reportedly-drains-over-2-6m/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-23T18:48:51Z",
-  "summary": "",
-  "score": 30
  },
  {
   "title": "Agora Says Initia Exploit Hit Third-Party Product Using AUSD",
@@ -158,5 +142,21 @@
   "published_at": "Fri, 23 Oct 2026 11:49:37 +0000",
   "summary": "The Hoodi testnet fork is off after ChainSecurity found gas changes that could let contracts lock in failures, citing 13 real-world cases.",
   "score": 22
+ },
+ {
+  "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
+  "url": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
+  "source": "CoinDesk",
+  "published_at": "Fri, 23 Oct 2026 04:59:34 +0000",
+  "summary": "",
+  "score": 22
+ },
+ {
+  "title": "CVE Tracker",
+  "url": "https://cve.0xosprey.com/",
+  "source": "Hacker News Frontpage",
+  "published_at": "Fri, 23 Oct 2026 21:21:47 +0000",
+  "summary": "Comments URL: Points: 7",
+  "score": 20
  }
 ]
