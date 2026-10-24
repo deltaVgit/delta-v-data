@@ -1,18 +1,10 @@
 [
  {
-  "title": "China-aligned hackers deploy AI agents in massive ConnectWise supply chain attack",
-  "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-says-china-aligned-hackers-used-ai-agents-in-connectwise-supply-chain-attack-agents-attempted-sign-ins-at-more-than-2-250-microsoft-365-tenants-with-some-of-the-groups-attacks-reaching-privileged-access-in-under-three-hours",
-  "source": "Tom's Hardware",
-  "published_at": "Fri, 23 Oct 2026 10:30:00 +0000",
-  "summary": "Microsoft says China-aligned Storm-0940 used the ARTEX AI agent framework in the ConnectWise Cloud Backup supply chain attack.",
-  "score": 40
- },
- {
   "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
   "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
   "source": "Hacker News Frontpage",
   "published_at": "Sat, 24 Oct 2026 05:49:57 +0000",
-  "summary": "Comments URL: Points: 169",
+  "summary": "Comments URL: Points: 186",
   "score": 36
  },
  {
@@ -54,6 +46,14 @@
   "published_at": "Fri, 23 Oct 2026 11:38:28 GMT",
   "summary": "Microsoft s Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may compound — not contain — the risk.",
   "score": 28
+ },
+ {
+  "title": "Node.js Vulnerability Blog",
+  "url": "https://nodejs.org/en/blog/vulnerability",
+  "source": "Hacker News Frontpage",
+  "published_at": "Sat, 24 Oct 2026 11:08:47 +0000",
+  "summary": "Comments URL: Points: 3",
+  "score": 24
  },
  {
   "title": "PHP shares mitigation for new RCE vulnerability with no patch",
