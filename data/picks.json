@@ -65,14 +65,6 @@
    "score": 34
   },
   {
-   "title": "The Hackening",
-   "url": "https://www.lesswrong.com/posts/iqgZaJMnmyDCYfnuC/the-hackening-1",
-   "source": "LessWrong",
-   "published_at": "Fri, 23 Oct 2026 21:20:54 GMT",
-   "summary": "Last week at a small conference, there was talk about a future event referred to as The Hackening. As in, within 6-12 months, many predicted that due to advanced AIs and AI agents the internet would become a severely hostile place. Some worried that this could rise to the level of ‘assume any phone ",
-   "score": 34
-  },
-  {
    "title": "Node.js Vulnerability Blog",
    "url": "https://nodejs.org/en/blog/vulnerability",
    "source": "Hacker News Frontpage",
@@ -95,7 +87,15 @@
    "published_at": "Fri, 23 Oct 2026 21:21:47 +0000",
    "summary": "Comments URL: Points: 7",
    "score": 28
+  },
+  {
+   "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
+   "source": "BleepingComputer",
+   "published_at": "Fri, 23 Oct 2026 14:54:41 -0400",
+   "summary": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
+   "score": 24
   }
  ],
- "updatedAt": "2026-10-24T22:43:55.524420+00:00"
+ "updatedAt": "2026-10-24T23:50:06.485841+00:00"
 }
