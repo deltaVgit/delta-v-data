@@ -1,6 +1,14 @@
 {
  "picks": [
   {
+   "title": "X100 Exploit Proceeds Split Into Four 400-ETH Wallets",
+   "url": "https://thedefiant.io/news/hacks/x100-exploit-proceeds-split-into-four-400-eth-wallets",
+   "source": "The Defiant",
+   "published_at": "Sat, 24 Oct 2026 19:41:15 GMT",
+   "summary": "The first exploiter swapped about 4.75 million USDT into ether, while the distribution wallet retained another 423 ETH.",
+   "score": 40
+  },
+  {
    "title": "Electrum Patches Wallet Flaw Exploited Through Malicious Servers",
    "url": "https://thedefiant.io/news/security/electrum-patches-wallet-flaw-exploited-through-malicious-servers",
    "source": "The Defiant",
@@ -87,15 +95,7 @@
    "published_at": "Fri, 23 Oct 2026 11:38:05 -0400",
    "summary": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]",
    "score": 30
-  },
-  {
-   "title": "CVE Tracker",
-   "url": "https://cve.0xosprey.com/",
-   "source": "Hacker News Frontpage",
-   "published_at": "Fri, 23 Oct 2026 21:21:47 +0000",
-   "summary": "Comments URL: Points: 7",
-   "score": 28
   }
  ],
- "updatedAt": "2026-10-24T19:43:39.537427+00:00"
+ "updatedAt": "2026-10-24T20:38:36.504194+00:00"
 }

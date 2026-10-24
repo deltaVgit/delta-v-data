@@ -8,6 +8,14 @@
   "score": 40
  },
  {
+  "title": "X100 Exploit Proceeds Split Into Four 400-ETH Wallets",
+  "url": "https://thedefiant.io/news/hacks/x100-exploit-proceeds-split-into-four-400-eth-wallets",
+  "source": "The Defiant",
+  "published_at": "Sat, 24 Oct 2026 19:41:15 GMT",
+  "summary": "The first exploiter swapped about 4.75 million USDT into ether, while the distribution wallet retained another 423 ETH.",
+  "score": 30
+ },
+ {
   "title": "Electrum Patches Wallet Flaw Exploited Through Malicious Servers",
   "url": "https://thedefiant.io/news/security/electrum-patches-wallet-flaw-exploited-through-malicious-servers",
   "source": "The Defiant",
@@ -150,13 +158,5 @@
   "published_at": "Fri, 23 Oct 2026 21:21:47 +0000",
   "summary": "Comments URL: Points: 7",
   "score": 20
- },
- {
-  "title": "US banks scramble to restrict AI agent activity",
-  "url": "https://www.tomshardware.com/tech-industry/cyber-security/us-banks-scramble-to-restrict-ai-agent-activity-agents-detected-accessing-customer-accounts-or-even-attempting-to-make-transactions-in-breach-of-policy",
-  "source": "Tom's Hardware",
-  "published_at": "Fri, 23 Oct 2026 11:30:00 +0000",
-  "summary": "Several U.S. banks are blocking AI agents from making transactions on their platforms. They fear that those agents could go rogue and there s no way to tell if the moves they make are legitimate or not.",
-  "score": 18
  }
 ]
