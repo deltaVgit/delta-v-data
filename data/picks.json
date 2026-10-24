@@ -33,6 +33,22 @@
    "score": 38
   },
   {
+   "title": "Patching reward hacks won’t fix reward hacking",
+   "url": "https://www.lesswrong.com/posts/nWiPLEgaXdAQNwXBd/patching-reward-hacks-won-t-fix-reward-hacking",
+   "source": "LessWrong",
+   "published_at": "Sat, 24 Oct 2026 09:15:09 GMT",
+   "summary": "In the spirit of More people should write basic AI safety explainers , here s a basic argument that focusing on patching reward hacking is misguided and will fail. It s an attempt to distill my understanding of what we re seeing right now + a variety of relevant sources. [1] Argument is as follows: ",
+   "score": 34
+  },
+  {
+   "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+   "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+   "source": "Hacker News Frontpage",
+   "published_at": "Sat, 24 Oct 2026 05:49:57 +0000",
+   "summary": "Comments URL: Points: 169",
+   "score": 34
+  },
+  {
    "title": "The Hackening",
    "url": "https://www.lesswrong.com/posts/iqgZaJMnmyDCYfnuC/the-hackening-1",
    "source": "LessWrong",
@@ -79,23 +95,7 @@
    "published_at": "Fri, 23 Oct 2026 14:54:41 -0400",
    "summary": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
    "score": 24
-  },
-  {
-   "title": "Phantom rolls out Kalshi prediction markets to US users, says it’s ‘confident and comfortable’ amid state lawsuits",
-   "url": "https://www.theblock.co/news/markets/2026-10-23-phantom-rolls-out-kalshi-prediction-markets-us-421652",
-   "source": "The Block",
-   "published_at": "Fri, 23 Oct 2026 13:00:00 +0000",
-   "summary": "Phantom users will fund trades with CASH stablecoins, with market restrictions applied in Michigan, Nevada and Washington.",
-   "score": 18
-  },
-  {
-   "title": "Netanyahu Considering Crypto Plan to Dodge Banking Sanctions on Israel",
-   "url": "https://decrypt.co/381758/netanyahu-crypto-plan-banking-sanctions-israel",
-   "source": "Decrypt",
-   "published_at": "Fri, 23 Oct 2026 21:16:03 +0000",
-   "summary": "Days before Israel’s election, Netanyahu said he has asked for a blockchain plan in case banks are hit with sanctions, and told Israelis to prepare for a rainy day after Trump.",
-   "score": 16
   }
  ],
- "updatedAt": "2026-10-24T06:27:29.203379+00:00"
+ "updatedAt": "2026-10-24T11:19:59.899740+00:00"
 }
