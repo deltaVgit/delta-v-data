@@ -1,6 +1,14 @@
 {
  "picks": [
   {
+   "title": "Electrum Patches Wallet Flaw Exploited Through Malicious Servers",
+   "url": "https://thedefiant.io/news/security/electrum-patches-wallet-flaw-exploited-through-malicious-servers",
+   "source": "The Defiant",
+   "published_at": "Sat, 24 Oct 2026 17:57:11 GMT",
+   "summary": "A malicious server can substitute a fake payment, then trick the user into signing it while raising the transaction fee. Developers say one user reported losing money.",
+   "score": 40
+  },
+  {
    "title": "Third X100 Exploit Transaction Pulls 550,000 X From Uniswap Pool",
    "url": "https://thedefiant.io/news/hacks/third-x100-exploit-transaction-pulls-550-000-x-from-uniswap-pool",
    "source": "The Defiant",
@@ -23,6 +31,14 @@
    "published_at": "Sat, 24 Oct 2026 10:17:32 -0400",
    "summary": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast. [...]",
    "score": 40
+  },
+  {
+   "title": "Keystone Website Breach Exposes Customer Addresses and Order Details",
+   "url": "https://thedefiant.io/news/security/keystone-website-breach-exposes-customer-addresses-and-order-details",
+   "source": "The Defiant",
+   "published_at": "Sat, 24 Oct 2026 19:06:10 GMT",
+   "summary": "The hardware-wallet maker says it blocked access and fixed the vulnerability. Payment details, recovery phrases and private keys were not exposed, according to the company.",
+   "score": 38
   },
   {
    "title": "Quest Diagnostics confirms data breach exposed patient records",
@@ -79,23 +95,7 @@
    "published_at": "Fri, 23 Oct 2026 21:21:47 +0000",
    "summary": "Comments URL: Points: 7",
    "score": 28
-  },
-  {
-   "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
-   "source": "BleepingComputer",
-   "published_at": "Fri, 23 Oct 2026 14:54:41 -0400",
-   "summary": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
-   "score": 24
-  },
-  {
-   "title": "Phantom rolls out Kalshi prediction markets to US users, says it’s ‘confident and comfortable’ amid state lawsuits",
-   "url": "https://www.theblock.co/news/markets/2026-10-23-phantom-rolls-out-kalshi-prediction-markets-us-421652",
-   "source": "The Block",
-   "published_at": "Fri, 23 Oct 2026 13:00:00 +0000",
-   "summary": "Phantom users will fund trades with CASH stablecoins, with market restrictions applied in Michigan, Nevada and Washington.",
-   "score": 18
   }
  ],
- "updatedAt": "2026-10-24T17:58:15.583419+00:00"
+ "updatedAt": "2026-10-24T19:43:39.537427+00:00"
 }
