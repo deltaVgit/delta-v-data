@@ -1,11 +1,27 @@
 [
  {
+  "title": "BITCOIN DROPS TO $80,400 AMID BEARISH MOMENTUM, RIPPLE BREACHES $1.30 SUPPORT",
+  "url": "https://x.com/FirstSquawk/status/2114445319232803092",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-25T19:53:49Z",
+  "summary": "",
+  "score": 40
+ },
+ {
   "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
   "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
   "source": "BleepingComputer",
   "published_at": "Sat, 24 Oct 2026 10:17:32 -0400",
   "summary": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast. [...]",
   "score": 40
+ },
+ {
+  "title": "Security-Aware Layer Mapping Reduces Fault Vulnerability In 3D Compute-In-Memory (ASU, U. of Maryland)",
+  "url": "https://semiengineering.com/security-aware-layer-mapping-reduces-fault-vulnerability-in-3d-compute-in-memory-asu-u-of-maryland/",
+  "source": "SemiEngineering",
+  "published_at": "Sun, 25 Oct 2026 20:30:42 +0000",
+  "summary": "Researchers at Arizona State University and University of Maryland published “SEAL: Multitenant Security-Aware Layer Mapping for Heterogeneous 3-D CiM Accelerators.” Abstract: “Heterogeneous 3-D compute-in-memory architectures can combine different memory technologies across stacked tiers to acceler",
+  "score": 34
  },
  {
   "title": "OpenAI s isolated red-team agents built a hidden CPU cache channel to talk with no network or shared files",
@@ -72,14 +88,6 @@
   "score": 28
  },
  {
-  "title": "KEYSTONE CUSTOMERS SAY BREACH EXPOSED DATA THE HARDWARE WALLET MAKER PROMISED TO DELETE",
-  "url": "https://www.tradingview.com/news/the_block:d37fddecc094b:0-keystone-customers-say-breach-exposed-data-the-hardware-wallet-maker-promised-to-delete/",
-  "source": "MarketNewsFeed [OTHER]",
-  "published_at": "2026-10-25T16:05:08Z",
-  "summary": "",
-  "score": 28
- },
- {
   "title": "Keystone customers say breach exposed data the hardware wallet maker promised to delete",
   "url": "https://www.theblock.co/news/business/2026-10-25-keystone-customers-say-breach-exposed-data-the-hardware-wallet-maker-promised-to-delete-431613",
   "source": "The Block",
@@ -104,6 +112,14 @@
   "score": 24
  },
  {
+  "title": "BINANCE FOUNDER CZ MAKES SHOCKING CLAIM ABOUT AI HACKING: “NO CRYPTO WALLET IS 100% SAFE”",
+  "url": "https://www.tradingview.com/news/bravenewcoin:09c1bff62094b:0/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-25T19:39:58Z",
+  "summary": "",
+  "score": 22
+ },
+ {
   "title": "Patching reward hacks won’t fix reward hacking",
   "url": "https://www.lesswrong.com/posts/nWiPLEgaXdAQNwXBd/patching-reward-hacks-won-t-fix-reward-hacking",
   "source": "LessWrong",
@@ -118,14 +134,6 @@
   "published_at": "Fri, 23 Oct 2026 17:16:03 +0000",
   "summary": "Developers will now backport fixes and cut releases immediately for flaws flagged as “easily discoverable,” abandoning long embargoes for bugs an attacker can surface with a single AI prompt.",
   "score": 22
- },
- {
-  "title": "NETANYAHU: WE HAVE INTELLIGENCE INDICATORS THAT IRAN AND ITS AGENTS MAY ATTEMPT TO LAUNCH ATTACKS TO DISRUPT THE ELECTIONS",
-  "url": "https://x.com/FirstSquawk/status/2114387764317970787",
-  "source": "MarketNewsFeed [ENERGY]",
-  "published_at": "2026-10-25T16:05:06Z",
-  "summary": "",
-  "score": 18
  },
  {
   "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
@@ -148,15 +156,7 @@
   "url": "https://lynchlab.net/llm-skin-cancer",
   "source": "Hacker News Frontpage",
   "published_at": "Sun, 25 Oct 2026 17:15:38 +0000",
-  "summary": "Comments URL: Points: 136",
-  "score": 16
- },
- {
-  "title": "R/open source bans all solo projects and projects using LLMs",
-  "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
-  "source": "Hacker News Frontpage",
-  "published_at": "Sun, 25 Oct 2026 14:05:03 +0000",
-  "summary": "Comments URL: Points: 3",
+  "summary": "Comments URL: Points: 272",
   "score": 16
  }
 ]
