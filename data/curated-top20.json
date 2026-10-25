@@ -80,14 +80,6 @@
   "score": 28
  },
  {
-  "title": "Quest Diagnostics confirms data breach exposed patient records",
-  "url": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
-  "source": "BleepingComputer",
-  "published_at": "Fri, 23 Oct 2026 12:40:07 -0400",
-  "summary": "American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...]",
-  "score": 28
- },
- {
   "title": "Node.js Vulnerability Blog",
   "url": "https://nodejs.org/en/blog/vulnerability",
   "source": "Hacker News Frontpage",
@@ -112,6 +104,14 @@
   "score": 22
  },
  {
+  "title": "Jukebox-OS: Deterministic time-travel replay and ACID tool sandbox for AI agents",
+  "url": "https://github.com/socrates6969/jukebox-os",
+  "source": "Hacker News Frontpage",
+  "published_at": "Sun, 25 Oct 2026 16:29:46 +0000",
+  "summary": "Comments URL: Points: 6",
+  "score": 18
+ },
+ {
   "title": "NETANYAHU: WE HAVE INTELLIGENCE INDICATORS THAT IRAN AND ITS AGENTS MAY ATTEMPT TO LAUNCH ATTACKS TO DISRUPT THE ELECTIONS",
   "url": "https://x.com/FirstSquawk/status/2114387764317970787",
   "source": "MarketNewsFeed [ENERGY]",
@@ -128,6 +128,22 @@
   "score": 18
  },
  {
+  "title": "From overeliciting to undereliciting LLM propensities in just a few months",
+  "url": "https://www.lesswrong.com/posts/ChixHL6AcaRgeHkp9/from-overeliciting-to-undereliciting-llm-propensities-in",
+  "source": "LessWrong",
+  "published_at": "Sun, 25 Oct 2026 18:01:57 GMT",
+  "summary": "For a while, we felt we had a pretty good grasp over LLM behaviour because we had to exert significant effort to elicit misaligned behaviour. Then, fairly suddenly, we moved to undereliciting misaligned behaviour. Let us recount: There was a bit where safety research seemed to over -elicit bad prope",
+  "score": 16
+ },
+ {
+  "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+  "url": "https://lynchlab.net/llm-skin-cancer",
+  "source": "Hacker News Frontpage",
+  "published_at": "Sun, 25 Oct 2026 17:15:38 +0000",
+  "summary": "Comments URL: Points: 68",
+  "score": 16
+ },
+ {
   "title": "R/open source bans all solo projects and projects using LLMs",
   "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
   "source": "Hacker News Frontpage",
@@ -136,26 +152,10 @@
   "score": 16
  },
  {
-  "title": "JORDI VISSER CALLS CHAMATH PALIHAPITIYA’S BITCOIN GOING TO ZERO TALE ‘COMPLETELY JUST A JOKE,’ SAYS AI SELL-OFF COULD BOTTOM IN TWO WEEKS",
-  "url": "https://www.tradingview.com/news/stocktwits:69f576884094b:0-jordi-visser-calls-chamath-palihapitiya-s-bitcoin-going-to-zero-tale-completely-just-a-joke-says-ai-sell-off-could-bottom-in-two-weeks/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-25T15:55:48Z",
-  "summary": "",
-  "score": 12
- },
- {
-  "title": "POV: YOU INVESTED JUST $10 A MONTH INTO BITCOIN SINCE IT LAUNCHED.",
-  "url": "https://x.com/WatcherGuru/status/2114363891425948077",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-25T14:30:33Z",
-  "summary": "",
-  "score": 12
- },
- {
-  "title": "US SPOT BITCOIN ETFS END TWO-WEEK LOSING STREAK WITH $301M INFLOW",
-  "url": "https://www.tradingview.com/news/cryptobriefing:2477b3be9094b:0-us-spot-bitcoin-etfs-end-two-week-losing-streak-with-301m-inflow/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-25T14:22:16Z",
+  "title": "IF TESLA MERGES WITH SPACEX, HOW MANY BITCOIN WOULD ELON'S COMPANIES HOLD?",
+  "url": "https://www.tradingview.com/news/benzinga:17643810d094b:0-if-tesla-merges-with-spacex-how-many-bitcoin-would-elon-s-companies-hold/",
+  "source": "MarketNewsFeed [OTHER]",
+  "published_at": "2026-10-25T18:06:31Z",
   "summary": "",
   "score": 12
  }
