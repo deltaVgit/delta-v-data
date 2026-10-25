@@ -65,6 +65,14 @@
    "score": 34
   },
   {
+   "title": "Tailworm – Tailscale Vulnerabilities",
+   "url": "https://tailworm.com/",
+   "source": "Hacker News Frontpage",
+   "published_at": "Sun, 25 Oct 2026 00:59:48 +0000",
+   "summary": "Comments URL: Points: 11",
+   "score": 30
+  },
+  {
    "title": "Node.js Vulnerability Blog",
    "url": "https://nodejs.org/en/blog/vulnerability",
    "source": "Hacker News Frontpage",
@@ -87,15 +95,7 @@
    "published_at": "Fri, 23 Oct 2026 21:21:47 +0000",
    "summary": "Comments URL: Points: 7",
    "score": 28
-  },
-  {
-   "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
-   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
-   "source": "BleepingComputer",
-   "published_at": "Fri, 23 Oct 2026 14:54:41 -0400",
-   "summary": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
-   "score": 24
   }
  ],
- "updatedAt": "2026-10-25T00:55:03.311291+00:00"
+ "updatedAt": "2026-10-25T01:45:40.811720+00:00"
 }

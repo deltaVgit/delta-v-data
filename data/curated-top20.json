@@ -40,14 +40,6 @@
   "score": 30
  },
  {
-  "title": "Argus – a free, open-source agentic security operations platform – MIT",
-  "url": "https://thomasunise.com/argus",
-  "source": "Hacker News Frontpage",
-  "published_at": "Sat, 24 Oct 2026 21:54:16 +0000",
-  "summary": "Comments URL: Points: 27",
-  "score": 28
- },
- {
   "title": "Keystone Website Breach Exposes Customer Addresses and Order Details",
   "url": "https://thedefiant.io/news/security/keystone-website-breach-exposes-customer-addresses-and-order-details",
   "source": "The Defiant",
@@ -70,6 +62,14 @@
   "published_at": "Fri, 23 Oct 2026 11:38:28 GMT",
   "summary": "Microsoft s Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may compound — not contain — the risk.",
   "score": 28
+ },
+ {
+  "title": "Tailworm – Tailscale Vulnerabilities",
+  "url": "https://tailworm.com/",
+  "source": "Hacker News Frontpage",
+  "published_at": "Sun, 25 Oct 2026 00:59:48 +0000",
+  "summary": "Comments URL: Points: 11",
+  "score": 24
  },
  {
   "title": "Node.js Vulnerability Blog",
