@@ -1,6 +1,14 @@
 {
  "picks": [
   {
+   "title": "ELECTRUM SAYS HIGH-RISK EXPLOIT AFFECTED VERSIONS BEFORE 4.8.3",
+   "url": "https://www.tradingview.com/news/binance_news:48dca5f5a094b:0-electrum-says-high-risk-exploit-affected-versions-before-4-8-3/",
+   "source": "MarketNewsFeed [CRYPTO]",
+   "published_at": "2026-10-25T02:03:21Z",
+   "summary": "",
+   "score": 40
+  },
+  {
    "title": "X100 Exploit Proceeds Split Into Four 400-ETH Wallets",
    "url": "https://thedefiant.io/news/hacks/x100-exploit-proceeds-split-into-four-400-eth-wallets",
    "source": "The Defiant",
@@ -65,14 +73,6 @@
    "score": 34
   },
   {
-   "title": "Tailworm – Tailscale Vulnerabilities",
-   "url": "https://tailworm.com/",
-   "source": "Hacker News Frontpage",
-   "published_at": "Sun, 25 Oct 2026 00:59:48 +0000",
-   "summary": "Comments URL: Points: 11",
-   "score": 30
-  },
-  {
    "title": "Node.js Vulnerability Blog",
    "url": "https://nodejs.org/en/blog/vulnerability",
    "source": "Hacker News Frontpage",
@@ -97,5 +97,5 @@
    "score": 28
   }
  ],
- "updatedAt": "2026-10-25T01:45:40.811720+00:00"
+ "updatedAt": "2026-10-25T05:49:32.135283+00:00"
 }

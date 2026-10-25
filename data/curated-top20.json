@@ -8,6 +8,14 @@
   "score": 40
  },
  {
+  "title": "ELECTRUM SAYS HIGH-RISK EXPLOIT AFFECTED VERSIONS BEFORE 4.8.3",
+  "url": "https://www.tradingview.com/news/binance_news:48dca5f5a094b:0-electrum-says-high-risk-exploit-affected-versions-before-4-8-3/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-25T02:03:21Z",
+  "summary": "",
+  "score": 30
+ },
+ {
   "title": "X100 Exploit Proceeds Split Into Four 400-ETH Wallets",
   "url": "https://thedefiant.io/news/hacks/x100-exploit-proceeds-split-into-four-400-eth-wallets",
   "source": "The Defiant",
@@ -64,14 +72,6 @@
   "score": 28
  },
  {
-  "title": "Tailworm – Tailscale Vulnerabilities",
-  "url": "https://tailworm.com/",
-  "source": "Hacker News Frontpage",
-  "published_at": "Sun, 25 Oct 2026 00:59:48 +0000",
-  "summary": "Comments URL: Points: 11",
-  "score": 24
- },
- {
   "title": "Node.js Vulnerability Blog",
   "url": "https://nodejs.org/en/blog/vulnerability",
   "source": "Hacker News Frontpage",
@@ -94,14 +94,6 @@
   "published_at": "Fri, 23 Oct 2026 11:22:33 +0000",
   "summary": "",
   "score": 24
- },
- {
-  "title": "CMCC GLOBAL TO TOKENIZE BITCOIN FUND OFFERINGS WITH TETHER, BITFINEX SECURITIES",
-  "url": "https://www.tradingview.com/news/bloomingbit:bab4b75fe094b:0-cmcc-global-to-tokenize-bitcoin-fund-offerings-with-tether-bitfinex-securities/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-24T16:48:20Z",
-  "summary": "",
-  "score": 22
  },
  {
   "title": "Patching reward hacks won’t fix reward hacking",
@@ -152,11 +144,19 @@
   "score": 18
  },
  {
-  "title": "Oai-math-revised: a community hub for revising OpenAI s math write-ups",
-  "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
-  "source": "Hacker News Frontpage",
-  "published_at": "Sat, 24 Oct 2026 15:35:17 +0000",
-  "summary": "Comments URL: Points: 33",
-  "score": 14
+  "title": "WEALTHY BITCOIN HOLDERS SHIFT TO LOANS AND YIELD PRODUCTS INSTEAD OF SELLING",
+  "url": "https://www.tradingview.com/news/bloomingbit:c4077f38f094b:0-wealthy-bitcoin-holders-shift-to-loans-and-yield-products-instead-of-selling/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-25T05:38:26Z",
+  "summary": "",
+  "score": 12
+ },
+ {
+  "title": "BITCOIN ETF FLOWS TRAIL PRICE MOVES, DWF STUDY FINDS",
+  "url": "https://www.tradingview.com/news/newsbtc:6b87e479d094b:0-bitcoin-etf-flows-trail-price-moves-dwf-study-finds/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-25T04:05:00Z",
+  "summary": "",
+  "score": 12
  }
 ]
