@@ -8,14 +8,6 @@
   "score": 40
  },
  {
-  "title": "ELECTRUM SAYS HIGH-RISK EXPLOIT AFFECTED VERSIONS BEFORE 4.8.3",
-  "url": "https://www.tradingview.com/news/binance_news:48dca5f5a094b:0-electrum-says-high-risk-exploit-affected-versions-before-4-8-3/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-25T02:03:21Z",
-  "summary": "",
-  "score": 30
- },
- {
   "title": "X100 Exploit Proceeds Split Into Four 400-ETH Wallets",
   "url": "https://thedefiant.io/news/hacks/x100-exploit-proceeds-split-into-four-400-eth-wallets",
   "source": "The Defiant",
@@ -96,6 +88,14 @@
   "score": 24
  },
  {
+  "title": "SEC CLEARS LISTING OF VOLATILITY SHARES' 3X BITCOIN AND ETHER ETFS",
+  "url": "https://www.tradingview.com/news/cryptobriefing:8480556f5094b:0-sec-clears-listing-of-volatility-shares-3x-bitcoin-and-ether-etfs/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-25T09:23:17Z",
+  "summary": "",
+  "score": 22
+ },
+ {
   "title": "Patching reward hacks won’t fix reward hacking",
   "url": "https://www.lesswrong.com/posts/nWiPLEgaXdAQNwXBd/patching-reward-hacks-won-t-fix-reward-hacking",
   "source": "LessWrong",
@@ -136,26 +136,26 @@
   "score": 20
  },
  {
-  "title": "HYPERLIQUID REVISES TESTNET OPERATION PRIORITIES AND ADDS AGENT-SIGNED CDEPOSIT2",
-  "url": "https://www.tradingview.com/news/binance_news:ff3abbc32094b:0-hyperliquid-revises-testnet-operation-priorities-and-adds-agent-signed-cdeposit2/",
-  "source": "MarketNewsFeed [OTHER]",
-  "published_at": "2026-10-25T06:25:11Z",
-  "summary": "",
-  "score": 18
- },
- {
-  "title": "US banks scramble to restrict AI agent activity",
-  "url": "https://www.tomshardware.com/tech-industry/cyber-security/us-banks-scramble-to-restrict-ai-agent-activity-agents-detected-accessing-customer-accounts-or-even-attempting-to-make-transactions-in-breach-of-policy",
+  "title": "Nvidia eyes converting old nuclear plants into massive AI data centers",
+  "url": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch",
   "source": "Tom's Hardware",
-  "published_at": "Fri, 23 Oct 2026 11:30:00 +0000",
-  "summary": "Several U.S. banks are blocking AI agents from making transactions on their platforms. They fear that those agents could go rogue and there s no way to tell if the moves they make are legitimate or not.",
-  "score": 18
+  "published_at": "Sun, 25 Oct 2026 10:30:00 +0000",
+  "summary": "Nvidia and PreussenElektra are studying whether decommissioned sites of German nuclear power plants can be repurposed as AI data centers, potentially cutting development time by reusing existing grid connections, land, and industrial infrastructure.",
+  "score": 12
  },
  {
-  "title": "BLOCKAID REPORTS ATTACK ON ETHEREUM-BASED X100, WITH ABOUT 4.85 MILLION USDT CASHED OUT",
-  "url": "https://www.tradingview.com/news/binance_news:1c718ac82094b:0-blockaid-reports-attack-on-ethereum-based-x100-with-about-4-85-million-usdt-cashed-out/",
+  "title": "BITCOIN SLIPS BELOW $80K AS PETER SCHIFF WARNS OF ‘VERY LONG WEEKEND’ FOR BTC INVESTORS — MIKE MCGLONE SAYS ‘DON’T FIGHT THE FED’",
+  "url": "https://www.tradingview.com/news/stocktwits:6c272b2e5094b:0-bitcoin-slips-below-80k-as-peter-schiff-warns-of-very-long-weekend-for-btc-investors-mike-mcglone-says-don-t-fight-the-fed/",
   "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-25T06:25:18Z",
+  "published_at": "2026-10-25T10:00:40Z",
+  "summary": "",
+  "score": 12
+ },
+ {
+  "title": "BITCOIN FINALLY CRASHING, SCHIFF SAYS",
+  "url": "https://www.tradingview.com/news/u_today:7ab5b7ae5094b:0-bitcoin-finally-crashing-schiff-says/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-25T09:23:18Z",
   "summary": "",
   "score": 12
  }
