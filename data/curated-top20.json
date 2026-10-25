@@ -44,7 +44,7 @@
   "url": "https://thomasunise.com/argus",
   "source": "Hacker News Frontpage",
   "published_at": "Sat, 24 Oct 2026 21:54:16 +0000",
-  "summary": "Comments URL: Points: 19",
+  "summary": "Comments URL: Points: 27",
   "score": 28
  },
  {
@@ -152,11 +152,11 @@
   "score": 18
  },
  {
-  "title": "You gave your AI agent access, but who is giving it orders?",
-  "url": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
-  "source": "BleepingComputer",
-  "published_at": "Fri, 23 Oct 2026 10:00:10 -0400",
-  "summary": "AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its Agent Trust Hub helps protect agents through skill verification, secure connectivity, and runtime co",
-  "score": 18
+  "title": "Oai-math-revised: a community hub for revising OpenAI s math write-ups",
+  "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
+  "source": "Hacker News Frontpage",
+  "published_at": "Sat, 24 Oct 2026 15:35:17 +0000",
+  "summary": "Comments URL: Points: 33",
+  "score": 14
  }
 ]
