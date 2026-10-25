@@ -8,6 +8,14 @@
   "score": 40
  },
  {
+  "title": "OpenAI s isolated red-team agents built a hidden CPU cache channel to talk with no network or shared files",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-isolated-red-team-ai-agents-built-a-hidden-cpu-cache-channel-to-talk-with-no-network-or-shared-files-exploited-cpu-cache-timing-to-bypass-microvm-sandboxes",
+  "source": "Tom's Hardware",
+  "published_at": "Sun, 25 Oct 2026 11:30:00 +0000",
+  "summary": "OpenAI’s red-team agents passed hidden messages through the CPU cache, a covert trick already shown to move data between cloud VMs.",
+  "score": 32
+ },
+ {
   "title": "X100 Exploit Proceeds Split Into Four 400-ETH Wallets",
   "url": "https://thedefiant.io/news/hacks/x100-exploit-proceeds-split-into-four-400-eth-wallets",
   "source": "The Defiant",
@@ -136,26 +144,18 @@
   "score": 20
  },
  {
-  "title": "Nvidia eyes converting old nuclear plants into massive AI data centers",
-  "url": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch",
-  "source": "Tom's Hardware",
-  "published_at": "Sun, 25 Oct 2026 10:30:00 +0000",
-  "summary": "Nvidia and PreussenElektra are studying whether decommissioned sites of German nuclear power plants can be repurposed as AI data centers, potentially cutting development time by reusing existing grid connections, land, and industrial infrastructure.",
-  "score": 12
- },
- {
-  "title": "BITCOIN SLIPS BELOW $80K AS PETER SCHIFF WARNS OF ‘VERY LONG WEEKEND’ FOR BTC INVESTORS — MIKE MCGLONE SAYS ‘DON’T FIGHT THE FED’",
-  "url": "https://www.tradingview.com/news/stocktwits:6c272b2e5094b:0-bitcoin-slips-below-80k-as-peter-schiff-warns-of-very-long-weekend-for-btc-investors-mike-mcglone-says-don-t-fight-the-fed/",
+  "title": "NEAR EXECUTIVE SAYS NETWORK IS BETTER PREPARED THAN BITCOIN FOR CRYPTO’S ‘BLACK SWAN’",
+  "url": "https://www.tradingview.com/news/stocktwits:a8f163524094b:0-near-executive-says-network-is-better-prepared-than-bitcoin-for-crypto-s-black-swan/",
   "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-25T10:00:40Z",
+  "published_at": "2026-10-25T11:52:41Z",
   "summary": "",
   "score": 12
  },
  {
-  "title": "BITCOIN FINALLY CRASHING, SCHIFF SAYS",
-  "url": "https://www.tradingview.com/news/u_today:7ab5b7ae5094b:0-bitcoin-finally-crashing-schiff-says/",
+  "title": "ELECTRUM FIXES BITCOIN WALLET FLAW THAT COULD TURN A FEE BUMP INTO THEFT",
+  "url": "https://www.tradingview.com/news/newsbtc:69c260101094b:0-electrum-fixes-bitcoin-wallet-flaw-that-could-turn-a-fee-bump-into-theft/",
   "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-25T09:23:18Z",
+  "published_at": "2026-10-25T11:05:59Z",
   "summary": "",
   "score": 12
  }
