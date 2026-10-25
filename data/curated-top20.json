@@ -16,6 +16,14 @@
   "score": 32
  },
  {
+  "title": "Nvidia discusses $2,000-per-GPU annual software fee for running agents on AI infrastructure",
+  "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform",
+  "source": "Tom's Hardware",
+  "published_at": "Sun, 25 Oct 2026 13:00:00 +0000",
+  "summary": "Nvidia CEO Jensen Huang is reportedly weighing annual software fees of around $2,000 per GPU for enterprise AI, a model that could generate $10 billion a year if five million licenses were sold. The pricing and launch timeline remain unconfirmed, while Nvidia continues to expand its AI software and ",
+  "score": 30
+ },
+ {
   "title": "X100 Exploit Proceeds Split Into Four 400-ETH Wallets",
   "url": "https://thedefiant.io/news/hacks/x100-exploit-proceeds-split-into-four-400-eth-wallets",
   "source": "The Defiant",
@@ -64,44 +72,12 @@
   "score": 28
  },
  {
-  "title": "AI Agents as Insider Threats: Inside Microsoft s Bet on a Unified Security Stack",
-  "url": "https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack",
-  "source": "Dark Reading",
-  "published_at": "Fri, 23 Oct 2026 11:38:28 GMT",
-  "summary": "Microsoft s Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may compound — not contain — the risk.",
-  "score": 28
- },
- {
   "title": "Node.js Vulnerability Blog",
   "url": "https://nodejs.org/en/blog/vulnerability",
   "source": "Hacker News Frontpage",
   "published_at": "Sat, 24 Oct 2026 11:08:47 +0000",
   "summary": "Comments URL: Points: 3",
   "score": 24
- },
- {
-  "title": "PHP shares mitigation for new RCE vulnerability with no patch",
-  "url": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
-  "source": "BleepingComputer",
-  "published_at": "Fri, 23 Oct 2026 11:38:05 -0400",
-  "summary": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]",
-  "score": 24
- },
- {
-  "title": "Bitcoin s volatility is well above euro-dollar gyrations, though it has calmed to rival Nvidia s",
-  "url": "https://www.coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s",
-  "source": "CoinDesk",
-  "published_at": "Fri, 23 Oct 2026 11:22:33 +0000",
-  "summary": "",
-  "score": 24
- },
- {
-  "title": "SEC CLEARS LISTING OF VOLATILITY SHARES' 3X BITCOIN AND ETHER ETFS",
-  "url": "https://www.tradingview.com/news/cryptobriefing:8480556f5094b:0-sec-clears-listing-of-volatility-shares-3x-bitcoin-and-ether-etfs/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-25T09:23:17Z",
-  "summary": "",
-  "score": 22
  },
  {
   "title": "Patching reward hacks won’t fix reward hacking",
@@ -136,26 +112,50 @@
   "score": 22
  },
  {
-  "title": "CVE Tracker",
-  "url": "https://cve.0xosprey.com/",
+  "title": "R/open source bans all solo projects and projects using LLMs",
+  "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
   "source": "Hacker News Frontpage",
-  "published_at": "Fri, 23 Oct 2026 21:21:47 +0000",
-  "summary": "Comments URL: Points: 7",
-  "score": 20
+  "published_at": "Sun, 25 Oct 2026 14:05:03 +0000",
+  "summary": "Comments URL: Points: 3",
+  "score": 16
  },
  {
-  "title": "NEAR EXECUTIVE SAYS NETWORK IS BETTER PREPARED THAN BITCOIN FOR CRYPTO’S ‘BLACK SWAN’",
-  "url": "https://www.tradingview.com/news/stocktwits:a8f163524094b:0-near-executive-says-network-is-better-prepared-than-bitcoin-for-crypto-s-black-swan/",
+  "title": "POV: YOU INVESTED JUST $10 A MONTH INTO BITCOIN SINCE IT LAUNCHED.",
+  "url": "https://x.com/WatcherGuru/status/2114363891425948077",
   "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-25T11:52:41Z",
+  "published_at": "2026-10-25T14:30:33Z",
   "summary": "",
   "score": 12
  },
  {
-  "title": "ELECTRUM FIXES BITCOIN WALLET FLAW THAT COULD TURN A FEE BUMP INTO THEFT",
-  "url": "https://www.tradingview.com/news/newsbtc:69c260101094b:0-electrum-fixes-bitcoin-wallet-flaw-that-could-turn-a-fee-bump-into-theft/",
+  "title": "US SPOT BITCOIN ETFS END TWO-WEEK LOSING STREAK WITH $301M INFLOW",
+  "url": "https://www.tradingview.com/news/cryptobriefing:2477b3be9094b:0-us-spot-bitcoin-etfs-end-two-week-losing-streak-with-301m-inflow/",
   "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-25T11:05:59Z",
+  "published_at": "2026-10-25T14:22:16Z",
+  "summary": "",
+  "score": 12
+ },
+ {
+  "title": "Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide",
+  "url": "https://decrypt.co/381777/bitcoin-etfs-snap-two-week-losing-streak-despite-late-week-slide",
+  "source": "Decrypt",
+  "published_at": "Sun, 25 Oct 2026 14:01:03 +0000",
+  "summary": "Spot Bitcoin ETFs finished the week with about $301 million in net inflows, ending a two-week losing streak, even as two straight days of outflows kept October in the red.",
+  "score": 12
+ },
+ {
+  "title": "BITCOIN TO HIT $100K IN MONTHS, $300K IN THREE-TO-FIVE YEARS, MIKE ALFRED SAYS HE'D BET $1M",
+  "url": "https://www.tradingview.com/news/stocktwits:92748a6e3094b:0-bitcoin-to-hit-100k-in-months-300k-in-three-to-five-years-mike-alfred-says-he-d-bet-1m/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-25T13:44:55Z",
+  "summary": "",
+  "score": 12
+ },
+ {
+  "title": "WHY BITCOIN'S NEXT MARKET CYCLE MAY LOOK VERY DIFFERENT – BLOFIN CEO",
+  "url": "https://www.tradingview.com/news/beincrypto:47ed10ba0094b:0-why-bitcoin-s-next-market-cycle-may-look-very-different-blofin-ceo/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-25T13:16:53Z",
   "summary": "",
   "score": 12
  }

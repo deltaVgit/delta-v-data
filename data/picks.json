@@ -73,29 +73,29 @@
    "score": 30
   },
   {
-   "title": "PHP shares mitigation for new RCE vulnerability with no patch",
-   "url": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
+   "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
    "source": "BleepingComputer",
-   "published_at": "Fri, 23 Oct 2026 11:38:05 -0400",
-   "summary": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]",
-   "score": 30
+   "published_at": "Fri, 23 Oct 2026 14:54:41 -0400",
+   "summary": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
+   "score": 24
   },
   {
-   "title": "CVE Tracker",
-   "url": "https://cve.0xosprey.com/",
+   "title": "Phantom rolls out Kalshi prediction markets to US users, says it’s ‘confident and comfortable’ amid state lawsuits",
+   "url": "https://www.theblock.co/news/markets/2026-10-23-phantom-rolls-out-kalshi-prediction-markets-us-421652",
+   "source": "The Block",
+   "published_at": "Fri, 23 Oct 2026 13:00:00 +0000",
+   "summary": "Phantom users will fund trades with CASH stablecoins, with market restrictions applied in Michigan, Nevada and Washington.",
+   "score": 18
+  },
+  {
+   "title": "R/open source bans all solo projects and projects using LLMs",
+   "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
    "source": "Hacker News Frontpage",
-   "published_at": "Fri, 23 Oct 2026 21:21:47 +0000",
-   "summary": "Comments URL: Points: 7",
-   "score": 28
-  },
-  {
-   "title": "ISRAEL LAUNCHES WEST BANK OPERATION, DISPLACING HUNDREDS OF PALESTINIANS AHEAD OF ELECTION",
-   "url": "https://x.com/FirstSquawk/status/2114285718105403822",
-   "source": "MarketNewsFeed [OTHER]",
-   "published_at": "2026-10-25T09:19:40Z",
-   "summary": "",
-   "score": 26
+   "published_at": "Sun, 25 Oct 2026 14:05:03 +0000",
+   "summary": "Comments URL: Points: 3",
+   "score": 16
   }
  ],
- "updatedAt": "2026-10-25T12:10:22.055606+00:00"
+ "updatedAt": "2026-10-25T14:55:52.678451+00:00"
 }
