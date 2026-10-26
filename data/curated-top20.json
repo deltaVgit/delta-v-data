@@ -8,6 +8,38 @@
   "score": 44
  },
  {
+  "title": "Researcher Cracks Steal My Bitcoin Challenge With PHP Exploit",
+  "url": "https://thedefiant.io/news/security/researcher-cracks-steal-my-bitcoin-challenge-with-php-exploit",
+  "source": "The Defiant",
+  "published_at": "Mon, 26 Oct 2026 12:50:09 GMT",
+  "summary": "A 0.02511679 BTC prize was at stake, but the operator had to transfer it after discovering the server held the wrong wallet key.",
+  "score": 42
+ },
+ {
+  "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
+  "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
+  "source": "BleepingComputer",
+  "published_at": "Mon, 26 Oct 2026 05:19:57 -0400",
+  "summary": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
+  "score": 40
+ },
+ {
+  "title": "Nvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle",
+  "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-20-30-and-40-series-gpus-hacked-to-remove-a-half-speed-ai-throttle-firmware-exploit-doubles-rtx-4090s-peak-tensor-rate-lifts-rtx-3090-ti-matrix-math-up-to-80-percent",
+  "source": "Tom's Hardware",
+  "published_at": "Mon, 26 Oct 2026 11:00:00 +0000",
+  "summary": "Linux kernel modules lift Nvidia’s half-rate AI tensor limit on GeForce RTX 20, 30, and 40-series GPUs.",
+  "score": 34
+ },
+ {
+  "title": "Bitcoin reward offered to anyone who could break into an unpatched server running PHP, hacker cracks site and claims bounty",
+  "url": "https://www.tomshardware.com/tech-industry/cryptomining/hacker-offers-bitcoin-reward-to-anyone-who-can-break-into-an-unpatched-server-running-php-still-remains-unhacked-php2shell-challenge-tests-claims-that-ai-makes-exploiting-vulnerabilities-easy",
+  "source": "Tom's Hardware",
+  "published_at": "Mon, 26 Oct 2026 10:30:00 +0000",
+  "summary": "The “Steal My Bitcoin” challenge offers a bounty to anyone who can breach a deliberately vulnerable PHP website using the recently disclosed PHP2Shell flaws. The challenge follows previous recoveries of locked Bitcoin fortunes through software vulnerabilities and AI-assisted investigation, but no su",
+  "score": 34
+ },
+ {
   "title": "Understanding Communication Failures in Multi-Agent LLM Systems",
   "url": "https://arxiv.org/abs/2610.32060",
   "source": "arXiv cs.AI",
@@ -32,70 +64,6 @@
   "score": 34
  },
  {
-  "title": "OpenAI s isolated red-team agents built a hidden CPU cache channel to talk with no network or shared files",
-  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-isolated-red-team-ai-agents-built-a-hidden-cpu-cache-channel-to-talk-with-no-network-or-shared-files-exploited-cpu-cache-timing-to-bypass-microvm-sandboxes",
-  "source": "Tom's Hardware",
-  "published_at": "Sun, 25 Oct 2026 11:30:00 +0000",
-  "summary": "OpenAI’s red-team agents passed hidden messages through the CPU cache, a covert trick already shown to move data between cloud VMs.",
-  "score": 32
- },
- {
-  "title": "Nvidia discusses $2,000-per-GPU annual software fee for running agents on AI infrastructure",
-  "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform",
-  "source": "Tom's Hardware",
-  "published_at": "Sun, 25 Oct 2026 13:00:00 +0000",
-  "summary": "Nvidia CEO Jensen Huang is reportedly weighing annual software fees of around $2,000 per GPU for enterprise AI, a model that could generate $10 billion a year if five million licenses were sold. The pricing and launch timeline remain unconfirmed, while Nvidia continues to expand its AI software and ",
-  "score": 30
- },
- {
-  "title": "X100 Exploit Proceeds Split Into Four 400-ETH Wallets",
-  "url": "https://thedefiant.io/news/hacks/x100-exploit-proceeds-split-into-four-400-eth-wallets",
-  "source": "The Defiant",
-  "published_at": "Sat, 24 Oct 2026 19:41:15 GMT",
-  "summary": "The first exploiter swapped about 4.75 million USDT into ether, while the distribution wallet retained another 423 ETH.",
-  "score": 30
- },
- {
-  "title": "Electrum Patches Wallet Flaw Exploited Through Malicious Servers",
-  "url": "https://thedefiant.io/news/security/electrum-patches-wallet-flaw-exploited-through-malicious-servers",
-  "source": "The Defiant",
-  "published_at": "Sat, 24 Oct 2026 17:57:11 GMT",
-  "summary": "A malicious server can substitute a fake payment, then trick the user into signing it while raising the transaction fee. Developers say one user reported losing money.",
-  "score": 30
- },
- {
-  "title": "Third X100 Exploit Transaction Pulls 550,000 X From Uniswap Pool",
-  "url": "https://thedefiant.io/news/hacks/third-x100-exploit-transaction-pulls-550-000-x-from-uniswap-pool",
-  "source": "The Defiant",
-  "published_at": "Sat, 24 Oct 2026 15:17:43 GMT",
-  "summary": "A different sender routed about 549,916 X and 1,909 USDT to a new beneficiary, while the affected pool held less than 200 USDT.",
-  "score": 30
- },
- {
-  "title": "X100 Exploit Nets 4.85 Million USDT After Governance Takeover",
-  "url": "https://thedefiant.io/news/hacks/x100-exploit-nets-4-85-million-usdt-after-governance-takeover",
-  "source": "The Defiant",
-  "published_at": "Sat, 24 Oct 2026 14:58:09 GMT",
-  "summary": "Two transactions turned treasury tokens and liquidity positions into USDT; Blockaid warned that the Ethereum attack was ongoing.",
-  "score": 30
- },
- {
-  "title": "KEYSTONE SAYS DATA BREACH EXPOSED CUSTOMER ADDRESSES, PURCHASE HISTORIES",
-  "url": "https://www.tradingview.com/news/bloomingbit:b388e9c02094b:0-keystone-says-data-breach-exposed-customer-addresses-purchase-histories/",
-  "source": "MarketNewsFeed [OTHER]",
-  "published_at": "2026-10-26T06:34:23Z",
-  "summary": "",
-  "score": 28
- },
- {
-  "title": "COINDCX CONFIRMS $16 MILLION LOSS FROM RETIRED WALLETS DAYS AFTER CEO CALLED BREACH REPORTS A ‘FALSE ALARM’",
-  "url": "https://x.com/cryptounfolded/status/2114593572993257860",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-26T05:43:14Z",
-  "summary": "",
-  "score": 28
- },
- {
   "title": "CoinDCX confirms $16 million loss from retired wallets days after CEO called breach reports a ‘false alarm’",
   "url": "https://www.theblock.co/news/business/2026-10-25-coindcx-confirms-16-million-loss-from-retired-wallets-days-after-ceo-called-breach-reports-a-false-alarm-431617",
   "source": "The Block",
@@ -112,20 +80,76 @@
   "score": 28
  },
  {
-  "title": "Keystone Website Breach Exposes Customer Addresses and Order Details",
-  "url": "https://thedefiant.io/news/security/keystone-website-breach-exposes-customer-addresses-and-order-details",
-  "source": "The Defiant",
-  "published_at": "Sat, 24 Oct 2026 19:06:10 GMT",
-  "summary": "The hardware-wallet maker says it blocked access and fixed the vulnerability. Payment details, recovery phrases and private keys were not exposed, according to the company.",
-  "score": 28
+  "title": "ANTHROPIC TO SPEND UP TO $120.58 ON SPACEX AI NVIDIA COMPUTE",
+  "url": "https://x.com/FirstSquawk/status/2114707483835220317",
+  "source": "MarketNewsFeed [STOCKS]",
+  "published_at": "2026-10-26T13:15:49Z",
+  "summary": "",
+  "score": 26
  },
  {
-  "title": "BITCOIN, ETHEREUM, XRP, DOGECOIN DIP AS INVESTORS AWAIT KEVIN WARSH'S INTEREST RATE MOVES: ANALYST SEES 'INTERESTING WEEK' AHEAD FOR BTC",
-  "url": "https://www.tradingview.com/news/benzinga:6de87b752094b:0-bitcoin-ethereum-xrp-dogecoin-dip-as-investors-await-kevin-warsh-s-interest-rate-moves-analyst-sees-interesting-week-ahead-for-btc/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-26T03:08:51Z",
+  "title": "ANTHROPIC TO SPEND UP TO $120.58 ON SPACEX AI NVIDIA COMPUTE- BOOSTS REVOLVING COMMITMENTS FROM S3.3B TO $15.0B",
+  "url": "https://x.com/LiveSquawk/status/2114707104519029003",
+  "source": "MarketNewsFeed [STOCKS]",
+  "published_at": "2026-10-26T13:14:03Z",
+  "summary": "",
+  "score": 26
+ },
+ {
+  "title": "*ANTHROPIC TO SPEND UP TO $120.5B ON SPACEXAI NVIDIA COMPUTE",
+  "url": "https://x.com/DeItaone/status/2114706962374172897",
+  "source": "MarketNewsFeed [STOCKS]",
+  "published_at": "2026-10-26T13:13:34Z",
+  "summary": "",
+  "score": 26
+ },
+ {
+  "title": "ANTHROPIC TO SPEND UP TO $120.5B ON SPACEXAI NVIDIA COMPUTE.",
+  "url": "https://x.com/financialjuice/status/2114706864474845341",
+  "source": "MarketNewsFeed [STOCKS]",
+  "published_at": "2026-10-26T13:13:18Z",
+  "summary": "",
+  "score": 26
+ },
+ {
+  "title": "ANTHROPIC IPO FILING: LOSING CONTROL OF SUFFICIENTLY POWERFUL AI SYSTEMS COULD BE GLOBAL SECURITY THREAT OF FIRST ORDER",
+  "url": "https://x.com/DeItaone/status/2114710673842204978",
+  "source": "MarketNewsFeed [OTHER]",
+  "published_at": "2026-10-26T13:28:34Z",
   "summary": "",
   "score": 24
+ },
+ {
+  "title": "Strive closes in on second-largest corporate bitcoin treasury with $511 million purchase",
+  "url": "https://www.theblock.co/news/business/2026-10-26-strive-closes-in-second-largest-corporate-bitcoin-treasury-511-million-purchase-431729",
+  "source": "The Block",
+  "published_at": "Mon, 26 Oct 2026 13:19:08 +0000",
+  "summary": "Strive s latest bitcoin purchase puts it within 1,000 BTC of second-place Metaplanet as it unveils a new $1 billion preferred stock offering program.",
+  "score": 22
+ },
+ {
+  "title": "Cadence reveals Maestro, fine-tuned AI models built to run specialized chip design agents, with early access coming for select customers in Q4 2026",
+  "url": "https://www.tomshardware.com/tech-industry/semiconductors/cadence-reveals-maestro-fine-tuned-ai-models-built-to-run-specialized-chip-design-agents-with-early-access-coming-for-select-customers-in-q4-2026-claims-up-to-30-percent-higher-quality-results-and-up-to-5x-token-efficiency-over-a-general-purpose-ai-model",
+  "source": "Tom's Hardware",
+  "published_at": "Mon, 26 Oct 2026 13:20:00 +0000",
+  "summary": "Cadence unveiled Maestro, domain-specialized AI models for its chip design agents, with early access for select customers in Q4 2026.",
+  "score": 18
+ },
+ {
+  "title": "KEY FACTS: SUIUSD 13.15M SUI UNLOCK NOV 1, 2026; AGENTIC ECONOMY PICK",
+  "url": "https://www.tradingview.com/news/tradingview:4e9d350d2da9b:0-key-facts-suiusd-13-15m-sui-unlock-nov-1-2026-agentic-economy-pick/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-26T12:10:55Z",
+  "summary": "",
+  "score": 18
+ },
+ {
+  "title": "A Descriptive Framework for Large Agent Systems (v0.1)",
+  "url": "https://www.lesswrong.com/posts/bKddWnNAzwbtoSm5a/a-descriptive-framework-for-large-agent-systems-v0-1",
+  "source": "LessWrong",
+  "published_at": "Mon, 26 Oct 2026 11:09:40 GMT",
+  "summary": "Author’s note: This is a working paper. If you notice something missing, contradictory, or broken, please let me know ! I will acknowledge or cite your contribution. When I do more work on the framework, I’ll update the Substack linkpost and attach the old versions there. Abstract Proposals for mult",
+  "score": 18
  },
  {
   "title": "PersonaScienceBench: Evaluating Scientific Agents with Diverse Simulated Researchers",
@@ -133,30 +157,6 @@
   "source": "arXiv cs.AI",
   "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
   "summary": "arXiv:2610.32106v1 Announce Type: new Abstract: Scientific agents collaborate with researchers whose expertise and preferences differ, but benchmarks usually hold the collaborator fixed. We introduce PersonaScienceBench: 200 tasks from five benchmarks across four scientific domains. Simulated resear",
-  "score": 18
- },
- {
-  "title": "Behaviour analysis for large language model-driven agents",
-  "url": "https://arxiv.org/abs/2610.32087",
-  "source": "arXiv cs.AI",
-  "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.32087v1 Announce Type: new Abstract: Understanding language-agent behaviour requires learning how actions are organised across a trajectory and how this organisation relates to context and outcomes. We propose a general framework that connects data-driven behavioural discovery with analys",
-  "score": 18
- },
- {
-  "title": "Do AI-for-Science Agents Preserve Model Safety?",
-  "url": "https://arxiv.org/abs/2610.32045",
-  "source": "arXiv cs.AI",
-  "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.32045v1 Announce Type: new Abstract: AI-for-Science agents are increasingly being used for formulating scientific hypotheses, running autonomous experiments, and interpreting evidence. These agents are constructed by integrating a large language model (LLM) into a domain-specific agent ha",
-  "score": 18
- },
- {
-  "title": "RSI-Opt: Recursive Self-Improvement Optimizer Agents For Model Training",
-  "url": "https://arxiv.org/abs/2610.32026",
-  "source": "arXiv cs.AI",
-  "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.32026v1 Announce Type: new Abstract: Conventional neural-network training typically follows a predefined optimization recipe, motivating a LLM agent that monitors training dynamics and adjusts optimizer settings as training progresses, but a fixed agent policy does not accumulate experien",
   "score": 18
  }
 ]

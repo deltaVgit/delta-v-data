@@ -1,52 +1,20 @@
 {
  "picks": [
   {
-   "title": "X100 Exploit Proceeds Split Into Four 400-ETH Wallets",
-   "url": "https://thedefiant.io/news/hacks/x100-exploit-proceeds-split-into-four-400-eth-wallets",
+   "title": "Researcher Cracks Steal My Bitcoin Challenge With PHP Exploit",
+   "url": "https://thedefiant.io/news/security/researcher-cracks-steal-my-bitcoin-challenge-with-php-exploit",
    "source": "The Defiant",
-   "published_at": "Sat, 24 Oct 2026 19:41:15 GMT",
-   "summary": "The first exploiter swapped about 4.75 million USDT into ether, while the distribution wallet retained another 423 ETH.",
+   "published_at": "Mon, 26 Oct 2026 12:50:09 GMT",
+   "summary": "A 0.02511679 BTC prize was at stake, but the operator had to transfer it after discovering the server held the wrong wallet key.",
    "score": 40
   },
   {
-   "title": "Electrum Patches Wallet Flaw Exploited Through Malicious Servers",
-   "url": "https://thedefiant.io/news/security/electrum-patches-wallet-flaw-exploited-through-malicious-servers",
-   "source": "The Defiant",
-   "published_at": "Sat, 24 Oct 2026 17:57:11 GMT",
-   "summary": "A malicious server can substitute a fake payment, then trick the user into signing it while raising the transaction fee. Developers say one user reported losing money.",
+   "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
+   "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
+   "source": "BleepingComputer",
+   "published_at": "Mon, 26 Oct 2026 05:19:57 -0400",
+   "summary": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
    "score": 40
-  },
-  {
-   "title": "Third X100 Exploit Transaction Pulls 550,000 X From Uniswap Pool",
-   "url": "https://thedefiant.io/news/hacks/third-x100-exploit-transaction-pulls-550-000-x-from-uniswap-pool",
-   "source": "The Defiant",
-   "published_at": "Sat, 24 Oct 2026 15:17:43 GMT",
-   "summary": "A different sender routed about 549,916 X and 1,909 USDT to a new beneficiary, while the affected pool held less than 200 USDT.",
-   "score": 40
-  },
-  {
-   "title": "X100 Exploit Nets 4.85 Million USDT After Governance Takeover",
-   "url": "https://thedefiant.io/news/hacks/x100-exploit-nets-4-85-million-usdt-after-governance-takeover",
-   "source": "The Defiant",
-   "published_at": "Sat, 24 Oct 2026 14:58:09 GMT",
-   "summary": "Two transactions turned treasury tokens and liquidity positions into USDT; Blockaid warned that the Ethereum attack was ongoing.",
-   "score": 40
-  },
-  {
-   "title": "KEYSTONE SAYS DATA BREACH EXPOSED CUSTOMER ADDRESSES, PURCHASE HISTORIES",
-   "url": "https://www.tradingview.com/news/bloomingbit:b388e9c02094b:0-keystone-says-data-breach-exposed-customer-addresses-purchase-histories/",
-   "source": "MarketNewsFeed [OTHER]",
-   "published_at": "2026-10-26T06:34:23Z",
-   "summary": "",
-   "score": 38
-  },
-  {
-   "title": "COINDCX CONFIRMS $16 MILLION LOSS FROM RETIRED WALLETS DAYS AFTER CEO CALLED BREACH REPORTS A ‘FALSE ALARM’",
-   "url": "https://x.com/cryptounfolded/status/2114593572993257860",
-   "source": "MarketNewsFeed [CRYPTO]",
-   "published_at": "2026-10-26T05:43:14Z",
-   "summary": "",
-   "score": 38
   },
   {
    "title": "CoinDCX confirms $16 million loss from retired wallets days after CEO called breach reports a ‘false alarm’",
@@ -65,12 +33,20 @@
    "score": 38
   },
   {
-   "title": "Keystone Website Breach Exposes Customer Addresses and Order Details",
-   "url": "https://thedefiant.io/news/security/keystone-website-breach-exposes-customer-addresses-and-order-details",
-   "source": "The Defiant",
-   "published_at": "Sat, 24 Oct 2026 19:06:10 GMT",
-   "summary": "The hardware-wallet maker says it blocked access and fixed the vulnerability. Payment details, recovery phrases and private keys were not exposed, according to the company.",
-   "score": 38
+   "title": "Nvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle",
+   "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-20-30-and-40-series-gpus-hacked-to-remove-a-half-speed-ai-throttle-firmware-exploit-doubles-rtx-4090s-peak-tensor-rate-lifts-rtx-3090-ti-matrix-math-up-to-80-percent",
+   "source": "Tom's Hardware",
+   "published_at": "Mon, 26 Oct 2026 11:00:00 +0000",
+   "summary": "Linux kernel modules lift Nvidia’s half-rate AI tensor limit on GeForce RTX 20, 30, and 40-series GPUs.",
+   "score": 34
+  },
+  {
+   "title": "Bitcoin reward offered to anyone who could break into an unpatched server running PHP, hacker cracks site and claims bounty",
+   "url": "https://www.tomshardware.com/tech-industry/cryptomining/hacker-offers-bitcoin-reward-to-anyone-who-can-break-into-an-unpatched-server-running-php-still-remains-unhacked-php2shell-challenge-tests-claims-that-ai-makes-exploiting-vulnerabilities-easy",
+   "source": "Tom's Hardware",
+   "published_at": "Mon, 26 Oct 2026 10:30:00 +0000",
+   "summary": "The “Steal My Bitcoin” challenge offers a bounty to anyone who can breach a deliberately vulnerable PHP website using the recently disclosed PHP2Shell flaws. The challenge follows previous recoveries of locked Bitcoin fortunes through software vulnerabilities and AI-assisted investigation, but no su",
+   "score": 34
   },
   {
    "title": "Security-Aware Layer Mapping Reduces Fault Vulnerability In 3D Compute-In-Memory (ASU, U. of Maryland)",
@@ -95,7 +71,31 @@
    "published_at": "Mon, 26 Oct 2026 04:06:03 GMT",
    "summary": "Recipients reported personal and purchase details in the messages; the company said Passport hardware and funds were safe.",
    "score": 24
+  },
+  {
+   "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
+   "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
+   "source": "Hacker News Frontpage",
+   "published_at": "Mon, 26 Oct 2026 03:12:05 +0000",
+   "summary": "Comments URL: Points: 4",
+   "score": 18
+  },
+  {
+   "title": "$SPCX SPACEX ENTERS BINDING COMMITMENT TO MASTER FINANCE LEASE WITH APOLLO GLOBAL - SEC FILING- AGGREGATE PRINCIPAL PAYMENTS UNDER LEASE SCHEDULES EXPECTED TO TOTAL $40 BLN- APOLLO GLOBAL TO BUY AND L",
+   "url": "https://x.com/LiveSquawk/status/2114689409266122981",
+   "source": "MarketNewsFeed [STOCKS]",
+   "published_at": "2026-10-26T12:03:45Z",
+   "summary": "",
+   "score": 16
+  },
+  {
+   "title": "$SPCX - SPACEX SIGNS $40 BILLION GPU FINANCING DEAL WITH APOLLOSPACEX HAS ENTERED INTO A BINDING COMMITMENT FOR A MASTER FINANCE LEASE WITH APOLLO GLOBAL MANAGEMENT ($APO ), ACCORDING TO AN SEC FILING",
+   "url": "https://x.com/DeItaone/status/2114688952686805491",
+   "source": "MarketNewsFeed [STOCKS]",
+   "published_at": "2026-10-26T12:02:00Z",
+   "summary": "",
+   "score": 16
   }
  ],
- "updatedAt": "2026-10-26T06:53:36.333961+00:00"
+ "updatedAt": "2026-10-26T13:33:16.724154+00:00"
 }
