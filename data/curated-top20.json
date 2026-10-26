@@ -24,6 +24,14 @@
   "score": 40
  },
  {
+  "title": "GMO CALLS ON JAPANESE GOVERNMENT TO BOLSTER CYBER DEFENSES FOLLOWING SECURITY BREACH - KYODO",
+  "url": "https://x.com/FirstSquawk/status/2114515239647764818",
+  "source": "MarketNewsFeed [OTHER]",
+  "published_at": "2026-10-26T00:31:58Z",
+  "summary": "",
+  "score": 38
+ },
+ {
   "title": "Security-Aware Layer Mapping Reduces Fault Vulnerability In 3D Compute-In-Memory (ASU, U. of Maryland)",
   "url": "https://semiengineering.com/security-aware-layer-mapping-reduces-fault-vulnerability-in-3d-compute-in-memory-asu-u-of-maryland/",
   "source": "SemiEngineering",
@@ -120,6 +128,14 @@
   "score": 28
  },
  {
+  "title": "Node.js Vulnerability Blog",
+  "url": "https://nodejs.org/en/blog/vulnerability",
+  "source": "Hacker News Frontpage",
+  "published_at": "Sat, 24 Oct 2026 11:08:47 +0000",
+  "summary": "Comments URL: Points: 3",
+  "score": 24
+ },
+ {
   "title": "BINANCE FOUNDER CZ MAKES SHOCKING CLAIM ABOUT AI HACKING: “NO CRYPTO WALLET IS 100% SAFE”",
   "url": "https://www.tradingview.com/news/bravenewcoin:09c1bff62094b:0/",
   "source": "MarketNewsFeed [CRYPTO]",
@@ -142,21 +158,5 @@
   "published_at": "Sun, 25 Oct 2026 11:49:38 -0400",
   "summary": "Researchers found a malicious AGENTS markdown instruction file in a customer s Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]",
   "score": 18
- },
- {
-  "title": "From overeliciting to undereliciting LLM propensities in just a few months",
-  "url": "https://www.lesswrong.com/posts/ChixHL6AcaRgeHkp9/from-overeliciting-to-undereliciting-llm-propensities-in",
-  "source": "LessWrong",
-  "published_at": "Sun, 25 Oct 2026 18:01:57 GMT",
-  "summary": "For a while, we felt we had a pretty good grasp over LLM behaviour because we had to exert significant effort to elicit misaligned behaviour. Then, fairly suddenly, we moved to undereliciting misaligned behaviour. Let us recount: There was a bit where safety research seemed to over -elicit bad prope",
-  "score": 16
- },
- {
-  "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-  "url": "https://lynchlab.net/llm-skin-cancer",
-  "source": "Hacker News Frontpage",
-  "published_at": "Sun, 25 Oct 2026 17:15:38 +0000",
-  "summary": "Comments URL: Points: 348",
-  "score": 16
  }
 ]
