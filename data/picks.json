@@ -25,12 +25,12 @@
    "score": 40
   },
   {
-   "title": "CoinDCX confirms $16 million loss from retired wallets days after CEO called breach reports a ‘false alarm’",
-   "url": "https://www.theblock.co/news/business/2026-10-25-coindcx-confirms-16-million-loss-from-retired-wallets-days-after-ceo-called-breach-reports-a-false-alarm-431617",
-   "source": "The Block",
-   "published_at": "Sun, 25 Oct 2026 18:46:21 +0000",
-   "summary": "CEO Sumit Gupta had told X users on Wednesday that early reports of a breach sounded like a false alarm.",
-   "score": 38
+   "title": "Can the Assistant Axis Predict Reward-Hacking?",
+   "url": "https://www.lesswrong.com/posts/3jFqBYF5CP7JCWjux/can-the-assistant-axis-predict-reward-hacking",
+   "source": "LessWrong",
+   "published_at": "Mon, 26 Oct 2026 16:34:49 GMT",
+   "summary": "NOTE: This article was written by Jansen Nye, a member of my research lab based on some exploratory studies we ve done. As he notes, we collaborated on this research. The article was written by him with some edits suggested by me. -- Koby TL;DR The Assistant Axis doesn t seem to have any special con",
+   "score": 34
   },
   {
    "title": "Nvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle",
@@ -49,28 +49,12 @@
    "score": 34
   },
   {
-   "title": "Security-Aware Layer Mapping Reduces Fault Vulnerability In 3D Compute-In-Memory (ASU, U. of Maryland)",
-   "url": "https://semiengineering.com/security-aware-layer-mapping-reduces-fault-vulnerability-in-3d-compute-in-memory-asu-u-of-maryland/",
-   "source": "SemiEngineering",
-   "published_at": "Sun, 25 Oct 2026 20:30:42 +0000",
-   "summary": "Researchers at Arizona State University and University of Maryland published “SEAL: Multitenant Security-Aware Layer Mapping for Heterogeneous 3-D CiM Accelerators.” Abstract: “Heterogeneous 3-D compute-in-memory architectures can combine different memory technologies across stacked tiers to acceler",
+   "title": "Critical HTTP2Shell Brotli vulnerability triggers emergency patches",
+   "url": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
+   "source": "BleepingComputer",
+   "published_at": "Mon, 26 Oct 2026 12:27:57 -0400",
+   "summary": "A critical flaw dubbed HTTP2Shell in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data. [...]",
    "score": 30
-  },
-  {
-   "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
-   "url": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
-   "source": "Hacker News Frontpage",
-   "published_at": "Sun, 25 Oct 2026 19:10:36 +0000",
-   "summary": "Comments URL: Points: 4",
-   "score": 30
-  },
-  {
-   "title": "Foundation Links Passport Phishing Emails to Compromised Cloudflare API Keys",
-   "url": "https://thedefiant.io/news/security/foundation-links-passport-phishing-emails-to-compromised-cloudflare-api-keys",
-   "source": "The Defiant",
-   "published_at": "Mon, 26 Oct 2026 04:06:03 GMT",
-   "summary": "Recipients reported personal and purchase details in the messages; the company said Passport hardware and funds were safe.",
-   "score": 24
   },
   {
    "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
@@ -81,10 +65,26 @@
    "score": 18
   },
   {
-   "title": "CANADA OPENS CONSULTATION ON DRAFT STABLECOIN RULES, MAINTAINS BAN ON YIELDS",
-   "url": "https://x.com/cryptounfolded/status/2114725089673408885",
+   "title": "TOKENISED US STOCK VENUES MUST GIVE 30 DAYS’ PUBLIC NOTICE, SEC CLARIFIES",
+   "url": "https://www.tradingview.com/news/newsbtc:3c23ed235094b:0-tokenised-us-stock-venues-must-give-30-days-public-notice-sec-clarifies/",
    "source": "MarketNewsFeed [CRYPTO]",
-   "published_at": "2026-10-26T14:25:36Z",
+   "published_at": "2026-10-26T19:12:25Z",
+   "summary": "",
+   "score": 16
+  },
+  {
+   "title": "NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
+   "url": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
+   "source": "CoinDesk",
+   "published_at": "Mon, 26 Oct 2026 15:59:55 +0000",
+   "summary": "",
+   "score": 16
+  },
+  {
+   "title": "OCC calls on community banks to enter the stablecoin payments market",
+   "url": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
+   "source": "CoinDesk",
+   "published_at": "Mon, 26 Oct 2026 15:45:51 +0000",
    "summary": "",
    "score": 16
   },
@@ -97,5 +97,5 @@
    "score": 16
   }
  ],
- "updatedAt": "2026-10-26T14:38:02.035589+00:00"
+ "updatedAt": "2026-10-26T19:33:39.070243+00:00"
 }

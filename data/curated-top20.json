@@ -1,13 +1,5 @@
 [
  {
-  "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-  "url": "https://minimaxir.com/2026/10/cheap-llms/",
-  "source": "Hacker News Frontpage",
-  "published_at": "Sun, 25 Oct 2026 21:11:31 +0000",
-  "summary": "Comments URL: Points: 11",
-  "score": 44
- },
- {
   "title": "Researcher Cracks Steal My Bitcoin Challenge With PHP Exploit",
   "url": "https://thedefiant.io/news/security/researcher-cracks-steal-my-bitcoin-challenge-with-php-exploit",
   "source": "The Defiant",
@@ -48,20 +40,12 @@
   "score": 34
  },
  {
-  "title": "The Helpful Agent Problem: When Emergent Cooperation Among LLM Agents Bypasses Intended Workflows",
-  "url": "https://arxiv.org/abs/2610.31985",
-  "source": "arXiv cs.AI",
-  "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.31985v1 Announce Type: new Abstract: LLM agents are increasingly deployed in collaborative settings where they pursue separate tasks while sharing resources and operating under review or oversight processes. Such settings create safety risks not only when agents are malicious, but also wh",
-  "score": 34
- },
- {
-  "title": "Security-Aware Layer Mapping Reduces Fault Vulnerability In 3D Compute-In-Memory (ASU, U. of Maryland)",
-  "url": "https://semiengineering.com/security-aware-layer-mapping-reduces-fault-vulnerability-in-3d-compute-in-memory-asu-u-of-maryland/",
-  "source": "SemiEngineering",
-  "published_at": "Sun, 25 Oct 2026 20:30:42 +0000",
-  "summary": "Researchers at Arizona State University and University of Maryland published “SEAL: Multitenant Security-Aware Layer Mapping for Heterogeneous 3-D CiM Accelerators.” Abstract: “Heterogeneous 3-D compute-in-memory architectures can combine different memory technologies across stacked tiers to acceler",
-  "score": 34
+  "title": "AI Agents Found a Way Into Anthropic s Business Systems in Under 12 Hours",
+  "url": "https://decrypt.co/381860/ai-agents-hack-anthropic-business-systems-12-hours",
+  "source": "Decrypt",
+  "published_at": "Mon, 26 Oct 2026 19:31:02 +0000",
+  "summary": "Cathedral, a startup founded by ex-DOGE staffers, says its AI agents found paths into Anthropic s sales, HR, and IT systems through third-party software.",
+  "score": 32
  },
  {
   "title": "X100 Exploiter Sends 420.8 ETH to Tornado Cash",
@@ -72,12 +56,20 @@
   "score": 30
  },
  {
-  "title": "CoinDCX confirms $16 million loss from retired wallets days after CEO called breach reports a ‘false alarm’",
-  "url": "https://www.theblock.co/news/business/2026-10-25-coindcx-confirms-16-million-loss-from-retired-wallets-days-after-ceo-called-breach-reports-a-false-alarm-431617",
-  "source": "The Block",
-  "published_at": "Sun, 25 Oct 2026 18:46:21 +0000",
-  "summary": "CEO Sumit Gupta had told X users on Wednesday that early reports of a breach sounded like a false alarm.",
-  "score": 28
+  "title": "Critical HTTP2Shell Brotli vulnerability triggers emergency patches",
+  "url": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
+  "source": "BleepingComputer",
+  "published_at": "Mon, 26 Oct 2026 12:27:57 -0400",
+  "summary": "A critical flaw dubbed HTTP2Shell in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data. [...]",
+  "score": 24
+ },
+ {
+  "title": "Can the Assistant Axis Predict Reward-Hacking?",
+  "url": "https://www.lesswrong.com/posts/3jFqBYF5CP7JCWjux/can-the-assistant-axis-predict-reward-hacking",
+  "source": "LessWrong",
+  "published_at": "Mon, 26 Oct 2026 16:34:49 GMT",
+  "summary": "NOTE: This article was written by Jansen Nye, a member of my research lab based on some exploratory studies we ve done. As he notes, we collaborated on this research. The article was written by him with some edits suggested by me. -- Koby TL;DR The Assistant Axis doesn t seem to have any special con",
+  "score": 22
  },
  {
   "title": "Strive closes in on second-largest corporate bitcoin treasury with $511 million purchase",
@@ -86,6 +78,14 @@
   "published_at": "Mon, 26 Oct 2026 13:19:08 +0000",
   "summary": "Strive s latest bitcoin purchase puts it within 1,000 BTC of second-place Metaplanet as it unveils a new $1 billion preferred stock offering program.",
   "score": 22
+ },
+ {
+  "title": "The Git Forge for Agent-Human Collaboration",
+  "url": "https://entire.com/blog/the-git-forge-for-agent-human-collaboration",
+  "source": "Hacker News Frontpage",
+  "published_at": "Mon, 26 Oct 2026 17:23:11 +0000",
+  "summary": "Comments URL: Points: 42",
+  "score": 18
  },
  {
   "title": "Cadence reveals Maestro, fine-tuned AI models built to run specialized chip design agents, with early access coming for select customers in Q4 2026",
@@ -144,19 +144,19 @@
   "score": 18
  },
  {
-  "title": "Reproducible Evaluation as the Substrate for Safe Prompt Compression in Production Agents",
-  "url": "https://arxiv.org/abs/2610.31972",
-  "source": "arXiv cs.AI",
-  "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.31972v1 Announce Type: new Abstract: Evaluating conversational agents that act on live, mutable enterprise data is hard: replayed sessions drift as backend state changes, and a benchmark built today can silently go stale as the data it describes moves on. We present an offline evaluation ",
-  "score": 18
+  "title": "Fixing Tool-Call Accuracy in vLLM",
+  "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+  "source": "Hacker News Frontpage",
+  "published_at": "Mon, 26 Oct 2026 12:59:48 +0000",
+  "summary": "Comments URL: Points: 128",
+  "score": 16
  },
  {
-  "title": "DraMaze: A Multi-Agent Pipeline with Future-Aware Memory for Diverse Microdrama Script Generation",
-  "url": "https://arxiv.org/abs/2610.32002",
-  "source": "arXiv cs.CL",
-  "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.32002v1 Announce Type: new Abstract: The rapid growth of microdramas has increased demand for high-quality script production. Long-form microdrama script generation with LLMs requires both diverse plot progression and long-range narrative coherence. Our observations reveal that candidate ",
-  "score": 18
+  "title": "Will the real Anthropic please stand up",
+  "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+  "source": "MIT Technology Review",
+  "published_at": "Mon, 26 Oct 2026 17:45:43 +0000",
+  "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s u",
+  "score": 14
  }
 ]
