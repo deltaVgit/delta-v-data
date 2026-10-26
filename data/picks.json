@@ -25,6 +25,22 @@
    "score": 40
   },
   {
+   "title": "University of Copenhagen data breach exposes data of 525,000 people",
+   "url": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
+   "source": "BleepingComputer",
+   "published_at": "Mon, 26 Oct 2026 18:20:36 -0400",
+   "summary": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]",
+   "score": 38
+  },
+  {
+   "title": "South Korea Arrests Seven in First Big AI-Assisted Hacking Case",
+   "url": "https://decrypt.co/381862/south-korea-arrests-seven-first-big-ai-hacking-case",
+   "source": "Decrypt",
+   "published_at": "Mon, 26 Oct 2026 20:06:02 +0000",
+   "summary": "Police in Seoul say a 32-year-old with no IT background used AI tools to break into about 90 hospitals, schools and companies, then pressed victims for roughly $270,000 combined.",
+   "score": 34
+  },
+  {
    "title": "Can the Assistant Axis Predict Reward-Hacking?",
    "url": "https://www.lesswrong.com/posts/3jFqBYF5CP7JCWjux/can-the-assistant-axis-predict-reward-hacking",
    "source": "LessWrong",
@@ -57,6 +73,14 @@
    "score": 30
   },
   {
+   "title": "OpenAI Launches GPT-6.1 Terra, Its Half-Good AI Model at Half the Price",
+   "url": "https://decrypt.co/381883/openai-launches-gpt-6-1-terra-half-good-half-price",
+   "source": "Decrypt",
+   "published_at": "Mon, 26 Oct 2026 21:46:02 +0000",
+   "summary": "OpenAI s mid-tier model now operates apps and screens more like a person would, with API prices 50% below GPT-5.6 Terra and an error rate that OpenAI says fell sharply.",
+   "score": 18
+  },
+  {
    "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
    "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
    "source": "Hacker News Frontpage",
@@ -65,37 +89,13 @@
    "score": 18
   },
   {
-   "title": "TOKENISED US STOCK VENUES MUST GIVE 30 DAYS’ PUBLIC NOTICE, SEC CLARIFIES",
-   "url": "https://www.tradingview.com/news/newsbtc:3c23ed235094b:0-tokenised-us-stock-venues-must-give-30-days-public-notice-sec-clarifies/",
-   "source": "MarketNewsFeed [CRYPTO]",
-   "published_at": "2026-10-26T19:12:25Z",
-   "summary": "",
-   "score": 16
-  },
-  {
-   "title": "NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
-   "url": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
-   "source": "CoinDesk",
-   "published_at": "Mon, 26 Oct 2026 15:59:55 +0000",
-   "summary": "",
-   "score": 16
-  },
-  {
-   "title": "OCC calls on community banks to enter the stablecoin payments market",
-   "url": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
-   "source": "CoinDesk",
-   "published_at": "Mon, 26 Oct 2026 15:45:51 +0000",
-   "summary": "",
-   "score": 16
-  },
-  {
-   "title": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
-   "url": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
-   "source": "CoinDesk",
-   "published_at": "Mon, 26 Oct 2026 14:23:41 +0000",
+   "title": "S.KOREA Q3 GDP +3.4% Y/Y VS POLL +3.0%: CENTRAL BANK ESTIMATE",
+   "url": "https://x.com/financialjuice/status/2114854756988452989",
+   "source": "MarketNewsFeed [MACRO]",
+   "published_at": "2026-10-26T23:01:01Z",
    "summary": "",
    "score": 16
   }
  ],
- "updatedAt": "2026-10-26T19:34:54.753336+00:00"
+ "updatedAt": "2026-10-26T23:17:49.671264+00:00"
 }

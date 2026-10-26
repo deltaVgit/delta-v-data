@@ -32,19 +32,19 @@
   "score": 34
  },
  {
-  "title": "Understanding Communication Failures in Multi-Agent LLM Systems",
-  "url": "https://arxiv.org/abs/2610.32060",
-  "source": "arXiv cs.AI",
-  "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.32060v1 Announce Type: new Abstract: Multi-agent LLM systems aim to improve reasoning through debate, evidence sharing, and mutual correction, but interaction can also introduce failures that final accuracy alone cannot explain. Agents may converge too early, ignore dissent, suppress corr",
-  "score": 34
- },
- {
   "title": "AI Agents Found a Way Into Anthropic s Business Systems in Under 12 Hours",
   "url": "https://decrypt.co/381860/ai-agents-hack-anthropic-business-systems-12-hours",
   "source": "Decrypt",
   "published_at": "Mon, 26 Oct 2026 19:31:02 +0000",
   "summary": "Cathedral, a startup founded by ex-DOGE staffers, says its AI agents found paths into Anthropic s sales, HR, and IT systems through third-party software.",
+  "score": 32
+ },
+ {
+  "title": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
+  "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/",
+  "source": "BleepingComputer",
+  "published_at": "Mon, 26 Oct 2026 16:46:49 -0400",
+  "summary": "OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models. [...]",
   "score": 32
  },
  {
@@ -56,12 +56,28 @@
   "score": 30
  },
  {
+  "title": "University of Copenhagen data breach exposes data of 525,000 people",
+  "url": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
+  "source": "BleepingComputer",
+  "published_at": "Mon, 26 Oct 2026 18:20:36 -0400",
+  "summary": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]",
+  "score": 28
+ },
+ {
   "title": "Critical HTTP2Shell Brotli vulnerability triggers emergency patches",
   "url": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
   "source": "BleepingComputer",
   "published_at": "Mon, 26 Oct 2026 12:27:57 -0400",
   "summary": "A critical flaw dubbed HTTP2Shell in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data. [...]",
   "score": 24
+ },
+ {
+  "title": "South Korea Arrests Seven in First Big AI-Assisted Hacking Case",
+  "url": "https://decrypt.co/381862/south-korea-arrests-seven-first-big-ai-hacking-case",
+  "source": "Decrypt",
+  "published_at": "Mon, 26 Oct 2026 20:06:02 +0000",
+  "summary": "Police in Seoul say a 32-year-old with no IT background used AI tools to break into about 90 hospitals, schools and companies, then pressed victims for roughly $270,000 combined.",
+  "score": 22
  },
  {
   "title": "Can the Assistant Axis Predict Reward-Hacking?",
@@ -80,11 +96,11 @@
   "score": 22
  },
  {
-  "title": "The Git Forge for Agent-Human Collaboration",
-  "url": "https://entire.com/blog/the-git-forge-for-agent-human-collaboration",
-  "source": "Hacker News Frontpage",
-  "published_at": "Mon, 26 Oct 2026 17:23:11 +0000",
-  "summary": "Comments URL: Points: 42",
+  "title": "In-the-Wild Attack Abuses AI Agents Trust in Markdown",
+  "url": "https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown",
+  "source": "Dark Reading",
+  "published_at": "Mon, 26 Oct 2026 20:59:26 GMT",
+  "summary": "A new AI agent prompt injection technique exploits how coding assistants consume local instruction files, blurring the line between text documents and executable actions.",
   "score": 18
  },
  {
@@ -112,44 +128,12 @@
   "score": 18
  },
  {
-  "title": "PersonaScienceBench: Evaluating Scientific Agents with Diverse Simulated Researchers",
-  "url": "https://arxiv.org/abs/2610.32106",
-  "source": "arXiv cs.AI",
-  "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.32106v1 Announce Type: new Abstract: Scientific agents collaborate with researchers whose expertise and preferences differ, but benchmarks usually hold the collaborator fixed. We introduce PersonaScienceBench: 200 tasks from five benchmarks across four scientific domains. Simulated resear",
-  "score": 18
- },
- {
-  "title": "Behaviour analysis for large language model-driven agents",
-  "url": "https://arxiv.org/abs/2610.32087",
-  "source": "arXiv cs.AI",
-  "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.32087v1 Announce Type: new Abstract: Understanding language-agent behaviour requires learning how actions are organised across a trajectory and how this organisation relates to context and outcomes. We propose a general framework that connects data-driven behavioural discovery with analys",
-  "score": 18
- },
- {
-  "title": "Do AI-for-Science Agents Preserve Model Safety?",
-  "url": "https://arxiv.org/abs/2610.32045",
-  "source": "arXiv cs.AI",
-  "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.32045v1 Announce Type: new Abstract: AI-for-Science agents are increasingly being used for formulating scientific hypotheses, running autonomous experiments, and interpreting evidence. These agents are constructed by integrating a large language model (LLM) into a domain-specific agent ha",
-  "score": 18
- },
- {
-  "title": "RSI-Opt: Recursive Self-Improvement Optimizer Agents For Model Training",
-  "url": "https://arxiv.org/abs/2610.32026",
-  "source": "arXiv cs.AI",
-  "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.32026v1 Announce Type: new Abstract: Conventional neural-network training typically follows a predefined optimization recipe, motivating a LLM agent that monitors training dynamics and adjusts optimizer settings as training progresses, but a fixed agent policy does not accumulate experien",
-  "score": 18
- },
- {
-  "title": "Fixing Tool-Call Accuracy in vLLM",
-  "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
-  "source": "Hacker News Frontpage",
-  "published_at": "Mon, 26 Oct 2026 12:59:48 +0000",
-  "summary": "Comments URL: Points: 128",
-  "score": 16
+  "title": "OpenAI Launches GPT-6.1 Terra, Its Half-Good AI Model at Half the Price",
+  "url": "https://decrypt.co/381883/openai-launches-gpt-6-1-terra-half-good-half-price",
+  "source": "Decrypt",
+  "published_at": "Mon, 26 Oct 2026 21:46:02 +0000",
+  "summary": "OpenAI s mid-tier model now operates apps and screens more like a person would, with API prices 50% below GPT-5.6 Terra and an error rate that OpenAI says fell sharply.",
+  "score": 14
  },
  {
   "title": "Will the real Anthropic please stand up",
@@ -157,6 +141,22 @@
   "source": "MIT Technology Review",
   "published_at": "Mon, 26 Oct 2026 17:45:43 +0000",
   "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s u",
+  "score": 14
+ },
+ {
+  "title": "Base Promotes Tokenized Anthropic Shares as Trade.xyz Opens Pre-IPO Bets",
+  "url": "https://thedefiant.io/news/markets/base-promotes-tokenized-anthropic-shares-as-trade-xyz-opens-pre-ipo-bets",
+  "source": "The Defiant",
+  "published_at": "Mon, 26 Oct 2026 14:29:04 GMT",
+  "summary": "Trade.xyz s new ANT contract offers up to 10x leverage without equity ownership, while Base s pitch identifies no issuer or token contract.",
+  "score": 14
+ },
+ {
+  "title": "AI giant Anthropic files for blockbuster IPO",
+  "url": "https://www.coindesk.com/business/2026/10/26/ai-giant-anthropic-files-for-blockbuster-ipo",
+  "source": "CoinDesk",
+  "published_at": "Mon, 26 Oct 2026 13:22:09 +0000",
+  "summary": "",
   "score": 14
  }
 ]
