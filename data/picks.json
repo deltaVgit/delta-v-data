@@ -33,42 +33,18 @@
    "score": 40
   },
   {
-   "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
-   "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
-   "source": "BleepingComputer",
-   "published_at": "Sat, 24 Oct 2026 10:17:32 -0400",
-   "summary": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast. [...]",
-   "score": 40
-  },
-  {
-   "title": "GMO CALLS ON JAPANESE GOVERNMENT TO BOLSTER CYBER DEFENSES FOLLOWING SECURITY BREACH - KYODO",
-   "url": "https://x.com/FirstSquawk/status/2114515239647764818",
-   "source": "MarketNewsFeed [OTHER]",
-   "published_at": "2026-10-26T00:31:58Z",
-   "summary": "",
-   "score": 38
-  },
-  {
-   "title": "NORTH KOREA: SOUTH KOREA PROVOCATIONS LIKE FIRING ON NORTH KOREAN PERSONNEL BREACH UN CHARTER - KCNA",
-   "url": "https://x.com/FirstSquawk/status/2114465037981294648",
-   "source": "MarketNewsFeed [OTHER]",
-   "published_at": "2026-10-25T21:12:20Z",
-   "summary": "",
-   "score": 38
-  },
-  {
-   "title": "NORTH KOREA: SOUTH KOREA PROVOCATIONS LIKE FIRING ON NORTH KOREAN PERSONNEL BREACH UN CHARTER - KCNA",
-   "url": "https://x.com/financialjuice/status/2114464983966695786",
-   "source": "MarketNewsFeed [OTHER]",
-   "published_at": "2026-10-25T21:12:04Z",
-   "summary": "",
-   "score": 38
-  },
-  {
-   "title": "BITCOIN DROPS TO $80,400 AMID BEARISH MOMENTUM, RIPPLE BREACHES $1.30 SUPPORT",
-   "url": "https://x.com/FirstSquawk/status/2114445319232803092",
+   "title": "COINDCX CONFIRMS $16 MILLION LOSS FROM RETIRED WALLETS DAYS AFTER CEO CALLED BREACH REPORTS A ‘FALSE ALARM’",
+   "url": "https://x.com/cryptounfolded/status/2114593572993257860",
    "source": "MarketNewsFeed [CRYPTO]",
-   "published_at": "2026-10-25T19:53:49Z",
+   "published_at": "2026-10-26T05:43:14Z",
+   "summary": "",
+   "score": 38
+  },
+  {
+   "title": "KEYSTONE SAYS WEBSITE BREACH EXPOSED HARDWARE WALLET BUYERS’ ADDRESSES",
+   "url": "https://www.tradingview.com/news/cointelegraph:c1187e961094b:0-keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses/",
+   "source": "MarketNewsFeed [OTHER]",
+   "published_at": "2026-10-26T02:40:50Z",
    "summary": "",
    "score": 38
   },
@@ -95,7 +71,31 @@
    "published_at": "Sat, 24 Oct 2026 19:06:10 GMT",
    "summary": "The hardware-wallet maker says it blocked access and fixed the vulnerability. Payment details, recovery phrases and private keys were not exposed, according to the company.",
    "score": 38
+  },
+  {
+   "title": "Security-Aware Layer Mapping Reduces Fault Vulnerability In 3D Compute-In-Memory (ASU, U. of Maryland)",
+   "url": "https://semiengineering.com/security-aware-layer-mapping-reduces-fault-vulnerability-in-3d-compute-in-memory-asu-u-of-maryland/",
+   "source": "SemiEngineering",
+   "published_at": "Sun, 25 Oct 2026 20:30:42 +0000",
+   "summary": "Researchers at Arizona State University and University of Maryland published “SEAL: Multitenant Security-Aware Layer Mapping for Heterogeneous 3-D CiM Accelerators.” Abstract: “Heterogeneous 3-D compute-in-memory architectures can combine different memory technologies across stacked tiers to acceler",
+   "score": 30
+  },
+  {
+   "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
+   "url": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
+   "source": "Hacker News Frontpage",
+   "published_at": "Sun, 25 Oct 2026 19:10:36 +0000",
+   "summary": "Comments URL: Points: 4",
+   "score": 30
+  },
+  {
+   "title": "Foundation Links Passport Phishing Emails to Compromised Cloudflare API Keys",
+   "url": "https://thedefiant.io/news/security/foundation-links-passport-phishing-emails-to-compromised-cloudflare-api-keys",
+   "source": "The Defiant",
+   "published_at": "Mon, 26 Oct 2026 04:06:03 GMT",
+   "summary": "Recipients reported personal and purchase details in the messages; the company said Passport hardware and funds were safe.",
+   "score": 24
   }
  ],
- "updatedAt": "2026-10-26T01:35:56.148564+00:00"
+ "updatedAt": "2026-10-26T06:34:27.185545+00:00"
 }

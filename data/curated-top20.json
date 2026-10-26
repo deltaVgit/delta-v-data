@@ -8,28 +8,20 @@
   "score": 44
  },
  {
-  "title": "BITCOIN DROPS TO $80,400 AMID BEARISH MOMENTUM, RIPPLE BREACHES $1.30 SUPPORT",
-  "url": "https://x.com/FirstSquawk/status/2114445319232803092",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-25T19:53:49Z",
-  "summary": "",
-  "score": 40
+  "title": "Understanding Communication Failures in Multi-Agent LLM Systems",
+  "url": "https://arxiv.org/abs/2610.32060",
+  "source": "arXiv cs.AI",
+  "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.32060v1 Announce Type: new Abstract: Multi-agent LLM systems aim to improve reasoning through debate, evidence sharing, and mutual correction, but interaction can also introduce failures that final accuracy alone cannot explain. Agents may converge too early, ignore dissent, suppress corr",
+  "score": 34
  },
  {
-  "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
-  "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
-  "source": "BleepingComputer",
-  "published_at": "Sat, 24 Oct 2026 10:17:32 -0400",
-  "summary": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast. [...]",
-  "score": 40
- },
- {
-  "title": "GMO CALLS ON JAPANESE GOVERNMENT TO BOLSTER CYBER DEFENSES FOLLOWING SECURITY BREACH - KYODO",
-  "url": "https://x.com/FirstSquawk/status/2114515239647764818",
-  "source": "MarketNewsFeed [OTHER]",
-  "published_at": "2026-10-26T00:31:58Z",
-  "summary": "",
-  "score": 38
+  "title": "The Helpful Agent Problem: When Emergent Cooperation Among LLM Agents Bypasses Intended Workflows",
+  "url": "https://arxiv.org/abs/2610.31985",
+  "source": "arXiv cs.AI",
+  "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.31985v1 Announce Type: new Abstract: LLM agents are increasingly deployed in collaborative settings where they pursue separate tasks while sharing resources and operating under review or oversight processes. Such settings create safety risks not only when agents are malicious, but also wh",
+  "score": 34
  },
  {
   "title": "Security-Aware Layer Mapping Reduces Fault Vulnerability In 3D Compute-In-Memory (ASU, U. of Maryland)",
@@ -88,18 +80,18 @@
   "score": 30
  },
  {
-  "title": "NORTH KOREA: SOUTH KOREA PROVOCATIONS LIKE FIRING ON NORTH KOREAN PERSONNEL BREACH UN CHARTER - KCNA",
-  "url": "https://x.com/FirstSquawk/status/2114465037981294648",
-  "source": "MarketNewsFeed [OTHER]",
-  "published_at": "2026-10-25T21:12:20Z",
+  "title": "COINDCX CONFIRMS $16 MILLION LOSS FROM RETIRED WALLETS DAYS AFTER CEO CALLED BREACH REPORTS A ‘FALSE ALARM’",
+  "url": "https://x.com/cryptounfolded/status/2114593572993257860",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-26T05:43:14Z",
   "summary": "",
   "score": 28
  },
  {
-  "title": "NORTH KOREA: SOUTH KOREA PROVOCATIONS LIKE FIRING ON NORTH KOREAN PERSONNEL BREACH UN CHARTER - KCNA",
-  "url": "https://x.com/financialjuice/status/2114464983966695786",
+  "title": "KEYSTONE SAYS WEBSITE BREACH EXPOSED HARDWARE WALLET BUYERS’ ADDRESSES",
+  "url": "https://www.tradingview.com/news/cointelegraph:c1187e961094b:0-keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses/",
   "source": "MarketNewsFeed [OTHER]",
-  "published_at": "2026-10-25T21:12:04Z",
+  "published_at": "2026-10-26T02:40:50Z",
   "summary": "",
   "score": 28
  },
@@ -128,35 +120,43 @@
   "score": 28
  },
  {
-  "title": "Node.js Vulnerability Blog",
-  "url": "https://nodejs.org/en/blog/vulnerability",
-  "source": "Hacker News Frontpage",
-  "published_at": "Sat, 24 Oct 2026 11:08:47 +0000",
-  "summary": "Comments URL: Points: 3",
+  "title": "BITCOIN, ETHEREUM, XRP, DOGECOIN DIP AS INVESTORS AWAIT KEVIN WARSH'S INTEREST RATE MOVES: ANALYST SEES 'INTERESTING WEEK' AHEAD FOR BTC",
+  "url": "https://www.tradingview.com/news/benzinga:6de87b752094b:0-bitcoin-ethereum-xrp-dogecoin-dip-as-investors-await-kevin-warsh-s-interest-rate-moves-analyst-sees-interesting-week-ahead-for-btc/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-26T03:08:51Z",
+  "summary": "",
   "score": 24
  },
  {
-  "title": "BINANCE FOUNDER CZ MAKES SHOCKING CLAIM ABOUT AI HACKING: “NO CRYPTO WALLET IS 100% SAFE”",
-  "url": "https://www.tradingview.com/news/bravenewcoin:09c1bff62094b:0/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-25T19:39:58Z",
-  "summary": "",
-  "score": 22
+  "title": "PersonaScienceBench: Evaluating Scientific Agents with Diverse Simulated Researchers",
+  "url": "https://arxiv.org/abs/2610.32106",
+  "source": "arXiv cs.AI",
+  "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.32106v1 Announce Type: new Abstract: Scientific agents collaborate with researchers whose expertise and preferences differ, but benchmarks usually hold the collaborator fixed. We introduce PersonaScienceBench: 200 tasks from five benchmarks across four scientific domains. Simulated resear",
+  "score": 18
  },
  {
-  "title": "Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt",
-  "url": "https://decrypt.co/381715/bitcoin-core-security-policy-ai-threats",
-  "source": "Decrypt",
-  "published_at": "Fri, 23 Oct 2026 17:16:03 +0000",
-  "summary": "Developers will now backport fixes and cut releases immediately for flaws flagged as “easily discoverable,” abandoning long embargoes for bugs an attacker can surface with a single AI prompt.",
-  "score": 22
+  "title": "Behaviour analysis for large language model-driven agents",
+  "url": "https://arxiv.org/abs/2610.32087",
+  "source": "arXiv cs.AI",
+  "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.32087v1 Announce Type: new Abstract: Understanding language-agent behaviour requires learning how actions are organised across a trajectory and how this organisation relates to context and outcomes. We propose a general framework that connects data-driven behavioural discovery with analys",
+  "score": 18
  },
  {
-  "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
-  "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
-  "source": "BleepingComputer",
-  "published_at": "Sun, 25 Oct 2026 11:49:38 -0400",
-  "summary": "Researchers found a malicious AGENTS markdown instruction file in a customer s Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]",
+  "title": "Do AI-for-Science Agents Preserve Model Safety?",
+  "url": "https://arxiv.org/abs/2610.32045",
+  "source": "arXiv cs.AI",
+  "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.32045v1 Announce Type: new Abstract: AI-for-Science agents are increasingly being used for formulating scientific hypotheses, running autonomous experiments, and interpreting evidence. These agents are constructed by integrating a large language model (LLM) into a domain-specific agent ha",
+  "score": 18
+ },
+ {
+  "title": "RSI-Opt: Recursive Self-Improvement Optimizer Agents For Model Training",
+  "url": "https://arxiv.org/abs/2610.32026",
+  "source": "arXiv cs.AI",
+  "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.32026v1 Announce Type: new Abstract: Conventional neural-network training typically follows a predefined optimization recipe, motivating a LLM agent that monitors training dynamics and adjusts optimizer settings as training progresses, but a fixed agent policy does not accumulate experien",
   "score": 18
  }
 ]
