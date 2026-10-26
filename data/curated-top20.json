@@ -64,60 +64,20 @@
   "score": 34
  },
  {
+  "title": "X100 Exploiter Sends 420.8 ETH to Tornado Cash",
+  "url": "https://thedefiant.io/news/hacks/x100-exploiter-sends-420-8-eth-to-tornado-cash",
+  "source": "The Defiant",
+  "published_at": "Mon, 26 Oct 2026 13:58:40 GMT",
+  "summary": "Four holding wallets still contain about 1,602 ETH, while the distributor that sent the mixer deposits has been nearly emptied.",
+  "score": 30
+ },
+ {
   "title": "CoinDCX confirms $16 million loss from retired wallets days after CEO called breach reports a ‘false alarm’",
   "url": "https://www.theblock.co/news/business/2026-10-25-coindcx-confirms-16-million-loss-from-retired-wallets-days-after-ceo-called-breach-reports-a-false-alarm-431617",
   "source": "The Block",
   "published_at": "Sun, 25 Oct 2026 18:46:21 +0000",
   "summary": "CEO Sumit Gupta had told X users on Wednesday that early reports of a breach sounded like a false alarm.",
   "score": 28
- },
- {
-  "title": "Keystone customers say breach exposed data the hardware wallet maker promised to delete",
-  "url": "https://www.theblock.co/news/business/2026-10-25-keystone-customers-say-breach-exposed-data-the-hardware-wallet-maker-promised-to-delete-431613",
-  "source": "The Block",
-  "published_at": "Sun, 25 Oct 2026 15:56:30 +0000",
-  "summary": "Keystone has said it deletes customer information 180 days after their orders in most cases, though X users have cast doubt on that claim.",
-  "score": 28
- },
- {
-  "title": "ANTHROPIC TO SPEND UP TO $120.58 ON SPACEX AI NVIDIA COMPUTE",
-  "url": "https://x.com/FirstSquawk/status/2114707483835220317",
-  "source": "MarketNewsFeed [STOCKS]",
-  "published_at": "2026-10-26T13:15:49Z",
-  "summary": "",
-  "score": 26
- },
- {
-  "title": "ANTHROPIC TO SPEND UP TO $120.58 ON SPACEX AI NVIDIA COMPUTE- BOOSTS REVOLVING COMMITMENTS FROM S3.3B TO $15.0B",
-  "url": "https://x.com/LiveSquawk/status/2114707104519029003",
-  "source": "MarketNewsFeed [STOCKS]",
-  "published_at": "2026-10-26T13:14:03Z",
-  "summary": "",
-  "score": 26
- },
- {
-  "title": "*ANTHROPIC TO SPEND UP TO $120.5B ON SPACEXAI NVIDIA COMPUTE",
-  "url": "https://x.com/DeItaone/status/2114706962374172897",
-  "source": "MarketNewsFeed [STOCKS]",
-  "published_at": "2026-10-26T13:13:34Z",
-  "summary": "",
-  "score": 26
- },
- {
-  "title": "ANTHROPIC TO SPEND UP TO $120.5B ON SPACEXAI NVIDIA COMPUTE.",
-  "url": "https://x.com/financialjuice/status/2114706864474845341",
-  "source": "MarketNewsFeed [STOCKS]",
-  "published_at": "2026-10-26T13:13:18Z",
-  "summary": "",
-  "score": 26
- },
- {
-  "title": "ANTHROPIC IPO FILING: LOSING CONTROL OF SUFFICIENTLY POWERFUL AI SYSTEMS COULD BE GLOBAL SECURITY THREAT OF FIRST ORDER",
-  "url": "https://x.com/DeItaone/status/2114710673842204978",
-  "source": "MarketNewsFeed [OTHER]",
-  "published_at": "2026-10-26T13:28:34Z",
-  "summary": "",
-  "score": 24
  },
  {
   "title": "Strive closes in on second-largest corporate bitcoin treasury with $511 million purchase",
@@ -136,14 +96,6 @@
   "score": 18
  },
  {
-  "title": "KEY FACTS: SUIUSD 13.15M SUI UNLOCK NOV 1, 2026; AGENTIC ECONOMY PICK",
-  "url": "https://www.tradingview.com/news/tradingview:4e9d350d2da9b:0-key-facts-suiusd-13-15m-sui-unlock-nov-1-2026-agentic-economy-pick/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-26T12:10:55Z",
-  "summary": "",
-  "score": 18
- },
- {
   "title": "A Descriptive Framework for Large Agent Systems (v0.1)",
   "url": "https://www.lesswrong.com/posts/bKddWnNAzwbtoSm5a/a-descriptive-framework-for-large-agent-systems-v0-1",
   "source": "LessWrong",
@@ -152,11 +104,59 @@
   "score": 18
  },
  {
+  "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
+  "url": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
+  "source": "BleepingComputer",
+  "published_at": "Mon, 26 Oct 2026 10:00:10 -0400",
+  "summary": "A new NIST, CISA, and NSA guide treats runaway agents as incidents to be rehearsed. The hard part of the response is answering whose authority the agent used, and that answer has to exist before the incident does. [...]",
+  "score": 18
+ },
+ {
   "title": "PersonaScienceBench: Evaluating Scientific Agents with Diverse Simulated Researchers",
   "url": "https://arxiv.org/abs/2610.32106",
   "source": "arXiv cs.AI",
   "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
   "summary": "arXiv:2610.32106v1 Announce Type: new Abstract: Scientific agents collaborate with researchers whose expertise and preferences differ, but benchmarks usually hold the collaborator fixed. We introduce PersonaScienceBench: 200 tasks from five benchmarks across four scientific domains. Simulated resear",
+  "score": 18
+ },
+ {
+  "title": "Behaviour analysis for large language model-driven agents",
+  "url": "https://arxiv.org/abs/2610.32087",
+  "source": "arXiv cs.AI",
+  "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.32087v1 Announce Type: new Abstract: Understanding language-agent behaviour requires learning how actions are organised across a trajectory and how this organisation relates to context and outcomes. We propose a general framework that connects data-driven behavioural discovery with analys",
+  "score": 18
+ },
+ {
+  "title": "Do AI-for-Science Agents Preserve Model Safety?",
+  "url": "https://arxiv.org/abs/2610.32045",
+  "source": "arXiv cs.AI",
+  "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.32045v1 Announce Type: new Abstract: AI-for-Science agents are increasingly being used for formulating scientific hypotheses, running autonomous experiments, and interpreting evidence. These agents are constructed by integrating a large language model (LLM) into a domain-specific agent ha",
+  "score": 18
+ },
+ {
+  "title": "RSI-Opt: Recursive Self-Improvement Optimizer Agents For Model Training",
+  "url": "https://arxiv.org/abs/2610.32026",
+  "source": "arXiv cs.AI",
+  "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.32026v1 Announce Type: new Abstract: Conventional neural-network training typically follows a predefined optimization recipe, motivating a LLM agent that monitors training dynamics and adjusts optimizer settings as training progresses, but a fixed agent policy does not accumulate experien",
+  "score": 18
+ },
+ {
+  "title": "Reproducible Evaluation as the Substrate for Safe Prompt Compression in Production Agents",
+  "url": "https://arxiv.org/abs/2610.31972",
+  "source": "arXiv cs.AI",
+  "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.31972v1 Announce Type: new Abstract: Evaluating conversational agents that act on live, mutable enterprise data is hard: replayed sessions drift as backend state changes, and a benchmark built today can silently go stale as the data it describes moves on. We present an offline evaluation ",
+  "score": 18
+ },
+ {
+  "title": "DraMaze: A Multi-Agent Pipeline with Future-Aware Memory for Diverse Microdrama Script Generation",
+  "url": "https://arxiv.org/abs/2610.32002",
+  "source": "arXiv cs.CL",
+  "published_at": "Mon, 26 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.32002v1 Announce Type: new Abstract: The rapid growth of microdramas has increased demand for high-quality script production. Long-form microdrama script generation with LLMs requires both diverse plot progression and long-range narrative coherence. Our observations reveal that candidate ",
   "score": 18
  }
 ]

@@ -1,6 +1,14 @@
 {
  "picks": [
   {
+   "title": "X100 Exploiter Sends 420.8 ETH to Tornado Cash",
+   "url": "https://thedefiant.io/news/hacks/x100-exploiter-sends-420-8-eth-to-tornado-cash",
+   "source": "The Defiant",
+   "published_at": "Mon, 26 Oct 2026 13:58:40 GMT",
+   "summary": "Four holding wallets still contain about 1,602 ETH, while the distributor that sent the mixer deposits has been nearly emptied.",
+   "score": 40
+  },
+  {
    "title": "Researcher Cracks Steal My Bitcoin Challenge With PHP Exploit",
    "url": "https://thedefiant.io/news/security/researcher-cracks-steal-my-bitcoin-challenge-with-php-exploit",
    "source": "The Defiant",
@@ -22,14 +30,6 @@
    "source": "The Block",
    "published_at": "Sun, 25 Oct 2026 18:46:21 +0000",
    "summary": "CEO Sumit Gupta had told X users on Wednesday that early reports of a breach sounded like a false alarm.",
-   "score": 38
-  },
-  {
-   "title": "Keystone customers say breach exposed data the hardware wallet maker promised to delete",
-   "url": "https://www.theblock.co/news/business/2026-10-25-keystone-customers-say-breach-exposed-data-the-hardware-wallet-maker-promised-to-delete-431613",
-   "source": "The Block",
-   "published_at": "Sun, 25 Oct 2026 15:56:30 +0000",
-   "summary": "Keystone has said it deletes customer information 180 days after their orders in most cases, though X users have cast doubt on that claim.",
    "score": 38
   },
   {
@@ -81,21 +81,21 @@
    "score": 18
   },
   {
-   "title": "$SPCX SPACEX ENTERS BINDING COMMITMENT TO MASTER FINANCE LEASE WITH APOLLO GLOBAL - SEC FILING- AGGREGATE PRINCIPAL PAYMENTS UNDER LEASE SCHEDULES EXPECTED TO TOTAL $40 BLN- APOLLO GLOBAL TO BUY AND L",
-   "url": "https://x.com/LiveSquawk/status/2114689409266122981",
-   "source": "MarketNewsFeed [STOCKS]",
-   "published_at": "2026-10-26T12:03:45Z",
+   "title": "CANADA OPENS CONSULTATION ON DRAFT STABLECOIN RULES, MAINTAINS BAN ON YIELDS",
+   "url": "https://x.com/cryptounfolded/status/2114725089673408885",
+   "source": "MarketNewsFeed [CRYPTO]",
+   "published_at": "2026-10-26T14:25:36Z",
    "summary": "",
    "score": 16
   },
   {
-   "title": "$SPCX - SPACEX SIGNS $40 BILLION GPU FINANCING DEAL WITH APOLLOSPACEX HAS ENTERED INTO A BINDING COMMITMENT FOR A MASTER FINANCE LEASE WITH APOLLO GLOBAL MANAGEMENT ($APO ), ACCORDING TO AN SEC FILING",
-   "url": "https://x.com/DeItaone/status/2114688952686805491",
-   "source": "MarketNewsFeed [STOCKS]",
-   "published_at": "2026-10-26T12:02:00Z",
+   "title": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
+   "url": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
+   "source": "CoinDesk",
+   "published_at": "Mon, 26 Oct 2026 14:23:41 +0000",
    "summary": "",
    "score": 16
   }
  ],
- "updatedAt": "2026-10-26T13:40:27.640550+00:00"
+ "updatedAt": "2026-10-26T14:36:54.155720+00:00"
 }
