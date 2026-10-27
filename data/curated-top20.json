@@ -16,6 +16,22 @@
   "score": 52
  },
  {
+  "title": "HACKER TRYING TO BREACH US ELECTION WEBSITE - EMAIL FROM FEC OFFICIAL SEEN BY REUTERS",
+  "url": "https://x.com/DeItaone/status/2115150329427685645",
+  "source": "MarketNewsFeed [MACRO]",
+  "published_at": "2026-10-27T18:35:17Z",
+  "summary": "",
+  "score": 50
+ },
+ {
+  "title": "Warp discloses breach exposing AI agent logs, user telemetry data",
+  "url": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
+  "source": "BleepingComputer",
+  "published_at": "Tue, 27 Oct 2026 12:15:39 -0400",
+  "summary": "Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project s infrastructure. [...]",
+  "score": 46
+ },
+ {
   "title": "Crypto wallet maker Keystone to destroy almost 19,000 devices after security breach",
   "url": "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach",
   "source": "CoinDesk",
@@ -40,20 +56,20 @@
   "score": 34
  },
  {
-  "title": "Position, Role or Label? A Controlled Study of Instruction Conflicts in LLM Agents",
-  "url": "https://arxiv.org/abs/2610.33201",
-  "source": "arXiv cs.CL",
-  "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.33201v1 Announce Type: new Abstract: LLM agents take instructions from the operator, repository configuration, user, tool results and saved memory, which often conflict. Instruction-hierarchy benchmarks ask whether the higher-ranked source wins, but a source sets position, role and label ",
-  "score": 34
- },
- {
-  "title": "PHP2Shell: Exploitation Attempts and Remediation Trends",
+  "title": "PHP2Shell: Exploitation attempts and remediation trends",
   "url": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
   "source": "Hacker News Frontpage",
   "published_at": "Tue, 27 Oct 2026 13:52:12 +0000",
-  "summary": "Comments URL: Points: 58",
+  "summary": "Comments URL: Points: 163",
   "score": 30
+ },
+ {
+  "title": "We let our cloud agents query prod (with OIDC, not secrets)",
+  "url": "https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/",
+  "source": "Hacker News Frontpage",
+  "published_at": "Tue, 27 Oct 2026 16:25:12 +0000",
+  "summary": "Comments URL: Points: 13",
+  "score": 28
  },
  {
   "title": "Energy giant ENGIE discloses data breach affecting customers",
@@ -64,11 +80,19 @@
   "score": 28
  },
  {
-  "title": "Here Be Monsters: What Do You Still Need to Know When Agents Do the Work?",
+  "title": "Data Recovery CEO Indicted for Allegedly Scamming Ransomware Victims",
+  "url": "https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment",
+  "source": "Hacker News Frontpage",
+  "published_at": "Tue, 27 Oct 2026 15:39:29 +0000",
+  "summary": "Comments URL: Points: 8",
+  "score": 24
+ },
+ {
+  "title": "Here be monsters: What do you still need to know when agents do the work?",
   "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
   "source": "Hacker News Frontpage",
   "published_at": "Tue, 27 Oct 2026 13:23:22 +0000",
-  "summary": "Comments URL: Points: 27",
+  "summary": "Comments URL: Points: 104",
   "score": 18
  },
  {
@@ -128,35 +152,11 @@
   "score": 18
  },
  {
-  "title": "Have LLMs passed the Turing test?",
-  "url": "https://www.lesswrong.com/posts/dHkE55CTpttX6hFB3/have-llms-passed-the-turing-test",
-  "source": "LessWrong",
-  "published_at": "Tue, 27 Oct 2026 01:57:33 GMT",
-  "summary": "It s very strange that LLMs have (plausibly) solved a millennium problem before a single one has unambiguously solved the Turing test, i.e. learned to write duplicitously , or convincingly in other styles. Consider a strong definition of the Turing Test: to pass it, an AI must be able to convince an",
-  "score": 16
- },
- {
-  "title": "ConMem: Counterfactual Multi-Scenario Probing for Resolving LLM Memory Misalignment",
-  "url": "https://arxiv.org/abs/2610.33432",
-  "source": "arXiv cs.AI",
-  "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.33432v1 Announce Type: new Abstract: Long-term memory is critical for autonomous Large Language Model (LLM) agents executing multi-session, long-horizon tasks. However, existing memories often inappropriately store, retain, or retrieve over-generalized, misattributed, or privacy-sensitive",
-  "score": 16
- },
- {
-  "title": "Data Optimization for LLMs: A Survey",
-  "url": "https://arxiv.org/abs/2610.33405",
-  "source": "arXiv cs.AI",
-  "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.33405v1 Announce Type: new Abstract: Large language models (LLMs) have attracted great attention in both academic and industrial communities in recent years. Numerous survey studies have covered various aspects of LLMs, such as learning strategies, applications, alignment, explainability,",
-  "score": 16
- },
- {
-  "title": "Scoped Semantic Invariance as a Foundation for LLM Reliability",
-  "url": "https://arxiv.org/abs/2610.33267",
-  "source": "arXiv cs.AI",
-  "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.33267v1 Announce Type: new Abstract: LLMs often answer semantically equivalent queries inconsistently, even when the underlying facts are known. We formalize consistency as semantic invariance over equivalence classes of queries and show that invariance under arbitrary meaning-preserving ",
+  "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
+  "url": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
+  "source": "Hacker News Frontpage",
+  "published_at": "Tue, 27 Oct 2026 16:25:12 +0000",
+  "summary": "Comments URL: Points: 4",
   "score": 16
  }
 ]

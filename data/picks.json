@@ -9,6 +9,14 @@
    "score": 74
   },
   {
+   "title": "HACKER TRYING TO BREACH US ELECTION WEBSITE - EMAIL FROM FEC OFFICIAL SEEN BY REUTERS",
+   "url": "https://x.com/DeItaone/status/2115150329427685645",
+   "source": "MarketNewsFeed [MACRO]",
+   "published_at": "2026-10-27T18:35:17Z",
+   "summary": "",
+   "score": 72
+  },
+  {
    "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
    "url": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
    "source": "BleepingComputer",
@@ -17,12 +25,20 @@
    "score": 70
   },
   {
-   "title": "PHP2Shell: Exploitation Attempts and Remediation Trends",
+   "title": "PHP2Shell: Exploitation attempts and remediation trends",
    "url": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
    "source": "Hacker News Frontpage",
    "published_at": "Tue, 27 Oct 2026 13:52:12 +0000",
-   "summary": "Comments URL: Points: 58",
+   "summary": "Comments URL: Points: 163",
    "score": 40
+  },
+  {
+   "title": "Warp discloses breach exposing AI agent logs, user telemetry data",
+   "url": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
+   "source": "BleepingComputer",
+   "published_at": "Tue, 27 Oct 2026 12:15:39 -0400",
+   "summary": "Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project s infrastructure. [...]",
+   "score": 38
   },
   {
    "title": "Crypto wallet maker Keystone to destroy almost 19,000 devices after security breach",
@@ -41,6 +57,30 @@
    "score": 38
   },
   {
+   "title": "Data Recovery CEO Indicted for Allegedly Scamming Ransomware Victims",
+   "url": "https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment",
+   "source": "Hacker News Frontpage",
+   "published_at": "Tue, 27 Oct 2026 15:39:29 +0000",
+   "summary": "Comments URL: Points: 8",
+   "score": 32
+  },
+  {
+   "title": "Bitcoin Wallet Maker Keystone Pulls Devices as Stolen Key Opens Door to Fakes",
+   "url": "https://decrypt.co/381983/bitcoin-wallet-keystone-devices-destroyed-stolen-key",
+   "source": "Decrypt",
+   "published_at": "Tue, 27 Oct 2026 18:16:02 +0000",
+   "summary": "Attackers obtained the factory key that proves Keystone s hardware wallets are genuine, and 25,964 buyer records were affected. The company says recovery phrases and private keys were not involved.",
+   "score": 30
+  },
+  {
+   "title": "US Charges Six in Alleged Madagascar NFT Wallet-Draining Scheme",
+   "url": "https://thedefiant.io/news/security/us-charges-six-in-alleged-madagascar-nft-wallet-draining-scheme",
+   "source": "The Defiant",
+   "published_at": "Tue, 27 Oct 2026 17:26:54 GMT",
+   "summary": "An FBI affidavit estimates at least $516,695 in losses across 74 victim-linked wallets and describes unlimited USDT spending approvals.",
+   "score": 26
+  },
+  {
    "title": "Ripple gains final OCC approval to launch national trust bank and bring RLUSD under federal oversight",
    "url": "https://www.theblock.co/news/regulation/2026-10-26-ripple-gains-final-occ-approval-rlusd-431810",
    "source": "The Block",
@@ -49,53 +89,13 @@
    "score": 26
   },
   {
-   "title": "Bitcoin shows signs of weakness while Ripple s bank win fails to bolster XRP",
-   "url": "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp",
-   "source": "CoinDesk",
-   "published_at": "Tue, 27 Oct 2026 12:00:39 +0000",
+   "title": "US ENERGY SEC WRIGHT SAYS IRAN WAR HAS 'COME AT A COST': FOX",
+   "url": "https://x.com/DeItaone/status/2115152228038087097",
+   "source": "MarketNewsFeed [ENERGY]",
+   "published_at": "2026-10-27T18:42:48Z",
    "summary": "",
    "score": 16
-  },
-  {
-   "title": "Nvidia is bankrolling AI accelerator supply chain buildout to reserve production capacity",
-   "url": "https://www.tomshardware.com/tech-industry/semiconductors/nvidia-is-bankrolling-ai-accelerator-supply-chain-buildout-to-reserve-production-capacity-announces-billion-dollar-deals-with-six-major-suppliers-across-substrates-advanced-packaging-semiconductor-testing-and-optical-engines",
-   "source": "Tom's Hardware",
-   "published_at": "Tue, 27 Oct 2026 11:00:00 +0000",
-   "summary": "Nvidia is committing billions to expand substrate, co-packaged optics, advanced packaging, and chip-testing capacity through 2028, reserving capacity at nearly every stage of its AI accelerator supply chain.",
-   "score": 16
-  },
-  {
-   "title": "Ripple Wins Final OCC Approval for Trust Bank Behind $2.6B RLUSD Stablecoin",
-   "url": "https://decrypt.co/381899/ripple-wins-final-occ-approval-for-trust-bank-behind-2-6b-rlusd-stablecoin",
-   "source": "Decrypt",
-   "published_at": "Tue, 27 Oct 2026 10:16:46 +0000",
-   "summary": "The federally supervised bank will manage RLUSD s reserves and offer custody, as banking groups fight crypto charters in court.",
-   "score": 16
-  },
-  {
-   "title": "Rethinking Multi-View Fusion for Urban Representation Learning",
-   "url": "https://arxiv.org/abs/2610.31850",
-   "source": "arXiv cs.LG",
-   "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
-   "summary": "arXiv:2610.31850v1 Announce Type: new Abstract: Urban region representation learning encodes heterogeneous urban signals, such as mobility flows, points of interest, and land-use patterns, into unified embeddings for downstream tasks, including check-in prediction, crime forecasting, and service dem",
-   "score": 16
-  },
-  {
-   "title": "Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business",
-   "url": "https://www.theblock.co/news/deals/2026-10-27-bitcoin-mining-ai-luxor-technology-funding-431858",
-   "source": "The Block",
-   "published_at": "Tue, 27 Oct 2026 14:32:08 +0000",
-   "summary": "The company plans to expand its AI business and hire about 12 people by year-end, COO Ethan Vera told The Block.",
-   "score": 12
-  },
-  {
-   "title": "Bitcoin Mining Firm Luxor Raises $16 Million to Scale Its AI Compute Push",
-   "url": "https://decrypt.co/381847/bitcoin-mining-firm-luxor-raises-16-million-ai-compute",
-   "source": "Decrypt",
-   "published_at": "Tue, 27 Oct 2026 13:01:08 +0000",
-   "summary": "The CMT Digital-led round, which drew mining-hardware makers Canaan and MicroBT, will fund Luxor’s expansion into AI compute trading, hardware and derivatives.",
-   "score": 12
   }
  ],
- "updatedAt": "2026-10-27T14:54:18.419721+00:00"
+ "updatedAt": "2026-10-27T18:55:06.673403+00:00"
 }
