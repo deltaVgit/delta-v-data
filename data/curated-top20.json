@@ -80,6 +80,14 @@
   "score": 22
  },
  {
+  "title": "Measuring agent capabilities on open-ended AI R&D tasks",
+  "url": "https://www.lesswrong.com/posts/cTiEPgkvDRxTFwtyu/measuring-agent-capabilities-on-open-ended-ai-r-and-d-tasks-1",
+  "source": "LessWrong",
+  "published_at": "Tue, 27 Oct 2026 01:58:22 GMT",
+  "summary": "TL;DR. We measure agent capabilities on four long and open-ended research tasks. Frontier models have been improving with an overall doubling time of around one year since 2024 (based on an exponential fit). Agents perform better at engineering-heavy tasks compared to more conceptual tasks (between ",
+  "score": 18
+ },
+ {
   "title": "In-the-Wild Attack Abuses AI Agents Trust in Markdown",
   "url": "https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown",
   "source": "Dark Reading",
@@ -96,14 +104,6 @@
   "score": 18
  },
  {
-  "title": "A Descriptive Framework for Large Agent Systems (v0.1)",
-  "url": "https://www.lesswrong.com/posts/bKddWnNAzwbtoSm5a/a-descriptive-framework-for-large-agent-systems-v0-1",
-  "source": "LessWrong",
-  "published_at": "Mon, 26 Oct 2026 11:09:40 GMT",
-  "summary": "Author’s note: This is a working paper. If you notice something missing, contradictory, or broken, please let me know ! I will acknowledge or cite your contribution. When I do more work on the framework, I’ll update the Substack linkpost and attach the old versions there. Abstract Proposals for mult",
-  "score": 18
- },
- {
   "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
   "url": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
   "source": "BleepingComputer",
@@ -112,11 +112,19 @@
   "score": 18
  },
  {
+  "title": "Have LLMs passed the Turing test?",
+  "url": "https://www.lesswrong.com/posts/dHkE55CTpttX6hFB3/have-llms-passed-the-turing-test",
+  "source": "LessWrong",
+  "published_at": "Tue, 27 Oct 2026 01:57:33 GMT",
+  "summary": "It s very strange that LLMs have (plausibly) solved a millennium problem before a single one has unambiguously solved the Turing test, i.e. learned to write duplicitously , or convincingly in other styles. Consider a strong definition of the Turing Test: to pass it, an AI must be able to convince an",
+  "score": 16
+ },
+ {
   "title": "Fixing Tool-Call Accuracy in vLLM",
   "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
   "source": "Hacker News Frontpage",
   "published_at": "Mon, 26 Oct 2026 12:59:48 +0000",
-  "summary": "Comments URL: Points: 145",
+  "summary": "Comments URL: Points: 146",
   "score": 16
  },
  {
@@ -149,14 +157,6 @@
   "source": "CoinDesk",
   "published_at": "Mon, 26 Oct 2026 13:22:09 +0000",
   "summary": "",
-  "score": 14
- },
- {
-  "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-  "url": "https://openai.com/index/openai-cut-incident-investigation",
-  "source": "OpenAI Blog",
-  "published_at": "Mon, 26 Oct 2026 07:00:00 GMT",
-  "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
   "score": 14
  }
 ]
