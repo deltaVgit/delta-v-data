@@ -1,14 +1,6 @@
 {
  "picks": [
   {
-   "title": "X100 Exploiter Sends 420.8 ETH to Tornado Cash",
-   "url": "https://thedefiant.io/news/hacks/x100-exploiter-sends-420-8-eth-to-tornado-cash",
-   "source": "The Defiant",
-   "published_at": "Mon, 26 Oct 2026 13:58:40 GMT",
-   "summary": "Four holding wallets still contain about 1,602 ETH, while the distributor that sent the mixer deposits has been nearly emptied.",
-   "score": 40
-  },
-  {
    "title": "University of Copenhagen data breach exposes data of 525,000 people",
    "url": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
    "source": "BleepingComputer",
@@ -33,28 +25,12 @@
    "score": 34
   },
   {
-   "title": "Nvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle",
-   "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-20-30-and-40-series-gpus-hacked-to-remove-a-half-speed-ai-throttle-firmware-exploit-doubles-rtx-4090s-peak-tensor-rate-lifts-rtx-3090-ti-matrix-math-up-to-80-percent",
-   "source": "Tom's Hardware",
-   "published_at": "Mon, 26 Oct 2026 11:00:00 +0000",
-   "summary": "Linux kernel modules lift Nvidia’s half-rate AI tensor limit on GeForce RTX 20, 30, and 40-series GPUs.",
-   "score": 34
-  },
-  {
-   "title": "Bitcoin reward offered to anyone who could break into an unpatched server running PHP, hacker cracks site and claims bounty",
-   "url": "https://www.tomshardware.com/tech-industry/cryptomining/hacker-offers-bitcoin-reward-to-anyone-who-can-break-into-an-unpatched-server-running-php-still-remains-unhacked-php2shell-challenge-tests-claims-that-ai-makes-exploiting-vulnerabilities-easy",
-   "source": "Tom's Hardware",
-   "published_at": "Mon, 26 Oct 2026 10:30:00 +0000",
-   "summary": "The “Steal My Bitcoin” challenge offers a bounty to anyone who can breach a deliberately vulnerable PHP website using the recently disclosed PHP2Shell flaws. The challenge follows previous recoveries of locked Bitcoin fortunes through software vulnerabilities and AI-assisted investigation, but no su",
-   "score": 34
-  },
-  {
-   "title": "Critical HTTP2Shell Brotli vulnerability triggers emergency patches",
-   "url": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
-   "source": "BleepingComputer",
-   "published_at": "Mon, 26 Oct 2026 12:27:57 -0400",
-   "summary": "A critical flaw dubbed HTTP2Shell in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data. [...]",
-   "score": 30
+   "title": "Ripple gains final OCC approval to launch national trust bank and bring RLUSD under federal oversight",
+   "url": "https://www.theblock.co/news/regulation/2026-10-26-ripple-gains-final-occ-approval-rlusd-431810",
+   "source": "The Block",
+   "published_at": "Tue, 27 Oct 2026 02:28:18 +0000",
+   "summary": "Ripple s structure places reserve management and custody under federal supervision while leaving issuance with the New York-regulated entity.",
+   "score": 26
   },
   {
    "title": "OpenAI Launches GPT-6.1 Terra, Its Half-Good AI Model at Half the Price",
@@ -65,11 +41,11 @@
    "score": 18
   },
   {
-   "title": "CHINA CBANK INJECTS 1 TRILLION YUAN THROUGH OVERNIGHT REVERSE REPOS: STATEMENT",
-   "url": "https://x.com/financialjuice/status/2114890279035584927",
-   "source": "MarketNewsFeed [MACRO]",
-   "published_at": "2026-10-27T01:22:05Z",
-   "summary": "",
+   "title": "Rethinking Multi-View Fusion for Urban Representation Learning",
+   "url": "https://arxiv.org/abs/2610.31850",
+   "source": "arXiv cs.LG",
+   "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
+   "summary": "arXiv:2610.31850v1 Announce Type: new Abstract: Urban region representation learning encodes heterogeneous urban signals, such as mobility flows, points of interest, and land-use patterns, into unified embeddings for downstream tasks, including check-in prediction, crime forecasting, and service dem",
    "score": 16
   },
   {
@@ -95,7 +71,31 @@
    "published_at": "Mon, 26 Oct 2026 15:59:55 +0000",
    "summary": "",
    "score": 16
+  },
+  {
+   "title": "OCC calls on community banks to enter the stablecoin payments market",
+   "url": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
+   "source": "CoinDesk",
+   "published_at": "Mon, 26 Oct 2026 15:45:51 +0000",
+   "summary": "",
+   "score": 16
+  },
+  {
+   "title": "Brazil’s Stock Market Crashes After Lula’s Upset Victory",
+   "url": "https://decrypt.co/381828/brazil-stock-market-crashes-lula-upset-victory",
+   "source": "Decrypt",
+   "published_at": "Mon, 26 Oct 2026 16:04:51 +0000",
+   "summary": "The iShares Brazil ETF fell as much as 26% after Lula da Silva beat Flávio Bolsonaro, who prediction markets had at 80%, while the dollar jumped as much as 12% against the real.",
+   "score": 14
+  },
+  {
+   "title": "CREATING 'NET-NEW' GOLD WITH ALCHEMY BECOMING REAL: COINBASE CEO SAYS YOU CAN'T 'INVENT ANYTHING' THAT RAISES BITCOIN SUPPLY",
+   "url": "https://www.tradingview.com/news/benzinga:2962ca3ee094b:0-creating-net-new-gold-with-alchemy-becoming-real-coinbase-ceo-says-you-can-t-invent-anything-that-raises-bitcoin-supply/",
+   "source": "MarketNewsFeed [CRYPTO]",
+   "published_at": "2026-10-27T07:02:52Z",
+   "summary": "",
+   "score": 12
   }
  ],
- "updatedAt": "2026-10-27T02:25:02.260679+00:00"
+ "updatedAt": "2026-10-27T07:43:16.636105+00:00"
 }

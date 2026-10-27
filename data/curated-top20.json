@@ -1,18 +1,26 @@
 [
  {
-  "title": "Nvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle",
-  "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-20-30-and-40-series-gpus-hacked-to-remove-a-half-speed-ai-throttle-firmware-exploit-doubles-rtx-4090s-peak-tensor-rate-lifts-rtx-3090-ti-matrix-math-up-to-80-percent",
-  "source": "Tom's Hardware",
-  "published_at": "Mon, 26 Oct 2026 11:00:00 +0000",
-  "summary": "Linux kernel modules lift Nvidia’s half-rate AI tensor limit on GeForce RTX 20, 30, and 40-series GPUs.",
+  "title": "Estimation of Propagated Risk in LLM-based Multi-Agent Systems",
+  "url": "https://arxiv.org/abs/2610.33282",
+  "source": "arXiv cs.AI",
+  "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.33282v1 Announce Type: new Abstract: Large Language Model (LLM) based multi-agent systems introduce a distinctive reliability challenge in which actions taken by upstream agents can affect the correctness of downstream agents. While prior work has investigated error propagation and develo",
   "score": 34
  },
  {
-  "title": "Bitcoin reward offered to anyone who could break into an unpatched server running PHP, hacker cracks site and claims bounty",
-  "url": "https://www.tomshardware.com/tech-industry/cryptomining/hacker-offers-bitcoin-reward-to-anyone-who-can-break-into-an-unpatched-server-running-php-still-remains-unhacked-php2shell-challenge-tests-claims-that-ai-makes-exploiting-vulnerabilities-easy",
-  "source": "Tom's Hardware",
-  "published_at": "Mon, 26 Oct 2026 10:30:00 +0000",
-  "summary": "The “Steal My Bitcoin” challenge offers a bounty to anyone who can breach a deliberately vulnerable PHP website using the recently disclosed PHP2Shell flaws. The challenge follows previous recoveries of locked Bitcoin fortunes through software vulnerabilities and AI-assisted investigation, but no su",
+  "title": "FlexA-Mem: Budget-Adaptive Agentic Memory for LLM Agents",
+  "url": "https://arxiv.org/abs/2610.33274",
+  "source": "arXiv cs.CL",
+  "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.33274v1 Announce Type: new Abstract: Large language model (LLM) agents work in scenarios with very different memory needs. A question about past conversations needs the exact facts it names, while a multi-step task needs a trace of the steps already taken together with details that the ne",
+  "score": 34
+ },
+ {
+  "title": "Position, Role or Label? A Controlled Study of Instruction Conflicts in LLM Agents",
+  "url": "https://arxiv.org/abs/2610.33201",
+  "source": "arXiv cs.CL",
+  "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.33201v1 Announce Type: new Abstract: LLM agents take instructions from the operator, repository configuration, user, tool results and saved memory, which often conflict. Instruction-hierarchy benchmarks ask whether the higher-ranked source wins, but a source sets position, role and label ",
   "score": 34
  },
  {
@@ -32,28 +40,12 @@
   "score": 32
  },
  {
-  "title": "X100 Exploiter Sends 420.8 ETH to Tornado Cash",
-  "url": "https://thedefiant.io/news/hacks/x100-exploiter-sends-420-8-eth-to-tornado-cash",
-  "source": "The Defiant",
-  "published_at": "Mon, 26 Oct 2026 13:58:40 GMT",
-  "summary": "Four holding wallets still contain about 1,602 ETH, while the distributor that sent the mixer deposits has been nearly emptied.",
-  "score": 30
- },
- {
   "title": "University of Copenhagen data breach exposes data of 525,000 people",
   "url": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
   "source": "BleepingComputer",
   "published_at": "Mon, 26 Oct 2026 18:20:36 -0400",
   "summary": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]",
   "score": 28
- },
- {
-  "title": "Critical HTTP2Shell Brotli vulnerability triggers emergency patches",
-  "url": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
-  "source": "BleepingComputer",
-  "published_at": "Mon, 26 Oct 2026 12:27:57 -0400",
-  "summary": "A critical flaw dubbed HTTP2Shell in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data. [...]",
-  "score": 24
  },
  {
   "title": "South Korea Arrests Seven in First Big AI-Assisted Hacking Case",
@@ -72,12 +64,12 @@
   "score": 22
  },
  {
-  "title": "Strive closes in on second-largest corporate bitcoin treasury with $511 million purchase",
-  "url": "https://www.theblock.co/news/business/2026-10-26-strive-closes-in-second-largest-corporate-bitcoin-treasury-511-million-purchase-431729",
+  "title": "Circle faces up to 20% revenue risk from AI agents, Mizuho says",
+  "url": "https://www.theblock.co/news/business/2026-10-27-mizuho-cuts-circle-price-target-431826",
   "source": "The Block",
-  "published_at": "Mon, 26 Oct 2026 13:19:08 +0000",
-  "summary": "Strive s latest bitcoin purchase puts it within 1,000 BTC of second-place Metaplanet as it unveils a new $1 billion preferred stock offering program.",
-  "score": 22
+  "published_at": "Tue, 27 Oct 2026 06:28:34 +0000",
+  "summary": "Mizuho cited 10-20% medium-term reserve revenue downside risk as AI agents steer USDC holders toward higher-yielding fiat alternatives.",
+  "score": 18
  },
  {
   "title": "Measuring agent capabilities on open-ended AI R&D tasks",
@@ -85,6 +77,30 @@
   "source": "LessWrong",
   "published_at": "Tue, 27 Oct 2026 01:58:22 GMT",
   "summary": "TL;DR. We measure agent capabilities on four long and open-ended research tasks. Frontier models have been improving with an overall doubling time of around one year since 2024 (based on an exponential fit). Agents perform better at engineering-heavy tasks compared to more conceptual tasks (between ",
+  "score": 18
+ },
+ {
+  "title": "AgentOrch: How Close Can Global Orchestration Come to Step-by-Step Interaction?",
+  "url": "https://arxiv.org/abs/2610.33375",
+  "source": "arXiv cs.AI",
+  "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.33375v1 Announce Type: new Abstract: Enterprise workflow agents typically rely on step-by-step interaction (Step-by-Step): the agent executes an action, observes its result, and invokes a large language model (LLM) again to decide the next step. Global orchestration (Global) instead gener",
+  "score": 18
+ },
+ {
+  "title": "AdaPRA: Process Reward Agents with Adaptive Rubrics for Data Science",
+  "url": "https://arxiv.org/abs/2610.33245",
+  "source": "arXiv cs.AI",
+  "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.33245v1 Announce Type: new Abstract: Data science agents can automate end-to-end machine learning workflows, yet they remain far from competitive on human leaderboards. Agents make process errors such as insufficient exploration, unsound validation, coding bugs, and poor use of a fixed bu",
+  "score": 18
+ },
+ {
+  "title": "Multi-Agent Retrieval-Augmented Causality Assessment (MARCA) of Individual Case Safety Reports in Pharmacovigilance",
+  "url": "https://arxiv.org/abs/2610.33279",
+  "source": "arXiv cs.CL",
+  "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.33279v1 Announce Type: new Abstract: Introduction: Increasing volumes of individual case safety reports (ICSRs) challenge expert-led causality assessment in pharmacovigilance. We developed MARCA (Multi-Agent Retrieval-Augmented Causality Assessment), a four-agent framework for Naranjo-bas",
   "score": 18
  },
  {
@@ -96,22 +112,6 @@
   "score": 18
  },
  {
-  "title": "Cadence reveals Maestro, fine-tuned AI models built to run specialized chip design agents, with early access coming for select customers in Q4 2026",
-  "url": "https://www.tomshardware.com/tech-industry/semiconductors/cadence-reveals-maestro-fine-tuned-ai-models-built-to-run-specialized-chip-design-agents-with-early-access-coming-for-select-customers-in-q4-2026-claims-up-to-30-percent-higher-quality-results-and-up-to-5x-token-efficiency-over-a-general-purpose-ai-model",
-  "source": "Tom's Hardware",
-  "published_at": "Mon, 26 Oct 2026 13:20:00 +0000",
-  "summary": "Cadence unveiled Maestro, domain-specialized AI models for its chip design agents, with early access for select customers in Q4 2026.",
-  "score": 18
- },
- {
-  "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
-  "url": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
-  "source": "BleepingComputer",
-  "published_at": "Mon, 26 Oct 2026 10:00:10 -0400",
-  "summary": "A new NIST, CISA, and NSA guide treats runaway agents as incidents to be rehearsed. The hard part of the response is answering whose authority the agent used, and that answer has to exist before the incident does. [...]",
-  "score": 18
- },
- {
   "title": "Have LLMs passed the Turing test?",
   "url": "https://www.lesswrong.com/posts/dHkE55CTpttX6hFB3/have-llms-passed-the-turing-test",
   "source": "LessWrong",
@@ -120,43 +120,43 @@
   "score": 16
  },
  {
-  "title": "Fixing Tool-Call Accuracy in vLLM",
-  "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
-  "source": "Hacker News Frontpage",
-  "published_at": "Mon, 26 Oct 2026 12:59:48 +0000",
-  "summary": "Comments URL: Points: 146",
+  "title": "ConMem: Counterfactual Multi-Scenario Probing for Resolving LLM Memory Misalignment",
+  "url": "https://arxiv.org/abs/2610.33432",
+  "source": "arXiv cs.AI",
+  "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.33432v1 Announce Type: new Abstract: Long-term memory is critical for autonomous Large Language Model (LLM) agents executing multi-session, long-horizon tasks. However, existing memories often inappropriately store, retain, or retrieve over-generalized, misattributed, or privacy-sensitive",
   "score": 16
  },
  {
-  "title": "OpenAI Launches GPT-6.1 Terra, Its Half-Good AI Model at Half the Price",
-  "url": "https://decrypt.co/381883/openai-launches-gpt-6-1-terra-half-good-half-price",
-  "source": "Decrypt",
-  "published_at": "Mon, 26 Oct 2026 21:46:02 +0000",
-  "summary": "OpenAI s mid-tier model now operates apps and screens more like a person would, with API prices 50% below GPT-5.6 Terra and an error rate that OpenAI says fell sharply.",
-  "score": 14
+  "title": "Data Optimization for LLMs: A Survey",
+  "url": "https://arxiv.org/abs/2610.33405",
+  "source": "arXiv cs.AI",
+  "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.33405v1 Announce Type: new Abstract: Large language models (LLMs) have attracted great attention in both academic and industrial communities in recent years. Numerous survey studies have covered various aspects of LLMs, such as learning strategies, applications, alignment, explainability,",
+  "score": 16
  },
  {
-  "title": "Will the real Anthropic please stand up",
-  "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
-  "source": "MIT Technology Review",
-  "published_at": "Mon, 26 Oct 2026 17:45:43 +0000",
-  "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s u",
-  "score": 14
+  "title": "Scoped Semantic Invariance as a Foundation for LLM Reliability",
+  "url": "https://arxiv.org/abs/2610.33267",
+  "source": "arXiv cs.AI",
+  "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.33267v1 Announce Type: new Abstract: LLMs often answer semantically equivalent queries inconsistently, even when the underlying facts are known. We formalize consistency as semantic invariance over equivalence classes of queries and show that invariance under arbitrary meaning-preserving ",
+  "score": 16
  },
  {
-  "title": "Base Promotes Tokenized Anthropic Shares as Trade.xyz Opens Pre-IPO Bets",
-  "url": "https://thedefiant.io/news/markets/base-promotes-tokenized-anthropic-shares-as-trade-xyz-opens-pre-ipo-bets",
-  "source": "The Defiant",
-  "published_at": "Mon, 26 Oct 2026 14:29:04 GMT",
-  "summary": "Trade.xyz s new ANT contract offers up to 10x leverage without equity ownership, while Base s pitch identifies no issuer or token contract.",
-  "score": 14
+  "title": "EviGround-CT: Sentence-to-Volume Grounding for Verifying LLM-Generated Chest CT Reports",
+  "url": "https://arxiv.org/abs/2610.33038",
+  "source": "arXiv cs.CL",
+  "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.33038v1 Announce Type: new Abstract: Chest computed tomography (CT) reports generated by large language models (LLMs) can describe positive findings that lack localized evidence in the scan. We propose EviGround-CT to verify these findings after report generation. A deterministic extracto",
+  "score": 16
  },
  {
-  "title": "AI giant Anthropic files for blockbuster IPO",
-  "url": "https://www.coindesk.com/business/2026/10/26/ai-giant-anthropic-files-for-blockbuster-ipo",
-  "source": "CoinDesk",
-  "published_at": "Mon, 26 Oct 2026 13:22:09 +0000",
-  "summary": "",
-  "score": 14
+  "title": "Model Selection for Off-Policy Evaluation via Pairwise Bellman Validation",
+  "url": "https://arxiv.org/abs/2610.35748",
+  "source": "arXiv stat.ML",
+  "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.35748v1 Announce Type: new Abstract: Model selection and hyperparameter tuning pose a central challenge in off-policy evaluation (OPE) because errors of fitted Q-functions and occupancy-ratio estimates cannot be directly evaluated from held-out transitions. Bellman-residual and minimax va",
+  "score": 16
  }
 ]
