@@ -9,22 +9,6 @@
    "score": 74
   },
   {
-   "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
-   "source": "BleepingComputer",
-   "published_at": "Tue, 27 Oct 2026 04:20:54 -0400",
-   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by Thursday. [...]",
-   "score": 70
-  },
-  {
-   "title": "PHP2Shell: Exploitation attempts and remediation trends",
-   "url": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
-   "source": "Hacker News Frontpage",
-   "published_at": "Tue, 27 Oct 2026 13:52:12 +0000",
-   "summary": "Comments URL: Points: 177",
-   "score": 40
-  },
-  {
    "title": "Warp discloses breach exposing AI agent logs, user telemetry data",
    "url": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
    "source": "BleepingComputer",
@@ -38,14 +22,6 @@
    "source": "CoinDesk",
    "published_at": "Tue, 27 Oct 2026 11:13:54 +0000",
    "summary": "",
-   "score": 38
-  },
-  {
-   "title": "Energy giant ENGIE discloses data breach affecting customers",
-   "url": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
-   "source": "BleepingComputer",
-   "published_at": "Tue, 27 Oct 2026 05:25:50 -0400",
-   "summary": "French energy giant ENGIE, one of the world s largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners. [...]",
    "score": 38
   },
   {
@@ -89,13 +65,37 @@
    "score": 18
   },
   {
-   "title": "TOP DEMOCRATS ARE PREPARING TO INVESTIGATE TRUMP’S AGREEMENT TO IMPORT RUSSIAN DIESEL IF THEY REGAIN CONTROL OF CONGRESS, WITH LAWMAKERS URGING SIX MAJOR U.S. BANKS AND SEVERAL PORTS TO PRESERVE RUSSI",
-   "url": "https://x.com/FirstSquawk/status/2115205628381761964",
-   "source": "MarketNewsFeed [ENERGY]",
-   "published_at": "2026-10-27T22:15:01Z",
+   "title": "Bitcoin shows signs of weakness while Ripple s bank win fails to bolster XRP",
+   "url": "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp",
+   "source": "CoinDesk",
+   "published_at": "Tue, 27 Oct 2026 12:00:39 +0000",
    "summary": "",
    "score": 16
+  },
+  {
+   "title": "Nvidia is bankrolling AI accelerator supply chain buildout to reserve production capacity",
+   "url": "https://www.tomshardware.com/tech-industry/semiconductors/nvidia-is-bankrolling-ai-accelerator-supply-chain-buildout-to-reserve-production-capacity-announces-billion-dollar-deals-with-six-major-suppliers-across-substrates-advanced-packaging-semiconductor-testing-and-optical-engines",
+   "source": "Tom's Hardware",
+   "published_at": "Tue, 27 Oct 2026 11:00:00 +0000",
+   "summary": "Nvidia is committing billions to expand substrate, co-packaged optics, advanced packaging, and chip-testing capacity through 2028, reserving capacity at nearly every stage of its AI accelerator supply chain.",
+   "score": 16
+  },
+  {
+   "title": "Ripple Wins Final OCC Approval for Trust Bank Behind $2.6B RLUSD Stablecoin",
+   "url": "https://decrypt.co/381899/ripple-wins-final-occ-approval-for-trust-bank-behind-2-6b-rlusd-stablecoin",
+   "source": "Decrypt",
+   "published_at": "Tue, 27 Oct 2026 10:16:46 +0000",
+   "summary": "The federally supervised bank will manage RLUSD s reserves and offer custody, as banking groups fight crypto charters in court.",
+   "score": 16
+  },
+  {
+   "title": "Brazilian companies turned to stablecoins on election day to dodge a currency crash",
+   "url": "https://www.coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash",
+   "source": "CoinDesk",
+   "published_at": "Tue, 27 Oct 2026 16:59:07 +0000",
+   "summary": "",
+   "score": 14
   }
  ],
- "updatedAt": "2026-10-27T22:42:31.827130+00:00"
+ "updatedAt": "2026-10-27T23:39:38.252322+00:00"
 }

@@ -1,13 +1,5 @@
 [
  {
-  "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
-  "url": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
-  "source": "BleepingComputer",
-  "published_at": "Tue, 27 Oct 2026 04:20:54 -0400",
-  "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by Thursday. [...]",
-  "score": 54
- },
- {
   "title": "Hacker awarded $50k bounty for reporting bug to Sony that allowed PS5 Linux exploit — move sparks backlash from jailbreaking community",
   "url": "https://www.tomshardware.com/video-games/playstation/hacker-awarded-usd50k-bounty-for-reporting-bug-to-sony-that-allowed-ps5-linux-exploit-move-sparks-backlash-from-jailbreaking-community",
   "source": "Tom's Hardware",
@@ -32,27 +24,11 @@
   "score": 38
  },
  {
-  "title": "PHP2Shell: Exploitation attempts and remediation trends",
-  "url": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
-  "source": "Hacker News Frontpage",
-  "published_at": "Tue, 27 Oct 2026 13:52:12 +0000",
-  "summary": "Comments URL: Points: 177",
-  "score": 30
- },
- {
   "title": "AI Agents Are Creating a New Layer of Cybersecurity Spending",
   "url": "https://decrypt.co/381987/ai-agents-creating-new-layer-cybersecurity-spending",
   "source": "Decrypt",
   "published_at": "Tue, 27 Oct 2026 19:16:03 +0000",
   "summary": "Akamai launched a locked box for AI agents on Tuesday. It joins Palo Alto, Cisco, CrowdStrike, Okta and Zscaler in selling protection for software that now acts on its own.",
-  "score": 28
- },
- {
-  "title": "Energy giant ENGIE discloses data breach affecting customers",
-  "url": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
-  "source": "BleepingComputer",
-  "published_at": "Tue, 27 Oct 2026 05:25:50 -0400",
-  "summary": "French energy giant ENGIE, one of the world s largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners. [...]",
   "score": 28
  },
  {
@@ -70,6 +46,22 @@
   "published_at": "Tue, 27 Oct 2026 15:39:29 +0000",
   "summary": "Comments URL: Points: 8",
   "score": 24
+ },
+ {
+  "title": "No human at the helm : Delaware plan would let AI agents run entire businesses",
+  "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+  "source": "Ars Technica",
+  "published_at": "Tue, 27 Oct 2026 21:50:04 +0000",
+  "summary": "Owners of AI-run firms would evade liability for reckless AI, US Rep. Comer says.",
+  "score": 18
+ },
+ {
+  "title": "Here be monsters: What do you still need to know when agents do the work?",
+  "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
+  "source": "Hacker News Frontpage",
+  "published_at": "Tue, 27 Oct 2026 13:23:22 +0000",
+  "summary": "Comments URL: Points: 141",
+  "score": 18
  },
  {
   "title": "AI agents trade off patient safety for a grade in hospital scenarios",
@@ -112,43 +104,11 @@
   "score": 16
  },
  {
-  "title": "ANTHROPIC: CLAUDE ENTERPRISE PURSUING FEDRAMP MODERATE APPROVAL VIA FEDRAMP 20X PROGRAM",
-  "url": "https://x.com/financialjuice/status/2115208393275363738",
-  "source": "MarketNewsFeed [OTHER]",
-  "published_at": "2026-10-27T22:26:16Z",
-  "summary": "",
-  "score": 14
- },
- {
-  "title": "ANTHROPIC: GOVERNMENT AGENCIES CAN PURCHASE CLAUDE AT ONEGOV DISCOUNT VIA GSA'S MULTIPLE AWARD SCHEDULE TODAY - WEBSITE",
-  "url": "https://x.com/financialjuice/status/2115208360270434385",
-  "source": "MarketNewsFeed [OTHER]",
-  "published_at": "2026-10-27T22:26:02Z",
-  "summary": "",
-  "score": 14
- },
- {
-  "title": "ANTHROPIC: DISCOUNT ON CLAUDE PRODUCTS BROADENS TO STATE, LOCAL, TRIBAL, TERRITORIAL GOVERNMENTS",
-  "url": "https://x.com/financialjuice/status/2115208069542277152",
-  "source": "MarketNewsFeed [OTHER]",
-  "published_at": "2026-10-27T22:24:47Z",
-  "summary": "",
-  "score": 14
- },
- {
-  "title": "ANTHROPIC: LAUNCHING DEDICATED PROGRAM TO HELP AGENCIES OPTIMIZE CLAUDE USE",
-  "url": "https://x.com/financialjuice/status/2115208033349374214",
-  "source": "MarketNewsFeed [OTHER]",
-  "published_at": "2026-10-27T22:24:46Z",
-  "summary": "",
-  "score": 14
- },
- {
-  "title": "ANTHROPIC EXPANDS GSA PARTNERSHIP WITH 40% MARKDOWN ON CLAUDE PRODUCTS FOR GOVERNMENT",
-  "url": "https://x.com/financialjuice/status/2115207912692064493",
-  "source": "MarketNewsFeed [OTHER]",
-  "published_at": "2026-10-27T22:24:16Z",
-  "summary": "",
+  "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+  "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+  "source": "Ars Technica",
+  "published_at": "Tue, 27 Oct 2026 21:31:14 +0000",
+  "summary": "Seven potential AI nightmares pulled from Anthropic s 93-page Risk Factor tome.",
   "score": 14
  },
  {
@@ -157,6 +117,46 @@
   "source": "LessWrong",
   "published_at": "Tue, 27 Oct 2026 19:56:31 GMT",
   "summary": "As we see the details of Anthropic’s IPO for the first time, we are launching a free advisor-matching tool to help you find an evidence-first advisor. Anthropic published its S-1 yesterday, October 26th, giving the first public view of its IPO filing. If it lists in mid-November , Anthropic staff co",
+  "score": 14
+ },
+ {
+  "title": "OpenAI s GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests",
+  "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/",
+  "source": "BleepingComputer",
+  "published_at": "Tue, 27 Oct 2026 18:43:27 -0400",
+  "summary": "OpenAI confirmed GPT-6.1 Terra is safer overall than some of its older models, but its safety testing also found other problems. [...]",
+  "score": 14
+ },
+ {
+  "title": "OpenAI Proves ETH Is False, and Crypto Twitter Has Questions",
+  "url": "https://decrypt.co/381956/opena-eth-false-crypto-twitter-has-questions",
+  "source": "Decrypt",
+  "published_at": "Tue, 27 Oct 2026 16:53:13 +0000",
+  "summary": "A new OpenAI paper declares ETH false, a claim that hundreds of research papers lean on. Crypto Twitter degens and serious mathematicians are abuzz.",
+  "score": 14
+ },
+ {
+  "title": "Anthropic illegally trained Claude with Stanford professors books",
+  "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+  "source": "Hacker News Frontpage",
+  "published_at": "Tue, 27 Oct 2026 15:28:26 +0000",
+  "summary": "Comments URL: Points: 22",
+  "score": 14
+ },
+ {
+  "title": "Retell uses OpenAI models to help power 100M monthly calls",
+  "url": "https://openai.com/index/retell-ai",
+  "source": "OpenAI Blog",
+  "published_at": "Tue, 27 Oct 2026 15:00:00 GMT",
+  "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+  "score": 14
+ },
+ {
+  "title": "Anthropic Versus Anthropic",
+  "url": "https://www.lesswrong.com/posts/ZSrX8gucWsKahsitk/anthropic-versus-anthropic",
+  "source": "LessWrong",
+  "published_at": "Tue, 27 Oct 2026 12:50:53 GMT",
+  "summary": "Anthropic is a frustrating company. Sometimes it will do things I greatly appreciate, including at substantial cost. They have taken bold stands, have a unique governance structure and have hired and worked to establish a relatively strong (but I think still inadequate) safety culture. Other times, ",
   "score": 14
  }
 ]
