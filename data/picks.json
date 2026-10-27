@@ -1,28 +1,36 @@
 {
  "picks": [
   {
-   "title": "University of Copenhagen data breach exposes data of 525,000 people",
-   "url": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
+   "title": "Hacker awarded $50k bounty for reporting bug to Sony that allowed PS5 Linux exploit — move sparks backlash from jailbreaking community",
+   "url": "https://www.tomshardware.com/video-games/playstation/hacker-awarded-usd50k-bounty-for-reporting-bug-to-sony-that-allowed-ps5-linux-exploit-move-sparks-backlash-from-jailbreaking-community",
+   "source": "Tom's Hardware",
+   "published_at": "Tue, 27 Oct 2026 13:22:04 +0000",
+   "summary": "The hypervisor bug that allowed PS5 users to install Linux on their consoles was patched before the launch of GTA VI, meaning they have to choose between experimenting with Linux and running the game.",
+   "score": 74
+  },
+  {
+   "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
    "source": "BleepingComputer",
-   "published_at": "Mon, 26 Oct 2026 18:20:36 -0400",
-   "summary": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]",
+   "published_at": "Tue, 27 Oct 2026 04:20:54 -0400",
+   "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by Thursday. [...]",
+   "score": 70
+  },
+  {
+   "title": "Crypto wallet maker Keystone to destroy almost 19,000 devices after security breach",
+   "url": "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach",
+   "source": "CoinDesk",
+   "published_at": "Tue, 27 Oct 2026 11:13:54 +0000",
+   "summary": "",
    "score": 38
   },
   {
-   "title": "South Korea Arrests Seven in First Big AI-Assisted Hacking Case",
-   "url": "https://decrypt.co/381862/south-korea-arrests-seven-first-big-ai-hacking-case",
-   "source": "Decrypt",
-   "published_at": "Mon, 26 Oct 2026 20:06:02 +0000",
-   "summary": "Police in Seoul say a 32-year-old with no IT background used AI tools to break into about 90 hospitals, schools and companies, then pressed victims for roughly $270,000 combined.",
-   "score": 34
-  },
-  {
-   "title": "Can the Assistant Axis Predict Reward-Hacking?",
-   "url": "https://www.lesswrong.com/posts/3jFqBYF5CP7JCWjux/can-the-assistant-axis-predict-reward-hacking",
-   "source": "LessWrong",
-   "published_at": "Mon, 26 Oct 2026 16:34:49 GMT",
-   "summary": "NOTE: This article was written by Jansen Nye, a member of my research lab based on some exploratory studies we ve done. As he notes, we collaborated on this research. The article was written by him with some edits suggested by me. -- Koby TL;DR The Assistant Axis doesn t seem to have any special con",
-   "score": 34
+   "title": "Energy giant ENGIE discloses data breach affecting customers",
+   "url": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
+   "source": "BleepingComputer",
+   "published_at": "Tue, 27 Oct 2026 05:25:50 -0400",
+   "summary": "French energy giant ENGIE, one of the world s largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners. [...]",
+   "score": 38
   },
   {
    "title": "Ripple gains final OCC approval to launch national trust bank and bring RLUSD under federal oversight",
@@ -39,6 +47,30 @@
    "published_at": "Mon, 26 Oct 2026 21:46:02 +0000",
    "summary": "OpenAI s mid-tier model now operates apps and screens more like a person would, with API prices 50% below GPT-5.6 Terra and an error rate that OpenAI says fell sharply.",
    "score": 18
+  },
+  {
+   "title": "Bitcoin shows signs of weakness while Ripple s bank win fails to bolster XRP",
+   "url": "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp",
+   "source": "CoinDesk",
+   "published_at": "Tue, 27 Oct 2026 12:00:39 +0000",
+   "summary": "",
+   "score": 16
+  },
+  {
+   "title": "Nvidia is bankrolling AI accelerator supply chain buildout to reserve production capacity",
+   "url": "https://www.tomshardware.com/tech-industry/semiconductors/nvidia-is-bankrolling-ai-accelerator-supply-chain-buildout-to-reserve-production-capacity-announces-billion-dollar-deals-with-six-major-suppliers-across-substrates-advanced-packaging-semiconductor-testing-and-optical-engines",
+   "source": "Tom's Hardware",
+   "published_at": "Tue, 27 Oct 2026 11:00:00 +0000",
+   "summary": "Nvidia is committing billions to expand substrate, co-packaged optics, advanced packaging, and chip-testing capacity through 2028, reserving capacity at nearly every stage of its AI accelerator supply chain.",
+   "score": 16
+  },
+  {
+   "title": "Ripple Wins Final OCC Approval for Trust Bank Behind $2.6B RLUSD Stablecoin",
+   "url": "https://decrypt.co/381899/ripple-wins-final-occ-approval-for-trust-bank-behind-2-6b-rlusd-stablecoin",
+   "source": "Decrypt",
+   "published_at": "Tue, 27 Oct 2026 10:16:46 +0000",
+   "summary": "The federally supervised bank will manage RLUSD s reserves and offer custody, as banking groups fight crypto charters in court.",
+   "score": 16
   },
   {
    "title": "Rethinking Multi-View Fusion for Urban Representation Learning",
@@ -63,39 +95,7 @@
    "published_at": "Mon, 26 Oct 2026 22:16:03 +0000",
    "summary": "Ottawa opened a 60-day consultation on draft rules requiring one-to-one reserves and fast redemption from stablecoin issuers, while keeping the ban on paying holders interest.",
    "score": 16
-  },
-  {
-   "title": "NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
-   "url": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
-   "source": "CoinDesk",
-   "published_at": "Mon, 26 Oct 2026 15:59:55 +0000",
-   "summary": "",
-   "score": 16
-  },
-  {
-   "title": "OCC calls on community banks to enter the stablecoin payments market",
-   "url": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
-   "source": "CoinDesk",
-   "published_at": "Mon, 26 Oct 2026 15:45:51 +0000",
-   "summary": "",
-   "score": 16
-  },
-  {
-   "title": "Brazil’s Stock Market Crashes After Lula’s Upset Victory",
-   "url": "https://decrypt.co/381828/brazil-stock-market-crashes-lula-upset-victory",
-   "source": "Decrypt",
-   "published_at": "Mon, 26 Oct 2026 16:04:51 +0000",
-   "summary": "The iShares Brazil ETF fell as much as 26% after Lula da Silva beat Flávio Bolsonaro, who prediction markets had at 80%, while the dollar jumped as much as 12% against the real.",
-   "score": 14
-  },
-  {
-   "title": "Y Combinator-backed Mochatrade raises $5.5 million to offer US stock perpetuals to Indian traders",
-   "url": "https://www.theblock.co/news/deals/2026-10-26-y-combinator-mochatrade-funding-crypto-431775",
-   "source": "The Block",
-   "published_at": "Mon, 26 Oct 2026 17:55:02 +0000",
-   "summary": "The platform is in beta and plans to open to the public in the coming weeks, co-founder Chetan Manda told The Block.",
-   "score": 12
   }
  ],
- "updatedAt": "2026-10-27T08:22:29.933230+00:00"
+ "updatedAt": "2026-10-27T13:36:29.633202+00:00"
 }

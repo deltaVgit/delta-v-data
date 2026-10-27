@@ -1,5 +1,29 @@
 [
  {
+  "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
+  "url": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
+  "source": "BleepingComputer",
+  "published_at": "Tue, 27 Oct 2026 04:20:54 -0400",
+  "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by Thursday. [...]",
+  "score": 54
+ },
+ {
+  "title": "Hacker awarded $50k bounty for reporting bug to Sony that allowed PS5 Linux exploit — move sparks backlash from jailbreaking community",
+  "url": "https://www.tomshardware.com/video-games/playstation/hacker-awarded-usd50k-bounty-for-reporting-bug-to-sony-that-allowed-ps5-linux-exploit-move-sparks-backlash-from-jailbreaking-community",
+  "source": "Tom's Hardware",
+  "published_at": "Tue, 27 Oct 2026 13:22:04 +0000",
+  "summary": "The hypervisor bug that allowed PS5 users to install Linux on their consoles was patched before the launch of GTA VI, meaning they have to choose between experimenting with Linux and running the game.",
+  "score": 52
+ },
+ {
+  "title": "Crypto wallet maker Keystone to destroy almost 19,000 devices after security breach",
+  "url": "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach",
+  "source": "CoinDesk",
+  "published_at": "Tue, 27 Oct 2026 11:13:54 +0000",
+  "summary": "",
+  "score": 38
+ },
+ {
   "title": "Estimation of Propagated Risk in LLM-based Multi-Agent Systems",
   "url": "https://arxiv.org/abs/2610.33282",
   "source": "arXiv cs.AI",
@@ -24,52 +48,28 @@
   "score": 34
  },
  {
-  "title": "AI Agents Found a Way Into Anthropic s Business Systems in Under 12 Hours",
-  "url": "https://decrypt.co/381860/ai-agents-hack-anthropic-business-systems-12-hours",
-  "source": "Decrypt",
-  "published_at": "Mon, 26 Oct 2026 19:31:02 +0000",
-  "summary": "Cathedral, a startup founded by ex-DOGE staffers, says its AI agents found paths into Anthropic s sales, HR, and IT systems through third-party software.",
-  "score": 32
- },
- {
-  "title": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
-  "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/",
+  "title": "Energy giant ENGIE discloses data breach affecting customers",
+  "url": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
   "source": "BleepingComputer",
-  "published_at": "Mon, 26 Oct 2026 16:46:49 -0400",
-  "summary": "OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models. [...]",
-  "score": 32
- },
- {
-  "title": "University of Copenhagen data breach exposes data of 525,000 people",
-  "url": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
-  "source": "BleepingComputer",
-  "published_at": "Mon, 26 Oct 2026 18:20:36 -0400",
-  "summary": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]",
+  "published_at": "Tue, 27 Oct 2026 05:25:50 -0400",
+  "summary": "French energy giant ENGIE, one of the world s largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners. [...]",
   "score": 28
  },
  {
-  "title": "BITCOIN, XRP AND ETHEREUM 3X ETFS FACE DELAY UNTIL NOVEMBER 30",
-  "url": "https://www.tradingview.com/news/coinpedia:6035e2c91094b:0-bitcoin-xrp-and-ethereum-3x-etfs-face-delay-until-november-30/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-27T07:59:05Z",
-  "summary": "",
-  "score": 24
- },
- {
-  "title": "South Korea Arrests Seven in First Big AI-Assisted Hacking Case",
-  "url": "https://decrypt.co/381862/south-korea-arrests-seven-first-big-ai-hacking-case",
-  "source": "Decrypt",
-  "published_at": "Mon, 26 Oct 2026 20:06:02 +0000",
-  "summary": "Police in Seoul say a 32-year-old with no IT background used AI tools to break into about 90 hospitals, schools and companies, then pressed victims for roughly $270,000 combined.",
-  "score": 22
- },
- {
-  "title": "Can the Assistant Axis Predict Reward-Hacking?",
-  "url": "https://www.lesswrong.com/posts/3jFqBYF5CP7JCWjux/can-the-assistant-axis-predict-reward-hacking",
+  "title": "AI agents trade off patient safety for a grade in hospital scenarios",
+  "url": "https://www.lesswrong.com/posts/bgPxxnuQhdTxiLeNs/ai-agents-trade-off-patient-safety-for-a-grade-in-hospital",
   "source": "LessWrong",
-  "published_at": "Mon, 26 Oct 2026 16:34:49 GMT",
-  "summary": "NOTE: This article was written by Jansen Nye, a member of my research lab based on some exploratory studies we ve done. As he notes, we collaborated on this research. The article was written by him with some edits suggested by me. -- Koby TL;DR The Assistant Axis doesn t seem to have any special con",
-  "score": 22
+  "published_at": "Tue, 27 Oct 2026 13:09:39 GMT",
+  "summary": "[AI disclosure: Opus 5.5 was used for light editing of this post and creation of the figures/tables. It was also used to write all code.] TL;DR I built an environment to mimic a hospital IT service desk where the correct action on a ticket (paging the on-call Clinical Duty Manager (CDM) about an ICU",
+  "score": 18
+ },
+ {
+  "title": "AI Agents Approved Their Own Spending Increases on Circle Agent Wallets",
+  "url": "https://thedefiant.io/news/security/ai-models-raised-own-crypto-spending-caps-cornell-i-hitl",
+  "source": "The Defiant",
+  "published_at": "Tue, 27 Oct 2026 11:40:52 GMT",
+  "summary": "Researchers gave frontier models a capped Circle agent wallet and access to the inbox that receives its one-time codes. Most of them approved their own spending increase",
+  "score": 18
  },
  {
   "title": "Circle faces up to 20% revenue risk from AI agents, Mizuho says",
@@ -112,14 +112,6 @@
   "score": 18
  },
  {
-  "title": "In-the-Wild Attack Abuses AI Agents Trust in Markdown",
-  "url": "https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown",
-  "source": "Dark Reading",
-  "published_at": "Mon, 26 Oct 2026 20:59:26 GMT",
-  "summary": "A new AI agent prompt injection technique exploits how coding assistants consume local instruction files, blurring the line between text documents and executable actions.",
-  "score": 18
- },
- {
   "title": "Have LLMs passed the Turing test?",
   "url": "https://www.lesswrong.com/posts/dHkE55CTpttX6hFB3/have-llms-passed-the-turing-test",
   "source": "LessWrong",
@@ -157,6 +149,14 @@
   "source": "arXiv cs.CL",
   "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
   "summary": "arXiv:2610.33038v1 Announce Type: new Abstract: Chest computed tomography (CT) reports generated by large language models (LLMs) can describe positive findings that lack localized evidence in the scan. We propose EviGround-CT to verify these findings after report generation. A deterministic extracto",
+  "score": 16
+ },
+ {
+  "title": "Model Selection for Off-Policy Evaluation via Pairwise Bellman Validation",
+  "url": "https://arxiv.org/abs/2610.35748",
+  "source": "arXiv stat.ML",
+  "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.35748v1 Announce Type: new Abstract: Model selection and hyperparameter tuning pose a central challenge in off-policy evaluation (OPE) because errors of fitted Q-functions and occupancy-ratio estimates cannot be directly evaluated from held-out transitions. Bellman-residual and minimax va",
   "score": 16
  }
 ]
