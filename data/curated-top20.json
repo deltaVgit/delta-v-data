@@ -16,14 +16,6 @@
   "score": 52
  },
  {
-  "title": "HACKER TRYING TO BREACH US ELECTION WEBSITE - EMAIL FROM FEC OFFICIAL SEEN BY REUTERS",
-  "url": "https://x.com/DeItaone/status/2115150329427685645",
-  "source": "MarketNewsFeed [MACRO]",
-  "published_at": "2026-10-27T18:35:17Z",
-  "summary": "",
-  "score": 50
- },
- {
   "title": "Warp discloses breach exposing AI agent logs, user telemetry data",
   "url": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
   "source": "BleepingComputer",
@@ -48,27 +40,19 @@
   "score": 34
  },
  {
-  "title": "FlexA-Mem: Budget-Adaptive Agentic Memory for LLM Agents",
-  "url": "https://arxiv.org/abs/2610.33274",
-  "source": "arXiv cs.CL",
-  "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.33274v1 Announce Type: new Abstract: Large language model (LLM) agents work in scenarios with very different memory needs. A question about past conversations needs the exact facts it names, while a multi-step task needs a trace of the steps already taken together with details that the ne",
-  "score": 34
- },
- {
   "title": "PHP2Shell: Exploitation attempts and remediation trends",
   "url": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
   "source": "Hacker News Frontpage",
   "published_at": "Tue, 27 Oct 2026 13:52:12 +0000",
-  "summary": "Comments URL: Points: 163",
+  "summary": "Comments URL: Points: 168",
   "score": 30
  },
  {
-  "title": "We let our cloud agents query prod (with OIDC, not secrets)",
-  "url": "https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/",
-  "source": "Hacker News Frontpage",
-  "published_at": "Tue, 27 Oct 2026 16:25:12 +0000",
-  "summary": "Comments URL: Points: 13",
+  "title": "AI Agents Are Creating a New Layer of Cybersecurity Spending",
+  "url": "https://decrypt.co/381987/ai-agents-creating-new-layer-cybersecurity-spending",
+  "source": "Decrypt",
+  "published_at": "Tue, 27 Oct 2026 19:16:03 +0000",
+  "summary": "Akamai launched a locked box for AI agents on Tuesday. It joins Palo Alto, Cisco, CrowdStrike, Okta and Zscaler in selling protection for software that now acts on its own.",
   "score": 28
  },
  {
@@ -92,7 +76,7 @@
   "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
   "source": "Hacker News Frontpage",
   "published_at": "Tue, 27 Oct 2026 13:23:22 +0000",
-  "summary": "Comments URL: Points: 104",
+  "summary": "Comments URL: Points: 114",
   "score": 18
  },
  {
@@ -120,14 +104,6 @@
   "score": 18
  },
  {
-  "title": "Measuring agent capabilities on open-ended AI R&D tasks",
-  "url": "https://www.lesswrong.com/posts/cTiEPgkvDRxTFwtyu/measuring-agent-capabilities-on-open-ended-ai-r-and-d-tasks-1",
-  "source": "LessWrong",
-  "published_at": "Tue, 27 Oct 2026 01:58:22 GMT",
-  "summary": "TL;DR. We measure agent capabilities on four long and open-ended research tasks. Frontier models have been improving with an overall doubling time of around one year since 2024 (based on an exponential fit). Agents perform better at engineering-heavy tasks compared to more conceptual tasks (between ",
-  "score": 18
- },
- {
   "title": "AgentOrch: How Close Can Global Orchestration Come to Step-by-Step Interaction?",
   "url": "https://arxiv.org/abs/2610.33375",
   "source": "arXiv cs.AI",
@@ -144,19 +120,43 @@
   "score": 18
  },
  {
-  "title": "Multi-Agent Retrieval-Augmented Causality Assessment (MARCA) of Individual Case Safety Reports in Pharmacovigilance",
-  "url": "https://arxiv.org/abs/2610.33279",
-  "source": "arXiv cs.CL",
-  "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.33279v1 Announce Type: new Abstract: Introduction: Increasing volumes of individual case safety reports (ICSRs) challenge expert-led causality assessment in pharmacovigilance. We developed MARCA (Multi-Agent Retrieval-Augmented Causality Assessment), a four-agent framework for Naranjo-bas",
-  "score": 18
- },
- {
   "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
   "url": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
   "source": "Hacker News Frontpage",
   "published_at": "Tue, 27 Oct 2026 16:25:12 +0000",
   "summary": "Comments URL: Points: 4",
+  "score": 16
+ },
+ {
+  "title": "Can we trust LLMs to judge whether a research idea is novel?",
+  "url": "https://huggingface.co/blog/allenai/novelty-bench",
+  "source": "Hugging Face Blog",
+  "published_at": "Tue, 27 Oct 2026 16:12:42 GMT",
+  "summary": "",
+  "score": 16
+ },
+ {
+  "title": "ConMem: Counterfactual Multi-Scenario Probing for Resolving LLM Memory Misalignment",
+  "url": "https://arxiv.org/abs/2610.33432",
+  "source": "arXiv cs.AI",
+  "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.33432v1 Announce Type: new Abstract: Long-term memory is critical for autonomous Large Language Model (LLM) agents executing multi-session, long-horizon tasks. However, existing memories often inappropriately store, retain, or retrieve over-generalized, misattributed, or privacy-sensitive",
+  "score": 16
+ },
+ {
+  "title": "Data Optimization for LLMs: A Survey",
+  "url": "https://arxiv.org/abs/2610.33405",
+  "source": "arXiv cs.AI",
+  "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.33405v1 Announce Type: new Abstract: Large language models (LLMs) have attracted great attention in both academic and industrial communities in recent years. Numerous survey studies have covered various aspects of LLMs, such as learning strategies, applications, alignment, explainability,",
+  "score": 16
+ },
+ {
+  "title": "Scoped Semantic Invariance as a Foundation for LLM Reliability",
+  "url": "https://arxiv.org/abs/2610.33267",
+  "source": "arXiv cs.AI",
+  "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.33267v1 Announce Type: new Abstract: LLMs often answer semantically equivalent queries inconsistently, even when the underlying facts are known. We formalize consistency as semantic invariance over equivalence classes of queries and show that invariance under arbitrary meaning-preserving ",
   "score": 16
  }
 ]
