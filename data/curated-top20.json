@@ -1,21 +1,5 @@
 [
  {
-  "title": "Researcher Cracks Steal My Bitcoin Challenge With PHP Exploit",
-  "url": "https://thedefiant.io/news/security/researcher-cracks-steal-my-bitcoin-challenge-with-php-exploit",
-  "source": "The Defiant",
-  "published_at": "Mon, 26 Oct 2026 12:50:09 GMT",
-  "summary": "A 0.02511679 BTC prize was at stake, but the operator had to transfer it after discovering the server held the wrong wallet key.",
-  "score": 42
- },
- {
-  "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
-  "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
-  "source": "BleepingComputer",
-  "published_at": "Mon, 26 Oct 2026 05:19:57 -0400",
-  "summary": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
-  "score": 40
- },
- {
   "title": "Nvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle",
   "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-20-30-and-40-series-gpus-hacked-to-remove-a-half-speed-ai-throttle-firmware-exploit-doubles-rtx-4090s-peak-tensor-rate-lifts-rtx-3090-ti-matrix-math-up-to-80-percent",
   "source": "Tom's Hardware",
@@ -128,6 +112,14 @@
   "score": 18
  },
  {
+  "title": "Fixing Tool-Call Accuracy in vLLM",
+  "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+  "source": "Hacker News Frontpage",
+  "published_at": "Mon, 26 Oct 2026 12:59:48 +0000",
+  "summary": "Comments URL: Points: 145",
+  "score": 16
+ },
+ {
   "title": "OpenAI Launches GPT-6.1 Terra, Its Half-Good AI Model at Half the Price",
   "url": "https://decrypt.co/381883/openai-launches-gpt-6-1-terra-half-good-half-price",
   "source": "Decrypt",
@@ -157,6 +149,14 @@
   "source": "CoinDesk",
   "published_at": "Mon, 26 Oct 2026 13:22:09 +0000",
   "summary": "",
+  "score": 14
+ },
+ {
+  "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+  "url": "https://openai.com/index/openai-cut-incident-investigation",
+  "source": "OpenAI Blog",
+  "published_at": "Mon, 26 Oct 2026 07:00:00 GMT",
+  "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
   "score": 14
  }
 ]
