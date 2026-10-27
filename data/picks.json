@@ -17,6 +17,14 @@
    "score": 70
   },
   {
+   "title": "PHP2Shell: Exploitation Attempts and Remediation Trends",
+   "url": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
+   "source": "Hacker News Frontpage",
+   "published_at": "Tue, 27 Oct 2026 13:52:12 +0000",
+   "summary": "Comments URL: Points: 58",
+   "score": 40
+  },
+  {
    "title": "Crypto wallet maker Keystone to destroy almost 19,000 devices after security breach",
    "url": "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach",
    "source": "CoinDesk",
@@ -39,14 +47,6 @@
    "published_at": "Tue, 27 Oct 2026 02:28:18 +0000",
    "summary": "Ripple s structure places reserve management and custody under federal supervision while leaving issuance with the New York-regulated entity.",
    "score": 26
-  },
-  {
-   "title": "OpenAI Launches GPT-6.1 Terra, Its Half-Good AI Model at Half the Price",
-   "url": "https://decrypt.co/381883/openai-launches-gpt-6-1-terra-half-good-half-price",
-   "source": "Decrypt",
-   "published_at": "Mon, 26 Oct 2026 21:46:02 +0000",
-   "summary": "OpenAI s mid-tier model now operates apps and screens more like a person would, with API prices 50% below GPT-5.6 Terra and an error rate that OpenAI says fell sharply.",
-   "score": 18
   },
   {
    "title": "Bitcoin shows signs of weakness while Ripple s bank win fails to bolster XRP",
@@ -81,21 +81,21 @@
    "score": 16
   },
   {
-   "title": "Ripple Wins Final OCC Trust Bank Approval for RLUSD Reserves and Custody",
-   "url": "https://thedefiant.io/converge/tradfi-and-fintech/ripple-wins-final-occ-trust-bank-approval-for-rlusd-reserves-and-custody",
-   "source": "The Defiant",
-   "published_at": "Mon, 26 Oct 2026 23:37:47 GMT",
-   "summary": "RLUSD will retain its New York-regulated issuer while the national trust bank manages reserves and provides fiduciary digital asset custody.",
-   "score": 16
+   "title": "Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business",
+   "url": "https://www.theblock.co/news/deals/2026-10-27-bitcoin-mining-ai-luxor-technology-funding-431858",
+   "source": "The Block",
+   "published_at": "Tue, 27 Oct 2026 14:32:08 +0000",
+   "summary": "The company plans to expand its AI business and hire about 12 people by year-end, COO Ethan Vera told The Block.",
+   "score": 12
   },
   {
-   "title": "Canada’s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield",
-   "url": "https://decrypt.co/381889/canada-draft-stablecoin-rules-redemption-fees-ban-yield",
+   "title": "Bitcoin Mining Firm Luxor Raises $16 Million to Scale Its AI Compute Push",
+   "url": "https://decrypt.co/381847/bitcoin-mining-firm-luxor-raises-16-million-ai-compute",
    "source": "Decrypt",
-   "published_at": "Mon, 26 Oct 2026 22:16:03 +0000",
-   "summary": "Ottawa opened a 60-day consultation on draft rules requiring one-to-one reserves and fast redemption from stablecoin issuers, while keeping the ban on paying holders interest.",
-   "score": 16
+   "published_at": "Tue, 27 Oct 2026 13:01:08 +0000",
+   "summary": "The CMT Digital-led round, which drew mining-hardware makers Canaan and MicroBT, will fund Luxor’s expansion into AI compute trading, hardware and derivatives.",
+   "score": 12
   }
  ],
- "updatedAt": "2026-10-27T13:36:29.633202+00:00"
+ "updatedAt": "2026-10-27T14:54:18.419721+00:00"
 }
