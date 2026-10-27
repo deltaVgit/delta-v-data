@@ -32,19 +32,11 @@
   "score": 38
  },
  {
-  "title": "Estimation of Propagated Risk in LLM-based Multi-Agent Systems",
-  "url": "https://arxiv.org/abs/2610.33282",
-  "source": "arXiv cs.AI",
-  "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.33282v1 Announce Type: new Abstract: Large Language Model (LLM) based multi-agent systems introduce a distinctive reliability challenge in which actions taken by upstream agents can affect the correctness of downstream agents. While prior work has investigated error propagation and develo",
-  "score": 34
- },
- {
   "title": "PHP2Shell: Exploitation attempts and remediation trends",
   "url": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
   "source": "Hacker News Frontpage",
   "published_at": "Tue, 27 Oct 2026 13:52:12 +0000",
-  "summary": "Comments URL: Points: 168",
+  "summary": "Comments URL: Points: 177",
   "score": 30
  },
  {
@@ -64,6 +56,14 @@
   "score": 28
  },
  {
+  "title": "UNM Health ransomware attack disrupts patient care, surgeries",
+  "url": "https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/",
+  "source": "BleepingComputer",
+  "published_at": "Tue, 27 Oct 2026 18:07:34 -0400",
+  "summary": "The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities. [...]",
+  "score": 24
+ },
+ {
   "title": "Data Recovery CEO Indicted for Allegedly Scamming Ransomware Victims",
   "url": "https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment",
   "source": "Hacker News Frontpage",
@@ -72,27 +72,11 @@
   "score": 24
  },
  {
-  "title": "Here be monsters: What do you still need to know when agents do the work?",
-  "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
-  "source": "Hacker News Frontpage",
-  "published_at": "Tue, 27 Oct 2026 13:23:22 +0000",
-  "summary": "Comments URL: Points: 114",
-  "score": 18
- },
- {
   "title": "AI agents trade off patient safety for a grade in hospital scenarios",
   "url": "https://www.lesswrong.com/posts/bgPxxnuQhdTxiLeNs/ai-agents-trade-off-patient-safety-for-a-grade-in-hospital",
   "source": "LessWrong",
   "published_at": "Tue, 27 Oct 2026 13:09:39 GMT",
   "summary": "[AI disclosure: Opus 5.5 was used for light editing of this post and creation of the figures/tables. It was also used to write all code.] TL;DR I built an environment to mimic a hospital IT service desk where the correct action on a ticket (paging the on-call Clinical Duty Manager (CDM) about an ICU",
-  "score": 18
- },
- {
-  "title": "AI Agents Approved Their Own Spending Increases on Circle Agent Wallets",
-  "url": "https://thedefiant.io/news/security/ai-models-raised-own-crypto-spending-caps-cornell-i-hitl",
-  "source": "The Defiant",
-  "published_at": "Tue, 27 Oct 2026 11:40:52 GMT",
-  "summary": "Researchers gave frontier models a capped Circle agent wallet and access to the inbox that receives its one-time codes. Most of them approved their own spending increase",
   "score": 18
  },
  {
@@ -104,20 +88,12 @@
   "score": 18
  },
  {
-  "title": "AgentOrch: How Close Can Global Orchestration Come to Step-by-Step Interaction?",
-  "url": "https://arxiv.org/abs/2610.33375",
-  "source": "arXiv cs.AI",
-  "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.33375v1 Announce Type: new Abstract: Enterprise workflow agents typically rely on step-by-step interaction (Step-by-Step): the agent executes an action, observes its result, and invokes a large language model (LLM) again to decide the next step. Global orchestration (Global) instead gener",
-  "score": 18
- },
- {
-  "title": "AdaPRA: Process Reward Agents with Adaptive Rubrics for Data Science",
-  "url": "https://arxiv.org/abs/2610.33245",
-  "source": "arXiv cs.AI",
-  "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.33245v1 Announce Type: new Abstract: Data science agents can automate end-to-end machine learning workflows, yet they remain far from competitive on human leaderboards. Agents make process errors such as insufficient exploration, unsound validation, coding bugs, and poor use of a fixed bu",
-  "score": 18
+  "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+  "url": "https://www.brangus.io/survival-llm",
+  "source": "Hacker News Frontpage",
+  "published_at": "Tue, 27 Oct 2026 19:55:06 +0000",
+  "summary": "Comments URL: Points: 5",
+  "score": 16
  },
  {
   "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
@@ -136,27 +112,51 @@
   "score": 16
  },
  {
-  "title": "ConMem: Counterfactual Multi-Scenario Probing for Resolving LLM Memory Misalignment",
-  "url": "https://arxiv.org/abs/2610.33432",
-  "source": "arXiv cs.AI",
-  "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.33432v1 Announce Type: new Abstract: Long-term memory is critical for autonomous Large Language Model (LLM) agents executing multi-session, long-horizon tasks. However, existing memories often inappropriately store, retain, or retrieve over-generalized, misattributed, or privacy-sensitive",
-  "score": 16
+  "title": "ANTHROPIC: CLAUDE ENTERPRISE PURSUING FEDRAMP MODERATE APPROVAL VIA FEDRAMP 20X PROGRAM",
+  "url": "https://x.com/financialjuice/status/2115208393275363738",
+  "source": "MarketNewsFeed [OTHER]",
+  "published_at": "2026-10-27T22:26:16Z",
+  "summary": "",
+  "score": 14
  },
  {
-  "title": "Data Optimization for LLMs: A Survey",
-  "url": "https://arxiv.org/abs/2610.33405",
-  "source": "arXiv cs.AI",
-  "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.33405v1 Announce Type: new Abstract: Large language models (LLMs) have attracted great attention in both academic and industrial communities in recent years. Numerous survey studies have covered various aspects of LLMs, such as learning strategies, applications, alignment, explainability,",
-  "score": 16
+  "title": "ANTHROPIC: GOVERNMENT AGENCIES CAN PURCHASE CLAUDE AT ONEGOV DISCOUNT VIA GSA'S MULTIPLE AWARD SCHEDULE TODAY - WEBSITE",
+  "url": "https://x.com/financialjuice/status/2115208360270434385",
+  "source": "MarketNewsFeed [OTHER]",
+  "published_at": "2026-10-27T22:26:02Z",
+  "summary": "",
+  "score": 14
  },
  {
-  "title": "Scoped Semantic Invariance as a Foundation for LLM Reliability",
-  "url": "https://arxiv.org/abs/2610.33267",
-  "source": "arXiv cs.AI",
-  "published_at": "Tue, 27 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.33267v1 Announce Type: new Abstract: LLMs often answer semantically equivalent queries inconsistently, even when the underlying facts are known. We formalize consistency as semantic invariance over equivalence classes of queries and show that invariance under arbitrary meaning-preserving ",
-  "score": 16
+  "title": "ANTHROPIC: DISCOUNT ON CLAUDE PRODUCTS BROADENS TO STATE, LOCAL, TRIBAL, TERRITORIAL GOVERNMENTS",
+  "url": "https://x.com/financialjuice/status/2115208069542277152",
+  "source": "MarketNewsFeed [OTHER]",
+  "published_at": "2026-10-27T22:24:47Z",
+  "summary": "",
+  "score": 14
+ },
+ {
+  "title": "ANTHROPIC: LAUNCHING DEDICATED PROGRAM TO HELP AGENCIES OPTIMIZE CLAUDE USE",
+  "url": "https://x.com/financialjuice/status/2115208033349374214",
+  "source": "MarketNewsFeed [OTHER]",
+  "published_at": "2026-10-27T22:24:46Z",
+  "summary": "",
+  "score": 14
+ },
+ {
+  "title": "ANTHROPIC EXPANDS GSA PARTNERSHIP WITH 40% MARKDOWN ON CLAUDE PRODUCTS FOR GOVERNMENT",
+  "url": "https://x.com/financialjuice/status/2115207912692064493",
+  "source": "MarketNewsFeed [OTHER]",
+  "published_at": "2026-10-27T22:24:16Z",
+  "summary": "",
+  "score": 14
+ },
+ {
+  "title": "How to find a philanthropic advisor who cares about cost-effectiveness",
+  "url": "https://www.lesswrong.com/posts/HMcwm4zRx9faeFfBX/how-to-find-a-philanthropic-advisor-who-cares-about-cost",
+  "source": "LessWrong",
+  "published_at": "Tue, 27 Oct 2026 19:56:31 GMT",
+  "summary": "As we see the details of Anthropic’s IPO for the first time, we are launching a free advisor-matching tool to help you find an evidence-first advisor. Anthropic published its S-1 yesterday, October 26th, giving the first public view of its IPO filing. If it lists in mid-November , Anthropic staff co",
+  "score": 14
  }
 ]
