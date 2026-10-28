@@ -57,30 +57,6 @@
    "score": 18
   },
   {
-   "title": "Brazilian companies turned to stablecoins on election day to dodge a currency crash",
-   "url": "https://www.coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash",
-   "source": "CoinDesk",
-   "published_at": "Tue, 27 Oct 2026 16:59:07 +0000",
-   "summary": "",
-   "score": 14
-  },
-  {
-   "title": "Hex Raises $100M",
-   "url": "https://hex.tech/blog/hex-new-era/",
-   "source": "Hacker News Frontpage",
-   "published_at": "Tue, 27 Oct 2026 20:36:38 +0000",
-   "summary": "Comments URL: Points: 64",
-   "score": 12
-  },
-  {
-   "title": "Canton-based trading platform Cancore raises $7.2 million at $60 million token valuation",
-   "url": "https://www.theblock.co/news/deals/2026-10-27-canton-based-trading-platform-cancore-raises-7-2-million-60-million-token-valuation-431906",
-   "source": "The Block",
-   "published_at": "Tue, 27 Oct 2026 16:59:10 +0000",
-   "summary": "Cancore, a Canton-based trading platform connecting assets on the network with liquidity on public blockchains, has raised $7.2 million in seed funding. Paper Ventures, dao5, ArkStream Capital, X Ventures, MH Ventures and Proof of Talk backed the round. There was no formal lead investor, though Pape",
-   "score": 12
-  },
-  {
    "title": "Crypto.com and OG.com launch US crypto perps with up to 5x leverage",
    "url": "https://www.theblock.co/news/markets/2026-10-27-crypto-com-og-com-launch-us-crypto-perps-up-to-5x-leverage-431902",
    "source": "The Block",
@@ -89,13 +65,37 @@
    "score": 10
   },
   {
+   "title": "How Much Can Semiconductor Models Hide?",
+   "url": "https://semiengineering.com/how-much-can-semiconductor-models-hide/",
+   "source": "SemiEngineering",
+   "published_at": "Wed, 28 Oct 2026 07:01:04 +0000",
+   "summary": "Advanced packaging requires models to cross company boundaries without exposing proprietary processes, but hiding too much can make the prediction break down. The post How Much Can Semiconductor Models Hide? appeared first on Semiconductor Engineering .",
+   "score": 8
+  },
+  {
    "title": "Executable Archaeology of Programs That Model Programming: Reanimating the Heuristic Compiler (1961) and KBEmacs (1984)",
    "url": "https://arxiv.org/abs/2610.36341",
    "source": "arXiv cs.AI",
    "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
    "summary": "arXiv:2610.36341v1 Announce Type: new Abstract: Early AI programs were often also theories of how people think, and programs that wrote programs were, in part, theories of how people program. Here we report on the reanimation of two such programs that offer two seemingly different theories of progra",
    "score": 8
+  },
+  {
+   "title": "Spiking Neural Networks Are Harder to Steal: A Benchmark Study of Model Stealing Attacks",
+   "url": "https://arxiv.org/abs/2610.36298",
+   "source": "arXiv cs.AI",
+   "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+   "summary": "arXiv:2610.36298v1 Announce Type: new Abstract: Machine learning models deployed behind query interfaces expose more than their predictions, because an adversary can use those predictions to rebuild the model itself. Model stealing attacks (MSAs) exploit this exposure by training a surrogate model t",
+   "score": 8
+  },
+  {
+   "title": "A Smart Instant Book Filter Model based on Dual-Objective Optimization",
+   "url": "https://arxiv.org/abs/2610.36287",
+   "source": "arXiv cs.AI",
+   "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+   "summary": "arXiv:2610.36287v1 Announce Type: new Abstract: Hospitality service in online marketplaces has become increasingly popular over the past few years, not only because it helps people easily rent short-term lodging but also because it empowers travelers to connect with locals and feel belonging. A typi",
+   "score": 8
   }
  ],
- "updatedAt": "2026-10-28T07:28:34.394718+00:00"
+ "updatedAt": "2026-10-28T08:58:38.436596+00:00"
 }
