@@ -1,27 +1,19 @@
 [
  {
-  "title": "Hacker awarded $50k bounty for reporting bug to Sony that allowed PS5 Linux exploit — move sparks backlash from jailbreaking community",
-  "url": "https://www.tomshardware.com/video-games/playstation/hacker-awarded-usd50k-bounty-for-reporting-bug-to-sony-that-allowed-ps5-linux-exploit-move-sparks-backlash-from-jailbreaking-community",
-  "source": "Tom's Hardware",
-  "published_at": "Tue, 27 Oct 2026 13:22:04 +0000",
-  "summary": "The hypervisor bug that allowed PS5 users to install Linux on their consoles was patched before the launch of GTA VI, meaning they have to choose between experimenting with Linux and running the game.",
-  "score": 52
+  "title": "OA-RAG: Ontology-based Agentic RAG for Faithful LLM Reasoning",
+  "url": "https://arxiv.org/abs/2610.36335",
+  "source": "arXiv cs.AI",
+  "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.36335v1 Announce Type: new Abstract: Large language models (LLMs) perform well across many real-world tasks but remain prone to hallucination, limiting their reliability in domains such as biomedicine and healthcare, where answers must be grounded in established knowledge. Retrieval-augme",
+  "score": 34
  },
  {
-  "title": "Warp discloses breach exposing AI agent logs, user telemetry data",
-  "url": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
-  "source": "BleepingComputer",
-  "published_at": "Tue, 27 Oct 2026 12:15:39 -0400",
-  "summary": "Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project s infrastructure. [...]",
-  "score": 46
- },
- {
-  "title": "Crypto wallet maker Keystone to destroy almost 19,000 devices after security breach",
-  "url": "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach",
-  "source": "CoinDesk",
-  "published_at": "Tue, 27 Oct 2026 11:13:54 +0000",
-  "summary": "",
-  "score": 38
+  "title": "Coinbase Denies Systems Breach, Cites Amplitude Contact-Data Incident",
+  "url": "https://thedefiant.io/news/cefi/coinbase-denies-systems-breach-cites-amplitude-contact-data-incident",
+  "source": "The Defiant",
+  "published_at": "Wed, 28 Oct 2026 03:16:33 GMT",
+  "summary": "The exchange says customer funds were unaffected and it is notifying impacted users and regulators.",
+  "score": 28
  },
  {
   "title": "AI Agents Are Creating a New Layer of Cybersecurity Spending",
@@ -48,12 +40,60 @@
   "score": 24
  },
  {
-  "title": "Data Recovery CEO Indicted for Allegedly Scamming Ransomware Victims",
-  "url": "https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment",
-  "source": "Hacker News Frontpage",
-  "published_at": "Tue, 27 Oct 2026 15:39:29 +0000",
-  "summary": "Comments URL: Points: 8",
-  "score": 24
+  "title": "LM-DSB: A Lightweight Multi-agent System for Automated Daily Safety Bulletin Generation in Construction",
+  "url": "https://arxiv.org/abs/2610.36433",
+  "source": "arXiv cs.AI",
+  "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.36433v1 Announce Type: new Abstract: Construction safety management still struggles to produce daily safety bulletins (DSBs), structured daily communications that identify site-specific hazards, convey safety protocols, and set preventive measures for workers. Manual DSB creation takes 2-",
+  "score": 18
+ },
+ {
+  "title": "MAREval: A Multi-Agent Framework for Evaluating Natural Language Recommendation Explanations",
+  "url": "https://arxiv.org/abs/2610.36389",
+  "source": "arXiv cs.AI",
+  "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.36389v1 Announce Type: new Abstract: Evaluating natural language explanations in recommender systems is essential for fostering user trust, transparency, and engagement. However, existing evaluation approaches like human evaluations, while accurate, are resource-intensive and impractical ",
+  "score": 18
+ },
+ {
+  "title": "Ontology-guided multi-agent reasoning for explainable differential diagnosis",
+  "url": "https://arxiv.org/abs/2610.36325",
+  "source": "arXiv cs.AI",
+  "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.36325v1 Announce Type: new Abstract: Effective differential diagnosis depends on well structured and unambiguous patient case descriptions, since incomplete or ambiguous clinical information readily leads to diagnostic errors and inconsistent reasoning. Large Language Models (LLMs) have r",
+  "score": 18
+ },
+ {
+  "title": "When Retrieval Is Not Enough: Obsolete Facts in Agent Memory",
+  "url": "https://arxiv.org/abs/2610.36308",
+  "source": "arXiv cs.AI",
+  "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.36308v1 Announce Type: new Abstract: Memory-agent benchmarks often collapse retrieval and answer generation into one score, making it hard to tell whether a failure comes from missing an update or from not using an update that was already retrieved. We examine this distinction on the sing",
+  "score": 18
+ },
+ {
+  "title": "A Harness Reducing over-Defensive Writing in Agents by Isolating Objections",
+  "url": "https://arxiv.org/abs/2610.36717",
+  "source": "arXiv cs.CL",
+  "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.36717v1 Announce Type: new Abstract: When expanding a report, writing with agents may introduce a stronger claim than the article makes and then disclaim it. This is called over-defensive writing. We assume that this is because the agent is writing for responding to an adversarial AI revi",
+  "score": 18
+ },
+ {
+  "title": "Agentic Data Sampling Framework for Multilingual ASR via Linguistic-Aware Error-Driven Optimization",
+  "url": "https://arxiv.org/abs/2610.36538",
+  "source": "arXiv cs.CL",
+  "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.36538v1 Announce Type: new Abstract: Multilingual automatic speech recognition (ASR) has achieved rapid progress with large-scale pretrained models and multilingual speech corpora. Previous studies have proved the pivotal role of data sampling in multilingual ASR performance. However, exi",
+  "score": 18
+ },
+ {
+  "title": "Benchmarking Task Takeover Across Agent Handoffs",
+  "url": "https://arxiv.org/abs/2610.36523",
+  "source": "arXiv cs.CL",
+  "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.36523v1 Announce Type: new Abstract: As agents collaborate on longer tasks, responsibility may pass between models before the work is complete. The receiving model must build on prior decisions, observations, and actions while addressing the remaining requirements. Evaluating this transit",
+  "score": 18
  },
  {
   "title": "No human at the helm : Delaware plan would let AI agents run entire businesses",
@@ -64,20 +104,44 @@
   "score": 18
  },
  {
-  "title": "AI agents trade off patient safety for a grade in hospital scenarios",
-  "url": "https://www.lesswrong.com/posts/bgPxxnuQhdTxiLeNs/ai-agents-trade-off-patient-safety-for-a-grade-in-hospital",
-  "source": "LessWrong",
-  "published_at": "Tue, 27 Oct 2026 13:09:39 GMT",
-  "summary": "[AI disclosure: Opus 5.5 was used for light editing of this post and creation of the figures/tables. It was also used to write all code.] TL;DR I built an environment to mimic a hospital IT service desk where the correct action on a ticket (paging the on-call Clinical Duty Manager (CDM) about an ICU",
-  "score": 18
+  "title": "Verifiable Efficiency Limits of Innate LLM Planning in Sliding Puzzles",
+  "url": "https://arxiv.org/abs/2610.36415",
+  "source": "arXiv cs.AI",
+  "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.36415v1 Announce Type: new Abstract: Tool-assisted planning success can reflect external search and verification, leaving a model s unaided planning ability unresolved. We isolate innate planning through complete plans generated in one response without tools or execution feedback. We prop",
+  "score": 16
  },
  {
-  "title": "Circle faces up to 20% revenue risk from AI agents, Mizuho says",
-  "url": "https://www.theblock.co/news/business/2026-10-27-mizuho-cuts-circle-price-target-431826",
-  "source": "The Block",
-  "published_at": "Tue, 27 Oct 2026 06:28:34 +0000",
-  "summary": "Mizuho cited 10-20% medium-term reserve revenue downside risk as AI agents steer USDC holders toward higher-yielding fiat alternatives.",
-  "score": 18
+  "title": "How Stable Are LLM-Generated Proofs Under Program Refactoring? A Stress Test for Verifiable Code Generation",
+  "url": "https://arxiv.org/abs/2610.36328",
+  "source": "arXiv cs.AI",
+  "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.36328v1 Announce Type: new Abstract: Benchmarks for verifiable code generation usually test a proof against one fixed implementation. We ask whether the same proof remains valid after a program refactoring that preserves behavior. We introduce RefactorProof, which derives 458 Lean-certifi",
+  "score": 16
+ },
+ {
+  "title": "Japanese Discourse Structure Analysis Based on Segmented Discourse Representation Theory Using LLMs",
+  "url": "https://arxiv.org/abs/2610.36667",
+  "source": "arXiv cs.CL",
+  "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.36667v1 Announce Type: new Abstract: Discourse parsing based on Segmented Discourse Representation Theory (SDRT) is crucial for capturing the structural dynamics of dialogues. However, most prior research focuses on English, and its effectiveness for Japanese remains unclear owing to the ",
+  "score": 16
+ },
+ {
+  "title": "Structured Maps for Landmark-Based Route Instructions with LLMs",
+  "url": "https://arxiv.org/abs/2610.36582",
+  "source": "arXiv cs.CL",
+  "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.36582v1 Announce Type: new Abstract: To generate landmark-based route instructions, models must understand both map geometry and human landmark preferences. Although large language models (LLMs) show great abilities in language tasks, the best way to structure map data for these models is",
+  "score": 16
+ },
+ {
+  "title": "All-in-One: A Composable Attack on LLM Transformations",
+  "url": "https://arxiv.org/abs/2610.33298",
+  "source": "arXiv cs.LG",
+  "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.33298v1 Announce Type: new Abstract: Quantization, pruning, and model merging are popular transformations applied to deployment-ready LLMs to improve efficiency and downstream performance. Recent work has shown that these transformations can introduce a security threat: an adversary can t",
+  "score": 16
  },
  {
   "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
@@ -88,75 +152,11 @@
   "score": 16
  },
  {
-  "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
-  "url": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
-  "source": "Hacker News Frontpage",
-  "published_at": "Tue, 27 Oct 2026 16:25:12 +0000",
-  "summary": "Comments URL: Points: 4",
-  "score": 16
- },
- {
-  "title": "Can we trust LLMs to judge whether a research idea is novel?",
-  "url": "https://huggingface.co/blog/allenai/novelty-bench",
-  "source": "Hugging Face Blog",
-  "published_at": "Tue, 27 Oct 2026 16:12:42 GMT",
-  "summary": "",
-  "score": 16
- },
- {
   "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
   "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
   "source": "Ars Technica",
   "published_at": "Tue, 27 Oct 2026 21:31:14 +0000",
   "summary": "Seven potential AI nightmares pulled from Anthropic s 93-page Risk Factor tome.",
-  "score": 14
- },
- {
-  "title": "How to find a philanthropic advisor who cares about cost-effectiveness",
-  "url": "https://www.lesswrong.com/posts/HMcwm4zRx9faeFfBX/how-to-find-a-philanthropic-advisor-who-cares-about-cost",
-  "source": "LessWrong",
-  "published_at": "Tue, 27 Oct 2026 19:56:31 GMT",
-  "summary": "As we see the details of Anthropic’s IPO for the first time, we are launching a free advisor-matching tool to help you find an evidence-first advisor. Anthropic published its S-1 yesterday, October 26th, giving the first public view of its IPO filing. If it lists in mid-November , Anthropic staff co",
-  "score": 14
- },
- {
-  "title": "OpenAI s GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests",
-  "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/",
-  "source": "BleepingComputer",
-  "published_at": "Tue, 27 Oct 2026 18:43:27 -0400",
-  "summary": "OpenAI confirmed GPT-6.1 Terra is safer overall than some of its older models, but its safety testing also found other problems. [...]",
-  "score": 14
- },
- {
-  "title": "OpenAI Proves ETH Is False, and Crypto Twitter Has Questions",
-  "url": "https://decrypt.co/381956/opena-eth-false-crypto-twitter-has-questions",
-  "source": "Decrypt",
-  "published_at": "Tue, 27 Oct 2026 16:53:13 +0000",
-  "summary": "A new OpenAI paper declares ETH false, a claim that hundreds of research papers lean on. Crypto Twitter degens and serious mathematicians are abuzz.",
-  "score": 14
- },
- {
-  "title": "Anthropic illegally trained Claude with Stanford professors books",
-  "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
-  "source": "Hacker News Frontpage",
-  "published_at": "Tue, 27 Oct 2026 15:28:26 +0000",
-  "summary": "Comments URL: Points: 22",
-  "score": 14
- },
- {
-  "title": "Retell uses OpenAI models to help power 100M monthly calls",
-  "url": "https://openai.com/index/retell-ai",
-  "source": "OpenAI Blog",
-  "published_at": "Tue, 27 Oct 2026 15:00:00 GMT",
-  "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
-  "score": 14
- },
- {
-  "title": "Anthropic Versus Anthropic",
-  "url": "https://www.lesswrong.com/posts/ZSrX8gucWsKahsitk/anthropic-versus-anthropic",
-  "source": "LessWrong",
-  "published_at": "Tue, 27 Oct 2026 12:50:53 GMT",
-  "summary": "Anthropic is a frustrating company. Sometimes it will do things I greatly appreciate, including at substantial cost. They have taken bold stands, have a unique governance structure and have hired and worked to establish a relatively strong (but I think still inadequate) safety culture. Other times, ",
   "score": 14
  }
 ]

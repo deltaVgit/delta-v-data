@@ -1,27 +1,11 @@
 {
  "picks": [
   {
-   "title": "Hacker awarded $50k bounty for reporting bug to Sony that allowed PS5 Linux exploit — move sparks backlash from jailbreaking community",
-   "url": "https://www.tomshardware.com/video-games/playstation/hacker-awarded-usd50k-bounty-for-reporting-bug-to-sony-that-allowed-ps5-linux-exploit-move-sparks-backlash-from-jailbreaking-community",
-   "source": "Tom's Hardware",
-   "published_at": "Tue, 27 Oct 2026 13:22:04 +0000",
-   "summary": "The hypervisor bug that allowed PS5 users to install Linux on their consoles was patched before the launch of GTA VI, meaning they have to choose between experimenting with Linux and running the game.",
-   "score": 74
-  },
-  {
-   "title": "Warp discloses breach exposing AI agent logs, user telemetry data",
-   "url": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
-   "source": "BleepingComputer",
-   "published_at": "Tue, 27 Oct 2026 12:15:39 -0400",
-   "summary": "Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project s infrastructure. [...]",
-   "score": 38
-  },
-  {
-   "title": "Crypto wallet maker Keystone to destroy almost 19,000 devices after security breach",
-   "url": "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach",
-   "source": "CoinDesk",
-   "published_at": "Tue, 27 Oct 2026 11:13:54 +0000",
-   "summary": "",
+   "title": "Coinbase Denies Systems Breach, Cites Amplitude Contact-Data Incident",
+   "url": "https://thedefiant.io/news/cefi/coinbase-denies-systems-breach-cites-amplitude-contact-data-incident",
+   "source": "The Defiant",
+   "published_at": "Wed, 28 Oct 2026 03:16:33 GMT",
+   "summary": "The exchange says customer funds were unaffected and it is notifying impacted users and regulators.",
    "score": 38
   },
   {
@@ -38,14 +22,6 @@
    "source": "BleepingComputer",
    "published_at": "Tue, 27 Oct 2026 18:07:34 -0400",
    "summary": "The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities. [...]",
-   "score": 32
-  },
-  {
-   "title": "Data Recovery CEO Indicted for Allegedly Scamming Ransomware Victims",
-   "url": "https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment",
-   "source": "Hacker News Frontpage",
-   "published_at": "Tue, 27 Oct 2026 15:39:29 +0000",
-   "summary": "Comments URL: Points: 8",
    "score": 32
   },
   {
@@ -81,21 +57,45 @@
    "score": 18
   },
   {
-   "title": "Bitcoin shows signs of weakness while Ripple s bank win fails to bolster XRP",
-   "url": "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp",
+   "title": "Brazilian companies turned to stablecoins on election day to dodge a currency crash",
+   "url": "https://www.coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash",
    "source": "CoinDesk",
-   "published_at": "Tue, 27 Oct 2026 12:00:39 +0000",
+   "published_at": "Tue, 27 Oct 2026 16:59:07 +0000",
    "summary": "",
-   "score": 16
+   "score": 14
   },
   {
-   "title": "Nvidia is bankrolling AI accelerator supply chain buildout to reserve production capacity",
-   "url": "https://www.tomshardware.com/tech-industry/semiconductors/nvidia-is-bankrolling-ai-accelerator-supply-chain-buildout-to-reserve-production-capacity-announces-billion-dollar-deals-with-six-major-suppliers-across-substrates-advanced-packaging-semiconductor-testing-and-optical-engines",
-   "source": "Tom's Hardware",
-   "published_at": "Tue, 27 Oct 2026 11:00:00 +0000",
-   "summary": "Nvidia is committing billions to expand substrate, co-packaged optics, advanced packaging, and chip-testing capacity through 2028, reserving capacity at nearly every stage of its AI accelerator supply chain.",
-   "score": 16
+   "title": "Hex Raises $100M",
+   "url": "https://hex.tech/blog/hex-new-era/",
+   "source": "Hacker News Frontpage",
+   "published_at": "Tue, 27 Oct 2026 20:36:38 +0000",
+   "summary": "Comments URL: Points: 64",
+   "score": 12
+  },
+  {
+   "title": "Canton-based trading platform Cancore raises $7.2 million at $60 million token valuation",
+   "url": "https://www.theblock.co/news/deals/2026-10-27-canton-based-trading-platform-cancore-raises-7-2-million-60-million-token-valuation-431906",
+   "source": "The Block",
+   "published_at": "Tue, 27 Oct 2026 16:59:10 +0000",
+   "summary": "Cancore, a Canton-based trading platform connecting assets on the network with liquidity on public blockchains, has raised $7.2 million in seed funding. Paper Ventures, dao5, ArkStream Capital, X Ventures, MH Ventures and Proof of Talk backed the round. There was no formal lead investor, though Pape",
+   "score": 12
+  },
+  {
+   "title": "Crypto.com and OG.com launch US crypto perps with up to 5x leverage",
+   "url": "https://www.theblock.co/news/markets/2026-10-27-crypto-com-og-com-launch-us-crypto-perps-up-to-5x-leverage-431902",
+   "source": "The Block",
+   "published_at": "Tue, 27 Oct 2026 17:07:10 +0000",
+   "summary": "The contracts have no expiration date and allow traders to bet on crypto prices rising or falling.",
+   "score": 10
+  },
+  {
+   "title": "Executable Archaeology of Programs That Model Programming: Reanimating the Heuristic Compiler (1961) and KBEmacs (1984)",
+   "url": "https://arxiv.org/abs/2610.36341",
+   "source": "arXiv cs.AI",
+   "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
+   "summary": "arXiv:2610.36341v1 Announce Type: new Abstract: Early AI programs were often also theories of how people think, and programs that wrote programs were, in part, theories of how people program. Here we report on the reanimation of two such programs that offer two seemingly different theories of progra",
+   "score": 8
   }
  ],
- "updatedAt": "2026-10-28T02:35:47.301325+00:00"
+ "updatedAt": "2026-10-28T07:28:34.394718+00:00"
 }
