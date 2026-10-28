@@ -1,13 +1,5 @@
 [
  {
-  "title": "CISA warns of hackers now exploiting critical Node2Shell flaw",
-  "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
-  "source": "BleepingComputer",
-  "published_at": "Wed, 28 Oct 2026 06:46:23 -0400",
-  "summary": "On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell. [...]",
-  "score": 52
- },
- {
   "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
   "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
   "source": "BleepingComputer",
@@ -32,19 +24,11 @@
   "score": 26
  },
  {
-  "title": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
-  "url": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
-  "source": "BleepingComputer",
-  "published_at": "Wed, 28 Oct 2026 05:43:15 -0400",
-  "summary": "A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021. [...]",
-  "score": 24
- },
- {
-  "title": "Bithumb Says Hackers Accessed Internal System, Leaking Personal Data",
-  "url": "https://decrypt.co/382022/bithumb-says-hackers-accessed-internal-system-leaking-personal-data",
-  "source": "Decrypt",
-  "published_at": "Wed, 28 Oct 2026 10:57:29 +0000",
-  "summary": "South Korea s second-largest crypto exchange is checking whether customer data was exposed, as two other financial firms report breaches.",
+  "title": "GhostAction Hacking Wave Fizzles, But Attackers Lurk on in GitHub",
+  "url": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
+  "source": "Dark Reading",
+  "published_at": "Wed, 28 Oct 2026 19:39:00 GMT",
+  "summary": "The supply chain attack campaign s shift toward developer endpoints and cloud access signals what could be next for the cybercrime outfit.",
   "score": 22
  },
  {
@@ -54,6 +38,14 @@
   "published_at": "Wed, 28 Oct 2026 08:19:57 -0400",
   "summary": "Attackers have begun probing the Internet for systems unpatched against a recently disclosed critical Oracle E-Business Suite (EBS) vulnerability. [...]",
   "score": 22
+ },
+ {
+  "title": "Articul8 Launches Bivia to Bring Domain-Specific Decision Intelligence to Enterprise AI Agents",
+  "url": "https://www.hpcwire.com/off-the-wire/articul8-launches-bivia-to-bring-domain-specific-decision-intelligence-to-enterprise-ai-agents/",
+  "source": "HPCwire",
+  "published_at": "Wed, 28 Oct 2026 22:04:19 +0000",
+  "summary": "New multimodal decision model combines domain specialization, calibrated decisions and adaptive verification to bring greater precision to enterprise AI agents SANTA CLARA, Calif., Oct. 28, 2026 — Articul8, a provider of domain-specific generative AI solutions for enterprises, today introduced Bivia",
+  "score": 18
  },
  {
   "title": "Making alignment the agent s problem",
@@ -76,7 +68,7 @@
   "url": "https://surgehq.ai/blog/dayjob-tax",
   "source": "Hacker News Frontpage",
   "published_at": "Wed, 28 Oct 2026 15:46:30 +0000",
-  "summary": "Comments URL: Points: 137",
+  "summary": "Comments URL: Points: 175",
   "score": 18
  },
  {
@@ -84,7 +76,7 @@
   "url": "https://cursor.com/blog/agent-sdk",
   "source": "Hacker News Frontpage",
   "published_at": "Wed, 28 Oct 2026 14:02:20 +0000",
-  "summary": "Comments URL: Points: 74",
+  "summary": "Comments URL: Points: 84",
   "score": 18
  },
  {
@@ -128,35 +120,43 @@
   "score": 14
  },
  {
-  "title": "WHY CAN'T BITCOIN BREAK $80,000? KEVIN O'LEARY POINTS TO TWO REASONS",
-  "url": "https://www.tradingview.com/news/benzinga:d5e2e5c99094b:0-why-can-t-bitcoin-break-80-000-kevin-o-leary-points-to-two-reasons/",
+  "title": "SWISS FINMA APPROVES FIRST DOMESTIC RETAIL BITCOIN ETF",
+  "url": "https://www.tradingview.com/news/newsbtc:53e617c67094b:0-swiss-finma-approves-first-domestic-retail-bitcoin-etf/",
   "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-28T20:38:56Z",
+  "published_at": "2026-10-28T23:08:28Z",
   "summary": "",
   "score": 12
  },
  {
-  "title": "BITCOIN RETURNS TO $81,000 AFTER FED HOLDS RATES — 2ND UPDATE",
-  "url": "https://www.tradingview.com/news/DJN_DN20261028014741:0-bitcoin-returns-to-81-000-after-fed-holds-rates-2nd-update/",
+  "title": "BITCOIN LONG-TERM HOLDERS FACE RISING LOSSES, WITH SELLING PRESSURE RISK IF BTC RECLAIMS $85,000",
+  "url": "https://www.tradingview.com/news/bloomingbit:efd860e2c094b:0-bitcoin-long-term-holders-face-rising-losses-with-selling-pressure-risk-if-btc-reclaims-85-000/",
   "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-28T20:29:34Z",
+  "published_at": "2026-10-28T22:40:27Z",
   "summary": "",
   "score": 12
  },
  {
-  "title": "Aave Raises Bitcoin and Ether Collateral Borrowing Limits Across V3 and V4",
-  "url": "https://thedefiant.io/news/defi/aave-raises-bitcoin-and-ether-collateral-borrowing-limits-across-v3-and-v4",
-  "source": "The Defiant",
-  "published_at": "Wed, 28 Oct 2026 19:14:19 GMT",
-  "summary": "Core WBTC and cbBTC borrowers gain about 11% more capacity against the same collateral, but drawing the new maximum leaves less room for a price drop.",
+  "title": "FED HOLDS RATES AT 3.75%-4% AS BITCOIN NEARS $81K: WHAT’S NEXT?",
+  "url": "https://www.tradingview.com/news/coinpedia:4e66bea06094b:0-fed-holds-rates-at-3-75-4-as-bitcoin-nears-81k-what-s-next/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-28T22:40:26Z",
+  "summary": "",
   "score": 12
  },
  {
-  "title": "Fed Stands Pat, Bitcoin Holds Steady—But a December Rate Hike Is in Play",
-  "url": "https://decrypt.co/382092/fed-hold-interest-rate-steady-bitcoin-december-rate-hike",
-  "source": "Decrypt",
-  "published_at": "Wed, 28 Oct 2026 18:25:18 +0000",
-  "summary": "The Federal Reserve left rates unchanged Wednesday in a 10-2 vote, with Governor Lisa Cook and Cleveland Fed President Beth Hammack favoring a hike.",
+  "title": "BITCOIN LONG-TERM HOLDER LOSSES DEEPEN, SPARKING SELLING PRESSURE RISK ON REBOUND TO $85,000",
+  "url": "https://www.tradingview.com/news/bloomingbit:efd860e2c094b:0-bitcoin-long-term-holder-losses-deepen-sparking-selling-pressure-risk-on-rebound-to-85-000/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-28T22:21:46Z",
+  "summary": "",
+  "score": 12
+ },
+ {
+  "title": "ETHEREUM RESEARCHERS EXPLORE TRANSACTION ASSERTIONS TO REDUCE SIGNING RISKS",
+  "url": "https://www.tradingview.com/news/newsbtc:1f3355a6a094b:0-ethereum-researchers-explore-transaction-assertions-to-reduce-signing-risks/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-28T22:12:26Z",
+  "summary": "",
   "score": 12
  }
 ]

@@ -1,14 +1,6 @@
 {
  "picks": [
   {
-   "title": "CISA warns of hackers now exploiting critical Node2Shell flaw",
-   "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
-   "source": "BleepingComputer",
-   "published_at": "Wed, 28 Oct 2026 06:46:23 -0400",
-   "summary": "On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell. [...]",
-   "score": 74
-  },
-  {
    "title": "r/Seattle mods discover malware injection by archive.today, ban site",
    "url": "https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward/",
    "source": "Hacker News Frontpage",
@@ -33,11 +25,11 @@
    "score": 38
   },
   {
-   "title": "Bithumb Says Hackers Accessed Internal System, Leaking Personal Data",
-   "url": "https://decrypt.co/382022/bithumb-says-hackers-accessed-internal-system-leaking-personal-data",
-   "source": "Decrypt",
-   "published_at": "Wed, 28 Oct 2026 10:57:29 +0000",
-   "summary": "South Korea s second-largest crypto exchange is checking whether customer data was exposed, as two other financial firms report breaches.",
+   "title": "GhostAction Hacking Wave Fizzles, But Attackers Lurk on in GitHub",
+   "url": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
+   "source": "Dark Reading",
+   "published_at": "Wed, 28 Oct 2026 19:39:00 GMT",
+   "summary": "The supply chain attack campaign s shift toward developer endpoints and cloud access signals what could be next for the cybercrime outfit.",
    "score": 34
   },
   {
@@ -49,12 +41,12 @@
    "score": 34
   },
   {
-   "title": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
-   "url": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
-   "source": "BleepingComputer",
-   "published_at": "Wed, 28 Oct 2026 05:43:15 -0400",
-   "summary": "A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021. [...]",
-   "score": 32
+   "title": "San Diego Supercomputer Center Celebrates Protein Data Bank’s 55th Anniversary",
+   "url": "https://www.hpcwire.com/off-the-wire/san-diego-supercomputer-center-celebrates-protein-data-banks-55th-anniversary/",
+   "source": "HPCwire",
+   "published_at": "Wed, 28 Oct 2026 22:18:54 +0000",
+   "summary": "Oct. 28, 2026 — The Protein Data Bank (PDB) was established by the scientific community in 1971 as the first open-access digital data resource in biology, with just seven X-ray crystal structures of proteins at its start. This month — its 55th anniversary — the PDB has accumulated more than 260,000 ",
+   "score": 16
   },
   {
    "title": "Trump admin sues Utah to save Kalshi from the state s total ban on gambling",
@@ -95,7 +87,15 @@
    "published_at": "Wed, 28 Oct 2026 20:16:03 +0000",
    "summary": "The cloud and AI security firm Upwind says revenue quadrupled in 2026 as it targets risks from autonomous AI agents.",
    "score": 12
+  },
+  {
+   "title": "Aave Raises Bitcoin and Ether Collateral Borrowing Limits Across V3 and V4",
+   "url": "https://thedefiant.io/news/defi/aave-raises-bitcoin-and-ether-collateral-borrowing-limits-across-v3-and-v4",
+   "source": "The Defiant",
+   "published_at": "Wed, 28 Oct 2026 19:14:19 GMT",
+   "summary": "Core WBTC and cbBTC borrowers gain about 11% more capacity against the same collateral, but drawing the new maximum leaves less room for a price drop.",
+   "score": 12
   }
  ],
- "updatedAt": "2026-10-28T20:52:03.100344+00:00"
+ "updatedAt": "2026-10-28T23:29:10.932158+00:00"
 }
