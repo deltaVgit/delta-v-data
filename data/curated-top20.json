@@ -16,6 +16,22 @@
   "score": 34
  },
  {
+  "title": "NVIDIA LAUNCHES NEMOTRON 3.5 BOLT E4B 4GB MODEL FOR LOCAL VOICE ASSISTANTS AND AGENTS.",
+  "url": "https://x.com/FirstSquawk/status/2115461937064755502",
+  "source": "MarketNewsFeed [STOCKS]",
+  "published_at": "2026-10-28T15:13:36Z",
+  "summary": "",
+  "score": 30
+ },
+ {
+  "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
+  "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
+  "source": "BleepingComputer",
+  "published_at": "Wed, 28 Oct 2026 10:00:00 -0400",
+  "summary": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as PHP2Shell put the web management interfaces of firewalls, VPNs, application delivery controllers, and other appliances at risk. [...]",
+  "score": 30
+ },
+ {
   "title": "Coinbase Customer Data Hit in Analytics Vendor Breach, Funds ‘Not Impacted’",
   "url": "https://decrypt.co/382009/coinbase-customer-data-hit-in-analytics-vendor-breach-funds-not-impacted",
   "source": "Decrypt",
@@ -141,22 +157,6 @@
   "source": "arXiv cs.CL",
   "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
   "summary": "arXiv:2610.36667v1 Announce Type: new Abstract: Discourse parsing based on Segmented Discourse Representation Theory (SDRT) is crucial for capturing the structural dynamics of dialogues. However, most prior research focuses on English, and its effectiveness for Japanese remains unclear owing to the ",
-  "score": 16
- },
- {
-  "title": "Structured Maps for Landmark-Based Route Instructions with LLMs",
-  "url": "https://arxiv.org/abs/2610.36582",
-  "source": "arXiv cs.CL",
-  "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.36582v1 Announce Type: new Abstract: To generate landmark-based route instructions, models must understand both map geometry and human landmark preferences. Although large language models (LLMs) show great abilities in language tasks, the best way to structure map data for these models is",
-  "score": 16
- },
- {
-  "title": "All-in-One: A Composable Attack on LLM Transformations",
-  "url": "https://arxiv.org/abs/2610.33298",
-  "source": "arXiv cs.LG",
-  "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.33298v1 Announce Type: new Abstract: Quantization, pruning, and model merging are popular transformations applied to deployment-ready LLMs to improve efficiency and downstream performance. Recent work has shown that these transformations can introduce a security threat: an adversary can t",
   "score": 16
  }
 ]

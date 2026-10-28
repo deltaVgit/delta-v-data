@@ -9,6 +9,14 @@
    "score": 74
   },
   {
+   "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
+   "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
+   "source": "BleepingComputer",
+   "published_at": "Wed, 28 Oct 2026 10:00:00 -0400",
+   "summary": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as PHP2Shell put the web management interfaces of firewalls, VPNs, application delivery controllers, and other appliances at risk. [...]",
+   "score": 40
+  },
+  {
    "title": "Coinbase Customer Data Hit in Analytics Vendor Breach, Funds ‘Not Impacted’",
    "url": "https://decrypt.co/382009/coinbase-customer-data-hit-in-analytics-vendor-breach-funds-not-impacted",
    "source": "Decrypt",
@@ -57,20 +65,12 @@
    "score": 26
   },
   {
-   "title": "BANK OF CANADA MACKLEM: GOVERNING COUNCIL WILL TAKE FUTURE DECISIONS ONE MEETING AT A TIME- OUTLOOK FOR CANADIAN INFLATION HAS DETERIORATED WHILE GROWTH OUTLOOK HAS IMPROVED MODESTLY- INCREASED RISKS ",
-   "url": "https://x.com/LiveSquawk/status/2115441062588092735",
-   "source": "MarketNewsFeed [MACRO]",
-   "published_at": "2026-10-28T13:50:34Z",
+   "title": "NVIDIA LAUNCHES NEMOTRON 3.5 BOLT E4B 4GB MODEL FOR LOCAL VOICE ASSISTANTS AND AGENTS.",
+   "url": "https://x.com/FirstSquawk/status/2115461937064755502",
+   "source": "MarketNewsFeed [STOCKS]",
+   "published_at": "2026-10-28T15:13:36Z",
    "summary": "",
-   "score": 16
-  },
-  {
-   "title": "BANK OF CANADA LIFTS 2026 GROWTH FORECAST TO 1.0% FROM 0.7% IN JULY MONETARY POLICY REPORT- SEES 2027 GROWTH AT 2.0% FROM 1.8% IN JULY; 2028 AT 2.0% VS 1.8%- ANNUALIZED Q3 GROWTH SEEN AT 2.0% FROM 1.5",
-   "url": "https://x.com/LiveSquawk/status/2115441009244918035",
-   "source": "MarketNewsFeed [MACRO]",
-   "published_at": "2026-10-28T13:50:33Z",
-   "summary": "",
-   "score": 16
+   "score": 18
   },
   {
    "title": "Wall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks",
@@ -97,5 +97,5 @@
    "score": 16
   }
  ],
- "updatedAt": "2026-10-28T14:16:45.366110+00:00"
+ "updatedAt": "2026-10-28T15:55:11.880273+00:00"
 }
