@@ -8,28 +8,20 @@
   "score": 52
  },
  {
-  "title": "OA-RAG: Ontology-based Agentic RAG for Faithful LLM Reasoning",
-  "url": "https://arxiv.org/abs/2610.36335",
-  "source": "arXiv cs.AI",
-  "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.36335v1 Announce Type: new Abstract: Large language models (LLMs) perform well across many real-world tasks but remain prone to hallucination, limiting their reliability in domains such as biomedicine and healthcare, where answers must be grounded in established knowledge. Retrieval-augme",
-  "score": 34
- },
- {
-  "title": "NVIDIA LAUNCHES NEMOTRON 3.5 BOLT E4B 4GB MODEL FOR LOCAL VOICE ASSISTANTS AND AGENTS.",
-  "url": "https://x.com/FirstSquawk/status/2115461937064755502",
-  "source": "MarketNewsFeed [STOCKS]",
-  "published_at": "2026-10-28T15:13:36Z",
-  "summary": "",
-  "score": 30
- },
- {
   "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
   "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
   "source": "BleepingComputer",
   "published_at": "Wed, 28 Oct 2026 10:00:00 -0400",
   "summary": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as PHP2Shell put the web management interfaces of firewalls, VPNs, application delivery controllers, and other appliances at risk. [...]",
   "score": 30
+ },
+ {
+  "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
+  "url": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
+  "source": "BleepingComputer",
+  "published_at": "Wed, 28 Oct 2026 12:45:47 -0400",
+  "summary": "Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers personal information. [...]",
+  "score": 28
  },
  {
   "title": "Coinbase Customer Data Hit in Analytics Vendor Breach, Funds ‘Not Impacted’",
@@ -40,12 +32,12 @@
   "score": 28
  },
  {
-  "title": "Coinbase Denies Systems Breach, Cites Amplitude Contact-Data Incident",
-  "url": "https://thedefiant.io/news/cefi/coinbase-denies-systems-breach-cites-amplitude-contact-data-incident",
-  "source": "The Defiant",
-  "published_at": "Wed, 28 Oct 2026 03:16:33 GMT",
-  "summary": "The exchange says customer funds were unaffected and it is notifying impacted users and regulators.",
-  "score": 28
+  "title": "OpenAI Plans to Buy Google s AI Chips as It Looks Beyond Nvidia: Report",
+  "url": "https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia",
+  "source": "Decrypt",
+  "published_at": "Wed, 28 Oct 2026 19:16:02 +0000",
+  "summary": "OpenAI, one of Nvidia s biggest customers, reportedly plans to buy Google s TPU chips. Neither company has confirmed the report, and the price and size of the order were not disclosed.",
+  "score": 26
  },
  {
   "title": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
@@ -72,11 +64,59 @@
   "score": 22
  },
  {
+  "title": "Making alignment the agent s problem",
+  "url": "https://www.lesswrong.com/posts/JGCx6gzGaGXaYJnt3/making-alignment-the-agent-s-problem",
+  "source": "LessWrong",
+  "published_at": "Wed, 28 Oct 2026 16:18:27 GMT",
+  "summary": "TL;DR: Agents are not rewarded for keeping the agents they delegate to aligned. Proposal: RL environments where the helpers are deliberately misaligned, so the agent can t earn its reward without dealing with that. The $300 bounty from my last post also covers this one (details at the end). After th",
+  "score": 18
+ },
+ {
+  "title": "Crypto Long & Short: What happens when an AI agent pays for the wrong thing",
+  "url": "https://www.coindesk.com/coindesk-indices/2026/10/28/crypto-long-and-short-what-happens-when-an-ai-agent-pays-for-the-wrong-thing",
+  "source": "CoinDesk",
+  "published_at": "Wed, 28 Oct 2026 16:01:36 +0000",
+  "summary": "",
+  "score": 18
+ },
+ {
+  "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+  "url": "https://surgehq.ai/blog/dayjob-tax",
+  "source": "Hacker News Frontpage",
+  "published_at": "Wed, 28 Oct 2026 15:46:30 +0000",
+  "summary": "Comments URL: Points: 109",
+  "score": 18
+ },
+ {
+  "title": "The Agent SDK",
+  "url": "https://cursor.com/blog/agent-sdk",
+  "source": "Hacker News Frontpage",
+  "published_at": "Wed, 28 Oct 2026 14:02:20 +0000",
+  "summary": "Comments URL: Points: 65",
+  "score": 18
+ },
+ {
+  "title": "Legora is building the agentic operating system for legal work",
+  "url": "https://openai.com/index/legora",
+  "source": "OpenAI Blog",
+  "published_at": "Wed, 28 Oct 2026 09:30:00 GMT",
+  "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+  "score": 18
+ },
+ {
   "title": "Legora is building the agentic operating system for legal work",
   "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
   "source": "OpenAI Blog",
   "published_at": "Wed, 28 Oct 2026 09:30:00 GMT",
   "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+  "score": 18
+ },
+ {
+  "title": "PNNL Applies Agentic AI to Radiation Hardening Research",
+  "url": "https://www.hpcwire.com/off-the-wire/pnnl-applies-agentic-ai-to-radiation-hardening-research/",
+  "source": "HPCwire",
+  "published_at": "Wed, 28 Oct 2026 02:25:14 +0000",
+  "summary": "A team of AI agents helps create microchips ready for an onslaught of radiation RICHLAND, Wash., Oct. 27, 2026 — Today’s sophisticated microchips are a wonder, designed by engineers squeezing ever-more detail onto ever-smaller chips, then built in ultraclean billion-dollar fabrication facilities. Ju",
   "score": 18
  },
  {
@@ -96,46 +136,6 @@
   "score": 18
  },
  {
-  "title": "Ontology-guided multi-agent reasoning for explainable differential diagnosis",
-  "url": "https://arxiv.org/abs/2610.36325",
-  "source": "arXiv cs.AI",
-  "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.36325v1 Announce Type: new Abstract: Effective differential diagnosis depends on well structured and unambiguous patient case descriptions, since incomplete or ambiguous clinical information readily leads to diagnostic errors and inconsistent reasoning. Large Language Models (LLMs) have r",
-  "score": 18
- },
- {
-  "title": "When Retrieval Is Not Enough: Obsolete Facts in Agent Memory",
-  "url": "https://arxiv.org/abs/2610.36308",
-  "source": "arXiv cs.AI",
-  "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.36308v1 Announce Type: new Abstract: Memory-agent benchmarks often collapse retrieval and answer generation into one score, making it hard to tell whether a failure comes from missing an update or from not using an update that was already retrieved. We examine this distinction on the sing",
-  "score": 18
- },
- {
-  "title": "A Harness Reducing over-Defensive Writing in Agents by Isolating Objections",
-  "url": "https://arxiv.org/abs/2610.36717",
-  "source": "arXiv cs.CL",
-  "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.36717v1 Announce Type: new Abstract: When expanding a report, writing with agents may introduce a stronger claim than the article makes and then disclaim it. This is called over-defensive writing. We assume that this is because the agent is writing for responding to an adversarial AI revi",
-  "score": 18
- },
- {
-  "title": "Agentic Data Sampling Framework for Multilingual ASR via Linguistic-Aware Error-Driven Optimization",
-  "url": "https://arxiv.org/abs/2610.36538",
-  "source": "arXiv cs.CL",
-  "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.36538v1 Announce Type: new Abstract: Multilingual automatic speech recognition (ASR) has achieved rapid progress with large-scale pretrained models and multilingual speech corpora. Previous studies have proved the pivotal role of data sampling in multilingual ASR performance. However, exi",
-  "score": 18
- },
- {
-  "title": "Benchmarking Task Takeover Across Agent Handoffs",
-  "url": "https://arxiv.org/abs/2610.36523",
-  "source": "arXiv cs.CL",
-  "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.36523v1 Announce Type: new Abstract: As agents collaborate on longer tasks, responsibility may pass between models before the work is complete. The receiving model must build on prior decisions, observations, and actions while addressing the remaining requirements. Evaluating this transit",
-  "score": 18
- },
- {
   "title": "Verifiable Efficiency Limits of Innate LLM Planning in Sliding Puzzles",
   "url": "https://arxiv.org/abs/2610.36415",
   "source": "arXiv cs.AI",
@@ -144,19 +144,19 @@
   "score": 16
  },
  {
-  "title": "How Stable Are LLM-Generated Proofs Under Program Refactoring? A Stress Test for Verifiable Code Generation",
-  "url": "https://arxiv.org/abs/2610.36328",
-  "source": "arXiv cs.AI",
-  "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.36328v1 Announce Type: new Abstract: Benchmarks for verifiable code generation usually test a proof against one fixed implementation. We ask whether the same proof remains valid after a program refactoring that preserves behavior. We introduce RefactorProof, which derives 458 Lean-certifi",
-  "score": 16
+  "title": "AI Can Quietly Influence Experts’ Decisions, Anthropic Study Finds",
+  "url": "https://decrypt.co/382065/ai-can-quietly-influence-experts-decisions",
+  "source": "Decrypt",
+  "published_at": "Wed, 28 Oct 2026 17:36:02 +0000",
+  "summary": "Professional analysts went along with their AI agent’s hidden opinion 86% of the time, and few credited it.",
+  "score": 14
  },
  {
-  "title": "Japanese Discourse Structure Analysis Based on Segmented Discourse Representation Theory Using LLMs",
-  "url": "https://arxiv.org/abs/2610.36667",
-  "source": "arXiv cs.CL",
-  "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.36667v1 Announce Type: new Abstract: Discourse parsing based on Segmented Discourse Representation Theory (SDRT) is crucial for capturing the structural dynamics of dialogues. However, most prior research focuses on English, and its effectiveness for Japanese remains unclear owing to the ",
-  "score": 16
+  "title": "Anthropic Files Its S-1",
+  "url": "https://www.lesswrong.com/posts/dbdz6zb6qjaq6yHKs/anthropic-files-its-s-1",
+  "source": "LessWrong",
+  "published_at": "Wed, 28 Oct 2026 12:20:53 GMT",
+  "summary": "The full text is finally here , so we are giving it the full RTFB of model card treatment. First, a recap of the state of Anthropic finances, then a close reading of the relevant parts of the S-1. A lot of it is technical and uninteresting, often pro forma, and gets skipped. A lot of it gets repeate",
+  "score": 14
  }
 ]
