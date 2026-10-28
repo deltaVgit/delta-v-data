@@ -32,6 +32,14 @@
   "score": 28
  },
  {
+  "title": "Japan s GMO urges customers to shut down PCs amid ransomware threat",
+  "url": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
+  "source": "BleepingComputer",
+  "published_at": "Tue, 27 Oct 2026 19:35:51 -0400",
+  "summary": "The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company s Onamae Desktop Cloud threatened to launch a ransomware attack today. [...]",
+  "score": 24
+ },
+ {
   "title": "UNM Health ransomware attack disrupts patient care, surgeries",
   "url": "https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/",
   "source": "BleepingComputer",
@@ -60,7 +68,7 @@
   "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
   "source": "Hacker News Frontpage",
   "published_at": "Tue, 27 Oct 2026 13:23:22 +0000",
-  "summary": "Comments URL: Points: 141",
+  "summary": "Comments URL: Points: 153",
   "score": 18
  },
  {
@@ -149,14 +157,6 @@
   "source": "OpenAI Blog",
   "published_at": "Tue, 27 Oct 2026 15:00:00 GMT",
   "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
-  "score": 14
- },
- {
-  "title": "Anthropic Versus Anthropic",
-  "url": "https://www.lesswrong.com/posts/ZSrX8gucWsKahsitk/anthropic-versus-anthropic",
-  "source": "LessWrong",
-  "published_at": "Tue, 27 Oct 2026 12:50:53 GMT",
-  "summary": "Anthropic is a frustrating company. Sometimes it will do things I greatly appreciate, including at substantial cost. They have taken bold stands, have a unique governance structure and have hired and worked to establish a relatively strong (but I think still inadequate) safety culture. Other times, ",
   "score": 14
  }
 ]
