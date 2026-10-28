@@ -1,6 +1,22 @@
 {
  "picks": [
   {
+   "title": "CISA warns of hackers now exploiting critical Node2Shell flaw",
+   "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
+   "source": "BleepingComputer",
+   "published_at": "Wed, 28 Oct 2026 06:46:23 -0400",
+   "summary": "On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell. [...]",
+   "score": 74
+  },
+  {
+   "title": "Coinbase Customer Data Hit in Analytics Vendor Breach, Funds ‘Not Impacted’",
+   "url": "https://decrypt.co/382009/coinbase-customer-data-hit-in-analytics-vendor-breach-funds-not-impacted",
+   "source": "Decrypt",
+   "published_at": "Wed, 28 Oct 2026 10:10:31 +0000",
+   "summary": "The incident at analytics firm Amplitude hit a small subset of Coinbase customers, the exchange said, without saying how many.",
+   "score": 38
+  },
+  {
    "title": "Coinbase Denies Systems Breach, Cites Amplitude Contact-Data Incident",
    "url": "https://thedefiant.io/news/cefi/coinbase-denies-systems-breach-cites-amplitude-contact-data-incident",
    "source": "The Defiant",
@@ -9,28 +25,28 @@
    "score": 38
   },
   {
-   "title": "Japan s GMO urges customers to shut down PCs amid ransomware threat",
-   "url": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
-   "source": "BleepingComputer",
-   "published_at": "Tue, 27 Oct 2026 19:35:51 -0400",
-   "summary": "The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company s Onamae Desktop Cloud threatened to launch a ransomware attack today. [...]",
-   "score": 32
-  },
-  {
-   "title": "UNM Health ransomware attack disrupts patient care, surgeries",
-   "url": "https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/",
-   "source": "BleepingComputer",
-   "published_at": "Tue, 27 Oct 2026 18:07:34 -0400",
-   "summary": "The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities. [...]",
-   "score": 32
-  },
-  {
-   "title": "Bitcoin Wallet Maker Keystone Pulls Devices as Stolen Key Opens Door to Fakes",
-   "url": "https://decrypt.co/381983/bitcoin-wallet-keystone-devices-destroyed-stolen-key",
+   "title": "Bithumb Says Hackers Accessed Internal System, Leaking Personal Data",
+   "url": "https://decrypt.co/382022/bithumb-says-hackers-accessed-internal-system-leaking-personal-data",
    "source": "Decrypt",
-   "published_at": "Tue, 27 Oct 2026 18:16:02 +0000",
-   "summary": "Attackers obtained the factory key that proves Keystone s hardware wallets are genuine, and 25,964 buyer records were affected. The company says recovery phrases and private keys were not involved.",
-   "score": 30
+   "published_at": "Wed, 28 Oct 2026 10:57:29 +0000",
+   "summary": "South Korea s second-largest crypto exchange is checking whether customer data was exposed, as two other financial firms report breaches.",
+   "score": 34
+  },
+  {
+   "title": "Hackers now scanning systems for recently-patched Oracle flaw",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/",
+   "source": "BleepingComputer",
+   "published_at": "Wed, 28 Oct 2026 08:19:57 -0400",
+   "summary": "Attackers have begun probing the Internet for systems unpatched against a recently disclosed critical Oracle E-Business Suite (EBS) vulnerability. [...]",
+   "score": 34
+  },
+  {
+   "title": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
+   "url": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
+   "source": "BleepingComputer",
+   "published_at": "Wed, 28 Oct 2026 05:43:15 -0400",
+   "summary": "A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021. [...]",
+   "score": 32
   },
   {
    "title": "Tranche Vault on Avalanche Drained of 1.01 Million USDC",
@@ -41,61 +57,45 @@
    "score": 26
   },
   {
-   "title": "US Charges Six in Alleged Madagascar NFT Wallet-Draining Scheme",
-   "url": "https://thedefiant.io/news/security/us-charges-six-in-alleged-madagascar-nft-wallet-draining-scheme",
-   "source": "The Defiant",
-   "published_at": "Tue, 27 Oct 2026 17:26:54 GMT",
-   "summary": "An FBI affidavit estimates at least $516,695 in losses across 74 victim-linked wallets and describes unlimited USDT spending approvals.",
-   "score": 26
-  },
-  {
-   "title": "U.S. agency hits Utah with lawsuit to shield Kalshi s ability to offer betting there",
-   "url": "https://www.coindesk.com/policy/2026/10/27/u-s-agency-hits-utah-with-lawsuit-to-shield-kalshi-s-ability-to-offer-betting-there",
-   "source": "CoinDesk",
-   "published_at": "Tue, 27 Oct 2026 19:07:59 +0000",
+   "title": "BANK OF CANADA MACKLEM: GOVERNING COUNCIL WILL TAKE FUTURE DECISIONS ONE MEETING AT A TIME- OUTLOOK FOR CANADIAN INFLATION HAS DETERIORATED WHILE GROWTH OUTLOOK HAS IMPROVED MODESTLY- INCREASED RISKS ",
+   "url": "https://x.com/LiveSquawk/status/2115441062588092735",
+   "source": "MarketNewsFeed [MACRO]",
+   "published_at": "2026-10-28T13:50:34Z",
    "summary": "",
-   "score": 18
+   "score": 16
   },
   {
-   "title": "Crypto.com and OG.com launch US crypto perps with up to 5x leverage",
-   "url": "https://www.theblock.co/news/markets/2026-10-27-crypto-com-og-com-launch-us-crypto-perps-up-to-5x-leverage-431902",
-   "source": "The Block",
-   "published_at": "Tue, 27 Oct 2026 17:07:10 +0000",
-   "summary": "The contracts have no expiration date and allow traders to bet on crypto prices rising or falling.",
-   "score": 10
+   "title": "BANK OF CANADA LIFTS 2026 GROWTH FORECAST TO 1.0% FROM 0.7% IN JULY MONETARY POLICY REPORT- SEES 2027 GROWTH AT 2.0% FROM 1.8% IN JULY; 2028 AT 2.0% VS 1.8%- ANNUALIZED Q3 GROWTH SEEN AT 2.0% FROM 1.5",
+   "url": "https://x.com/LiveSquawk/status/2115441009244918035",
+   "source": "MarketNewsFeed [MACRO]",
+   "published_at": "2026-10-28T13:50:33Z",
+   "summary": "",
+   "score": 16
   },
   {
-   "title": "How Much Can Semiconductor Models Hide?",
-   "url": "https://semiengineering.com/how-much-can-semiconductor-models-hide/",
-   "source": "SemiEngineering",
-   "published_at": "Wed, 28 Oct 2026 07:01:04 +0000",
-   "summary": "Advanced packaging requires models to cross company boundaries without exposing proprietary processes, but hiding too much can make the prediction break down. The post How Much Can Semiconductor Models Hide? appeared first on Semiconductor Engineering .",
-   "score": 8
+   "title": "Wall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks",
+   "url": "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks",
+   "source": "CoinDesk",
+   "published_at": "Wed, 28 Oct 2026 13:14:37 +0000",
+   "summary": "",
+   "score": 16
   },
   {
-   "title": "Executable Archaeology of Programs That Model Programming: Reanimating the Heuristic Compiler (1961) and KBEmacs (1984)",
-   "url": "https://arxiv.org/abs/2610.36341",
-   "source": "arXiv cs.AI",
-   "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
-   "summary": "arXiv:2610.36341v1 Announce Type: new Abstract: Early AI programs were often also theories of how people think, and programs that wrote programs were, in part, theories of how people program. Here we report on the reanimation of two such programs that offer two seemingly different theories of progra",
-   "score": 8
+   "title": "Moody s Rates Ripple s $2.6B RLUSD Stablecoin A2, a Day After OCC Bank Approval",
+   "url": "https://decrypt.co/382030/moodys-rates-ripples-2-6b-rlusd-stablecoin-a2-a-day-after-occ-bank-approval",
+   "source": "Decrypt",
+   "published_at": "Wed, 28 Oct 2026 12:16:30 +0000",
+   "summary": "The ratings agency cited RLUSD s Treasury-heavy reserves, but noted that holders have no direct ownership interest in them for now.",
+   "score": 16
   },
   {
-   "title": "Spiking Neural Networks Are Harder to Steal: A Benchmark Study of Model Stealing Attacks",
-   "url": "https://arxiv.org/abs/2610.36298",
-   "source": "arXiv cs.AI",
-   "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
-   "summary": "arXiv:2610.36298v1 Announce Type: new Abstract: Machine learning models deployed behind query interfaces expose more than their predictions, because an adversary can use those predictions to rebuild the model itself. Model stealing attacks (MSAs) exploit this exposure by training a surrogate model t",
-   "score": 8
-  },
-  {
-   "title": "A Smart Instant Book Filter Model based on Dual-Objective Optimization",
-   "url": "https://arxiv.org/abs/2610.36287",
-   "source": "arXiv cs.AI",
-   "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
-   "summary": "arXiv:2610.36287v1 Announce Type: new Abstract: Hospitality service in online marketplaces has become increasingly popular over the past few years, not only because it helps people easily rent short-term lodging but also because it empowers travelers to connect with locals and feel belonging. A typi",
-   "score": 8
+   "title": "Standalone Nvidia Vera CPUs land in Oracle Cloud s multi-gigawatt deployment — our independent benchmarking of a local server reveals Vera s massive memory bandwidth lead over dual Xeon 6 server",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-and-oracle-bring-vera-cpu-instances-online-in-multi-gigawatt-deployment-oci-superclusters-also-set-to-expand-with-rubin-only-clusters-attached-to-dual-xeon-6-hosts",
+   "source": "Tom's Hardware",
+   "published_at": "Wed, 28 Oct 2026 11:00:00 +0000",
+   "summary": "Nvidia’s Vera CPU is now generally available on Oracle’s OCI Superclusters, a win for Nvidia as it moves past NVL72 to a standalone Vera deployment at a major hyperscaler.",
+   "score": 16
   }
  ],
- "updatedAt": "2026-10-28T08:58:38.436596+00:00"
+ "updatedAt": "2026-10-28T14:16:45.366110+00:00"
 }

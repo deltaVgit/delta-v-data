@@ -1,11 +1,27 @@
 [
  {
+  "title": "CISA warns of hackers now exploiting critical Node2Shell flaw",
+  "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
+  "source": "BleepingComputer",
+  "published_at": "Wed, 28 Oct 2026 06:46:23 -0400",
+  "summary": "On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell. [...]",
+  "score": 52
+ },
+ {
   "title": "OA-RAG: Ontology-based Agentic RAG for Faithful LLM Reasoning",
   "url": "https://arxiv.org/abs/2610.36335",
   "source": "arXiv cs.AI",
   "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
   "summary": "arXiv:2610.36335v1 Announce Type: new Abstract: Large language models (LLMs) perform well across many real-world tasks but remain prone to hallucination, limiting their reliability in domains such as biomedicine and healthcare, where answers must be grounded in established knowledge. Retrieval-augme",
   "score": 34
+ },
+ {
+  "title": "Coinbase Customer Data Hit in Analytics Vendor Breach, Funds ‘Not Impacted’",
+  "url": "https://decrypt.co/382009/coinbase-customer-data-hit-in-analytics-vendor-breach-funds-not-impacted",
+  "source": "Decrypt",
+  "published_at": "Wed, 28 Oct 2026 10:10:31 +0000",
+  "summary": "The incident at analytics firm Amplitude hit a small subset of Coinbase customers, the exchange said, without saying how many.",
+  "score": 28
  },
  {
   "title": "Coinbase Denies Systems Breach, Cites Amplitude Contact-Data Incident",
@@ -16,28 +32,36 @@
   "score": 28
  },
  {
-  "title": "AI Agents Are Creating a New Layer of Cybersecurity Spending",
-  "url": "https://decrypt.co/381987/ai-agents-creating-new-layer-cybersecurity-spending",
+  "title": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
+  "url": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
+  "source": "BleepingComputer",
+  "published_at": "Wed, 28 Oct 2026 05:43:15 -0400",
+  "summary": "A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021. [...]",
+  "score": 24
+ },
+ {
+  "title": "Bithumb Says Hackers Accessed Internal System, Leaking Personal Data",
+  "url": "https://decrypt.co/382022/bithumb-says-hackers-accessed-internal-system-leaking-personal-data",
   "source": "Decrypt",
-  "published_at": "Tue, 27 Oct 2026 19:16:03 +0000",
-  "summary": "Akamai launched a locked box for AI agents on Tuesday. It joins Palo Alto, Cisco, CrowdStrike, Okta and Zscaler in selling protection for software that now acts on its own.",
-  "score": 28
+  "published_at": "Wed, 28 Oct 2026 10:57:29 +0000",
+  "summary": "South Korea s second-largest crypto exchange is checking whether customer data was exposed, as two other financial firms report breaches.",
+  "score": 22
  },
  {
-  "title": "Japan s GMO urges customers to shut down PCs amid ransomware threat",
-  "url": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
+  "title": "Hackers now scanning systems for recently-patched Oracle flaw",
+  "url": "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/",
   "source": "BleepingComputer",
-  "published_at": "Tue, 27 Oct 2026 19:35:51 -0400",
-  "summary": "The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company s Onamae Desktop Cloud threatened to launch a ransomware attack today. [...]",
-  "score": 24
+  "published_at": "Wed, 28 Oct 2026 08:19:57 -0400",
+  "summary": "Attackers have begun probing the Internet for systems unpatched against a recently disclosed critical Oracle E-Business Suite (EBS) vulnerability. [...]",
+  "score": 22
  },
  {
-  "title": "UNM Health ransomware attack disrupts patient care, surgeries",
-  "url": "https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/",
-  "source": "BleepingComputer",
-  "published_at": "Tue, 27 Oct 2026 18:07:34 -0400",
-  "summary": "The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities. [...]",
-  "score": 24
+  "title": "Legora is building the agentic operating system for legal work",
+  "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+  "source": "OpenAI Blog",
+  "published_at": "Wed, 28 Oct 2026 09:30:00 GMT",
+  "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+  "score": 18
  },
  {
   "title": "LM-DSB: A Lightweight Multi-agent System for Automated Daily Safety Bulletin Generation in Construction",
@@ -96,14 +120,6 @@
   "score": 18
  },
  {
-  "title": "No human at the helm : Delaware plan would let AI agents run entire businesses",
-  "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
-  "source": "Ars Technica",
-  "published_at": "Tue, 27 Oct 2026 21:50:04 +0000",
-  "summary": "Owners of AI-run firms would evade liability for reckless AI, US Rep. Comer says.",
-  "score": 18
- },
- {
   "title": "Verifiable Efficiency Limits of Innate LLM Planning in Sliding Puzzles",
   "url": "https://arxiv.org/abs/2610.36415",
   "source": "arXiv cs.AI",
@@ -142,21 +158,5 @@
   "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
   "summary": "arXiv:2610.33298v1 Announce Type: new Abstract: Quantization, pruning, and model merging are popular transformations applied to deployment-ready LLMs to improve efficiency and downstream performance. Recent work has shown that these transformations can introduce a security threat: an adversary can t",
   "score": 16
- },
- {
-  "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-  "url": "https://www.brangus.io/survival-llm",
-  "source": "Hacker News Frontpage",
-  "published_at": "Tue, 27 Oct 2026 19:55:06 +0000",
-  "summary": "Comments URL: Points: 5",
-  "score": 16
- },
- {
-  "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
-  "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
-  "source": "Ars Technica",
-  "published_at": "Tue, 27 Oct 2026 21:31:14 +0000",
-  "summary": "Seven potential AI nightmares pulled from Anthropic s 93-page Risk Factor tome.",
-  "score": 14
  }
 ]
