@@ -33,14 +33,6 @@
    "score": 38
   },
   {
-   "title": "Coinbase Customer Data Hit in Analytics Vendor Breach, Funds ‘Not Impacted’",
-   "url": "https://decrypt.co/382009/coinbase-customer-data-hit-in-analytics-vendor-breach-funds-not-impacted",
-   "source": "Decrypt",
-   "published_at": "Wed, 28 Oct 2026 10:10:31 +0000",
-   "summary": "The incident at analytics firm Amplitude hit a small subset of Coinbase customers, the exchange said, without saying how many.",
-   "score": 38
-  },
-  {
    "title": "Bithumb Says Hackers Accessed Internal System, Leaking Personal Data",
    "url": "https://decrypt.co/382022/bithumb-says-hackers-accessed-internal-system-leaking-personal-data",
    "source": "Decrypt",
@@ -63,6 +55,14 @@
    "published_at": "Wed, 28 Oct 2026 05:43:15 -0400",
    "summary": "A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021. [...]",
    "score": 32
+  },
+  {
+   "title": "Trump admin sues Utah to save Kalshi from the state s total ban on gambling",
+   "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+   "source": "Ars Technica",
+   "published_at": "Wed, 28 Oct 2026 19:30:33 +0000",
+   "summary": "US agency has sued 10 states for trying to stop gambling on prediction markets.",
+   "score": 16
   },
   {
    "title": "Wall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks",
@@ -89,13 +89,13 @@
    "score": 16
   },
   {
-   "title": "At least 68 killed in Spanish high-speed train crash",
-   "url": "https://www.bbc.com/news/live/cv1j309d4g98t",
-   "source": "Hacker News Frontpage",
-   "published_at": "Wed, 28 Oct 2026 18:49:17 +0000",
-   "summary": "Comments URL: Points: 11",
-   "score": 14
+   "title": "AI Security Startup Upwind Raises $400M at $3.8B Valuation",
+   "url": "https://decrypt.co/382101/ai-security-startup-upwind-raises-400m",
+   "source": "Decrypt",
+   "published_at": "Wed, 28 Oct 2026 20:16:03 +0000",
+   "summary": "The cloud and AI security firm Upwind says revenue quadrupled in 2026 as it targets risks from autonomous AI agents.",
+   "score": 12
   }
  ],
- "updatedAt": "2026-10-28T19:36:43.214510+00:00"
+ "updatedAt": "2026-10-28T20:52:03.100344+00:00"
 }

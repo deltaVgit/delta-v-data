@@ -24,14 +24,6 @@
   "score": 28
  },
  {
-  "title": "Coinbase Customer Data Hit in Analytics Vendor Breach, Funds ‘Not Impacted’",
-  "url": "https://decrypt.co/382009/coinbase-customer-data-hit-in-analytics-vendor-breach-funds-not-impacted",
-  "source": "Decrypt",
-  "published_at": "Wed, 28 Oct 2026 10:10:31 +0000",
-  "summary": "The incident at analytics firm Amplitude hit a small subset of Coinbase customers, the exchange said, without saying how many.",
-  "score": 28
- },
- {
   "title": "OpenAI Plans to Buy Google s AI Chips as It Looks Beyond Nvidia: Report",
   "url": "https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia",
   "source": "Decrypt",
@@ -84,7 +76,7 @@
   "url": "https://surgehq.ai/blog/dayjob-tax",
   "source": "Hacker News Frontpage",
   "published_at": "Wed, 28 Oct 2026 15:46:30 +0000",
-  "summary": "Comments URL: Points: 109",
+  "summary": "Comments URL: Points: 137",
   "score": 18
  },
  {
@@ -92,7 +84,7 @@
   "url": "https://cursor.com/blog/agent-sdk",
   "source": "Hacker News Frontpage",
   "published_at": "Wed, 28 Oct 2026 14:02:20 +0000",
-  "summary": "Comments URL: Points: 65",
+  "summary": "Comments URL: Points: 74",
   "score": 18
  },
  {
@@ -112,43 +104,19 @@
   "score": 18
  },
  {
-  "title": "PNNL Applies Agentic AI to Radiation Hardening Research",
-  "url": "https://www.hpcwire.com/off-the-wire/pnnl-applies-agentic-ai-to-radiation-hardening-research/",
-  "source": "HPCwire",
-  "published_at": "Wed, 28 Oct 2026 02:25:14 +0000",
-  "summary": "A team of AI agents helps create microchips ready for an onslaught of radiation RICHLAND, Wash., Oct. 27, 2026 — Today’s sophisticated microchips are a wonder, designed by engineers squeezing ever-more detail onto ever-smaller chips, then built in ultraclean billion-dollar fabrication facilities. Ju",
-  "score": 18
- },
- {
-  "title": "LM-DSB: A Lightweight Multi-agent System for Automated Daily Safety Bulletin Generation in Construction",
-  "url": "https://arxiv.org/abs/2610.36433",
-  "source": "arXiv cs.AI",
-  "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.36433v1 Announce Type: new Abstract: Construction safety management still struggles to produce daily safety bulletins (DSBs), structured daily communications that identify site-specific hazards, convey safety protocols, and set preventive measures for workers. Manual DSB creation takes 2-",
-  "score": 18
- },
- {
-  "title": "MAREval: A Multi-Agent Framework for Evaluating Natural Language Recommendation Explanations",
-  "url": "https://arxiv.org/abs/2610.36389",
-  "source": "arXiv cs.AI",
-  "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.36389v1 Announce Type: new Abstract: Evaluating natural language explanations in recommender systems is essential for fostering user trust, transparency, and engagement. However, existing evaluation approaches like human evaluations, while accurate, are resource-intensive and impractical ",
-  "score": 18
- },
- {
-  "title": "Verifiable Efficiency Limits of Innate LLM Planning in Sliding Puzzles",
-  "url": "https://arxiv.org/abs/2610.36415",
-  "source": "arXiv cs.AI",
-  "published_at": "Wed, 28 Oct 2026 00:00:00 -0400",
-  "summary": "arXiv:2610.36415v1 Announce Type: new Abstract: Tool-assisted planning success can reflect external search and verification, leaving a model s unaided planning ability unresolved. We isolate innate planning through complete plans generated in one response without tools or execution feedback. We prop",
-  "score": 16
- },
- {
   "title": "AI Can Quietly Influence Experts’ Decisions, Anthropic Study Finds",
   "url": "https://decrypt.co/382065/ai-can-quietly-influence-experts-decisions",
   "source": "Decrypt",
   "published_at": "Wed, 28 Oct 2026 17:36:02 +0000",
   "summary": "Professional analysts went along with their AI agent’s hidden opinion 86% of the time, and few credited it.",
+  "score": 14
+ },
+ {
+  "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+  "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+  "source": "OpenAI Blog",
+  "published_at": "Wed, 28 Oct 2026 13:15:00 GMT",
+  "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
   "score": 14
  },
  {
@@ -158,5 +126,37 @@
   "published_at": "Wed, 28 Oct 2026 12:20:53 GMT",
   "summary": "The full text is finally here , so we are giving it the full RTFB of model card treatment. First, a recap of the state of Anthropic finances, then a close reading of the relevant parts of the S-1. A lot of it is technical and uninteresting, often pro forma, and gets skipped. A lot of it gets repeate",
   "score": 14
+ },
+ {
+  "title": "WHY CAN'T BITCOIN BREAK $80,000? KEVIN O'LEARY POINTS TO TWO REASONS",
+  "url": "https://www.tradingview.com/news/benzinga:d5e2e5c99094b:0-why-can-t-bitcoin-break-80-000-kevin-o-leary-points-to-two-reasons/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-28T20:38:56Z",
+  "summary": "",
+  "score": 12
+ },
+ {
+  "title": "BITCOIN RETURNS TO $81,000 AFTER FED HOLDS RATES — 2ND UPDATE",
+  "url": "https://www.tradingview.com/news/DJN_DN20261028014741:0-bitcoin-returns-to-81-000-after-fed-holds-rates-2nd-update/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-28T20:29:34Z",
+  "summary": "",
+  "score": 12
+ },
+ {
+  "title": "Aave Raises Bitcoin and Ether Collateral Borrowing Limits Across V3 and V4",
+  "url": "https://thedefiant.io/news/defi/aave-raises-bitcoin-and-ether-collateral-borrowing-limits-across-v3-and-v4",
+  "source": "The Defiant",
+  "published_at": "Wed, 28 Oct 2026 19:14:19 GMT",
+  "summary": "Core WBTC and cbBTC borrowers gain about 11% more capacity against the same collateral, but drawing the new maximum leaves less room for a price drop.",
+  "score": 12
+ },
+ {
+  "title": "Fed Stands Pat, Bitcoin Holds Steady—But a December Rate Hike Is in Play",
+  "url": "https://decrypt.co/382092/fed-hold-interest-rate-steady-bitcoin-december-rate-hike",
+  "source": "Decrypt",
+  "published_at": "Wed, 28 Oct 2026 18:25:18 +0000",
+  "summary": "The Federal Reserve left rates unchanged Wednesday in a 10-2 vote, with Governor Lisa Cook and Cleveland Fed President Beth Hammack favoring a hike.",
+  "score": 12
  }
 ]
