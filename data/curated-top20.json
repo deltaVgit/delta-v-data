@@ -8,12 +8,12 @@
   "score": 60
  },
  {
-  "title": "Allium Discloses Security Breach, Revokes API Keys",
-  "url": "https://thedefiant.io/news/security/allium-discloses-security-breach-revokes-api-keys",
-  "source": "The Defiant",
-  "published_at": "Thu, 29 Oct 2026 01:52:57 GMT",
-  "summary": "Core services are back online, but uploaded-data access remains disabled and gaps in some data feeds are still being filled.",
-  "score": 38
+  "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
+  "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
+  "source": "BleepingComputer",
+  "published_at": "Thu, 29 Oct 2026 14:38:26 -0400",
+  "summary": "A newly identified advanced persistent threat (APT) group tracked as UAT-11473 was observed exploiting CVE-2026-20127, an authentication-bypass flaw in Cisco Catalyst SD-WAN Controllers, to deploy a custom malware framework called KeyDrift. [...]",
+  "score": 52
  },
  {
   "title": "Tech whizz s internet-accessible Synology NAS gets bit by ransomware attack from 18-month-old remote code execution flaw — security updates neglected in a series of catastrophic errors",
@@ -22,6 +22,30 @@
   "published_at": "Thu, 29 Oct 2026 12:41:14 +0000",
   "summary": "Tech whizz internet-accessible Synology NAS gets bit by transomware attack — security updates 18 months out of date in a series of catastrophic errors",
   "score": 34
+ },
+ {
+  "title": "Hackers Publish Work Details of 41,000 Homeland Security Employees",
+  "url": "https://decrypt.co/382181/hackers-publish-work-details-homeland-security-employees",
+  "source": "Decrypt",
+  "published_at": "Thu, 29 Oct 2026 18:46:02 +0000",
+  "summary": "A hacktivist group says it took names, titles, and phone numbers of 41,000-plus DHS staff from a login system.",
+  "score": 32
+ },
+ {
+  "title": "Polymarket pauses trading after $2.65 million exploit, says third-party provider was compromised",
+  "url": "https://www.theblock.co/news/defi/2026-10-29-polymarket-exploit-2-5-million-cancel-only-mode-432158",
+  "source": "The Block",
+  "published_at": "Thu, 29 Oct 2026 19:00:06 +0000",
+  "summary": "After over $2.5 million was lost within minutes on Polymarket, the platform said it has since placed its exchange in cancel-only mode.",
+  "score": 30
+ },
+ {
+  "title": "Claude Model Builds Exploits Across Major Browsers & OSes",
+  "url": "https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses",
+  "source": "Dark Reading",
+  "published_at": "Thu, 29 Oct 2026 18:15:59 GMT",
+  "summary": "An unreleased version of the AI model has found and chained multiple vulnerabilities in Chrome, Safari, Android, Windows, and Linux, Anthropic says.",
+  "score": 30
  },
  {
   "title": "Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",
@@ -40,44 +64,20 @@
   "score": 30
  },
  {
-  "title": "zkLink Nova Bridge Exploit Drains About $779,000 in One Transaction",
-  "url": "https://thedefiant.io/news/hacks/zklink-nova-bridge-exploit-drains-about-779-000-in-one-transaction",
-  "source": "The Defiant",
-  "published_at": "Thu, 29 Oct 2026 02:33:13 GMT",
-  "summary": "The main Ethereum escrow still showed an unpaused status after Blockaid warned that a forged batch root had enabled unauthorized withdrawals.",
-  "score": 30
- },
- {
-  "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
-  "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
-  "source": "Hacker News Best",
-  "published_at": "Wed, 28 Oct 2026 21:03:24 +0000",
-  "summary": "Comments URL: Points: 345",
+  "title": "Polymarket suspends trading after third-party breach leads to user losses",
+  "url": "https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses",
+  "source": "CoinDesk",
+  "published_at": "Thu, 29 Oct 2026 18:55:35 +0000",
+  "summary": "",
   "score": 28
- },
- {
-  "title": "OpenAI Plans to Buy Google s AI Chips as It Looks Beyond Nvidia: Report",
-  "url": "https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia",
-  "source": "Decrypt",
-  "published_at": "Wed, 28 Oct 2026 19:16:02 +0000",
-  "summary": "OpenAI, one of Nvidia s biggest customers, reportedly plans to buy Google s TPU chips. Neither company has confirmed the report, and the price and size of the order were not disclosed.",
-  "score": 26
  },
  {
   "title": "Cyber Vulnerabilities Besiege Italy, Absent Clear Cause",
   "url": "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy",
   "source": "Dark Reading",
   "published_at": "Thu, 29 Oct 2026 08:00:00 GMT",
-  "summary": "Researchers can t quite explain why cyber threats look so different in Italy compared to everywhere else.",
+  "summary": "Researchers can t quite explain why cyber threats look so different in Italy compared with everywhere else.",
   "score": 24
- },
- {
-  "title": "GhostAction Hacking Wave Fizzles, But Attackers Lurk on in GitHub",
-  "url": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
-  "source": "Dark Reading",
-  "published_at": "Wed, 28 Oct 2026 19:39:00 GMT",
-  "summary": "The supply chain attack campaign s shift toward developer endpoints and cloud access signals what could be next for the cybercrime outfit.",
-  "score": 22
  },
  {
   "title": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
@@ -128,27 +128,11 @@
   "score": 18
  },
  {
-  "title": "Shopify Takes Shop Pay Into AI Agents and Off-Platform Checkouts",
-  "url": "https://thedefiant.io/converge/tradfi-and-fintech/shopify-takes-shop-pay-into-ai-agents-and-off-platform-checkouts",
-  "source": "The Defiant",
-  "published_at": "Thu, 29 Oct 2026 06:04:48 GMT",
-  "summary": "Agents can pay at stores outside Shopify using single-use card credentials, without those retailers adding a new integration.",
-  "score": 18
- },
- {
   "title": "AI Agents Protect Others From Shutdown",
   "url": "https://www.lesswrong.com/posts/LFrHfCiAxFQD3Ammy/ai-agents-protect-others-from-shutdown",
   "source": "LessWrong",
   "published_at": "Thu, 29 Oct 2026 02:39:55 GMT",
   "summary": "Ulysse Schaller wrote this post based on the paper Shutdown Sabotage Propensities in Multi-Agent Systems co-authored with Amelie Knecht, Christopher Summerfield, and Thilo Hagendorff; Amelie Knecht and Thilo Hagendorff helped edit and review the post. TL;DR We put two AI agents, A and B, in an envir",
-  "score": 18
- },
- {
-  "title": "Articul8 Launches Bivia to Bring Domain-Specific Decision Intelligence to Enterprise AI Agents",
-  "url": "https://www.hpcwire.com/off-the-wire/articul8-launches-bivia-to-bring-domain-specific-decision-intelligence-to-enterprise-ai-agents/",
-  "source": "HPCwire",
-  "published_at": "Wed, 28 Oct 2026 22:04:19 +0000",
-  "summary": "New multimodal decision model combines domain specialization, calibrated decisions and adaptive verification to bring greater precision to enterprise AI agents SANTA CLARA, Calif., Oct. 28, 2026 — Articul8, a provider of domain-specific generative AI solutions for enterprises, today introduced Bivia",
   "score": 18
  },
  {
@@ -158,5 +142,21 @@
   "published_at": "Thu, 29 Oct 2026 11:00:00 +0000",
   "summary": "A research administrator at the University of Kentucky was granted a Title VII exemption, allowing them to not use AI tools as it goes against their moral beliefs.",
   "score": 16
+ },
+ {
+  "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
+  "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
+  "source": "Hacker News Frontpage",
+  "published_at": "Thu, 29 Oct 2026 00:30:37 +0000",
+  "summary": "Comments URL: Points: 9",
+  "score": 16
+ },
+ {
+  "title": "AI #192: Anthropic Is Going Public",
+  "url": "https://www.lesswrong.com/posts/mBDkupZa3NagfLW86/ai-192-anthropic-is-going-public",
+  "source": "LessWrong",
+  "published_at": "Thu, 29 Oct 2026 13:50:54 GMT",
+  "summary": "Anthropic filed its S-1 this week to prepare for its IPO. They still have to fill a lot of the numbers including the share price. That still left a lot to be learned, including how the messaging to investors differs from their other rhetoric, and exactly how their corporate control is structured. An",
+  "score": 14
  }
 ]
