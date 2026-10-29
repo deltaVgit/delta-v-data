@@ -8,6 +8,14 @@
   "score": 52
  },
  {
+  "title": "BINANCE HACK RATTLES CRYPTO MARKETS AS BNB FALLS 7%, BITCOIN SLIDES",
+  "url": "https://www.tradingview.com/news/cointelegraph:f1e84ffb6094b:0-binance-hack-rattles-crypto-markets-as-bnb-falls-7-bitcoin-slides/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-29T23:30:28Z",
+  "summary": "",
+  "score": 34
+ },
+ {
   "title": "Tech whizz s internet-accessible Synology NAS gets bit by ransomware attack from 18-month-old remote code execution flaw — security updates neglected in a series of catastrophic errors",
   "url": "https://www.tomshardware.com/tech-industry/cyber-security/tech-whizzs-internet-accessible-synology-nas-gets-bit-by-ransomware-attack-from-18-month-old-remote-code-execution-flaw-security-updates-neglected-in-a-series-of-catastrophic-errors",
   "source": "Tom's Hardware",
@@ -24,11 +32,11 @@
   "score": 32
  },
  {
-  "title": "POLYMARKET RESUMES TRADING AFTER $2.65 MILLION EXPLOIT, SAYS THIRD-PARTY PROVIDER WAS COMPROMISED",
-  "url": "https://www.tradingview.com/news/the_block:12f9e601d094b:0-polymarket-resumes-trading-after-2-65-million-exploit-says-third-party-provider-was-compromised/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-29T20:23:19Z",
-  "summary": "",
+  "title": "Open-weight AI models can exploit the patch gap",
+  "url": "https://epoch.ai/publications/open-weight-models-patch-gap",
+  "source": "Hacker News Frontpage",
+  "published_at": "Thu, 29 Oct 2026 22:32:46 +0000",
+  "summary": "Comments URL: Points: 3",
   "score": 30
  },
  {
@@ -56,14 +64,6 @@
   "score": 30
  },
  {
-  "title": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
-  "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
-  "source": "BleepingComputer",
-  "published_at": "Thu, 29 Oct 2026 07:10:13 -0400",
-  "summary": "Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable firewall devices. [...]",
-  "score": 30
- },
- {
   "title": "Bubblemaps Traces $2.7 Million Outflow From Polymarket Breach",
   "url": "https://thedefiant.io/news/hacks/bubblemaps-traces-2-7-million-outflow-from-polymarket-breach",
   "source": "The Defiant",
@@ -80,83 +80,83 @@
   "score": 28
  },
  {
-  "title": "Cyber Vulnerabilities Besiege Italy, Absent Clear Cause",
-  "url": "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy",
+  "title": "Japan Airlines suffers third-party data breach exposing passenger info",
+  "url": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
+  "source": "BleepingComputer",
+  "published_at": "Thu, 29 Oct 2026 18:08:04 -0400",
+  "summary": "Japan Airlines (JAL) has announced that a data breach at Amadeus s Passenger Service System exposed the data of about 92,000 customers. [...]",
+  "score": 28
+ },
+ {
+  "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
+  "url": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
+  "source": "BleepingComputer",
+  "published_at": "Thu, 29 Oct 2026 17:47:25 -0400",
+  "summary": "Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2.5 million in assets traced to a suspected attacker wallet. [...]",
+  "score": 28
+ },
+ {
+  "title": "Anthropic-Themed Phishing Emails Bypass Top Security Tools",
+  "url": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools",
   "source": "Dark Reading",
-  "published_at": "Thu, 29 Oct 2026 08:00:00 GMT",
-  "summary": "Researchers can t quite explain why cyber threats look so different in Italy compared with everywhere else.",
+  "published_at": "Thu, 29 Oct 2026 21:21:56 GMT",
+  "summary": "Obvious phishing emails with numerous red flags are somehow getting past some of the industry-leading secure email gateway (SEG) products.",
   "score": 24
  },
  {
-  "title": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
-  "url": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/",
-  "source": "Ars Technica",
-  "published_at": "Thu, 29 Oct 2026 12:58:34 +0000",
-  "summary": "The leak reveals undercover agents, surveillance groups, and sensitive DHS access.",
-  "score": 18
+  "title": "Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets",
+  "url": "https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum",
+  "source": "Decrypt",
+  "published_at": "Thu, 29 Oct 2026 22:57:48 +0000",
+  "summary": "Etherscan records show wallets tied to the suspected Binance hack swapping freezable stablecoins for Ethereum on decentralized exchanges.",
+  "score": 22
  },
  {
-  "title": "Our first step at defining a CPU benchmark for agentic AI",
-  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/our-first-step-at-defining-a-cpu-benchmark-for-agentic-ai-how-we-can-measure-throughput-of-agentic-ai-workloads-without-any-gpu-involved",
-  "source": "Tom's Hardware",
-  "published_at": "Thu, 29 Oct 2026 12:20:00 +0000",
-  "summary": "Over the past six months, CPUs have taken center stage as agentic AI workloads evolve. Here’s our first attempt at trying to measure CPU performance when running agentic workloads.",
-  "score": 18
+  "title": "Binance Pauses Withdrawals Amid Suspected Hack, Says User Funds Are Safe",
+  "url": "https://thedefiant.io/news/hacks/binance-wallet-outflows-widen-to-three-accounts-in-suspected-hack",
+  "source": "The Defiant",
+  "published_at": "Thu, 29 Oct 2026 22:10:31 GMT",
+  "summary": "Tether says it froze more than 1.567 billion USDT as Binance investigates large wallet outflows and conducts security checks.",
+  "score": 22
  },
  {
-  "title": "The Download: AI agent tracking and climate feedback loops",
-  "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
-  "source": "MIT Technology Review",
-  "published_at": "Thu, 29 Oct 2026 12:10:00 +0000",
-  "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit advancing be",
-  "score": 18
+  "title": "Binance Drained of $5.5 Billion in Suspected Hack, Tether and Circle Freeze $1.8 Billion",
+  "url": "https://decrypt.co/382191/binance-suspected-hack-5-billion-tether-circle-freeze-crypto",
+  "source": "Decrypt",
+  "published_at": "Thu, 29 Oct 2026 21:36:24 +0000",
+  "summary": "An on-chain tally puts the suspected Binance drain at $5.57 billion across three blockchains, as Tether and Circle froze $1.8 billion.",
+  "score": 22
  },
  {
-  "title": "We urgently need to monitor AI agents’ actions in real time",
-  "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-  "source": "MIT Technology Review",
-  "published_at": "Thu, 29 Oct 2026 10:11:12 +0000",
-  "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Aus",
-  "score": 18
+  "title": "How Wallet Permissions Linked Two Accounts in the Suspected Binance Hack",
+  "url": "https://thedefiant.io/news/security/binance-labeled-wallet-swept-minutes-after-eip-7702-delegation",
+  "source": "The Defiant",
+  "published_at": "Thu, 29 Oct 2026 21:04:09 GMT",
+  "summary": "Delegated code on Binance 14 could move its own assets and exercise ownership of another wallet. The records do not establish how that permission was obtained.",
+  "score": 22
  },
  {
-  "title": "3 Ways AI Agents Already Operate in Your Browser",
-  "url": "https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser/",
+  "title": "Binance probes potential $5.8 billion crypto-theft hack",
+  "url": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
   "source": "BleepingComputer",
-  "published_at": "Thu, 29 Oct 2026 10:00:10 -0400",
-  "summary": "AI agents can control authenticated browsers, interact with corporate applications, and access sensitive data while appearing to act as legitimate employees. Keep Aware examines three ways agents operate inside browsers and why traditional security tools may struggle to distinguish their activity fr",
+  "published_at": "Thu, 29 Oct 2026 18:45:23 -0400",
+  "summary": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]",
+  "score": 22
+ },
+ {
+  "title": "We ran AI agent swarms in Minecraft and Mindustry",
+  "url": "https://labs.ycombinator.com/projects/games/index.html",
+  "source": "Hacker News Frontpage",
+  "published_at": "Thu, 29 Oct 2026 21:40:28 +0000",
+  "summary": "Comments URL: Points: 69",
   "score": 18
  },
  {
-  "title": "Physics-Based Validation: The Foundation Of Trustworthy Agentic EDA",
-  "url": "https://semiengineering.com/physics-based-validation-the-foundation-of-trustworthy-agentic-eda/",
-  "source": "SemiEngineering",
-  "published_at": "Thu, 29 Oct 2026 07:07:05 +0000",
-  "summary": "What self-verifying agents validate their decisions against and why physics-based engines are the authority on correctness. The post Physics-Based Validation: The Foundation Of Trustworthy Agentic EDA appeared first on Semiconductor Engineering .",
-  "score": 18
- },
- {
-  "title": "AI Agents Protect Others From Shutdown",
-  "url": "https://www.lesswrong.com/posts/LFrHfCiAxFQD3Ammy/ai-agents-protect-others-from-shutdown",
+  "title": "Someone Made an Infra-Bayesian RL Agent, and it One-Boxes!",
+  "url": "https://www.lesswrong.com/posts/BnFPBevp8Cdw2NKoq/someone-made-an-infra-bayesian-rl-agent-and-it-one-boxes",
   "source": "LessWrong",
-  "published_at": "Thu, 29 Oct 2026 02:39:55 GMT",
-  "summary": "Ulysse Schaller wrote this post based on the paper Shutdown Sabotage Propensities in Multi-Agent Systems co-authored with Amelie Knecht, Christopher Summerfield, and Thilo Hagendorff; Amelie Knecht and Thilo Hagendorff helped edit and review the post. TL;DR We put two AI agents, A and B, in an envir",
+  "published_at": "Thu, 29 Oct 2026 20:35:27 GMT",
+  "summary": "Someone made an infra-bayesian RL agent , and it learns to one-box . Arxiv paper , GitHub repo . Discuss",
   "score": 18
- },
- {
-  "title": "Man granted first-of-its-kind religious exemption against mandatory AI use at work — Humanist argues that offloading his thinking to LLMs violates his beliefs, Title VII accommodation protects employe",
-  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/secular-humanist-gets-religious-exemption-from-using-ai-argues-that-offloading-his-thinking-to-llms-violates-his-beliefs-american-humanist-association-says-its-the-first-case-of-its-kind",
-  "source": "Tom's Hardware",
-  "published_at": "Thu, 29 Oct 2026 11:00:00 +0000",
-  "summary": "A research administrator at the University of Kentucky was granted a Title VII exemption, allowing them to not use AI tools as it goes against their moral beliefs.",
-  "score": 16
- },
- {
-  "title": "AI #192: Anthropic Is Going Public",
-  "url": "https://www.lesswrong.com/posts/mBDkupZa3NagfLW86/ai-192-anthropic-is-going-public",
-  "source": "LessWrong",
-  "published_at": "Thu, 29 Oct 2026 13:50:54 GMT",
-  "summary": "Anthropic filed its S-1 this week to prepare for its IPO. They still have to fill a lot of the numbers including the share price. That still left a lot to be learned, including how the messaging to investors differs from their other rhetoric, and exactly how their corporate control is structured. An",
-  "score": 14
  }
 ]
