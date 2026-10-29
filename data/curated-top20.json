@@ -24,22 +24,6 @@
   "score": 30
  },
  {
-  "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
-  "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
-  "source": "BleepingComputer",
-  "published_at": "Wed, 28 Oct 2026 10:00:00 -0400",
-  "summary": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as PHP2Shell put the web management interfaces of firewalls, VPNs, application delivery controllers, and other appliances at risk. [...]",
-  "score": 30
- },
- {
-  "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
-  "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
-  "source": "Hacker News Best",
-  "published_at": "Wed, 28 Oct 2026 21:03:24 +0000",
-  "summary": "Comments URL: Points: 311",
-  "score": 28
- },
- {
   "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
   "url": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
   "source": "BleepingComputer",
@@ -56,12 +40,28 @@
   "score": 26
  },
  {
+  "title": "Cyber Vulnerabilities Besiege Italy, Absent Clear Cause",
+  "url": "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy",
+  "source": "Dark Reading",
+  "published_at": "Thu, 29 Oct 2026 08:00:00 GMT",
+  "summary": "Researchers can t quite explain why cyber threats look so different in Italy compared to everywhere else.",
+  "score": 24
+ },
+ {
   "title": "GhostAction Hacking Wave Fizzles, But Attackers Lurk on in GitHub",
   "url": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
   "source": "Dark Reading",
   "published_at": "Wed, 28 Oct 2026 19:39:00 GMT",
   "summary": "The supply chain attack campaign s shift toward developer endpoints and cloud access signals what could be next for the cybercrime outfit.",
   "score": 22
+ },
+ {
+  "title": "Physics-Based Validation: The Foundation Of Trustworthy Agentic EDA",
+  "url": "https://semiengineering.com/physics-based-validation-the-foundation-of-trustworthy-agentic-eda/",
+  "source": "SemiEngineering",
+  "published_at": "Thu, 29 Oct 2026 07:07:05 +0000",
+  "summary": "What self-verifying agents validate their decisions against and why physics-based engines are the authority on correctness. The post Physics-Based Validation: The Foundation Of Trustworthy Agentic EDA appeared first on Semiconductor Engineering .",
+  "score": 18
  },
  {
   "title": "Shopify Takes Shop Pay Into AI Agents and Off-Platform Checkouts",
@@ -100,7 +100,7 @@
   "url": "https://surgehq.ai/blog/dayjob-tax",
   "source": "Hacker News Frontpage",
   "published_at": "Wed, 28 Oct 2026 15:46:30 +0000",
-  "summary": "Comments URL: Points: 222",
+  "summary": "Comments URL: Points: 227",
   "score": 18
  },
  {
@@ -108,23 +108,7 @@
   "url": "https://cursor.com/blog/agent-sdk",
   "source": "Hacker News Frontpage",
   "published_at": "Wed, 28 Oct 2026 14:02:20 +0000",
-  "summary": "Comments URL: Points: 114",
-  "score": 18
- },
- {
-  "title": "Legora is building the agentic operating system for legal work",
-  "url": "https://openai.com/index/legora",
-  "source": "OpenAI Blog",
-  "published_at": "Wed, 28 Oct 2026 09:30:00 GMT",
-  "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-  "score": 18
- },
- {
-  "title": "Legora is building the agentic operating system for legal work",
-  "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
-  "source": "OpenAI Blog",
-  "published_at": "Wed, 28 Oct 2026 09:30:00 GMT",
-  "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+  "summary": "Comments URL: Points: 124",
   "score": 18
  },
  {
@@ -152,10 +136,26 @@
   "score": 14
  },
  {
-  "title": "BITWISE PROJECTS $1.6 MILLION BITCOIN BY 2036. DOES GOLD HOLD THE KEY?",
-  "url": "https://www.tradingview.com/news/beincrypto:2b9b0b357094b:0-bitwise-projects-1-6-million-bitcoin-by-2036-does-gold-hold-the-key/",
+  "title": "ETHEREUM HEADS FOR WORST OCTOBER SINCE 2018 AS EARLY WHALES WAKE UP",
+  "url": "https://www.tradingview.com/news/beincrypto:8387d51e2094b:0-ethereum-heads-for-worst-october-since-2018-as-early-whales-wake-up/",
   "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-29T06:30:32Z",
+  "published_at": "2026-10-29T08:41:15Z",
+  "summary": "",
+  "score": 12
+ },
+ {
+  "title": "BITCOIN PRICE NEWS: WHY BTC MAY HAVE HIT ITS CYCLE LOW NEAR $80,000",
+  "url": "https://www.tradingview.com/news/coinpedia:fc3058c1b094b:0-bitcoin-price-news-why-btc-may-have-hit-its-cycle-low-near-80-000/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-29T08:13:15Z",
+  "summary": "",
+  "score": 12
+ },
+ {
+  "title": "The chart bitcoin traders should be paying attention to",
+  "url": "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to",
+  "source": "CoinDesk",
+  "published_at": "Thu, 29 Oct 2026 07:44:44 +0000",
   "summary": "",
   "score": 12
  }

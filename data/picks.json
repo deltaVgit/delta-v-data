@@ -25,14 +25,6 @@
    "score": 42
   },
   {
-   "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
-   "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
-   "source": "BleepingComputer",
-   "published_at": "Wed, 28 Oct 2026 10:00:00 -0400",
-   "summary": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as PHP2Shell put the web management interfaces of firewalls, VPNs, application delivery controllers, and other appliances at risk. [...]",
-   "score": 40
-  },
-  {
    "title": "Allium Discloses Security Breach, Revokes API Keys",
    "url": "https://thedefiant.io/news/security/allium-discloses-security-breach-revokes-api-keys",
    "source": "The Defiant",
@@ -55,6 +47,22 @@
    "published_at": "Wed, 28 Oct 2026 19:39:00 GMT",
    "summary": "The supply chain attack campaign s shift toward developer endpoints and cloud access signals what could be next for the cybercrime outfit.",
    "score": 34
+  },
+  {
+   "title": "Cyber Vulnerabilities Besiege Italy, Absent Clear Cause",
+   "url": "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy",
+   "source": "Dark Reading",
+   "published_at": "Thu, 29 Oct 2026 08:00:00 GMT",
+   "summary": "Researchers can t quite explain why cyber threats look so different in Italy compared to everywhere else.",
+   "score": 30
+  },
+  {
+   "title": "MIZUHO BANK TO RAISE YEN TERM DEPOSIT RATES FROM NOVEMBER 2.",
+   "url": "https://x.com/financialjuice/status/2115716853108503027",
+   "source": "MarketNewsFeed [MACRO]",
+   "published_at": "2026-10-29T08:06:28Z",
+   "summary": "",
+   "score": 16
   },
   {
    "title": "San Diego Supercomputer Center Celebrates Protein Data Bank’s 55th Anniversary",
@@ -87,15 +95,7 @@
    "published_at": "Wed, 28 Oct 2026 12:16:30 +0000",
    "summary": "The ratings agency cited RLUSD s Treasury-heavy reserves, but noted that holders have no direct ownership interest in them for now.",
    "score": 16
-  },
-  {
-   "title": "Standalone Nvidia Vera CPUs land in Oracle Cloud s multi-gigawatt deployment — our independent benchmarking of a local server reveals Vera s massive memory bandwidth lead over dual Xeon 6 server",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-and-oracle-bring-vera-cpu-instances-online-in-multi-gigawatt-deployment-oci-superclusters-also-set-to-expand-with-rubin-only-clusters-attached-to-dual-xeon-6-hosts",
-   "source": "Tom's Hardware",
-   "published_at": "Wed, 28 Oct 2026 11:00:00 +0000",
-   "summary": "Nvidia’s Vera CPU is now generally available on Oracle’s OCI Superclusters, a win for Nvidia as it moves past NVL72 to a standalone Vera deployment at a major hyperscaler.",
-   "score": 16
   }
  ],
- "updatedAt": "2026-10-29T06:50:48.296225+00:00"
+ "updatedAt": "2026-10-29T08:53:23.699788+00:00"
 }
