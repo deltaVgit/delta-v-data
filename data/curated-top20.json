@@ -52,7 +52,7 @@
   "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
   "source": "Hacker News Best",
   "published_at": "Wed, 28 Oct 2026 21:03:24 +0000",
-  "summary": "Comments URL: Points: 325",
+  "summary": "Comments URL: Points: 345",
   "score": 28
  },
  {
@@ -80,6 +80,14 @@
   "score": 22
  },
  {
+  "title": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
+  "url": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/",
+  "source": "Ars Technica",
+  "published_at": "Thu, 29 Oct 2026 12:58:34 +0000",
+  "summary": "The leak reveals undercover agents, surveillance groups, and sensitive DHS access.",
+  "score": 18
+ },
+ {
   "title": "Our first step at defining a CPU benchmark for agentic AI",
   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/our-first-step-at-defining-a-cpu-benchmark-for-agentic-ai-how-we-can-measure-throughput-of-agentic-ai-workloads-without-any-gpu-involved",
   "source": "Tom's Hardware",
@@ -101,6 +109,14 @@
   "source": "MIT Technology Review",
   "published_at": "Thu, 29 Oct 2026 10:11:12 +0000",
   "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Aus",
+  "score": 18
+ },
+ {
+  "title": "3 Ways AI Agents Already Operate in Your Browser",
+  "url": "https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser/",
+  "source": "BleepingComputer",
+  "published_at": "Thu, 29 Oct 2026 10:00:10 -0400",
+  "summary": "AI agents can control authenticated browsers, interact with corporate applications, and access sensitive data while appearing to act as legitimate employees. Keep Aware examines three ways agents operate inside browsers and why traditional security tools may struggle to distinguish their activity fr",
   "score": 18
  },
  {
@@ -142,21 +158,5 @@
   "published_at": "Thu, 29 Oct 2026 11:00:00 +0000",
   "summary": "A research administrator at the University of Kentucky was granted a Title VII exemption, allowing them to not use AI tools as it goes against their moral beliefs.",
   "score": 16
- },
- {
-  "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
-  "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
-  "source": "Hacker News Frontpage",
-  "published_at": "Thu, 29 Oct 2026 00:30:37 +0000",
-  "summary": "Comments URL: Points: 9",
-  "score": 16
- },
- {
-  "title": "Anthropic’s IPO filing shows most of its compute goes to R&D, not serving customers — company details massive $800 billion in TPU and GPU contracts",
-  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ipo-filing-shows-most-of-its-compute-goes-to-r-and-d-not-serving-customers-company-details-massive-usd800-billion-in-tpu-and-gpu-contracts",
-  "source": "Tom's Hardware",
-  "published_at": "Thu, 29 Oct 2026 11:30:00 +0000",
-  "summary": "Anthropic’s S-1 splits its $8.9 billion H1 compute bill: most went to R&D, with less than a third estimated to serve Claude customers.",
-  "score": 14
  }
 ]
