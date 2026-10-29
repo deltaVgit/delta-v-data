@@ -8,6 +8,14 @@
   "score": 60
  },
  {
+  "title": "Allium Discloses Security Breach, Revokes API Keys",
+  "url": "https://thedefiant.io/news/security/allium-discloses-security-breach-revokes-api-keys",
+  "source": "The Defiant",
+  "published_at": "Thu, 29 Oct 2026 01:52:57 GMT",
+  "summary": "Core services are back online, but uploaded-data access remains disabled and gaps in some data feeds are still being filled.",
+  "score": 38
+ },
+ {
   "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
   "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
   "source": "BleepingComputer",
@@ -20,7 +28,7 @@
   "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
   "source": "Hacker News Best",
   "published_at": "Wed, 28 Oct 2026 21:03:24 +0000",
-  "summary": "Comments URL: Points: 251",
+  "summary": "Comments URL: Points: 280",
   "score": 28
  },
  {
@@ -76,7 +84,7 @@
   "url": "https://surgehq.ai/blog/dayjob-tax",
   "source": "Hacker News Frontpage",
   "published_at": "Wed, 28 Oct 2026 15:46:30 +0000",
-  "summary": "Comments URL: Points: 192",
+  "summary": "Comments URL: Points: 207",
   "score": 18
  },
  {
@@ -84,7 +92,7 @@
   "url": "https://cursor.com/blog/agent-sdk",
   "source": "Hacker News Frontpage",
   "published_at": "Wed, 28 Oct 2026 14:02:20 +0000",
-  "summary": "Comments URL: Points: 91",
+  "summary": "Comments URL: Points: 99",
   "score": 18
  },
  {
@@ -104,6 +112,14 @@
   "score": 18
  },
  {
+  "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
+  "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
+  "source": "Hacker News Frontpage",
+  "published_at": "Thu, 29 Oct 2026 00:30:37 +0000",
+  "summary": "Comments URL: Points: 9",
+  "score": 16
+ },
+ {
   "title": "AI Can Quietly Influence Experts’ Decisions, Anthropic Study Finds",
   "url": "https://decrypt.co/382065/ai-can-quietly-influence-experts-decisions",
   "source": "Decrypt",
@@ -120,43 +136,27 @@
   "score": 14
  },
  {
-  "title": "Anthropic Files Its S-1",
-  "url": "https://www.lesswrong.com/posts/dbdz6zb6qjaq6yHKs/anthropic-files-its-s-1",
-  "source": "LessWrong",
-  "published_at": "Wed, 28 Oct 2026 12:20:53 GMT",
-  "summary": "The full text is finally here , so we are giving it the full RTFB of model card treatment. First, a recap of the state of Anthropic finances, then a close reading of the relevant parts of the S-1. A lot of it is technical and uninteresting, often pro forma, and gets skipped. A lot of it gets repeate",
-  "score": 14
- },
- {
-  "title": "BITWISE CIO SAYS BITCOIN SHOWED STRONG GROWTH THIS YEAR DESPITE PRICE WEAKNESS",
-  "url": "https://www.tradingview.com/news/bloomingbit:246515ad0094b:0-bitwise-cio-says-bitcoin-showed-strong-growth-this-year-despite-price-weakness/",
+  "title": "BITCOIN SLIPS AS INVESTORS AWAIT U.S. DATA — MARKET TALK",
+  "url": "https://www.tradingview.com/news/DJN_DN20261028017734:0-bitcoin-slips-as-investors-await-u-s-data-market-talk/",
   "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-29T00:13:50Z",
+  "published_at": "2026-10-29T02:24:38Z",
   "summary": "",
   "score": 12
  },
  {
-  "title": "Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks",
-  "url": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc",
-  "source": "Decrypt",
-  "published_at": "Wed, 28 Oct 2026 21:46:02 +0000",
-  "summary": "Datavault AI says it has been unable to withdraw its Bitcoin from Biconomy since June and will restate four financial reports tied to a $150 million Scilex deal.",
-  "score": 12
- },
- {
-  "title": "Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
-  "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost",
-  "source": "CoinDesk",
-  "published_at": "Wed, 28 Oct 2026 21:13:44 +0000",
+  "title": "BITCOIN SLIPS AS INVESTORS AWAIT U.S. DATA — MARKET TALK",
+  "url": "https://www.tradingview.com/news/DJN_DN20261028017733:0-bitcoin-slips-as-investors-await-u-s-data-market-talk/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-29T02:15:17Z",
   "summary": "",
   "score": 12
  },
  {
-  "title": "Aave Raises Bitcoin and Ether Collateral Borrowing Limits Across V3 and V4",
-  "url": "https://thedefiant.io/news/defi/aave-raises-bitcoin-and-ether-collateral-borrowing-limits-across-v3-and-v4",
+  "title": "Bitcoin Core Patches Three Bugs, Including Non-Linux Node Crash",
+  "url": "https://thedefiant.io/news/security/bitcoin-core-patches-three-bugs-including-non-linux-node-crash",
   "source": "The Defiant",
-  "published_at": "Wed, 28 Oct 2026 19:14:19 GMT",
-  "summary": "Core WBTC and cbBTC borrowers gain about 11% more capacity against the same collateral, but drawing the new maximum leaves less room for a price drop.",
+  "published_at": "Thu, 29 Oct 2026 01:06:59 GMT",
+  "summary": "Fixes are available in four release branches, but 32-bit systems and FAT32 storage remain exposed to a separate, low-severity flaw.",
   "score": 12
  }
 ]
