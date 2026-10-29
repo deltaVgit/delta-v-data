@@ -1,11 +1,27 @@
 [
  {
+  "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+  "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+  "source": "Hacker News Frontpage",
+  "published_at": "Wed, 28 Oct 2026 23:45:46 +0000",
+  "summary": "Comments URL: Points: 15",
+  "score": 60
+ },
+ {
   "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
   "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
   "source": "BleepingComputer",
   "published_at": "Wed, 28 Oct 2026 10:00:00 -0400",
   "summary": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as PHP2Shell put the web management interfaces of firewalls, VPNs, application delivery controllers, and other appliances at risk. [...]",
   "score": 30
+ },
+ {
+  "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
+  "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+  "source": "Hacker News Best",
+  "published_at": "Wed, 28 Oct 2026 21:03:24 +0000",
+  "summary": "Comments URL: Points: 251",
+  "score": 28
  },
  {
   "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
@@ -48,14 +64,6 @@
   "score": 18
  },
  {
-  "title": "Making alignment the agent s problem",
-  "url": "https://www.lesswrong.com/posts/JGCx6gzGaGXaYJnt3/making-alignment-the-agent-s-problem",
-  "source": "LessWrong",
-  "published_at": "Wed, 28 Oct 2026 16:18:27 GMT",
-  "summary": "TL;DR: Agents are not rewarded for keeping the agents they delegate to aligned. Proposal: RL environments where the helpers are deliberately misaligned, so the agent can t earn its reward without dealing with that. The $300 bounty from my last post also covers this one (details at the end). After th",
-  "score": 18
- },
- {
   "title": "Crypto Long & Short: What happens when an AI agent pays for the wrong thing",
   "url": "https://www.coindesk.com/coindesk-indices/2026/10/28/crypto-long-and-short-what-happens-when-an-ai-agent-pays-for-the-wrong-thing",
   "source": "CoinDesk",
@@ -68,7 +76,7 @@
   "url": "https://surgehq.ai/blog/dayjob-tax",
   "source": "Hacker News Frontpage",
   "published_at": "Wed, 28 Oct 2026 15:46:30 +0000",
-  "summary": "Comments URL: Points: 175",
+  "summary": "Comments URL: Points: 192",
   "score": 18
  },
  {
@@ -76,7 +84,7 @@
   "url": "https://cursor.com/blog/agent-sdk",
   "source": "Hacker News Frontpage",
   "published_at": "Wed, 28 Oct 2026 14:02:20 +0000",
-  "summary": "Comments URL: Points: 84",
+  "summary": "Comments URL: Points: 91",
   "score": 18
  },
  {
@@ -120,43 +128,35 @@
   "score": 14
  },
  {
-  "title": "SWISS FINMA APPROVES FIRST DOMESTIC RETAIL BITCOIN ETF",
-  "url": "https://www.tradingview.com/news/newsbtc:53e617c67094b:0-swiss-finma-approves-first-domestic-retail-bitcoin-etf/",
+  "title": "BITWISE CIO SAYS BITCOIN SHOWED STRONG GROWTH THIS YEAR DESPITE PRICE WEAKNESS",
+  "url": "https://www.tradingview.com/news/bloomingbit:246515ad0094b:0-bitwise-cio-says-bitcoin-showed-strong-growth-this-year-despite-price-weakness/",
   "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-28T23:08:28Z",
+  "published_at": "2026-10-29T00:13:50Z",
   "summary": "",
   "score": 12
  },
  {
-  "title": "BITCOIN LONG-TERM HOLDERS FACE RISING LOSSES, WITH SELLING PRESSURE RISK IF BTC RECLAIMS $85,000",
-  "url": "https://www.tradingview.com/news/bloomingbit:efd860e2c094b:0-bitcoin-long-term-holders-face-rising-losses-with-selling-pressure-risk-if-btc-reclaims-85-000/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-28T22:40:27Z",
+  "title": "Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks",
+  "url": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc",
+  "source": "Decrypt",
+  "published_at": "Wed, 28 Oct 2026 21:46:02 +0000",
+  "summary": "Datavault AI says it has been unable to withdraw its Bitcoin from Biconomy since June and will restate four financial reports tied to a $150 million Scilex deal.",
+  "score": 12
+ },
+ {
+  "title": "Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
+  "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost",
+  "source": "CoinDesk",
+  "published_at": "Wed, 28 Oct 2026 21:13:44 +0000",
   "summary": "",
   "score": 12
  },
  {
-  "title": "FED HOLDS RATES AT 3.75%-4% AS BITCOIN NEARS $81K: WHAT’S NEXT?",
-  "url": "https://www.tradingview.com/news/coinpedia:4e66bea06094b:0-fed-holds-rates-at-3-75-4-as-bitcoin-nears-81k-what-s-next/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-28T22:40:26Z",
-  "summary": "",
-  "score": 12
- },
- {
-  "title": "BITCOIN LONG-TERM HOLDER LOSSES DEEPEN, SPARKING SELLING PRESSURE RISK ON REBOUND TO $85,000",
-  "url": "https://www.tradingview.com/news/bloomingbit:efd860e2c094b:0-bitcoin-long-term-holder-losses-deepen-sparking-selling-pressure-risk-on-rebound-to-85-000/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-28T22:21:46Z",
-  "summary": "",
-  "score": 12
- },
- {
-  "title": "ETHEREUM RESEARCHERS EXPLORE TRANSACTION ASSERTIONS TO REDUCE SIGNING RISKS",
-  "url": "https://www.tradingview.com/news/newsbtc:1f3355a6a094b:0-ethereum-researchers-explore-transaction-assertions-to-reduce-signing-risks/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-28T22:12:26Z",
-  "summary": "",
+  "title": "Aave Raises Bitcoin and Ether Collateral Borrowing Limits Across V3 and V4",
+  "url": "https://thedefiant.io/news/defi/aave-raises-bitcoin-and-ether-collateral-borrowing-limits-across-v3-and-v4",
+  "source": "The Defiant",
+  "published_at": "Wed, 28 Oct 2026 19:14:19 GMT",
+  "summary": "Core WBTC and cbBTC borrowers gain about 11% more capacity against the same collateral, but drawing the new maximum leaves less room for a price drop.",
   "score": 12
  }
 ]
