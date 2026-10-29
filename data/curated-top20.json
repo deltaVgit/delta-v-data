@@ -1,13 +1,5 @@
 [
  {
-  "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-  "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-  "source": "Hacker News Frontpage",
-  "published_at": "Wed, 28 Oct 2026 23:45:46 +0000",
-  "summary": "Comments URL: Points: 15",
-  "score": 60
- },
- {
   "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
   "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
   "source": "BleepingComputer",
@@ -30,6 +22,14 @@
   "published_at": "Thu, 29 Oct 2026 18:46:02 +0000",
   "summary": "A hacktivist group says it took names, titles, and phone numbers of 41,000-plus DHS staff from a login system.",
   "score": 32
+ },
+ {
+  "title": "POLYMARKET RESUMES TRADING AFTER $2.65 MILLION EXPLOIT, SAYS THIRD-PARTY PROVIDER WAS COMPROMISED",
+  "url": "https://www.tradingview.com/news/the_block:12f9e601d094b:0-polymarket-resumes-trading-after-2-65-million-exploit-says-third-party-provider-was-compromised/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-29T20:23:19Z",
+  "summary": "",
+  "score": 30
  },
  {
   "title": "Polymarket pauses trading after $2.65 million exploit, says third-party provider was compromised",
@@ -62,6 +62,14 @@
   "published_at": "Thu, 29 Oct 2026 07:10:13 -0400",
   "summary": "Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable firewall devices. [...]",
   "score": 30
+ },
+ {
+  "title": "Bubblemaps Traces $2.7 Million Outflow From Polymarket Breach",
+  "url": "https://thedefiant.io/news/hacks/bubblemaps-traces-2-7-million-outflow-from-polymarket-breach",
+  "source": "The Defiant",
+  "published_at": "Thu, 29 Oct 2026 19:40:31 GMT",
+  "summary": "Trading is back online and Polymarket has pledged full reimbursement, while a trader cited in the tracing says he moved funds to safety.",
+  "score": 28
  },
  {
   "title": "Polymarket suspends trading after third-party breach leads to user losses",
@@ -141,14 +149,6 @@
   "source": "Tom's Hardware",
   "published_at": "Thu, 29 Oct 2026 11:00:00 +0000",
   "summary": "A research administrator at the University of Kentucky was granted a Title VII exemption, allowing them to not use AI tools as it goes against their moral beliefs.",
-  "score": 16
- },
- {
-  "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
-  "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
-  "source": "Hacker News Frontpage",
-  "published_at": "Thu, 29 Oct 2026 00:30:37 +0000",
-  "summary": "Comments URL: Points: 9",
   "score": 16
  },
  {

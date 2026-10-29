@@ -9,14 +9,6 @@
    "score": 100
   },
   {
-   "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-   "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-   "source": "Hacker News Frontpage",
-   "published_at": "Wed, 28 Oct 2026 23:45:46 +0000",
-   "summary": "Comments URL: Points: 15",
-   "score": 68
-  },
-  {
    "title": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
    "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
    "source": "BleepingComputer",
@@ -33,6 +25,14 @@
    "score": 48
   },
   {
+   "title": "POLYMARKET RESUMES TRADING AFTER $2.65 MILLION EXPLOIT, SAYS THIRD-PARTY PROVIDER WAS COMPROMISED",
+   "url": "https://www.tradingview.com/news/the_block:12f9e601d094b:0-polymarket-resumes-trading-after-2-65-million-exploit-says-third-party-provider-was-compromised/",
+   "source": "MarketNewsFeed [CRYPTO]",
+   "published_at": "2026-10-29T20:23:19Z",
+   "summary": "",
+   "score": 40
+  },
+  {
    "title": "Polymarket pauses trading after $2.65 million exploit, says third-party provider was compromised",
    "url": "https://www.theblock.co/news/defi/2026-10-29-polymarket-exploit-2-5-million-cancel-only-mode-432158",
    "source": "The Block",
@@ -47,6 +47,14 @@
    "published_at": "Thu, 29 Oct 2026 10:42:41 +0000",
    "summary": "Comments URL: Points: 4",
    "score": 40
+  },
+  {
+   "title": "Bubblemaps Traces $2.7 Million Outflow From Polymarket Breach",
+   "url": "https://thedefiant.io/news/hacks/bubblemaps-traces-2-7-million-outflow-from-polymarket-breach",
+   "source": "The Defiant",
+   "published_at": "Thu, 29 Oct 2026 19:40:31 GMT",
+   "summary": "Trading is back online and Polymarket has pledged full reimbursement, while a trader cited in the tracing says he moved funds to safety.",
+   "score": 38
   },
   {
    "title": "Polymarket suspends trading after third-party breach leads to user losses",
@@ -81,21 +89,13 @@
    "score": 30
   },
   {
-   "title": "POLYMARKET PAUSES TRADING AFTER SOME USERS REPORT FUNDS DRAINED — WSJ",
-   "url": "https://www.tradingview.com/news/DJN_DN20261029014614:0-polymarket-pauses-trading-after-some-users-report-funds-drained-wsj/",
-   "source": "MarketNewsFeed [OTHER]",
-   "published_at": "2026-10-29T19:27:18Z",
-   "summary": "",
-   "score": 26
-  },
-  {
-   "title": "POLYMARKET SUSPENDED TRADING AMID REPORTS OF USER FUNDS BEING DRAINED",
-   "url": "https://www.tradingview.com/news/cointelegraph:654bd6286094b:0-polymarket-suspended-trading-amid-reports-of-user-funds-being-drained/",
-   "source": "MarketNewsFeed [OTHER]",
-   "published_at": "2026-10-29T19:27:17Z",
-   "summary": "",
+   "title": "Fake PS5 emulators are being used to steal gamers passwords — two well-known GitHub repos, including popular AnyPS5, get hit, infecting gamers computers with password-scraping malware",
+   "url": "https://www.tomshardware.com/tech-industry/cyber-security/fake-ps5-emulators-are-being-used-to-infect-gamers-computers-with-password-scraping-malware-two-well-known-github-repos-including-anyps5-hit",
+   "source": "Tom's Hardware",
+   "published_at": "Thu, 29 Oct 2026 11:20:00 +0000",
+   "summary": "Malware disguised as two popular PS5 game emulators, distributed via GitHub, has been identified as stealing passwords from unsuspecting gamers.",
    "score": 26
   }
  ],
- "updatedAt": "2026-10-29T19:32:35.460115+00:00"
+ "updatedAt": "2026-10-29T20:38:17.288364+00:00"
 }
