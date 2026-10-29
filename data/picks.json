@@ -9,6 +9,14 @@
    "score": 68
   },
   {
+   "title": "zkLink Nova Bridge Exploit Drains About $779,000 in One Transaction",
+   "url": "https://thedefiant.io/news/hacks/zklink-nova-bridge-exploit-drains-about-779-000-in-one-transaction",
+   "source": "The Defiant",
+   "published_at": "Thu, 29 Oct 2026 02:33:13 GMT",
+   "summary": "The main Ethereum escrow still showed an unpaused status after Blockaid warned that a forged batch root had enabled unauthorized withdrawals.",
+   "score": 66
+  },
+  {
    "title": "r/Seattle mods discover malware injection by archive.today, ban site",
    "url": "https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward/",
    "source": "Hacker News Frontpage",
@@ -46,14 +54,6 @@
    "source": "Dark Reading",
    "published_at": "Wed, 28 Oct 2026 19:39:00 GMT",
    "summary": "The supply chain attack campaign s shift toward developer endpoints and cloud access signals what could be next for the cybercrime outfit.",
-   "score": 34
-  },
-  {
-   "title": "Hackers now scanning systems for recently-patched Oracle flaw",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/",
-   "source": "BleepingComputer",
-   "published_at": "Wed, 28 Oct 2026 08:19:57 -0400",
-   "summary": "Attackers have begun probing the Internet for systems unpatched against a recently disclosed critical Oracle E-Business Suite (EBS) vulnerability. [...]",
    "score": 34
   },
   {
@@ -97,5 +97,5 @@
    "score": 16
   }
  ],
- "updatedAt": "2026-10-29T02:38:50.974389+00:00"
+ "updatedAt": "2026-10-29T06:50:48.296225+00:00"
 }

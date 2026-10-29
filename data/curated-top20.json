@@ -16,6 +16,14 @@
   "score": 38
  },
  {
+  "title": "zkLink Nova Bridge Exploit Drains About $779,000 in One Transaction",
+  "url": "https://thedefiant.io/news/hacks/zklink-nova-bridge-exploit-drains-about-779-000-in-one-transaction",
+  "source": "The Defiant",
+  "published_at": "Thu, 29 Oct 2026 02:33:13 GMT",
+  "summary": "The main Ethereum escrow still showed an unpaused status after Blockaid warned that a forged batch root had enabled unauthorized withdrawals.",
+  "score": 30
+ },
+ {
   "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
   "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
   "source": "BleepingComputer",
@@ -28,7 +36,7 @@
   "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
   "source": "Hacker News Best",
   "published_at": "Wed, 28 Oct 2026 21:03:24 +0000",
-  "summary": "Comments URL: Points: 280",
+  "summary": "Comments URL: Points: 311",
   "score": 28
  },
  {
@@ -56,12 +64,20 @@
   "score": 22
  },
  {
-  "title": "Hackers now scanning systems for recently-patched Oracle flaw",
-  "url": "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/",
-  "source": "BleepingComputer",
-  "published_at": "Wed, 28 Oct 2026 08:19:57 -0400",
-  "summary": "Attackers have begun probing the Internet for systems unpatched against a recently disclosed critical Oracle E-Business Suite (EBS) vulnerability. [...]",
-  "score": 22
+  "title": "Shopify Takes Shop Pay Into AI Agents and Off-Platform Checkouts",
+  "url": "https://thedefiant.io/converge/tradfi-and-fintech/shopify-takes-shop-pay-into-ai-agents-and-off-platform-checkouts",
+  "source": "The Defiant",
+  "published_at": "Thu, 29 Oct 2026 06:04:48 GMT",
+  "summary": "Agents can pay at stores outside Shopify using single-use card credentials, without those retailers adding a new integration.",
+  "score": 18
+ },
+ {
+  "title": "AI Agents Protect Others From Shutdown",
+  "url": "https://www.lesswrong.com/posts/LFrHfCiAxFQD3Ammy/ai-agents-protect-others-from-shutdown",
+  "source": "LessWrong",
+  "published_at": "Thu, 29 Oct 2026 02:39:55 GMT",
+  "summary": "Ulysse Schaller wrote this post based on the paper Shutdown Sabotage Propensities in Multi-Agent Systems co-authored with Amelie Knecht, Christopher Summerfield, and Thilo Hagendorff; Amelie Knecht and Thilo Hagendorff helped edit and review the post. TL;DR We put two AI agents, A and B, in an envir",
+  "score": 18
  },
  {
   "title": "Articul8 Launches Bivia to Bring Domain-Specific Decision Intelligence to Enterprise AI Agents",
@@ -84,7 +100,7 @@
   "url": "https://surgehq.ai/blog/dayjob-tax",
   "source": "Hacker News Frontpage",
   "published_at": "Wed, 28 Oct 2026 15:46:30 +0000",
-  "summary": "Comments URL: Points: 207",
+  "summary": "Comments URL: Points: 222",
   "score": 18
  },
  {
@@ -92,7 +108,7 @@
   "url": "https://cursor.com/blog/agent-sdk",
   "source": "Hacker News Frontpage",
   "published_at": "Wed, 28 Oct 2026 14:02:20 +0000",
-  "summary": "Comments URL: Points: 99",
+  "summary": "Comments URL: Points: 114",
   "score": 18
  },
  {
@@ -136,27 +152,11 @@
   "score": 14
  },
  {
-  "title": "BITCOIN SLIPS AS INVESTORS AWAIT U.S. DATA — MARKET TALK",
-  "url": "https://www.tradingview.com/news/DJN_DN20261028017734:0-bitcoin-slips-as-investors-await-u-s-data-market-talk/",
+  "title": "BITWISE PROJECTS $1.6 MILLION BITCOIN BY 2036. DOES GOLD HOLD THE KEY?",
+  "url": "https://www.tradingview.com/news/beincrypto:2b9b0b357094b:0-bitwise-projects-1-6-million-bitcoin-by-2036-does-gold-hold-the-key/",
   "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-29T02:24:38Z",
+  "published_at": "2026-10-29T06:30:32Z",
   "summary": "",
-  "score": 12
- },
- {
-  "title": "BITCOIN SLIPS AS INVESTORS AWAIT U.S. DATA — MARKET TALK",
-  "url": "https://www.tradingview.com/news/DJN_DN20261028017733:0-bitcoin-slips-as-investors-await-u-s-data-market-talk/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-29T02:15:17Z",
-  "summary": "",
-  "score": 12
- },
- {
-  "title": "Bitcoin Core Patches Three Bugs, Including Non-Linux Node Crash",
-  "url": "https://thedefiant.io/news/security/bitcoin-core-patches-three-bugs-including-non-linux-node-crash",
-  "source": "The Defiant",
-  "published_at": "Thu, 29 Oct 2026 01:06:59 GMT",
-  "summary": "Fixes are available in four release branches, but 32-bit systems and FAT32 storage remain exposed to a separate, low-severity flaw.",
   "score": 12
  }
 ]
