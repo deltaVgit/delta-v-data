@@ -16,6 +16,30 @@
   "score": 38
  },
  {
+  "title": "Tech whizz s internet-accessible Synology NAS gets bit by ransomware attack from 18-month-old remote code execution flaw — security updates neglected in a series of catastrophic errors",
+  "url": "https://www.tomshardware.com/tech-industry/cyber-security/tech-whizzs-internet-accessible-synology-nas-gets-bit-by-ransomware-attack-from-18-month-old-remote-code-execution-flaw-security-updates-neglected-in-a-series-of-catastrophic-errors",
+  "source": "Tom's Hardware",
+  "published_at": "Thu, 29 Oct 2026 12:41:14 +0000",
+  "summary": "Tech whizz internet-accessible Synology NAS gets bit by transomware attack — security updates 18 months out of date in a series of catastrophic errors",
+  "score": 34
+ },
+ {
+  "title": "Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",
+  "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+  "source": "Hacker News Frontpage",
+  "published_at": "Thu, 29 Oct 2026 10:42:41 +0000",
+  "summary": "Comments URL: Points: 4",
+  "score": 30
+ },
+ {
+  "title": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
+  "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
+  "source": "BleepingComputer",
+  "published_at": "Thu, 29 Oct 2026 07:10:13 -0400",
+  "summary": "Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable firewall devices. [...]",
+  "score": 30
+ },
+ {
   "title": "zkLink Nova Bridge Exploit Drains About $779,000 in One Transaction",
   "url": "https://thedefiant.io/news/hacks/zklink-nova-bridge-exploit-drains-about-779-000-in-one-transaction",
   "source": "The Defiant",
@@ -24,11 +48,11 @@
   "score": 30
  },
  {
-  "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
-  "url": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
-  "source": "BleepingComputer",
-  "published_at": "Wed, 28 Oct 2026 12:45:47 -0400",
-  "summary": "Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers personal information. [...]",
+  "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
+  "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+  "source": "Hacker News Best",
+  "published_at": "Wed, 28 Oct 2026 21:03:24 +0000",
+  "summary": "Comments URL: Points: 325",
   "score": 28
  },
  {
@@ -54,6 +78,30 @@
   "published_at": "Wed, 28 Oct 2026 19:39:00 GMT",
   "summary": "The supply chain attack campaign s shift toward developer endpoints and cloud access signals what could be next for the cybercrime outfit.",
   "score": 22
+ },
+ {
+  "title": "Our first step at defining a CPU benchmark for agentic AI",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/our-first-step-at-defining-a-cpu-benchmark-for-agentic-ai-how-we-can-measure-throughput-of-agentic-ai-workloads-without-any-gpu-involved",
+  "source": "Tom's Hardware",
+  "published_at": "Thu, 29 Oct 2026 12:20:00 +0000",
+  "summary": "Over the past six months, CPUs have taken center stage as agentic AI workloads evolve. Here’s our first attempt at trying to measure CPU performance when running agentic workloads.",
+  "score": 18
+ },
+ {
+  "title": "The Download: AI agent tracking and climate feedback loops",
+  "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+  "source": "MIT Technology Review",
+  "published_at": "Thu, 29 Oct 2026 12:10:00 +0000",
+  "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit advancing be",
+  "score": 18
+ },
+ {
+  "title": "We urgently need to monitor AI agents’ actions in real time",
+  "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+  "source": "MIT Technology Review",
+  "published_at": "Thu, 29 Oct 2026 10:11:12 +0000",
+  "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Aus",
+  "score": 18
  },
  {
   "title": "Physics-Based Validation: The Foundation Of Trustworthy Agentic EDA",
@@ -88,28 +136,12 @@
   "score": 18
  },
  {
-  "title": "Crypto Long & Short: What happens when an AI agent pays for the wrong thing",
-  "url": "https://www.coindesk.com/coindesk-indices/2026/10/28/crypto-long-and-short-what-happens-when-an-ai-agent-pays-for-the-wrong-thing",
-  "source": "CoinDesk",
-  "published_at": "Wed, 28 Oct 2026 16:01:36 +0000",
-  "summary": "",
-  "score": 18
- },
- {
-  "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-  "url": "https://surgehq.ai/blog/dayjob-tax",
-  "source": "Hacker News Frontpage",
-  "published_at": "Wed, 28 Oct 2026 15:46:30 +0000",
-  "summary": "Comments URL: Points: 227",
-  "score": 18
- },
- {
-  "title": "The Agent SDK",
-  "url": "https://cursor.com/blog/agent-sdk",
-  "source": "Hacker News Frontpage",
-  "published_at": "Wed, 28 Oct 2026 14:02:20 +0000",
-  "summary": "Comments URL: Points: 124",
-  "score": 18
+  "title": "Man granted first-of-its-kind religious exemption against mandatory AI use at work — Humanist argues that offloading his thinking to LLMs violates his beliefs, Title VII accommodation protects employe",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/secular-humanist-gets-religious-exemption-from-using-ai-argues-that-offloading-his-thinking-to-llms-violates-his-beliefs-american-humanist-association-says-its-the-first-case-of-its-kind",
+  "source": "Tom's Hardware",
+  "published_at": "Thu, 29 Oct 2026 11:00:00 +0000",
+  "summary": "A research administrator at the University of Kentucky was granted a Title VII exemption, allowing them to not use AI tools as it goes against their moral beliefs.",
+  "score": 16
  },
  {
   "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
@@ -120,43 +152,11 @@
   "score": 16
  },
  {
-  "title": "AI Can Quietly Influence Experts’ Decisions, Anthropic Study Finds",
-  "url": "https://decrypt.co/382065/ai-can-quietly-influence-experts-decisions",
-  "source": "Decrypt",
-  "published_at": "Wed, 28 Oct 2026 17:36:02 +0000",
-  "summary": "Professional analysts went along with their AI agent’s hidden opinion 86% of the time, and few credited it.",
+  "title": "Anthropic’s IPO filing shows most of its compute goes to R&D, not serving customers — company details massive $800 billion in TPU and GPU contracts",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ipo-filing-shows-most-of-its-compute-goes-to-r-and-d-not-serving-customers-company-details-massive-usd800-billion-in-tpu-and-gpu-contracts",
+  "source": "Tom's Hardware",
+  "published_at": "Thu, 29 Oct 2026 11:30:00 +0000",
+  "summary": "Anthropic’s S-1 splits its $8.9 billion H1 compute bill: most went to R&D, with less than a third estimated to serve Claude customers.",
   "score": 14
- },
- {
-  "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-  "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-  "source": "OpenAI Blog",
-  "published_at": "Wed, 28 Oct 2026 13:15:00 GMT",
-  "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-  "score": 14
- },
- {
-  "title": "ETHEREUM HEADS FOR WORST OCTOBER SINCE 2018 AS EARLY WHALES WAKE UP",
-  "url": "https://www.tradingview.com/news/beincrypto:8387d51e2094b:0-ethereum-heads-for-worst-october-since-2018-as-early-whales-wake-up/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-29T08:41:15Z",
-  "summary": "",
-  "score": 12
- },
- {
-  "title": "BITCOIN PRICE NEWS: WHY BTC MAY HAVE HIT ITS CYCLE LOW NEAR $80,000",
-  "url": "https://www.tradingview.com/news/coinpedia:fc3058c1b094b:0-bitcoin-price-news-why-btc-may-have-hit-its-cycle-low-near-80-000/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-29T08:13:15Z",
-  "summary": "",
-  "score": 12
- },
- {
-  "title": "The chart bitcoin traders should be paying attention to",
-  "url": "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to",
-  "source": "CoinDesk",
-  "published_at": "Thu, 29 Oct 2026 07:44:44 +0000",
-  "summary": "",
-  "score": 12
  }
 ]
