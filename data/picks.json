@@ -49,6 +49,22 @@
    "score": 48
   },
   {
+   "title": "Binance Exploit-Linked Wallet Moves 14,040 ETH to Another Holding Address",
+   "url": "https://thedefiant.io/news/hacks/binance-exploit-linked-wallet-moves-14-040-eth-to-another-holding-address",
+   "source": "The Defiant",
+   "published_at": "Fri, 30 Oct 2026 05:01:18 GMT",
+   "summary": "Two of the largest tracked wallets still hold about 197,460 ETH and 137,602 ETH, while the transfer recipient holds roughly 19,740 ETH.",
+   "score": 40
+  },
+  {
+   "title": "Binance Exploiter Swaps $911 Million Into ETH and TRX, Arkham Says",
+   "url": "https://thedefiant.io/news/hacks/binance-exploiter-swaps-911-million-into-eth-and-trx-arkham-says",
+   "source": "The Defiant",
+   "published_at": "Fri, 30 Oct 2026 04:33:14 GMT",
+   "summary": "The conversions moved USDT beyond Tether’s token-freezing mechanism, while Arkham reported $2.8 billion of the stolen assets already frozen.",
+   "score": 40
+  },
+  {
    "title": "Polymarket pauses trading after $2.65 million exploit, says third-party provider was compromised",
    "url": "https://www.theblock.co/news/defi/2026-10-29-polymarket-exploit-2-5-million-cancel-only-mode-432158",
    "source": "The Block",
@@ -65,37 +81,21 @@
    "score": 40
   },
   {
-   "title": "BINANCE SAYS SECURITY BREACH INVOLVED UNAUTHORIZED ACCESS TO SERVICE CONTAINER THROUGH COMPROMISED LAPTOP",
-   "url": "https://x.com/FirstSquawk/status/2115997844259954966",
-   "source": "MarketNewsFeed [CRYPTO]",
-   "published_at": "2026-10-30T02:43:05Z",
-   "summary": "",
-   "score": 38
-  },
-  {
-   "title": "BINANCE SAYS ESTIMATED TOTAL IMPACT FROM POTENTIAL SECURITY BREACH STANDS AT ABOUT $6.3 BILLION",
-   "url": "https://x.com/FirstSquawk/status/2115994274550661514",
-   "source": "MarketNewsFeed [CRYPTO]",
-   "published_at": "2026-10-30T02:28:50Z",
-   "summary": "",
-   "score": 38
-  },
-  {
-   "title": "Bubblemaps Traces $2.7 Million Outflow From Polymarket Breach",
-   "url": "https://thedefiant.io/news/hacks/bubblemaps-traces-2-7-million-outflow-from-polymarket-breach",
-   "source": "The Defiant",
-   "published_at": "Thu, 29 Oct 2026 19:40:31 GMT",
-   "summary": "Trading is back online and Polymarket has pledged full reimbursement, while a trader cited in the tracing says he moved funds to safety.",
-   "score": 38
-  },
-  {
    "title": "Polymarket suspends trading after third-party breach leads to user losses",
    "url": "https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses",
    "source": "CoinDesk",
    "published_at": "Thu, 29 Oct 2026 18:55:35 +0000",
    "summary": "",
    "score": 38
+  },
+  {
+   "title": "Japan Airlines suffers third-party data breach exposing passenger info",
+   "url": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
+   "source": "BleepingComputer",
+   "published_at": "Thu, 29 Oct 2026 18:08:04 -0400",
+   "summary": "Japan Airlines (JAL) has announced that a data breach at Amadeus s Passenger Service System exposed the data of about 92,000 customers. [...]",
+   "score": 38
   }
  ],
- "updatedAt": "2026-10-30T02:56:46.912107+00:00"
+ "updatedAt": "2026-10-30T05:55:31.618285+00:00"
 }
