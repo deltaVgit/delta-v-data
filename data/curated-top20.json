@@ -16,19 +16,19 @@
   "score": 50
  },
  {
-  "title": "LIVE UPDATES: BINANCE UNCOVERS MORE BREACH POINTS IN $6.3B HACK",
-  "url": "https://www.tradingview.com/news/cointelegraph:3a8f5c45b094b:0-live-updates-binance-uncovers-more-breach-points-in-6-3b-hack/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-30T09:20:52Z",
-  "summary": "",
-  "score": 50
+  "title": "Anthropic hacked to deliver remote access trojan to Claude developer laptops",
+  "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+  "source": "Hacker News Frontpage",
+  "published_at": "Fri, 30 Oct 2026 10:47:06 +0000",
+  "summary": "Comments URL: Points: 17",
+  "score": 36
  },
  {
-  "title": "Binance Hack’s Bitcoin Sits Unspent Across 19 Addresses",
-  "url": "https://thedefiant.io/news/hacks/binance-hack-s-bitcoin-sits-unspent-across-19-addresses",
-  "source": "The Defiant",
-  "published_at": "Fri, 30 Oct 2026 05:00:29 GMT",
-  "summary": "Another 233.46 million XRP remains in one account, leaving investigators a visible trail but no issuer-controlled freeze option for either asset.",
+  "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
+  "url": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
+  "source": "CoinDesk",
+  "published_at": "Fri, 30 Oct 2026 11:09:24 +0000",
+  "summary": "",
   "score": 34
  },
  {
@@ -56,22 +56,6 @@
   "score": 34
  },
  {
-  "title": "Tech whizz s internet-accessible Synology NAS gets bit by ransomware attack from 18-month-old remote code execution flaw — security updates neglected in a series of catastrophic errors",
-  "url": "https://www.tomshardware.com/tech-industry/cyber-security/tech-whizzs-internet-accessible-synology-nas-gets-bit-by-ransomware-attack-from-18-month-old-remote-code-execution-flaw-security-updates-neglected-in-a-series-of-catastrophic-errors",
-  "source": "Tom's Hardware",
-  "published_at": "Thu, 29 Oct 2026 12:41:14 +0000",
-  "summary": "Tech whizz internet-accessible Synology NAS gets bit by transomware attack — security updates 18 months out of date in a series of catastrophic errors",
-  "score": 34
- },
- {
-  "title": "BINANCE HACK WILL FORCE CRYPTO SECTOR TO TIGHTEN SECURITY — MARKET TALK",
-  "url": "https://www.tradingview.com/news/DJN_DN20261030003223:0-binance-hack-will-force-crypto-sector-to-tighten-security-market-talk/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-30T09:30:11Z",
-  "summary": "",
-  "score": 32
- },
- {
   "title": "Hackers Publish Work Details of 41,000 Homeland Security Employees",
   "url": "https://decrypt.co/382181/hackers-publish-work-details-homeland-security-employees",
   "source": "Decrypt",
@@ -96,19 +80,11 @@
   "score": 30
  },
  {
-  "title": "Binance Exploit-Linked Wallet Moves 14,040 ETH to Another Holding Address",
-  "url": "https://thedefiant.io/news/hacks/binance-exploit-linked-wallet-moves-14-040-eth-to-another-holding-address",
-  "source": "The Defiant",
-  "published_at": "Fri, 30 Oct 2026 05:01:18 GMT",
-  "summary": "Two of the largest tracked wallets still hold about 197,460 ETH and 137,602 ETH, while the transfer recipient holds roughly 19,740 ETH.",
-  "score": 30
- },
- {
-  "title": "Binance Exploiter Swaps $911 Million Into ETH and TRX, Arkham Says",
-  "url": "https://thedefiant.io/news/hacks/binance-exploiter-swaps-911-million-into-eth-and-trx-arkham-says",
-  "source": "The Defiant",
-  "published_at": "Fri, 30 Oct 2026 04:33:14 GMT",
-  "summary": "The conversions moved USDT beyond Tether’s token-freezing mechanism, while Arkham reported $2.8 billion of the stolen assets already frozen.",
+  "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
+  "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
+  "source": "BleepingComputer",
+  "published_at": "Fri, 30 Oct 2026 06:16:07 -0400",
+  "summary": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]",
   "score": 30
  },
  {
@@ -136,14 +112,6 @@
   "score": 30
  },
  {
-  "title": "Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",
-  "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
-  "source": "Hacker News Frontpage",
-  "published_at": "Thu, 29 Oct 2026 10:42:41 +0000",
-  "summary": "Comments URL: Points: 4",
-  "score": 30
- },
- {
   "title": "Unit Delays All Deposits and Withdrawals After Binance Breach",
   "url": "https://thedefiant.io/news/defi/unit-delays-all-deposits-and-withdrawals-after-binance-breach",
   "source": "The Defiant",
@@ -152,11 +120,43 @@
   "score": 28
  },
  {
-  "title": "BINANCE SAYS SUBSEQUENT INVESTIGATION HAS UNCOVERED ADDITIONAL POINTS OF BREACH",
-  "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_SPN46500F:0-binance-says-subsequent-investigation-has-uncovered-additional-points-of-breach/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-30T09:11:25Z",
+  "title": "Binance Reports More Breach Points in $6.3 Billion Attack",
+  "url": "https://thedefiant.io/news/hacks/binance-reports-more-breach-points-in-6-3-billion-attack",
+  "source": "The Defiant",
+  "published_at": "Fri, 30 Oct 2026 08:54:07 GMT",
+  "summary": "Withdrawals remain paused with a 45-hour restart estimate, while Binance pledges to cover all losses from its SAFU reserve and company funds.",
+  "score": 28
+ },
+ {
+  "title": "Teng Says Binance Breach Was Not a ‘One-Click’ Attack",
+  "url": "https://thedefiant.io/news/hacks/teng-says-binance-breach-was-not-a-one-click-attack",
+  "source": "The Defiant",
+  "published_at": "Fri, 30 Oct 2026 08:26:05 GMT",
+  "summary": "Withdrawals remain paused while deposits operate normally; Binance says about $3 billion in affected assets has been frozen onchain.",
+  "score": 28
+ },
+ {
+  "title": "Polymarket suspends trading after third-party breach leads to user losses",
+  "url": "https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses",
+  "source": "CoinDesk",
+  "published_at": "Thu, 29 Oct 2026 18:55:35 +0000",
   "summary": "",
+  "score": 28
+ },
+ {
+  "title": "Japan Airlines suffers third-party data breach exposing passenger info",
+  "url": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
+  "source": "BleepingComputer",
+  "published_at": "Thu, 29 Oct 2026 18:08:04 -0400",
+  "summary": "Japan Airlines (JAL) has announced that a data breach at Amadeus s Passenger Service System exposed the data of about 92,000 customers. [...]",
+  "score": 28
+ },
+ {
+  "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
+  "url": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
+  "source": "BleepingComputer",
+  "published_at": "Thu, 29 Oct 2026 17:47:25 -0400",
+  "summary": "Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2.5 million in assets traced to a suspected attacker wallet. [...]",
   "score": 28
  }
 ]
