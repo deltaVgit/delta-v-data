@@ -9,6 +9,22 @@
    "score": 100
   },
   {
+   "title": "Binance Finds Additional Points of Breach in $6.3B Hack",
+   "url": "https://decrypt.co/382203/binance-finds-additional-points-of-breach-in-6-3b-hack",
+   "source": "Decrypt",
+   "published_at": "Fri, 30 Oct 2026 09:31:59 +0000",
+   "summary": "CEO Richard Teng said the attack was not a single one-click action, as Binance confirmed about $3 billion has been frozen.",
+   "score": 72
+  },
+  {
+   "title": "LIVE UPDATES: BINANCE UNCOVERS MORE BREACH POINTS IN $6.3B HACK",
+   "url": "https://www.tradingview.com/news/cointelegraph:3a8f5c45b094b:0-live-updates-binance-uncovers-more-breach-points-in-6-3b-hack/",
+   "source": "MarketNewsFeed [CRYPTO]",
+   "published_at": "2026-10-30T09:20:52Z",
+   "summary": "",
+   "score": 72
+  },
+  {
    "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
    "url": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
    "source": "BleepingComputer",
@@ -33,6 +49,14 @@
    "score": 60
   },
   {
+   "title": "Binance hacker dumps a little-known 2017 token and it crashes 90%",
+   "url": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-dumps-a-little-known-2017-token-and-it-crashes-90",
+   "source": "CoinDesk",
+   "published_at": "Fri, 30 Oct 2026 07:54:07 +0000",
+   "summary": "",
+   "score": 48
+  },
+  {
    "title": "Open-weight AI models can exploit the patch gap",
    "url": "https://epoch.ai/publications/open-weight-models-patch-gap",
    "source": "Hacker News Frontpage",
@@ -49,53 +73,29 @@
    "score": 48
   },
   {
+   "title": "USDT0 Freezes 6.19 Million Tokens Linked to Binance Exploit",
+   "url": "https://thedefiant.io/news/hacks/usdt0-freezes-6-19-million-tokens-linked-to-binance-exploit",
+   "source": "The Defiant",
+   "published_at": "Fri, 30 Oct 2026 09:43:25 GMT",
+   "summary": "The network also restored USDT transfers between Tron and Ethereum after a precautionary pause.",
+   "score": 40
+  },
+  {
+   "title": "FUN Plunges 95% in Uniswap Pool as Binance Exploiter Sells",
+   "url": "https://thedefiant.io/news/markets/fun-plunges-95-in-uniswap-pool-as-binance-exploiter-sells",
+   "source": "The Defiant",
+   "published_at": "Fri, 30 Oct 2026 08:17:27 GMT",
+   "summary": "The main exploiter address also sold RAD and OGN on Uniswap, while about 580.8 million unsold FUN was transferred back to the collection wallet.",
+   "score": 40
+  },
+  {
    "title": "Binance Exploit-Linked Wallet Moves 14,040 ETH to Another Holding Address",
    "url": "https://thedefiant.io/news/hacks/binance-exploit-linked-wallet-moves-14-040-eth-to-another-holding-address",
    "source": "The Defiant",
    "published_at": "Fri, 30 Oct 2026 05:01:18 GMT",
    "summary": "Two of the largest tracked wallets still hold about 197,460 ETH and 137,602 ETH, while the transfer recipient holds roughly 19,740 ETH.",
    "score": 40
-  },
-  {
-   "title": "Binance Exploiter Swaps $911 Million Into ETH and TRX, Arkham Says",
-   "url": "https://thedefiant.io/news/hacks/binance-exploiter-swaps-911-million-into-eth-and-trx-arkham-says",
-   "source": "The Defiant",
-   "published_at": "Fri, 30 Oct 2026 04:33:14 GMT",
-   "summary": "The conversions moved USDT beyond Tether’s token-freezing mechanism, while Arkham reported $2.8 billion of the stolen assets already frozen.",
-   "score": 40
-  },
-  {
-   "title": "Polymarket pauses trading after $2.65 million exploit, says third-party provider was compromised",
-   "url": "https://www.theblock.co/news/defi/2026-10-29-polymarket-exploit-2-5-million-cancel-only-mode-432158",
-   "source": "The Block",
-   "published_at": "Thu, 29 Oct 2026 19:00:06 +0000",
-   "summary": "After over $2.5 million was lost within minutes on Polymarket, the platform said it has since placed its exchange in cancel-only mode.",
-   "score": 40
-  },
-  {
-   "title": "Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",
-   "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
-   "source": "Hacker News Frontpage",
-   "published_at": "Thu, 29 Oct 2026 10:42:41 +0000",
-   "summary": "Comments URL: Points: 4",
-   "score": 40
-  },
-  {
-   "title": "Polymarket suspends trading after third-party breach leads to user losses",
-   "url": "https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses",
-   "source": "CoinDesk",
-   "published_at": "Thu, 29 Oct 2026 18:55:35 +0000",
-   "summary": "",
-   "score": 38
-  },
-  {
-   "title": "Japan Airlines suffers third-party data breach exposing passenger info",
-   "url": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
-   "source": "BleepingComputer",
-   "published_at": "Thu, 29 Oct 2026 18:08:04 -0400",
-   "summary": "Japan Airlines (JAL) has announced that a data breach at Amadeus s Passenger Service System exposed the data of about 92,000 customers. [...]",
-   "score": 38
   }
  ],
- "updatedAt": "2026-10-30T05:55:31.618285+00:00"
+ "updatedAt": "2026-10-30T09:51:30.666242+00:00"
 }
