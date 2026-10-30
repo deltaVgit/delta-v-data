@@ -17,22 +17,6 @@
    "score": 72
   },
   {
-   "title": "Synthetix Recovers 8.4 Million SNX Stolen in Binance Hack",
-   "url": "https://thedefiant.io/news/hacks/synthetix-recovers-8-4-million-snx-stolen-in-binance-hack",
-   "source": "The Defiant",
-   "published_at": "Fri, 30 Oct 2026 10:53:40 GMT",
-   "summary": "The protocolDAO says the tokens are secured in its Safe and will be returned when Binance requests them.",
-   "score": 64
-  },
-  {
-   "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
-   "url": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
-   "source": "BleepingComputer",
-   "published_at": "Thu, 29 Oct 2026 17:47:25 -0400",
-   "summary": "Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2.5 million in assets traced to a suspected attacker wallet. [...]",
-   "score": 64
-  },
-  {
    "title": "Binance hack drained wallets backing customer assets, reserve data shows",
    "url": "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
    "source": "CoinDesk",
@@ -81,21 +65,37 @@
    "score": 48
   },
   {
-   "title": "BINANCE HACK RAISES THE BAR FOR PLATFORMS TO RIDE NEXT CRYPTO WAVE — MARKET TALK",
-   "url": "https://www.tradingview.com/news/DJN_DN20261030008673:0-binance-hack-raises-the-bar-for-platforms-to-ride-next-crypto-wave-market-talk/",
-   "source": "MarketNewsFeed [CRYPTO]",
-   "published_at": "2026-10-30T16:13:01Z",
-   "summary": "",
-   "score": 46
-  },
-  {
    "title": "Israel Extradites Alleged Nomad Bridge Exploiter to US Over $2.8M Theft: Report",
    "url": "https://decrypt.co/382230/israel-extradites-alleged-nomad-bridge-exploiter-to-us-over-2-8m-theft-report",
    "source": "Decrypt",
    "published_at": "Fri, 30 Oct 2026 13:00:09 +0000",
    "summary": "Israel s Supreme Court ruled that exploiting a coding flaw can count as computer intrusion, even when the software allowed the transaction.",
    "score": 40
+  },
+  {
+   "title": "CISA says max severity GitLab flaw now exploited in the wild",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
+   "source": "BleepingComputer",
+   "published_at": "Fri, 30 Oct 2026 09:00:32 -0400",
+   "summary": "Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+   "score": 40
+  },
+  {
+   "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
+   "source": "BleepingComputer",
+   "published_at": "Fri, 30 Oct 2026 06:16:07 -0400",
+   "summary": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]",
+   "score": 40
+  },
+  {
+   "title": "Polymarket pauses trading after $2.65 million exploit, says third-party provider was compromised",
+   "url": "https://www.theblock.co/news/defi/2026-10-29-polymarket-exploit-2-5-million-cancel-only-mode-432158",
+   "source": "The Block",
+   "published_at": "Thu, 29 Oct 2026 19:00:06 +0000",
+   "summary": "After over $2.5 million was lost within minutes on Polymarket, the platform said it has since placed its exchange in cancel-only mode.",
+   "score": 40
   }
  ],
- "updatedAt": "2026-10-30T16:35:32.596837+00:00"
+ "updatedAt": "2026-10-30T17:15:00.500988+00:00"
 }
