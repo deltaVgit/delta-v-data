@@ -8,6 +8,38 @@
   "score": 52
  },
  {
+  "title": "BINANCE SAYS SECURITY BREACH INVOLVED UNAUTHORIZED ACCESS TO SERVICE CONTAINER THROUGH COMPROMISED LAPTOP",
+  "url": "https://x.com/FirstSquawk/status/2115997844259954966",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-30T02:43:05Z",
+  "summary": "",
+  "score": 38
+ },
+ {
+  "title": "BINANCE SAYS ESTIMATED TOTAL IMPACT FROM POTENTIAL SECURITY BREACH STANDS AT ABOUT $6.3 BILLION",
+  "url": "https://x.com/FirstSquawk/status/2115994274550661514",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-30T02:28:50Z",
+  "summary": "",
+  "score": 38
+ },
+ {
+  "title": "BINANCE HACKING FEARS SPARK CRYPTO ROUT AS BITCOIN BREAKS BELOW $79,000",
+  "url": "https://www.tradingview.com/news/bloomingbit:e16316fc6094b:0-binance-hacking-fears-spark-crypto-rout-as-bitcoin-breaks-below-79-000/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-30T02:46:47Z",
+  "summary": "",
+  "score": 34
+ },
+ {
+  "title": "Bitcoin slides below $77,000, BNB drops amid Binance hack",
+  "url": "https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183",
+  "source": "The Block",
+  "published_at": "Fri, 30 Oct 2026 02:22:31 +0000",
+  "summary": "BNB lost 7.1%, while Binance Co-CEO Yi He pledged that the exchange will cover all user losses resulting from the hack.",
+  "score": 34
+ },
+ {
   "title": "Tech whizz s internet-accessible Synology NAS gets bit by ransomware attack from 18-month-old remote code execution flaw — security updates neglected in a series of catastrophic errors",
   "url": "https://www.tomshardware.com/tech-industry/cyber-security/tech-whizzs-internet-accessible-synology-nas-gets-bit-by-ransomware-attack-from-18-month-old-remote-code-execution-flaw-security-updates-neglected-in-a-series-of-catastrophic-errors",
   "source": "Tom's Hardware",
@@ -96,6 +128,22 @@
   "score": 24
  },
  {
+  "title": "BITCOIN, CRYPTOCURRENCY PRICES FALL AFTER BINANCE REPORTS SECURITY ISSUE – RTRS",
+  "url": "https://x.com/LiveSquawk/status/2115994550166585570",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-30T02:30:05Z",
+  "summary": "",
+  "score": 22
+ },
+ {
+  "title": "Binance hack drained wallets backing customer assets, reserve data shows",
+  "url": "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
+  "source": "CoinDesk",
+  "published_at": "Fri, 30 Oct 2026 00:17:10 +0000",
+  "summary": "",
+  "score": 22
+ },
+ {
   "title": "Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets",
   "url": "https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum",
   "source": "Decrypt",
@@ -110,53 +158,5 @@
   "published_at": "Thu, 29 Oct 2026 22:10:31 GMT",
   "summary": "Tether says it froze more than 1.567 billion USDT as Binance investigates large wallet outflows and conducts security checks.",
   "score": 22
- },
- {
-  "title": "Binance Drained of $5.5 Billion in Suspected Hack, Tether and Circle Freeze $1.8 Billion",
-  "url": "https://decrypt.co/382191/binance-suspected-hack-5-billion-tether-circle-freeze-crypto",
-  "source": "Decrypt",
-  "published_at": "Thu, 29 Oct 2026 21:36:24 +0000",
-  "summary": "An on-chain tally puts the suspected Binance drain at $5.57 billion across three blockchains, as Tether and Circle froze $1.8 billion.",
-  "score": 22
- },
- {
-  "title": "How Wallet Permissions Linked Two Accounts in the Suspected Binance Hack",
-  "url": "https://thedefiant.io/news/security/binance-labeled-wallet-swept-minutes-after-eip-7702-delegation",
-  "source": "The Defiant",
-  "published_at": "Thu, 29 Oct 2026 21:04:09 GMT",
-  "summary": "Delegated code on Binance 14 could move its own assets and exercise ownership of another wallet. The records do not establish how that permission was obtained.",
-  "score": 22
- },
- {
-  "title": "Binance probes potential $5.8 billion crypto-theft hack",
-  "url": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
-  "source": "BleepingComputer",
-  "published_at": "Thu, 29 Oct 2026 18:45:23 -0400",
-  "summary": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]",
-  "score": 22
- },
- {
-  "title": "We ran AI agent swarms in Minecraft and Mindustry",
-  "url": "https://labs.ycombinator.com/projects/games/index.html",
-  "source": "Hacker News Frontpage",
-  "published_at": "Thu, 29 Oct 2026 21:40:28 +0000",
-  "summary": "Comments URL: Points: 101",
-  "score": 18
- },
- {
-  "title": "Someone Made an Infra-Bayesian RL Agent, and it One-Boxes!",
-  "url": "https://www.lesswrong.com/posts/BnFPBevp8Cdw2NKoq/someone-made-an-infra-bayesian-rl-agent-and-it-one-boxes",
-  "source": "LessWrong",
-  "published_at": "Thu, 29 Oct 2026 20:35:27 GMT",
-  "summary": "Someone made an infra-bayesian RL agent , and it learns to one-box . Arxiv paper , GitHub repo . Discuss",
-  "score": 18
- },
- {
-  "title": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
-  "url": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/",
-  "source": "Ars Technica",
-  "published_at": "Thu, 29 Oct 2026 12:58:34 +0000",
-  "summary": "The leak reveals undercover agents, surveillance groups, and sensitive DHS access.",
-  "score": 18
  }
 ]
