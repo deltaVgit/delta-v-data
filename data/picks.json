@@ -25,14 +25,6 @@
    "score": 60
   },
   {
-   "title": "Binance Drained of $5.5 Billion in Suspected Hack, Tether and Circle Freeze $1.8 Billion",
-   "url": "https://decrypt.co/382191/binance-suspected-hack-5-billion-tether-circle-freeze-crypto",
-   "source": "Decrypt",
-   "published_at": "Thu, 29 Oct 2026 21:36:24 +0000",
-   "summary": "An on-chain tally puts the suspected Binance drain at $5.57 billion across three blockchains, as Tether and Circle froze $1.8 billion.",
-   "score": 60
-  },
-  {
    "title": "Binance Hack: Why Bitcoin Didn t Crash Like It Did in 2018",
    "url": "https://decrypt.co/382257/binance-hack-why-bitcoin-didnt-crash",
    "source": "Decrypt",
@@ -65,6 +57,14 @@
    "score": 48
   },
   {
+   "title": "Linux kernel exploit enables remote root attacks on MPTCP servers",
+   "url": "https://www.bleepingcomputer.com/news/security/linux-kernel-exploit-enables-remote-root-attacks-on-mptcp-servers/",
+   "source": "BleepingComputer",
+   "published_at": "Fri, 30 Oct 2026 17:09:46 -0400",
+   "summary": "Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP (MPTCP) listeners. [...]",
+   "score": 40
+  },
+  {
    "title": "Israel Extradites Alleged Nomad Bridge Exploiter to US Over $2.8M Theft: Report",
    "url": "https://decrypt.co/382230/israel-extradites-alleged-nomad-bridge-exploiter-to-us-over-2-8m-theft-report",
    "source": "Decrypt",
@@ -89,13 +89,13 @@
    "score": 40
   },
   {
-   "title": "Coinbase and Strategy Sink After Binance Breach",
-   "url": "https://thedefiant.io/news/markets/coinbase-and-strategy-sink-after-binance-breach",
-   "source": "The Defiant",
-   "published_at": "Fri, 30 Oct 2026 13:59:22 GMT",
-   "summary": "Both stocks extended their opening losses, outpacing Bitcoin’s 4.65% decline and the S&P 500’s 1.24% drop over the same window.",
+   "title": "Northflank Breached",
+   "url": "https://status.northflank.com",
+   "source": "Hacker News Best",
+   "published_at": "Fri, 30 Oct 2026 15:10:31 +0000",
+   "summary": "Comments URL: Points: 278",
    "score": 38
   }
  ],
- "updatedAt": "2026-10-30T21:02:16.169370+00:00"
+ "updatedAt": "2026-10-30T21:31:42.344542+00:00"
 }

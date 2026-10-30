@@ -96,6 +96,14 @@
   "score": 32
  },
  {
+  "title": "Linux kernel exploit enables remote root attacks on MPTCP servers",
+  "url": "https://www.bleepingcomputer.com/news/security/linux-kernel-exploit-enables-remote-root-attacks-on-mptcp-servers/",
+  "source": "BleepingComputer",
+  "published_at": "Fri, 30 Oct 2026 17:09:46 -0400",
+  "summary": "Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP (MPTCP) listeners. [...]",
+  "score": 30
+ },
+ {
   "title": "Israel Extradites Alleged Nomad Bridge Exploiter to US Over $2.8M Theft: Report",
   "url": "https://decrypt.co/382230/israel-extradites-alleged-nomad-bridge-exploiter-to-us-over-2-8m-theft-report",
   "source": "Decrypt",
@@ -136,27 +144,19 @@
   "score": 30
  },
  {
+  "title": "Northflank Breached",
+  "url": "https://status.northflank.com",
+  "source": "Hacker News Best",
+  "published_at": "Fri, 30 Oct 2026 15:10:31 +0000",
+  "summary": "Comments URL: Points: 278",
+  "score": 28
+ },
+ {
   "title": "Coinbase and Strategy Sink After Binance Breach",
   "url": "https://thedefiant.io/news/markets/coinbase-and-strategy-sink-after-binance-breach",
   "source": "The Defiant",
   "published_at": "Fri, 30 Oct 2026 13:59:22 GMT",
   "summary": "Both stocks extended their opening losses, outpacing Bitcoin’s 4.65% decline and the S&P 500’s 1.24% drop over the same window.",
   "score": 28
- },
- {
-  "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-  "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
-  "source": "Hacker News Frontpage",
-  "published_at": "Fri, 30 Oct 2026 17:27:25 +0000",
-  "summary": "Comments URL: Points: 178",
-  "score": 24
- },
- {
-  "title": "Anthropic-Themed Phishing Emails Bypass Top Security Tools",
-  "url": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools",
-  "source": "Dark Reading",
-  "published_at": "Thu, 29 Oct 2026 21:21:56 GMT",
-  "summary": "Obvious phishing emails with numerous red flags are somehow getting past some of the industry-leading secure email gateway (SEG) products.",
-  "score": 24
  }
 ]
