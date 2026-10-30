@@ -8,14 +8,6 @@
   "score": 52
  },
  {
-  "title": "BINANCE HACK RATTLES CRYPTO MARKETS AS BNB FALLS 7%, BITCOIN SLIDES",
-  "url": "https://www.tradingview.com/news/cointelegraph:f1e84ffb6094b:0-binance-hack-rattles-crypto-markets-as-bnb-falls-7-bitcoin-slides/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-29T23:30:28Z",
-  "summary": "",
-  "score": 34
- },
- {
   "title": "Tech whizz s internet-accessible Synology NAS gets bit by ransomware attack from 18-month-old remote code execution flaw — security updates neglected in a series of catastrophic errors",
   "url": "https://www.tomshardware.com/tech-industry/cyber-security/tech-whizzs-internet-accessible-synology-nas-gets-bit-by-ransomware-attack-from-18-month-old-remote-code-execution-flaw-security-updates-neglected-in-a-series-of-catastrophic-errors",
   "source": "Tom's Hardware",
@@ -148,7 +140,7 @@
   "url": "https://labs.ycombinator.com/projects/games/index.html",
   "source": "Hacker News Frontpage",
   "published_at": "Thu, 29 Oct 2026 21:40:28 +0000",
-  "summary": "Comments URL: Points: 69",
+  "summary": "Comments URL: Points: 101",
   "score": 18
  },
  {
@@ -157,6 +149,14 @@
   "source": "LessWrong",
   "published_at": "Thu, 29 Oct 2026 20:35:27 GMT",
   "summary": "Someone made an infra-bayesian RL agent , and it learns to one-box . Arxiv paper , GitHub repo . Discuss",
+  "score": 18
+ },
+ {
+  "title": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
+  "url": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/",
+  "source": "Ars Technica",
+  "published_at": "Thu, 29 Oct 2026 12:58:34 +0000",
+  "summary": "The leak reveals undercover agents, surveillance groups, and sensitive DHS access.",
   "score": 18
  }
 ]
