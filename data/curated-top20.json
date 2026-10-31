@@ -48,14 +48,6 @@
   "score": 34
  },
  {
-  "title": "INVESTORS PULL $643 MILLION FROM BITCOIN ETFS AFTER THE BIGGEST CRYPTO HACK IN HISTORY",
-  "url": "https://www.tradingview.com/news/beincrypto:2e73262fe094b:0-investors-pull-643-million-from-bitcoin-etfs-after-the-biggest-crypto-hack-in-history/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-31T12:00:59Z",
-  "summary": "",
-  "score": 34
- },
- {
   "title": "SkillMem: Compact External Skill Memory for Latent Multi-Agent Reasoning",
   "url": "https://arxiv.org/abs/2610.37935",
   "source": "arXiv cs.AI",
@@ -158,5 +150,13 @@
   "published_at": "Fri, 30 Oct 2026 09:00:32 -0400",
   "summary": "Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...]",
   "score": 30
+ },
+ {
+  "title": "Northflank Breached",
+  "url": "https://status.northflank.com",
+  "source": "Hacker News Frontpage",
+  "published_at": "Fri, 30 Oct 2026 15:10:31 +0000",
+  "summary": "Comments URL: Points: 450",
+  "score": 28
  }
 ]
