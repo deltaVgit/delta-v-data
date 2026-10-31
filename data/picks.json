@@ -41,14 +41,6 @@
    "score": 48
   },
   {
-   "title": "Unaligned weak models might exploit powerful aligned models",
-   "url": "https://www.lesswrong.com/posts/r7y3MnouZ5bAwbiss/unaligned-weak-models-might-exploit-powerful-aligned-models",
-   "source": "LessWrong",
-   "published_at": "Fri, 30 Oct 2026 11:54:47 GMT",
-   "summary": "TL;DR: My previous posts were about strong models delegating to weaker, less aligned ones. The reverse is also dangerous: a swarm of weak, unaligned agents that uses a powerful aligned model as a contractor, without ever telling it what the work is for. Something close to it happened to me, during a",
-   "score": 48
-  },
-  {
    "title": "Why AI Models Cheat: Reward Hacking, Explained",
    "url": "https://decrypt.co/382274/why-ai-models-cheat-reward-hacking-explained",
    "source": "Decrypt",
@@ -73,6 +65,14 @@
    "score": 40
   },
   {
+   "title": "Northflank security breach leads to abuse of customers AI API keys",
+   "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
+   "source": "BleepingComputer",
+   "published_at": "Sat, 31 Oct 2026 14:01:12 -0400",
+   "summary": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers AI API keys. [...]",
+   "score": 38
+  },
+  {
    "title": "Chainalysis discloses data breach from offensive agentic techniques",
    "url": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
    "source": "BleepingComputer",
@@ -83,19 +83,19 @@
   {
    "title": "Northflank Breached",
    "url": "https://status.northflank.com",
-   "source": "Hacker News Frontpage",
+   "source": "Hacker News Best",
    "published_at": "Fri, 30 Oct 2026 15:10:31 +0000",
-   "summary": "Comments URL: Points: 464",
+   "summary": "Comments URL: Points: 471",
    "score": 38
   },
   {
-   "title": "CRYPTO INDUSTRY TIGHTENS SECURITY AFTER $6.3 BILLION BINANCE HACK",
-   "url": "https://www.tradingview.com/news/bloomingbit:c74a37911094b:0-crypto-industry-tightens-security-after-6-3-billion-binance-hack/",
-   "source": "MarketNewsFeed [CRYPTO]",
-   "published_at": "2026-10-31T17:20:55Z",
-   "summary": "",
+   "title": "Hackers hijack a dozen DeFi websites, all registered with Name.com, and steal about $138,000",
+   "url": "https://www.theblock.co/news/defi/2026-10-31-hackers-hijack-a-dozen-defi-websites-all-registered-with-name-com-and-steal-about-138000-432251",
+   "source": "The Block",
+   "published_at": "Sat, 31 Oct 2026 15:26:27 +0000",
+   "summary": "All 12 hijacked domains are registered through Name.com, according to registry records accessed by The Block, suggesting a compromise.",
    "score": 34
   }
  ],
- "updatedAt": "2026-10-31T17:55:30.102956+00:00"
+ "updatedAt": "2026-10-31T20:40:02.666505+00:00"
 }

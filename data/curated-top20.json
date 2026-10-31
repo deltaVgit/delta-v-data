@@ -32,6 +32,14 @@
   "score": 40
  },
  {
+  "title": "Northflank security breach leads to abuse of customers AI API keys",
+  "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
+  "source": "BleepingComputer",
+  "published_at": "Sat, 31 Oct 2026 14:01:12 -0400",
+  "summary": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers AI API keys. [...]",
+  "score": 38
+ },
+ {
   "title": "A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears",
   "url": "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears",
   "source": "CoinDesk",
@@ -80,22 +88,6 @@
   "score": 34
  },
  {
-  "title": "Here s how big bitcoin traders responded after the Binance hack hit",
-  "url": "https://www.coindesk.com/daybook-us/2026/10/30/here-s-how-big-bitcoin-traders-responded-after-the-binance-hack-hit",
-  "source": "CoinDesk",
-  "published_at": "Fri, 30 Oct 2026 11:51:26 +0000",
-  "summary": "",
-  "score": 34
- },
- {
-  "title": "CRYPTO INDUSTRY TIGHTENS SECURITY AFTER $6.3 BILLION BINANCE HACK",
-  "url": "https://www.tradingview.com/news/bloomingbit:c74a37911094b:0-crypto-industry-tightens-security-after-6-3-billion-binance-hack/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-31T17:20:55Z",
-  "summary": "",
-  "score": 32
- },
- {
   "title": "AI agent used to perform controversial brain surgery on a mouse, Anthropic Sonnet controlled motorized surgery rig",
   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/startup-uses-ai-agent-to-perform-controversial-brain-surgery-on-a-mouse-anthropic-sonnet-controlled-motorized-surgery-rig-ai-given-free-reign-to-treat-epilepsy-with-a-range-of-gene-therapy-vectors-after-opus-5-5-refused-to-conduct-biological-experiment",
   "source": "Tom's Hardware",
@@ -136,14 +128,6 @@
   "score": 30
  },
  {
-  "title": "Unaligned weak models might exploit powerful aligned models",
-  "url": "https://www.lesswrong.com/posts/r7y3MnouZ5bAwbiss/unaligned-weak-models-might-exploit-powerful-aligned-models",
-  "source": "LessWrong",
-  "published_at": "Fri, 30 Oct 2026 11:54:47 GMT",
-  "summary": "TL;DR: My previous posts were about strong models delegating to weaker, less aligned ones. The reverse is also dangerous: a swarm of weak, unaligned agents that uses a powerful aligned model as a contractor, without ever telling it what the work is for. Something close to it happened to me, during a",
-  "score": 30
- },
- {
   "title": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
   "url": "https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach",
   "source": "CoinDesk",
@@ -154,9 +138,25 @@
  {
   "title": "Northflank Breached",
   "url": "https://status.northflank.com",
-  "source": "Hacker News Frontpage",
+  "source": "Hacker News Best",
   "published_at": "Fri, 30 Oct 2026 15:10:31 +0000",
-  "summary": "Comments URL: Points: 464",
+  "summary": "Comments URL: Points: 471",
   "score": 28
+ },
+ {
+  "title": "\"UPTOBER\" MARKET RECAP:• BNB $BNB: -8.4%• XRP $XRP: -16.2%• AMD $AMD: -17.5%• INTEL $INTC: -45.3%• BITCOIN $BTC: -7.3%• MICRON $MU: -16.9%• META $META: -15.2%• SOLANA $SOL: -18.8%• NVIDIA $NVDA: -10.4",
+  "url": "https://x.com/WatcherGuru/status/2116602601886110065",
+  "source": "MarketNewsFeed [MACRO]",
+  "published_at": "2026-10-31T18:46:18Z",
+  "summary": "",
+  "score": 24
+ },
+ {
+  "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+  "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+  "source": "Hacker News Best",
+  "published_at": "Fri, 30 Oct 2026 17:27:25 +0000",
+  "summary": "Comments URL: Points: 322",
+  "score": 24
  }
 ]
