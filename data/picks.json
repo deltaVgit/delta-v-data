@@ -49,6 +49,14 @@
    "score": 48
   },
   {
+   "title": "Why AI Models Cheat: Reward Hacking, Explained",
+   "url": "https://decrypt.co/382274/why-ai-models-cheat-reward-hacking-explained",
+   "source": "Decrypt",
+   "published_at": "Sat, 31 Oct 2026 13:01:03 +0000",
+   "summary": "From boat-racing bots to OpenAI models inside Hugging Face, here s how AI reward hacking works and why it matters.",
+   "score": 42
+  },
+  {
    "title": "Linux kernel exploit enables remote root attacks on MPTCP servers",
    "url": "https://www.bleepingcomputer.com/news/security/linux-kernel-exploit-enables-remote-root-attacks-on-mptcp-servers/",
    "source": "BleepingComputer",
@@ -73,29 +81,21 @@
    "score": 40
   },
   {
-   "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
+   "title": "Chainalysis discloses data breach from offensive agentic techniques",
+   "url": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
    "source": "BleepingComputer",
-   "published_at": "Fri, 30 Oct 2026 06:16:07 -0400",
-   "summary": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]",
-   "score": 40
+   "published_at": "Sat, 31 Oct 2026 08:50:09 -0400",
+   "summary": "Blockchain analytics firm Chainalysis disclosed a data breach after attackers used offensive agentic techniques to access internal systems and tools, exposing customer names, email addresses, user IDs, and organizational roles. [...]",
+   "score": 38
   },
   {
    "title": "Northflank Breached",
    "url": "https://status.northflank.com",
    "source": "Hacker News Frontpage",
    "published_at": "Fri, 30 Oct 2026 15:10:31 +0000",
-   "summary": "Comments URL: Points: 409",
-   "score": 38
-  },
-  {
-   "title": "Coinbase and Strategy Sink After Binance Breach",
-   "url": "https://thedefiant.io/news/markets/coinbase-and-strategy-sink-after-binance-breach",
-   "source": "The Defiant",
-   "published_at": "Fri, 30 Oct 2026 13:59:22 GMT",
-   "summary": "Both stocks extended their opening losses, outpacing Bitcoin’s 4.65% decline and the S&P 500’s 1.24% drop over the same window.",
+   "summary": "Comments URL: Points: 449",
    "score": 38
   }
  ],
- "updatedAt": "2026-10-31T06:48:13.866805+00:00"
+ "updatedAt": "2026-10-31T13:06:18.976658+00:00"
 }

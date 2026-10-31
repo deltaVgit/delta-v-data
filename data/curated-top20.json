@@ -24,12 +24,36 @@
   "score": 50
  },
  {
+  "title": "Chainalysis discloses data breach from offensive agentic techniques",
+  "url": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
+  "source": "BleepingComputer",
+  "published_at": "Sat, 31 Oct 2026 08:50:09 -0400",
+  "summary": "Blockchain analytics firm Chainalysis disclosed a data breach after attackers used offensive agentic techniques to access internal systems and tools, exposing customer names, email addresses, user IDs, and organizational roles. [...]",
+  "score": 46
+ },
+ {
   "title": "Anthropic hacked to deliver remote access trojan to Claude developer laptops",
   "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
   "source": "Hacker News Frontpage",
   "published_at": "Fri, 30 Oct 2026 10:47:06 +0000",
   "summary": "Comments URL: Points: 17",
   "score": 36
+ },
+ {
+  "title": "A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears",
+  "url": "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears",
+  "source": "CoinDesk",
+  "published_at": "Sat, 31 Oct 2026 12:49:47 +0000",
+  "summary": "",
+  "score": 34
+ },
+ {
+  "title": "INVESTORS PULL $643 MILLION FROM BITCOIN ETFS AFTER THE BIGGEST CRYPTO HACK IN HISTORY",
+  "url": "https://www.tradingview.com/news/beincrypto:2e73262fe094b:0-investors-pull-643-million-from-bitcoin-etfs-after-the-biggest-crypto-hack-in-history/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-10-31T12:00:59Z",
+  "summary": "",
+  "score": 34
  },
  {
   "title": "SkillMem: Compact External Skill Memory for Latent Multi-Agent Reasoning",
@@ -88,6 +112,14 @@
   "score": 34
  },
  {
+  "title": "AI agent used to perform controversial brain surgery on a mouse, Anthropic Sonnet controlled motorized surgery rig",
+  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/startup-uses-ai-agent-to-perform-controversial-brain-surgery-on-a-mouse-anthropic-sonnet-controlled-motorized-surgery-rig-ai-given-free-reign-to-treat-epilepsy-with-a-range-of-gene-therapy-vectors-after-opus-5-5-refused-to-conduct-biological-experiment",
+  "source": "Tom's Hardware",
+  "published_at": "Sat, 31 Oct 2026 12:00:00 +0000",
+  "summary": "The team had to use Sonnet after Opus 5.5 outright refused to run the experiment, while Opus 5 warned that it could stop working in the midst of the operation.",
+  "score": 32
+ },
+ {
   "title": "Secret Service, FBI Join Binance Hack Probe as Circle Freezes $823 Million",
   "url": "https://decrypt.co/382268/secret-service-fbi-binance-hack-probe",
   "source": "Decrypt",
@@ -126,37 +158,5 @@
   "published_at": "Fri, 30 Oct 2026 09:00:32 -0400",
   "summary": "Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...]",
   "score": 30
- },
- {
-  "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
-  "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
-  "source": "BleepingComputer",
-  "published_at": "Fri, 30 Oct 2026 06:16:07 -0400",
-  "summary": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]",
-  "score": 30
- },
- {
-  "title": "Northflank Breached",
-  "url": "https://status.northflank.com",
-  "source": "Hacker News Frontpage",
-  "published_at": "Fri, 30 Oct 2026 15:10:31 +0000",
-  "summary": "Comments URL: Points: 409",
-  "score": 28
- },
- {
-  "title": "Coinbase and Strategy Sink After Binance Breach",
-  "url": "https://thedefiant.io/news/markets/coinbase-and-strategy-sink-after-binance-breach",
-  "source": "The Defiant",
-  "published_at": "Fri, 30 Oct 2026 13:59:22 GMT",
-  "summary": "Both stocks extended their opening losses, outpacing Bitcoin’s 4.65% decline and the S&P 500’s 1.24% drop over the same window.",
-  "score": 28
- },
- {
-  "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-  "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
-  "source": "Hacker News Best",
-  "published_at": "Fri, 30 Oct 2026 17:27:25 +0000",
-  "summary": "Comments URL: Points: 301",
-  "score": 24
  }
 ]
