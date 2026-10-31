@@ -25,14 +25,6 @@
    "score": 72
   },
   {
-   "title": "Binance hack drained wallets backing customer assets, reserve data shows",
-   "url": "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
-   "source": "CoinDesk",
-   "published_at": "Fri, 30 Oct 2026 00:17:10 +0000",
-   "summary": "",
-   "score": 60
-  },
-  {
    "title": "Binance Hack: Why Bitcoin Didn t Crash Like It Did in 2018",
    "url": "https://decrypt.co/382257/binance-hack-why-bitcoin-didnt-crash",
    "source": "Decrypt",
@@ -54,14 +46,6 @@
    "source": "CoinDesk",
    "published_at": "Fri, 30 Oct 2026 07:54:07 +0000",
    "summary": "",
-   "score": 48
-  },
-  {
-   "title": "Open-weight AI models can exploit the patch gap",
-   "url": "https://epoch.ai/publications/open-weight-models-patch-gap",
-   "source": "Hacker News Frontpage",
-   "published_at": "Thu, 29 Oct 2026 22:32:46 +0000",
-   "summary": "Comments URL: Points: 3",
    "score": 48
   },
   {
@@ -95,7 +79,23 @@
    "published_at": "Fri, 30 Oct 2026 06:16:07 -0400",
    "summary": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]",
    "score": 40
+  },
+  {
+   "title": "Northflank Breached",
+   "url": "https://status.northflank.com",
+   "source": "Hacker News Frontpage",
+   "published_at": "Fri, 30 Oct 2026 15:10:31 +0000",
+   "summary": "Comments URL: Points: 408",
+   "score": 38
+  },
+  {
+   "title": "Coinbase and Strategy Sink After Binance Breach",
+   "url": "https://thedefiant.io/news/markets/coinbase-and-strategy-sink-after-binance-breach",
+   "source": "The Defiant",
+   "published_at": "Fri, 30 Oct 2026 13:59:22 GMT",
+   "summary": "Both stocks extended their opening losses, outpacing Bitcoin’s 4.65% decline and the S&P 500’s 1.24% drop over the same window.",
+   "score": 38
   }
  ],
- "updatedAt": "2026-10-31T00:59:57.978527+00:00"
+ "updatedAt": "2026-10-31T06:42:02.724007+00:00"
 }

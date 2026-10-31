@@ -32,11 +32,19 @@
   "score": 36
  },
  {
-  "title": "ZHAO SAYS BINANCE HACK WAS SMALLER THAN MT. GOX BY BITCOIN AMOUNT AND SUPPLY SHARE",
-  "url": "https://www.tradingview.com/news/bloomingbit:f79e80954094b:0-zhao-says-binance-hack-was-smaller-than-mt-gox-by-bitcoin-amount-and-supply-share/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-10-31T00:37:58Z",
-  "summary": "",
+  "title": "SkillMem: Compact External Skill Memory for Latent Multi-Agent Reasoning",
+  "url": "https://arxiv.org/abs/2610.37935",
+  "source": "arXiv cs.AI",
+  "published_at": "Sat, 31 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.37935v1 Announce Type: new Abstract: Latent multi-agent systems reduce inference cost by keeping intermediate reasoning and inter-agent communication in continuous representations.\\ Reusable skills, however, are commonly supplied as text or stored as layer-wise Key-Value states or skill-s",
+  "score": 34
+ },
+ {
+  "title": "FilingLoop: Evaluating and Evolving LLM Agents for Corporate Disclosure Review and Revision",
+  "url": "https://arxiv.org/abs/2610.37905",
+  "source": "arXiv cs.AI",
+  "published_at": "Sat, 31 Oct 2026 00:00:00 -0400",
+  "summary": "arXiv:2610.37905v1 Announce Type: new Abstract: Public disclosure repositories such as SEC EDGAR support informed investment through web access to corporate filings. Supporting their review with language model agents requires discovering unstated deficiencies across related documents, acquiring miss",
   "score": 34
  },
  {
@@ -77,30 +85,6 @@
   "source": "CoinDesk",
   "published_at": "Fri, 30 Oct 2026 11:09:24 +0000",
   "summary": "",
-  "score": 34
- },
- {
-  "title": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
-  "url": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze",
-  "source": "CoinDesk",
-  "published_at": "Fri, 30 Oct 2026 04:50:42 +0000",
-  "summary": "",
-  "score": 34
- },
- {
-  "title": "$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain",
-  "url": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead",
-  "source": "CoinDesk",
-  "published_at": "Fri, 30 Oct 2026 04:00:43 +0000",
-  "summary": "",
-  "score": 34
- },
- {
-  "title": "Bitcoin slides below $77,000, BNB drops amid Binance hack",
-  "url": "https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183",
-  "source": "The Block",
-  "published_at": "Fri, 30 Oct 2026 02:22:31 +0000",
-  "summary": "BNB lost 7.1%, while Binance Co-CEO Yi He pledged that the exchange will cover all user losses resulting from the hack.",
   "score": 34
  },
  {
@@ -152,11 +136,27 @@
   "score": 30
  },
  {
-  "title": "Open-weight AI models can exploit the patch gap",
-  "url": "https://epoch.ai/publications/open-weight-models-patch-gap",
+  "title": "Northflank Breached",
+  "url": "https://status.northflank.com",
   "source": "Hacker News Frontpage",
-  "published_at": "Thu, 29 Oct 2026 22:32:46 +0000",
-  "summary": "Comments URL: Points: 3",
-  "score": 30
+  "published_at": "Fri, 30 Oct 2026 15:10:31 +0000",
+  "summary": "Comments URL: Points: 408",
+  "score": 28
+ },
+ {
+  "title": "Coinbase and Strategy Sink After Binance Breach",
+  "url": "https://thedefiant.io/news/markets/coinbase-and-strategy-sink-after-binance-breach",
+  "source": "The Defiant",
+  "published_at": "Fri, 30 Oct 2026 13:59:22 GMT",
+  "summary": "Both stocks extended their opening losses, outpacing Bitcoin’s 4.65% decline and the S&P 500’s 1.24% drop over the same window.",
+  "score": 28
+ },
+ {
+  "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+  "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+  "source": "Hacker News Best",
+  "published_at": "Fri, 30 Oct 2026 17:27:25 +0000",
+  "summary": "Comments URL: Points: 301",
+  "score": 24
  }
 ]
