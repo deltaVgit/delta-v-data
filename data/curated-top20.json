@@ -32,12 +32,28 @@
   "score": 40
  },
  {
+  "title": "ALARABIYA_BRK - BINANCE RESTORES CRYPTO WITHDRAWALS FOLLOWING SECURITY BREACH",
+  "url": "https://x.com/FirstSquawk/status/2116760451958931840",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-11-01T05:13:22Z",
+  "summary": "",
+  "score": 38
+ },
+ {
   "title": "Northflank security breach leads to abuse of customers AI API keys",
   "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
   "source": "BleepingComputer",
   "published_at": "Sat, 31 Oct 2026 14:01:12 -0400",
   "summary": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers AI API keys. [...]",
   "score": 38
+ },
+ {
+  "title": "STRIVE CEO SAYS BITCOIN’S LONG-TERM INVESTMENT CASE INTACT DESPITE $6.3 BILLION BINANCE HACK",
+  "url": "https://www.tradingview.com/news/bloomingbit:fc9c79125094b:0-strive-ceo-says-bitcoin-s-long-term-investment-case-intact-despite-6-3-billion-binance-hack/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-11-01T05:02:28Z",
+  "summary": "",
+  "score": 34
  },
  {
   "title": "A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears",
@@ -120,20 +136,20 @@
   "score": 28
  },
  {
-  "title": "Northflank Breached",
-  "url": "https://status.northflank.com",
-  "source": "Hacker News Best",
-  "published_at": "Fri, 30 Oct 2026 15:10:31 +0000",
-  "summary": "Comments URL: Points: 473",
-  "score": 28
- },
- {
   "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
   "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
   "source": "Hacker News Best",
   "published_at": "Fri, 30 Oct 2026 17:27:25 +0000",
-  "summary": "Comments URL: Points: 322",
+  "summary": "Comments URL: Points: 323",
   "score": 24
+ },
+ {
+  "title": "FBI SAYS NORTH KOREA WAS BEHIND BINANCE’S $6.3 BILLION HACK, SEES SIGNS OF MONEY LAUNDERING",
+  "url": "https://www.tradingview.com/news/bloomingbit:1a9cec122094b:0-fbi-says-north-korea-was-behind-binance-s-6-3-billion-hack-sees-signs-of-money-laundering/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-11-01T04:34:25Z",
+  "summary": "",
+  "score": 22
  },
  {
   "title": "FBI confirms North Korea s role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
@@ -141,22 +157,6 @@
   "source": "CoinDesk",
   "published_at": "Sun, 01 Nov 2026 01:10:05 +0000",
   "summary": "",
-  "score": 22
- },
- {
-  "title": "FBI Attributes $6 Billion-Plus Binance Hack to North Korea",
-  "url": "https://thedefiant.io/news/hacks/fbi-attributes-6-billion-plus-binance-hack-to-north-korea",
-  "source": "The Defiant",
-  "published_at": "Sat, 31 Oct 2026 21:46:33 GMT",
-  "summary": "The bureau named TraderTraitor and sought blocks on the laundering trail, while Binance kept Nov. 1 as its withdrawal restart target.",
-  "score": 22
- },
- {
-  "title": "Hackers hijack a dozen DeFi websites, all registered with Name.com, and steal about $138,000",
-  "url": "https://www.theblock.co/news/defi/2026-10-31-hackers-hijack-a-dozen-defi-websites-all-registered-with-name-com-and-steal-about-138000-432251",
-  "source": "The Block",
-  "published_at": "Sat, 31 Oct 2026 15:26:27 +0000",
-  "summary": "All 12 hijacked domains are registered through Name.com, according to registry records accessed by The Block, suggesting a compromise.",
   "score": 22
  }
 ]
