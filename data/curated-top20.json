@@ -32,6 +32,14 @@
   "score": 38
  },
  {
+  "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
+  "url": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
+  "source": "Decrypt",
+  "published_at": "Sun, 01 Nov 2026 16:01:02 +0000",
+  "summary": "Bitcoin ETFs saw $643.2 million in outflows Friday, the first full trading session after the $6.4 billion Binance hack, ending October with roughly $516 million in net outflows.",
+  "score": 34
+ },
+ {
   "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
   "url": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
   "source": "CoinDesk",
@@ -80,44 +88,12 @@
   "score": 34
  },
  {
-  "title": "AI agent used to perform controversial brain surgery on a mouse, Anthropic Sonnet controlled motorized surgery rig",
-  "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/startup-uses-ai-agent-to-perform-controversial-brain-surgery-on-a-mouse-anthropic-sonnet-controlled-motorized-surgery-rig-ai-given-free-reign-to-treat-epilepsy-with-a-range-of-gene-therapy-vectors-after-opus-5-5-refused-to-conduct-biological-experiment",
-  "source": "Tom's Hardware",
-  "published_at": "Sat, 31 Oct 2026 12:00:00 +0000",
-  "summary": "The team had to use Sonnet after Opus 5.5 outright refused to run the experiment, while Opus 5 warned that it could stop working in the midst of the operation.",
-  "score": 32
- },
- {
   "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
   "url": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
   "source": "BleepingComputer",
   "published_at": "Sat, 31 Oct 2026 11:35:11 -0400",
   "summary": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed SMS of Death and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially crafted text message. [...]",
   "score": 30
- },
- {
-  "title": "RUSSIA’S STATE STATISTICS SERVICE: TARGETED BY CYBERATTACKS BETWEEN OCT. 29 AND NOV. 1; NO DATA BREACHED - INTERFAX",
-  "url": "https://x.com/FirstSquawk/status/2116881113977397368",
-  "source": "MarketNewsFeed [OTHER]",
-  "published_at": "2026-11-01T13:13:03Z",
-  "summary": "",
-  "score": 28
- },
- {
-  "title": "RUSSIA’S STATE STATISTICS SERVICE: TARGETED BY CYBERATTACKS BETWEEN OCT. 29 AND NOV. 1; NO DATA BREACHED - INTERFAX",
-  "url": "https://x.com/financialjuice/status/2116878307518030180",
-  "source": "MarketNewsFeed [OTHER]",
-  "published_at": "2026-11-01T13:01:49Z",
-  "summary": "",
-  "score": 28
- },
- {
-  "title": "ELON MUSK WARNS AI AGENTS COULD BECOME CRYPTO'S NEXT BIG SECURITY THREAT",
-  "url": "https://www.tradingview.com/news/cryptobriefing:231c22846094b:0-elon-musk-warns-ai-agents-could-become-crypto-s-next-big-security-threat/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-11-01T12:42:26Z",
-  "summary": "",
-  "score": 28
  },
  {
   "title": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
@@ -128,11 +104,19 @@
   "score": 28
  },
  {
+  "title": "BINANCE SEES $3.5 BILLION IN OUTFLOWS AFTER RECORD $6.3 BILLION HACKBINANCE RECORDED MORE THAN $3.5 BILLION IN NET OUTFLOWS SUNDAY, ACCORDING TO DEFILLAMA, AFTER RESUMING WITHDRAWALS FOLLOWING A $6.3 ",
+  "url": "https://x.com/DeItaone/status/2116925997693935981",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-11-01T16:11:10Z",
+  "summary": "",
+  "score": 22
+ },
+ {
   "title": "Domain hacks with unusual Unicode characters (2018)",
   "url": "https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/",
   "source": "Hacker News Frontpage",
   "published_at": "Sun, 01 Nov 2026 10:44:20 +0000",
-  "summary": "Comments URL: Points: 22",
+  "summary": "Comments URL: Points: 34",
   "score": 22
  },
  {
@@ -157,6 +141,22 @@
   "source": "The Block",
   "published_at": "Sat, 31 Oct 2026 15:26:27 +0000",
   "summary": "All 12 hijacked domains are registered through Name.com, according to registry records accessed by The Block, suggesting a compromise.",
+  "score": 22
+ },
+ {
+  "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
+  "url": "https://decrypt.co/382306/binance-hack-everything-you-need-to-know",
+  "source": "Decrypt",
+  "published_at": "Sat, 31 Oct 2026 15:01:02 +0000",
+  "summary": "Attackers tied to North Korea drained roughly $6.4 billion from the world’s largest crypto exchange. Here’s what we know about how it happened, who’s behind it, and what comes next.",
+  "score": 22
+ },
+ {
+  "title": "Why AI Models Cheat: Reward Hacking, Explained",
+  "url": "https://decrypt.co/382274/why-ai-models-cheat-reward-hacking-explained",
+  "source": "Decrypt",
+  "published_at": "Sat, 31 Oct 2026 13:01:03 +0000",
+  "summary": "From boat-racing bots to OpenAI models inside Hugging Face, here s how AI reward hacking works and why it matters.",
   "score": 22
  }
 ]
