@@ -32,14 +32,6 @@
   "score": 38
  },
  {
-  "title": "SUSPECTED BINANCE HACKER MOVES $46.4 MILLION IN SOLANA, SWAPS IT FOR BITCOIN",
-  "url": "https://www.tradingview.com/news/bloomingbit:939aaca50094b:0-suspected-binance-hacker-moves-46-4-million-in-solana-swaps-it-for-bitcoin/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-11-01T19:05:15Z",
-  "summary": "",
-  "score": 34
- },
- {
   "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
   "url": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
   "source": "Decrypt",
@@ -80,14 +72,6 @@
   "score": 34
  },
  {
-  "title": "JUST IN: 🇺🇸 US SECRET SERVICE SAYS IT IS CONTINUING TO INVESTIGATE $6.3 BILLION BINANCE CRYPTO HACK.",
-  "url": "https://x.com/WatcherGuru/status/2116983394470908292",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-11-01T19:59:10Z",
-  "summary": "",
-  "score": 32
- },
- {
   "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
   "url": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
   "source": "BleepingComputer",
@@ -100,7 +84,7 @@
   "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
   "source": "Hacker News Frontpage",
   "published_at": "Sun, 01 Nov 2026 16:46:33 +0000",
-  "summary": "Comments URL: Points: 117",
+  "summary": "Comments URL: Points: 151",
   "score": 28
  },
  {
@@ -110,14 +94,6 @@
   "published_at": "Sat, 31 Oct 2026 15:24:10 +0000",
   "summary": "",
   "score": 28
- },
- {
-  "title": "NORTH KOREAN HACKERS LAUNDER $242 MILLION OF BINANCE LOOT VIA TRON AS FBI PRESSES THORCHAIN: ANALYST",
-  "url": "https://www.tradingview.com/news/the_block:eff0ace74094b:0-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-11-01T18:27:50Z",
-  "summary": "",
-  "score": 22
  },
  {
   "title": "North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst",
@@ -152,11 +128,35 @@
   "score": 22
  },
  {
+  "title": "Domain hacks with unusual Unicode characters (2018)",
+  "url": "https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/",
+  "source": "Hacker News Frontpage",
+  "published_at": "Sun, 01 Nov 2026 10:44:20 +0000",
+  "summary": "Comments URL: Points: 45",
+  "score": 22
+ },
+ {
   "title": "FBI confirms North Korea s role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
   "url": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
   "source": "CoinDesk",
   "published_at": "Sun, 01 Nov 2026 01:10:05 +0000",
   "summary": "",
+  "score": 22
+ },
+ {
+  "title": "Hackers hijack a dozen DeFi websites, all registered with Name.com, and steal about $138,000",
+  "url": "https://www.theblock.co/news/defi/2026-10-31-hackers-hijack-a-dozen-defi-websites-all-registered-with-name-com-and-steal-about-138000-432251",
+  "source": "The Block",
+  "published_at": "Sat, 31 Oct 2026 15:26:27 +0000",
+  "summary": "All 12 hijacked domains are registered through Name.com, according to registry records accessed by The Block, suggesting a compromise.",
+  "score": 22
+ },
+ {
+  "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
+  "url": "https://decrypt.co/382306/binance-hack-everything-you-need-to-know",
+  "source": "Decrypt",
+  "published_at": "Sat, 31 Oct 2026 15:01:02 +0000",
+  "summary": "Attackers tied to North Korea drained roughly $6.4 billion from the world’s largest crypto exchange. Here’s what we know about how it happened, who’s behind it, and what comes next.",
   "score": 22
  }
 ]
