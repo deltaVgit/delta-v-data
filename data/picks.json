@@ -1,27 +1,75 @@
 {
  "picks": [
   {
-   "title": "New AI-driven Windows malware feeds stolen data to Claude to rank victims’ assets by value, then deletes itself — payload builds custom target assessment, can switch models if one refuses, or skip the",
-   "url": "https://www.tomshardware.com/tech-industry/cyber-security/new-ai-driven-windows-malware-feeds-stolen-data-to-claude-to-rank-victims-assets-by-value-then-deletes-itself-payload-builds-custom-target-assessment-can-switch-models-if-one-refuses-or-skip-the-ai-step-entirely",
+   "title": "Hackers claim to have stolen 23TB of data from Russian statistics body, including Ukraine war casualty figures — Russian Federal State Statistics Service admits its servers were hit by coordinated cyb",
+   "url": "https://www.tomshardware.com/tech-industry/cyber-security/hackers-claim-to-have-stolen-23tb-of-data-from-russian-statistics-body-including-ukraine-war-casualty-figures-russian-federal-state-statistics-service-admits-its-servers-were-hit-by-coordinated-cyberattacks",
    "source": "Tom's Hardware",
-   "published_at": "Sun, 01 Nov 2026 21:00:00 +0000",
-   "summary": "Cisco Talos says the VOLTA infostealer sends stolen victim data to Claude Opus 4.6 to rank assets by monetization value.",
+   "published_at": "Mon, 02 Nov 2026 12:41:54 +0000",
+   "summary": "Russia s Rosstat admitted that its servers were attacked by hackers but denies data leaks which appear to show as many as 50,000 military deaths per month.",
    "score": 64
   },
   {
-   "title": "Frontier Airlines Likely Breached",
-   "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
-   "source": "Hacker News Best",
-   "published_at": "Sun, 01 Nov 2026 16:46:33 +0000",
-   "summary": "Comments URL: Points: 204",
+   "title": "No proof of AI in North Korean hackers move of stolen Binance funds",
+   "url": "https://www.coindesk.com/tech/2026/11/02/no-proof-of-ai-in-north-korean-hackers-move-of-stolen-binance-funds-through-thousands-of-wallets",
+   "source": "CoinDesk",
+   "published_at": "Mon, 02 Nov 2026 11:57:45 +0000",
+   "summary": "",
+   "score": 64
+  },
+  {
+   "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
+   "url": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
+   "source": "BleepingComputer",
+   "published_at": "Mon, 02 Nov 2026 13:16:34 -0500",
+   "summary": "Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google says its manufacturer intentionally infected with malware to generate revenue through cybercrime activities. [...]",
+   "score": 42
+  },
+  {
+   "title": "NVIDIA Brev security breach may have exposed SSH keys used to access customer VMs — investigation finds unauthorized activity spanning 16 days, but no evidence of misuse",
+   "url": "https://www.tomshardware.com/tech-industry/cyber-security/nvidia-brev-security-breach-may-have-exposed-ssh-keys-used-to-access-customer-vms-investigation-finds-unauthorized-activity-spanning-16-days-but-no-evidence-of-misuse",
+   "source": "Tom's Hardware",
+   "published_at": "Mon, 02 Nov 2026 14:00:00 +0000",
+   "summary": "NVIDIA is investigating a security incident involving its Brev cloud development platform after detecting unauthorized activity between October 4 and October 20. The incident may have exposed SSH keys used to access customer virtual machines. NVIDIA has rotated the affected keys and updated customer",
    "score": 38
   },
   {
-   "title": "Binance Restores USD Withdrawals as Post-Hack Reopening Expands",
-   "url": "https://thedefiant.io/news/cefi/binance-restores-usd-withdrawals-as-post-hack-reopening-expands",
-   "source": "The Defiant",
-   "published_at": "Mon, 02 Nov 2026 08:09:37 GMT",
-   "summary": "The exchange says all 15 initial crypto network groups have reopened, but withdrawals for several other tokens remain suspended.",
+   "title": "North Korea Is Laundering Binance Hack Loot at One New Wallet Every 25 Seconds",
+   "url": "https://decrypt.co/382355/north-korea-laundering-binance-hack-loot-new-wallet-every-25-seconds",
+   "source": "Decrypt",
+   "published_at": "Mon, 02 Nov 2026 18:46:03 +0000",
+   "summary": "$2.85 billion of the $6.43 billion stolen from Binance has been frozen or seized, compared with about 3% in the Bybit hack, as North Korea’s automated laundering spans 12,000 wallets.",
+   "score": 34
+  },
+  {
+   "title": "Brazil s Largest Exchange Mercado Bitcoin Halts Withdrawals After $40 Million Hack",
+   "url": "https://decrypt.co/382341/mercado-bitcoin-halts-withdrawals-40-million-hack",
+   "source": "Decrypt",
+   "published_at": "Mon, 02 Nov 2026 16:46:03 +0000",
+   "summary": "Brazil s largest crypto exchange paused deposits and withdrawals after a security incident. Tether froze more than 4.5 million USDT tied to the attack.",
+   "score": 34
+  },
+  {
+   "title": "Bitmine Buys More Ethereum as Tom Lee Calls the Binance Hack Bullish",
+   "url": "https://decrypt.co/382340/bitmine-buys-more-ethereum-tom-lee-binance-hack-bullish",
+   "source": "Decrypt",
+   "published_at": "Mon, 02 Nov 2026 16:23:24 +0000",
+   "summary": "The chairman laid out six reasons the market’s “muted” 4% ETH drop after the record Binance theft shows crypto is “increasingly resilient,” as the firm’s stash neared its 5% supply goal.",
+   "score": 34
+  },
+  {
+   "title": "FBI Blames North Korea for $6B Binance Hack as Exchange Reopens Withdrawals",
+   "url": "https://decrypt.co/382316/fbi-blames-north-korea-for-6b-binance-hack-as-exchange-reopens-withdrawals",
+   "source": "Decrypt",
+   "published_at": "Mon, 02 Nov 2026 10:36:19 +0000",
+   "summary": "Binance saw $3.64 billion in net outflows in the first nine and a half hours after reopening withdrawals, or 2.1% of its assets, it said.",
+   "score": 34
+  },
+  {
+   "title": "Hackers disrupt refrigeration systems at European supermarkets",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/",
+   "source": "BleepingComputer",
+   "published_at": "Mon, 02 Nov 2026 09:28:39 -0500",
+   "summary": "A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems. [...]",
    "score": 34
   },
   {
@@ -29,14 +77,6 @@
    "url": "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time",
    "source": "CoinDesk",
    "published_at": "Mon, 02 Nov 2026 05:18:12 +0000",
-   "summary": "",
-   "score": 34
-  },
-  {
-   "title": "Bitcoin claws back toward $79,000 as markets shake off crypto s biggest hack",
-   "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack",
-   "source": "CoinDesk",
-   "published_at": "Mon, 02 Nov 2026 04:42:22 +0000",
    "summary": "",
    "score": 34
   },
@@ -49,53 +89,13 @@
    "score": 34
   },
   {
-   "title": "North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst",
-   "url": "https://www.theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257",
-   "source": "The Block",
-   "published_at": "Sun, 01 Nov 2026 18:25:48 +0000",
-   "summary": "Crypto bridges Relay, THORChain, Chainflip and Symbiosis moved about $140 million of stolen funds off Tron, with Relay handling the most at $48 million.",
-   "score": 34
-  },
-  {
-   "title": "Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack",
-   "url": "https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259",
-   "source": "The Block",
-   "published_at": "Sun, 01 Nov 2026 16:32:31 +0000",
-   "summary": "The exchange said the outflows equal 2.1% of its $171 billion in assets and that withdrawal volumes have declined after an initial spike.",
-   "score": 34
-  },
-  {
-   "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
-   "url": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
-   "source": "Decrypt",
-   "published_at": "Sun, 01 Nov 2026 16:01:02 +0000",
-   "summary": "Bitcoin ETFs saw $643.2 million in outflows Friday, the first full trading session after the $6.4 billion Binance hack, ending October with roughly $516 million in net outflows.",
-   "score": 34
-  },
-  {
-   "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
-   "url": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
+   "title": "Synology warns of C3RB3R ransomware attacks targeting NAS devices",
+   "url": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/",
    "source": "BleepingComputer",
-   "published_at": "Sun, 01 Nov 2026 14:57:53 -0500",
-   "summary": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]",
-   "score": 34
-  },
-  {
-   "title": "Domain hacks with unusual Unicode characters (2018)",
-   "url": "https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/",
-   "source": "Hacker News Frontpage",
-   "published_at": "Sun, 01 Nov 2026 10:44:20 +0000",
-   "summary": "Comments URL: Points: 86",
-   "score": 34
-  },
-  {
-   "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
-   "url": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
-   "source": "CoinDesk",
-   "published_at": "Sun, 01 Nov 2026 10:35:42 +0000",
-   "summary": "",
-   "score": 34
+   "published_at": "Mon, 02 Nov 2026 06:28:42 -0500",
+   "summary": "Taiwanese network-attached storage (NAS) appliance maker Synology warned customers to update their devices immediately due to a surge in C3RB3r ransomware attacks. [...]",
+   "score": 32
   }
  ],
- "updatedAt": "2026-11-02T10:33:16.733071+00:00"
+ "updatedAt": "2026-11-02T19:36:15.544017+00:00"
 }
