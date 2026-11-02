@@ -32,6 +32,14 @@
   "score": 38
  },
  {
+  "title": "BINANCE MOVES $1.69 BILLION IN BITCOIN BETWEEN INTERNAL WALLETS, FUELING HACK-RECOVERY SPECULATION",
+  "url": "https://www.tradingview.com/news/bloomingbit:5651a7718094b:0-binance-moves-1-69-billion-in-bitcoin-between-internal-wallets-fueling-hack-recovery-speculation/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-11-02T02:24:48Z",
+  "summary": "",
+  "score": 34
+ },
+ {
   "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
   "url": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
   "source": "Decrypt",
@@ -80,14 +88,6 @@
   "score": 30
  },
  {
-  "title": "Frontier Airlines Likely Breached",
-  "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
-  "source": "Hacker News Frontpage",
-  "published_at": "Sun, 01 Nov 2026 16:46:33 +0000",
-  "summary": "Comments URL: Points: 172",
-  "score": 28
- },
- {
   "title": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
   "url": "https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach",
   "source": "CoinDesk",
@@ -128,14 +128,6 @@
   "score": 22
  },
  {
-  "title": "Domain hacks with unusual Unicode characters (2018)",
-  "url": "https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/",
-  "source": "Hacker News Frontpage",
-  "published_at": "Sun, 01 Nov 2026 10:44:20 +0000",
-  "summary": "Comments URL: Points: 55",
-  "score": 22
- },
- {
   "title": "FBI confirms North Korea s role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
   "url": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
   "source": "CoinDesk",
@@ -157,6 +149,14 @@
   "source": "Decrypt",
   "published_at": "Sat, 31 Oct 2026 15:01:02 +0000",
   "summary": "Attackers tied to North Korea drained roughly $6.4 billion from the world’s largest crypto exchange. Here’s what we know about how it happened, who’s behind it, and what comes next.",
+  "score": 22
+ },
+ {
+  "title": "Why AI Models Cheat: Reward Hacking, Explained",
+  "url": "https://decrypt.co/382274/why-ai-models-cheat-reward-hacking-explained",
+  "source": "Decrypt",
+  "published_at": "Sat, 31 Oct 2026 13:01:03 +0000",
+  "summary": "From boat-racing bots to OpenAI models inside Hugging Face, here s how AI reward hacking works and why it matters.",
   "score": 22
  }
 ]

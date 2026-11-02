@@ -49,14 +49,6 @@
    "score": 42
   },
   {
-   "title": "Frontier Airlines Likely Breached",
-   "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
-   "source": "Hacker News Frontpage",
-   "published_at": "Sun, 01 Nov 2026 16:46:33 +0000",
-   "summary": "Comments URL: Points: 172",
-   "score": 38
-  },
-  {
    "title": "Northflank security breach leads to abuse of customers AI API keys",
    "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
    "source": "BleepingComputer",
@@ -71,6 +63,14 @@
    "published_at": "Sat, 31 Oct 2026 08:50:09 -0400",
    "summary": "Blockchain analytics firm Chainalysis disclosed a data breach after attackers used offensive agentic techniques to access internal systems and tools, exposing customer names, email addresses, user IDs, and organizational roles. [...]",
    "score": 38
+  },
+  {
+   "title": "BINANCE MOVES $1.69 BILLION IN BITCOIN BETWEEN INTERNAL WALLETS, FUELING HACK-RECOVERY SPECULATION",
+   "url": "https://www.tradingview.com/news/bloomingbit:5651a7718094b:0-binance-moves-1-69-billion-in-bitcoin-between-internal-wallets-fueling-hack-recovery-speculation/",
+   "source": "MarketNewsFeed [CRYPTO]",
+   "published_at": "2026-11-02T02:24:48Z",
+   "summary": "",
+   "score": 34
   },
   {
    "title": "North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst",
@@ -97,5 +97,5 @@
    "score": 34
   }
  ],
- "updatedAt": "2026-11-02T01:50:24.910038+00:00"
+ "updatedAt": "2026-11-02T02:59:02.476667+00:00"
 }
