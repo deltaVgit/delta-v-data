@@ -1,13 +1,5 @@
 [
  {
-  "title": "'INCREDIBLE' THAT BITCOIN OUTPERFORMED GOLD LAST WEEK DESPITE $6.3 BILLION BINANCE HACK, SAYS ANALYST",
-  "url": "https://www.tradingview.com/news/benzinga:74a78aef3094b:0-incredible-that-bitcoin-outperformed-gold-last-week-despite-6-3-billion-binance-hack-says-analyst/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-11-02T08:32:47Z",
-  "summary": "",
-  "score": 34
- },
- {
   "title": "Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time",
   "url": "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time",
   "source": "CoinDesk",
@@ -72,6 +64,14 @@
   "score": 34
  },
  {
+  "title": "Frontier Airlines Likely Breached",
+  "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
+  "source": "Hacker News Best",
+  "published_at": "Sun, 01 Nov 2026 16:46:33 +0000",
+  "summary": "Comments URL: Points: 204",
+  "score": 28
+ },
+ {
   "title": "Binance Restores USD Withdrawals as Post-Hack Reopening Expands",
   "url": "https://thedefiant.io/news/cefi/binance-restores-usd-withdrawals-as-post-hack-reopening-expands",
   "source": "The Defiant",
@@ -85,14 +85,6 @@
   "source": "The Block",
   "published_at": "Sun, 01 Nov 2026 18:25:48 +0000",
   "summary": "Crypto bridges Relay, THORChain, Chainflip and Symbiosis moved about $140 million of stolen funds off Tron, with Relay handling the most at $48 million.",
-  "score": 22
- },
- {
-  "title": "Binance-Hack Launderers Reach Solana After Draining $500 Million on Tron, Chainalysis Says",
-  "url": "https://thedefiant.io/news/hacks/binance-hack-launderers-reach-solana-after-draining-500-million-on-tron-chainalysis-says",
-  "source": "The Defiant",
-  "published_at": "Sun, 01 Nov 2026 17:08:41 GMT",
-  "summary": "The firm says the Tron operation spanned more than 1,000 addresses and over 3,000 deposits before funds dispersed across chains.",
   "score": 22
  },
  {
@@ -116,7 +108,7 @@
   "url": "https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/",
   "source": "Hacker News Frontpage",
   "published_at": "Sun, 01 Nov 2026 10:44:20 +0000",
-  "summary": "Comments URL: Points: 77",
+  "summary": "Comments URL: Points: 86",
   "score": 22
  },
  {
@@ -136,6 +128,22 @@
   "score": 20
  },
  {
+  "title": "SUI PUTS ENFORCED SPENDING LIMITS AT THE CENTER OF ITS AI-AGENT DESIGN",
+  "url": "https://www.tradingview.com/news/newsbtc:fee327632094b:0-sui-puts-enforced-spending-limits-at-the-center-of-its-ai-agent-design/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-11-02T10:07:03Z",
+  "summary": "",
+  "score": 18
+ },
+ {
+  "title": "The agentic web is here",
+  "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+  "source": "MIT Technology Review",
+  "published_at": "Mon, 02 Nov 2026 09:35:19 +0000",
+  "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous softw",
+  "score": 18
+ },
+ {
   "title": "BlindToChange: AI Agents Can Find Changes When Asked But Do They Look When Needed?",
   "url": "https://arxiv.org/abs/2610.41435",
   "source": "arXiv cs.CL",
@@ -149,14 +157,6 @@
   "source": "arXiv cs.LG",
   "published_at": "Mon, 02 Nov 2026 00:00:00 -0500",
   "summary": "arXiv:2610.40901v1 Announce Type: new Abstract: As publications and products on time series forecasting (TSF) proliferate, researchers face a growing burden of analyzing existing work. First, not all publications release code. For instance, only about 20% of arXiv TSF papers have a code link in the ",
-  "score": 18
- },
- {
-  "title": "AI agents bypassed crypto spending limits without human approval, researchers find in a new test",
-  "url": "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test",
-  "source": "CoinDesk",
-  "published_at": "Sun, 01 Nov 2026 17:00:00 +0000",
-  "summary": "",
   "score": 18
  }
 ]
