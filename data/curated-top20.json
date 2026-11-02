@@ -8,6 +8,14 @@
   "score": 50
  },
  {
+  "title": "Mercado Bitcoin Breach Wallet Sends 2,800 ETH Onward",
+  "url": "https://thedefiant.io/news/hacks/mercado-bitcoin-breach-wallet-sends-2-800-eth-onward",
+  "source": "The Defiant",
+  "published_at": "Mon, 02 Nov 2026 19:35:40 GMT",
+  "summary": "Other transfers moved 2.24 million USDC and 1.7 million TRX, while deposits and withdrawals remained suspended.",
+  "score": 40
+ },
+ {
   "title": "Brazil s Largest Exchange Mercado Bitcoin Halts Withdrawals After $40 Million Hack",
   "url": "https://decrypt.co/382341/mercado-bitcoin-halts-withdrawals-40-million-hack",
   "source": "Decrypt",
@@ -144,19 +152,11 @@
   "score": 22
  },
  {
-  "title": "Agentic Backdoors via Pretraining Poisoning",
+  "title": "Agentic backdoors via pretraining poisoning",
   "url": "https://arxiv.org/abs/2610.37741",
   "source": "Hacker News Frontpage",
   "published_at": "Mon, 02 Nov 2026 18:30:58 +0000",
-  "summary": "Comments URL: Points: 27",
-  "score": 18
- },
- {
-  "title": "Raising the quality of insights in agentic analytics",
-  "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-  "source": "MIT Technology Review",
-  "published_at": "Mon, 02 Nov 2026 17:00:00 +0000",
-  "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The qualit",
+  "summary": "Comments URL: Points: 45",
   "score": 18
  }
 ]
