@@ -1,28 +1,44 @@
 {
  "picks": [
   {
-   "title": "Hackers claim to have stolen 23TB of data from Russian statistics body, including Ukraine war casualty figures — Russian Federal State Statistics Service admits its servers were hit by coordinated cyb",
-   "url": "https://www.tomshardware.com/tech-industry/cyber-security/hackers-claim-to-have-stolen-23tb-of-data-from-russian-statistics-body-including-ukraine-war-casualty-figures-russian-federal-state-statistics-service-admits-its-servers-were-hit-by-coordinated-cyberattacks",
+   "title": "Binance says hackers used fake job interview, internal AI tool in $6.3 billion breach",
+   "url": "https://www.theblock.co/news/business/2026-11-03-binance-hack-incident-report-north-korea-fake-job-interview-ai-tool-432406",
+   "source": "The Block",
+   "published_at": "Tue, 03 Nov 2026 15:34:34 +0000",
+   "summary": "Binance s incident report said hackers used a fake job interview and an internal AI tool to gain access to systems involved in the theft.",
+   "score": 72
+  },
+  {
+   "title": "AI chip smugglers exploit trade control loophole to bring banned HBM from South Korea into China — expensive memory chips packaged with cheap, unsanctioned processors to become legal exports",
+   "url": "https://www.tomshardware.com/tech-industry/semiconductors/ai-chip-smugglers-exploit-trade-control-loophole-to-bring-banned-hbm-from-south-korea-into-china-expensive-memory-chips-packaged-with-cheap-unsanctioned-processors-to-become-legal-exports",
    "source": "Tom's Hardware",
-   "published_at": "Mon, 02 Nov 2026 12:41:54 +0000",
-   "summary": "Russia s Rosstat admitted that its servers were attacked by hackers but denies data leaks which appear to show as many as 50,000 military deaths per month.",
-   "score": 64
+   "published_at": "Tue, 03 Nov 2026 12:04:32 +0000",
+   "summary": "Customs authorities only check the performance specifications of a server s processors, allowing smugglers to attach high-end memory chips to low-end processors and ship them into China.",
+   "score": 56
   },
   {
-   "title": "No proof of AI in North Korean hackers move of stolen Binance funds",
-   "url": "https://www.coindesk.com/tech/2026/11/02/no-proof-of-ai-in-north-korean-hackers-move-of-stolen-binance-funds-through-thousands-of-wallets",
+   "title": "Liquid Network restores full bitcoin backing following $320 million exploit",
+   "url": "https://www.theblock.co/news/ecosystems/2026-11-03-liquid-network-restores-full-bitcoin-backing-following-exploit-432387",
+   "source": "The Block",
+   "published_at": "Tue, 03 Nov 2026 11:49:20 +0000",
+   "summary": "Liquid Network said its bitcoin reserves are back to full backing after September s exploit, with Blockstream providing the funds.",
+   "score": 40
+  },
+  {
+   "title": "Liquid Network Restores Full Bitcoin Backing Two Months After $320M Exploit",
+   "url": "https://decrypt.co/382397/liquid-network-restores-full-bitcoin-backing-two-months-after-320m-exploit",
+   "source": "Decrypt",
+   "published_at": "Tue, 03 Nov 2026 11:22:10 +0000",
+   "summary": "Blockstream CEO Adam Back said the sidechain s defenses have been hardened, and warned developers not to trust AI-suggested fixes blindly.",
+   "score": 40
+  },
+  {
+   "title": "Liquid’s bitcoin IOUs are fully backed again after a $320 million exploit",
+   "url": "https://www.coindesk.com/markets/2026/11/03/liquid-s-bitcoin-ious-are-fully-backed-again-after-a-usd320-million-exploit",
    "source": "CoinDesk",
-   "published_at": "Mon, 02 Nov 2026 11:57:45 +0000",
+   "published_at": "Tue, 03 Nov 2026 11:12:12 +0000",
    "summary": "",
-   "score": 64
-  },
-  {
-   "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
-   "url": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
-   "source": "BleepingComputer",
-   "published_at": "Mon, 02 Nov 2026 13:16:34 -0500",
-   "summary": "Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google says its manufacturer intentionally infected with malware to generate revenue through cybercrime activities. [...]",
-   "score": 42
+   "score": 40
   },
   {
    "title": "Liquid Restores Full Bitcoin Backing After Elements Exploit",
@@ -41,6 +57,22 @@
    "score": 40
   },
   {
+   "title": "Gitbook Breached",
+   "url": "https://news.ycombinator.com/item?id=50354336",
+   "source": "Hacker News Frontpage",
+   "published_at": "Tue, 03 Nov 2026 16:45:49 +0000",
+   "summary": "We opened a ticket with support about Gitbook availability issues and got this in reply. We have yet to see any official customer communication or breach notification. Apologies for the formatting, did the best I could as it s a mobile paste. Update: GitBook security incident update Hey , The GitBoo",
+   "score": 38
+  },
+  {
+   "title": "Harvard University data breach exposed info of 851,000 accounts",
+   "url": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
+   "source": "BleepingComputer",
+   "published_at": "Tue, 03 Nov 2026 05:53:25 -0500",
+   "summary": "Hackers who breached Harvard University s Alumni Affairs and Development systems in November 2025 stole data linked to more than 850,000 unique email addresses, according to breach notification service Have I Been Pwned. [...]",
+   "score": 38
+  },
+  {
    "title": "WorkOS reports security breach",
    "url": "https://news.ycombinator.com/item?id=50345712",
    "source": "Hacker News Frontpage",
@@ -57,45 +89,13 @@
    "score": 38
   },
   {
-   "title": "Mercado Bitcoin Breach Wallet Sends 2,800 ETH Onward",
-   "url": "https://thedefiant.io/news/hacks/mercado-bitcoin-breach-wallet-sends-2-800-eth-onward",
-   "source": "The Defiant",
-   "published_at": "Mon, 02 Nov 2026 19:35:40 GMT",
-   "summary": "Other transfers moved 2.24 million USDC and 1.7 million TRX, while deposits and withdrawals remained suspended.",
-   "score": 38
-  },
-  {
-   "title": "NVIDIA Brev security breach may have exposed SSH keys used to access customer VMs — investigation finds unauthorized activity spanning 16 days, but no evidence of misuse",
-   "url": "https://www.tomshardware.com/tech-industry/cyber-security/nvidia-brev-security-breach-may-have-exposed-ssh-keys-used-to-access-customer-vms-investigation-finds-unauthorized-activity-spanning-16-days-but-no-evidence-of-misuse",
-   "source": "Tom's Hardware",
-   "published_at": "Mon, 02 Nov 2026 14:00:00 +0000",
-   "summary": "NVIDIA is investigating a security incident involving its Brev cloud development platform after detecting unauthorized activity between October 4 and October 20. The incident may have exposed SSH keys used to access customer virtual machines. NVIDIA has rotated the affected keys and updated customer",
-   "score": 38
-  },
-  {
-   "title": "North Korea denies role in $6.4 billion Binance hack after FBI points to TraderTraitor",
-   "url": "https://www.coindesk.com/business/2026/11/03/north-korea-denies-role-in-usd6-4-billion-binance-hack-after-fbi-points-to-tradertraitor",
-   "source": "CoinDesk",
-   "published_at": "Tue, 03 Nov 2026 09:40:32 +0000",
-   "summary": "",
-   "score": 34
-  },
-  {
-   "title": "Mercado Bitcoin Promises No Customer Asset Losses After Hack",
-   "url": "https://thedefiant.io/news/hacks/mercado-bitcoin-promises-no-customer-asset-losses-after-hack",
-   "source": "The Defiant",
-   "published_at": "Tue, 03 Nov 2026 09:08:33 GMT",
-   "summary": "The exchange says $11 million has been blocked, but its assurance does not specify a funding source or reimbursement deadline.",
-   "score": 34
-  },
-  {
-   "title": "Mercado Bitcoin pledges to cover all user losses after near $40 million hack",
-   "url": "https://www.coindesk.com/business/2026/11/03/mercado-bitcoin-pledges-to-cover-all-user-losses-after-near-usd40-million-hack",
-   "source": "CoinDesk",
-   "published_at": "Tue, 03 Nov 2026 08:56:48 +0000",
+   "title": "BINANCE TRACES $6.3B HACK TO FAKE JOB INTERVIEWS, COMPROMISED AI TOOL",
+   "url": "https://www.tradingview.com/news/cointelegraph:df70664ef094b:0-binance-traces-6-3b-hack-to-fake-job-interviews-compromised-ai-tool/",
+   "source": "MarketNewsFeed [CRYPTO]",
+   "published_at": "2026-11-03T16:58:30Z",
    "summary": "",
    "score": 34
   }
  ],
- "updatedAt": "2026-11-03T09:57:47.425995+00:00"
+ "updatedAt": "2026-11-03T17:09:55.481147+00:00"
 }

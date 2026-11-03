@@ -1,5 +1,13 @@
 [
  {
+  "title": "Binance says hackers used fake job interview, internal AI tool in $6.3 billion breach",
+  "url": "https://www.theblock.co/news/business/2026-11-03-binance-hack-incident-report-north-korea-fake-job-interview-ai-tool-432406",
+  "source": "The Block",
+  "published_at": "Tue, 03 Nov 2026 15:34:34 +0000",
+  "summary": "Binance s incident report said hackers used a fake job interview and an internal AI tool to gain access to systems involved in the theft.",
+  "score": 50
+ },
+ {
   "title": "Mercado Bitcoin, Brazil’s largest crypto exchange, hit by $46 million security breach",
   "url": "https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333",
   "source": "The Block",
@@ -8,12 +16,28 @@
   "score": 50
  },
  {
-  "title": "NVIDIA Brev security breach may have exposed SSH keys used to access customer VMs — investigation finds unauthorized activity spanning 16 days, but no evidence of misuse",
-  "url": "https://www.tomshardware.com/tech-industry/cyber-security/nvidia-brev-security-breach-may-have-exposed-ssh-keys-used-to-access-customer-vms-investigation-finds-unauthorized-activity-spanning-16-days-but-no-evidence-of-misuse",
-  "source": "Tom's Hardware",
-  "published_at": "Mon, 02 Nov 2026 14:00:00 +0000",
-  "summary": "NVIDIA is investigating a security incident involving its Brev cloud development platform after detecting unauthorized activity between October 4 and October 20. The incident may have exposed SSH keys used to access customer virtual machines. NVIDIA has rotated the affected keys and updated customer",
-  "score": 50
+  "title": "Liquid Network restores full bitcoin backing following $320 million exploit",
+  "url": "https://www.theblock.co/news/ecosystems/2026-11-03-liquid-network-restores-full-bitcoin-backing-following-exploit-432387",
+  "source": "The Block",
+  "published_at": "Tue, 03 Nov 2026 11:49:20 +0000",
+  "summary": "Liquid Network said its bitcoin reserves are back to full backing after September s exploit, with Blockstream providing the funds.",
+  "score": 42
+ },
+ {
+  "title": "Liquid Network Restores Full Bitcoin Backing Two Months After $320M Exploit",
+  "url": "https://decrypt.co/382397/liquid-network-restores-full-bitcoin-backing-two-months-after-320m-exploit",
+  "source": "Decrypt",
+  "published_at": "Tue, 03 Nov 2026 11:22:10 +0000",
+  "summary": "Blockstream CEO Adam Back said the sidechain s defenses have been hardened, and warned developers not to trust AI-suggested fixes blindly.",
+  "score": 42
+ },
+ {
+  "title": "Liquid’s bitcoin IOUs are fully backed again after a $320 million exploit",
+  "url": "https://www.coindesk.com/markets/2026/11/03/liquid-s-bitcoin-ious-are-fully-backed-again-after-a-usd320-million-exploit",
+  "source": "CoinDesk",
+  "published_at": "Tue, 03 Nov 2026 11:12:12 +0000",
+  "summary": "",
+  "score": 42
  },
  {
   "title": "Liquid Restores Full Bitcoin Backing After Elements Exploit",
@@ -24,20 +48,20 @@
   "score": 42
  },
  {
-  "title": "Mercado Bitcoin Breach Wallet Sends 2,800 ETH Onward",
-  "url": "https://thedefiant.io/news/hacks/mercado-bitcoin-breach-wallet-sends-2-800-eth-onward",
-  "source": "The Defiant",
-  "published_at": "Mon, 02 Nov 2026 19:35:40 GMT",
-  "summary": "Other transfers moved 2.24 million USDC and 1.7 million TRX, while deposits and withdrawals remained suspended.",
-  "score": 40
- },
- {
   "title": "WorkOS reports security breach",
   "url": "https://news.ycombinator.com/item?id=50345712",
   "source": "Hacker News Frontpage",
   "published_at": "Mon, 02 Nov 2026 23:30:59 +0000",
   "summary": "It s not on their website or Trust center yet, but we received the following breach notification from WorkOS: We are writing to notify you of a data security incident that we detected on October 30, 2026 and are continuing to investigate. We value your trust and want to keep you informed while our i",
   "score": 38
+ },
+ {
+  "title": "Morning Minute: Tom Lee Calls the Binance Hack Bullish for Ethereum",
+  "url": "https://decrypt.co/382410/morning-minute-tom-lee-calls-the-binance-hack-bullish-for-ethereum",
+  "source": "Decrypt",
+  "published_at": "Tue, 03 Nov 2026 13:11:47 +0000",
+  "summary": "Meanwhile, both the BTC ETFs and ETH ETFs bleed outflows in the Binance hack aftermath, dragging down prices.",
+  "score": 34
  },
  {
   "title": "Mercado Bitcoin Promises No Customer Asset Losses After Hack",
@@ -64,28 +88,28 @@
   "score": 34
  },
  {
-  "title": "Brazil s Largest Exchange Mercado Bitcoin Halts Withdrawals After $40 Million Hack",
-  "url": "https://decrypt.co/382341/mercado-bitcoin-halts-withdrawals-40-million-hack",
-  "source": "Decrypt",
-  "published_at": "Mon, 02 Nov 2026 16:46:03 +0000",
-  "summary": "Brazil s largest crypto exchange paused deposits and withdrawals after a security incident. Tether froze more than 4.5 million USDT tied to the attack.",
-  "score": 34
- },
- {
-  "title": "Bitmine Buys More Ethereum as Tom Lee Calls the Binance Hack Bullish",
-  "url": "https://decrypt.co/382340/bitmine-buys-more-ethereum-tom-lee-binance-hack-bullish",
-  "source": "Decrypt",
-  "published_at": "Mon, 02 Nov 2026 16:23:24 +0000",
-  "summary": "The chairman laid out six reasons the market’s “muted” 4% ETH drop after the record Binance theft shows crypto is “increasingly resilient,” as the firm’s stash neared its 5% supply goal.",
-  "score": 34
- },
- {
-  "title": "North Korea Is Laundering Binance Hack Loot at One New Wallet Every 25 Seconds",
-  "url": "https://decrypt.co/382355/north-korea-laundering-binance-hack-loot-new-wallet-every-25-seconds",
-  "source": "Decrypt",
-  "published_at": "Mon, 02 Nov 2026 18:46:03 +0000",
-  "summary": "$2.85 billion of the $6.43 billion stolen from Binance has been frozen or seized, compared with about 3% in the Bybit hack, as North Korea’s automated laundering spans 12,000 wallets.",
+  "title": "South Korea s president says country needs a ‘cybersecurity czar’ following $6.3 billion Binance hack",
+  "url": "https://www.coindesk.com/tech/2026/11/03/south-korea-s-president-says-country-needs-a-cybersecurity-czar-following-usd6-3-billion-binance-hack",
+  "source": "CoinDesk",
+  "published_at": "Tue, 03 Nov 2026 16:49:56 +0000",
+  "summary": "",
   "score": 32
+ },
+ {
+  "title": "MIT Panel: Provably Secure: Math Against Superintelligent Hackers",
+  "url": "https://www.lesswrong.com/posts/wHgj3oPxqoDbdTvyK/mit-panel-provably-secure-math-against-superintelligent",
+  "source": "LessWrong",
+  "published_at": "Tue, 03 Nov 2026 13:53:05 GMT",
+  "summary": "This post is crossposted from my Substack, Structure and Guarantees , where I explore how formal verification and related ideas might scale to more complex intelligent systems. Here I set the stage for a panel I’ll moderate at MIT, on the potential for formal verification to defend against a set of ",
+  "score": 32
+ },
+ {
+  "title": "AI chip smugglers exploit trade control loophole to bring banned HBM from South Korea into China — expensive memory chips packaged with cheap, unsanctioned processors to become legal exports",
+  "url": "https://www.tomshardware.com/tech-industry/semiconductors/ai-chip-smugglers-exploit-trade-control-loophole-to-bring-banned-hbm-from-south-korea-into-china-expensive-memory-chips-packaged-with-cheap-unsanctioned-processors-to-become-legal-exports",
+  "source": "Tom's Hardware",
+  "published_at": "Tue, 03 Nov 2026 12:04:32 +0000",
+  "summary": "Customs authorities only check the performance specifications of a server s processors, allowing smugglers to attach high-end memory chips to low-end processors and ship them into China.",
+  "score": 30
  },
  {
   "title": "Claude-Built Linux Exploit Targets Bug That Ubuntu Still Hasn t Patched",
@@ -104,59 +128,35 @@
   "score": 30
  },
  {
-  "title": "The SEC Should Block Anthropic s IPO to Protect the Public",
-  "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+  "title": "Gitbook Breached",
+  "url": "https://news.ycombinator.com/item?id=50354336",
   "source": "Hacker News Frontpage",
-  "published_at": "Mon, 02 Nov 2026 22:30:47 +0000",
-  "summary": "Comments URL: Points: 20",
-  "score": 24
+  "published_at": "Tue, 03 Nov 2026 16:45:49 +0000",
+  "summary": "We opened a ticket with support about Gitbook availability issues and got this in reply. We have yet to see any official customer communication or breach notification. Apologies for the formatting, did the best I could as it s a mobile paste. Update: GitBook security incident update Hey , The GitBoo",
+  "score": 28
  },
  {
-  "title": "Preparing our next security sprint to harden OpenAI",
-  "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-  "source": "OpenAI Blog",
-  "published_at": "Mon, 02 Nov 2026 18:00:00 GMT",
-  "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-  "score": 24
+  "title": "Harvard University data breach exposed info of 851,000 accounts",
+  "url": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
+  "source": "BleepingComputer",
+  "published_at": "Tue, 03 Nov 2026 05:53:25 -0500",
+  "summary": "Hackers who breached Harvard University s Alumni Affairs and Development systems in November 2025 stole data linked to more than 850,000 unique email addresses, according to breach notification service Have I Been Pwned. [...]",
+  "score": 28
  },
  {
-  "title": "AI Vulnerability Finding",
-  "url": "https://www.schneier.com/blog/archives/2026/11/ai-vulnerability-finding-2.html",
-  "source": "Schneier on Security",
-  "published_at": "2026-11-02T12:02:34Z",
-  "summary": "A comment : 3% of ‘critical’ software security bugs, in all of recorded history, have been found in the last month. This is on pace to find another ~100,000 bugs this year alone, adding ~26% more vulnerabilities to the all time total Do you realize how fucking insane that is? Yes. It is a new world ",
-  "score": 24
- },
- {
-  "title": "North Korea denies role in $6.4 billion Binance hack after FBI points to TraderTraitor",
-  "url": "https://www.coindesk.com/business/2026/11/03/north-korea-denies-role-in-usd6-4-billion-binance-hack-after-fbi-points-to-tradertraitor",
-  "source": "CoinDesk",
-  "published_at": "Tue, 03 Nov 2026 09:40:32 +0000",
-  "summary": "",
-  "score": 22
- },
- {
-  "title": "Kim Jong-Un’s sister rejects FBI claims linking North Korea to record $6 billion Binance hack: reports",
-  "url": "https://www.theblock.co/news/regulation/2026-11-02-kim-jong-un-sister-rejects-fbi-claims-linking-north-korea-binance-hack-432344",
-  "source": "The Block",
-  "published_at": "Mon, 02 Nov 2026 22:26:06 +0000",
-  "summary": "North Korea is now reportedly saying it was not behind the hack, despite the FBI finding that North Korean hackers were behind the heist.",
-  "score": 22
- },
- {
-  "title": "North Korea Rejects FBI Blame for $6.3 Billion Binance Hack",
-  "url": "https://thedefiant.io/news/hacks/north-korea-rejects-fbi-blame-for-6-3-billion-binance-hack",
-  "source": "The Defiant",
-  "published_at": "Mon, 02 Nov 2026 21:25:45 GMT",
-  "summary": "Kim Yo Jong called the US accusation “absurd rhetoric,” while Chainalysis cited stolen funds mixing with proceeds of an earlier exploit.",
-  "score": 22
- },
- {
-  "title": "Mystery $106 Million Crypto Theft Hits EU Entity Days After Binance Hack",
-  "url": "https://decrypt.co/382383/mystery-106-million-crypto-theft-eu-entity-binance-hack",
+  "title": "UK Says AI-Powered Ransomware Attack on Critical Infrastructure Highly Likely by 2028",
+  "url": "https://decrypt.co/382411/uk-says-ai-powered-ransomware-attack-on-critical-infrastructure-highly-likely-by-2028",
   "source": "Decrypt",
-  "published_at": "Mon, 02 Nov 2026 21:16:03 +0000",
-  "summary": "Onchain investigator ZachXBT says an unidentified EU entity lost more than $106 million from centralized exchange accounts on Sunday,.",
-  "score": 22
+  "published_at": "Tue, 03 Nov 2026 16:09:19 +0000",
+  "summary": "The National Cyber Security Centre said AI will expose security flaws tolerated for far too long, and called time on tech on the cheap.",
+  "score": 24
+ },
+ {
+  "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
+  "url": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
+  "source": "BleepingComputer",
+  "published_at": "Tue, 03 Nov 2026 09:00:00 -0500",
+  "summary": "A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]",
+  "score": 24
  }
 ]
