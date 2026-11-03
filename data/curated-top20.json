@@ -72,14 +72,6 @@
   "score": 34
  },
  {
-  "title": "Mercado Bitcoin pledges to cover all user losses after near $40 million hack",
-  "url": "https://www.coindesk.com/business/2026/11/03/mercado-bitcoin-pledges-to-cover-all-user-losses-after-near-usd40-million-hack",
-  "source": "CoinDesk",
-  "published_at": "Tue, 03 Nov 2026 08:56:48 +0000",
-  "summary": "",
-  "score": 34
- },
- {
   "title": "Chainalysis Puts Mercado Bitcoin Hack at $49 Million Across 17 Chains",
   "url": "https://thedefiant.io/news/hacks/chainalysis-puts-mercado-bitcoin-hack-at-49-million-across-17-chains",
   "source": "The Defiant",
@@ -120,14 +112,6 @@
   "score": 30
  },
  {
-  "title": "NVIDIA Describes Agent-Controlled Telescope Workflow",
-  "url": "https://www.hpcwire.com/off-the-wire/nvidia-describes-agent-controlled-telescope-workflow/",
-  "source": "HPCwire",
-  "published_at": "Mon, 02 Nov 2026 19:25:09 +0000",
-  "summary": "Scientists at the Allen Telescope Array have integrated the NVIDIA Holoscan platform to search for signals that may come from aliens — or the AI they built. Nov. 2, 2026 — Breakthrough Listen and the SETI Institute are bringing agentic AI into the daily search for extraterrestrial intelligence. At t",
-  "score": 30
- },
- {
   "title": "Gitbook Breached",
   "url": "https://news.ycombinator.com/item?id=50354336",
   "source": "Hacker News Frontpage",
@@ -158,5 +142,21 @@
   "published_at": "Tue, 03 Nov 2026 09:00:00 -0500",
   "summary": "A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]",
   "score": 24
+ },
+ {
+  "title": "The SEC Should Block Anthropic s IPO to Protect the Public",
+  "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+  "source": "Hacker News Frontpage",
+  "published_at": "Mon, 02 Nov 2026 22:30:47 +0000",
+  "summary": "Comments URL: Points: 20",
+  "score": 24
+ },
+ {
+  "title": "Fake Job Interview Opened Path to $6.34 Billion Hack, Binance Says",
+  "url": "https://thedefiant.io/news/hacks/fake-job-interview-opened-path-to-6-34-billion-hack-binance-says",
+  "source": "The Defiant",
+  "published_at": "Tue, 03 Nov 2026 14:57:12 GMT",
+  "summary": "Attackers used an internal AI tool to reach wallet engineers, while persistent onchain permissions complicated containment.",
+  "score": 22
  }
 ]
