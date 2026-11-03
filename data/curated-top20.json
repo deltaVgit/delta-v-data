@@ -1,5 +1,13 @@
 [
  {
+  "title": "Mercado Bitcoin, Brazil’s largest crypto exchange, hit by $46 million security breach",
+  "url": "https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333",
+  "source": "The Block",
+  "published_at": "Mon, 02 Nov 2026 20:19:49 +0000",
+  "summary": "Brazil s largest crypto exchange Mercado Bitcoin confirmed earlier Monday a security incident and paused withdrawals.",
+  "score": 50
+ },
+ {
   "title": "NVIDIA Brev security breach may have exposed SSH keys used to access customer VMs — investigation finds unauthorized activity spanning 16 days, but no evidence of misuse",
   "url": "https://www.tomshardware.com/tech-industry/cyber-security/nvidia-brev-security-breach-may-have-exposed-ssh-keys-used-to-access-customer-vms-investigation-finds-unauthorized-activity-spanning-16-days-but-no-evidence-of-misuse",
   "source": "Tom's Hardware",
@@ -8,12 +16,36 @@
   "score": 50
  },
  {
+  "title": "Liquid Restores Full Bitcoin Backing After Elements Exploit",
+  "url": "https://thedefiant.io/news/security/liquid-restores-full-bitcoin-backing-after-elements-exploit",
+  "source": "The Defiant",
+  "published_at": "Tue, 03 Nov 2026 00:12:59 GMT",
+  "summary": "Full reserves meet a condition for restarting direct federation withdrawals, which were last reported under enhanced operational controls.",
+  "score": 42
+ },
+ {
   "title": "Mercado Bitcoin Breach Wallet Sends 2,800 ETH Onward",
   "url": "https://thedefiant.io/news/hacks/mercado-bitcoin-breach-wallet-sends-2-800-eth-onward",
   "source": "The Defiant",
   "published_at": "Mon, 02 Nov 2026 19:35:40 GMT",
   "summary": "Other transfers moved 2.24 million USDC and 1.7 million TRX, while deposits and withdrawals remained suspended.",
   "score": 40
+ },
+ {
+  "title": "WorkOS reports security breach",
+  "url": "https://news.ycombinator.com/item?id=50345712",
+  "source": "Hacker News Frontpage",
+  "published_at": "Mon, 02 Nov 2026 23:30:59 +0000",
+  "summary": "It s not on their website or Trust center yet, but we received the following breach notification from WorkOS: We are writing to notify you of a data security incident that we detected on October 30, 2026 and are continuing to investigate. We value your trust and want to keep you informed while our i",
+  "score": 38
+ },
+ {
+  "title": "Chainalysis Puts Mercado Bitcoin Hack at $49 Million Across 17 Chains",
+  "url": "https://thedefiant.io/news/hacks/chainalysis-puts-mercado-bitcoin-hack-at-49-million-across-17-chains",
+  "source": "The Defiant",
+  "published_at": "Tue, 03 Nov 2026 00:56:08 GMT",
+  "summary": "Mercado Bitcoin separately says $11 million has been blocked and promises no customer losses, while access to services remains suspended.",
+  "score": 34
  },
  {
   "title": "Brazil s Largest Exchange Mercado Bitcoin Halts Withdrawals After $40 Million Hack",
@@ -40,38 +72,6 @@
   "score": 34
  },
  {
-  "title": "Spot bitcoin ETFs see largest daily outflows in four months following record Binance hack",
-  "url": "https://www.theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270",
-  "source": "The Block",
-  "published_at": "Mon, 02 Nov 2026 04:11:05 +0000",
-  "summary": "US spot bitcoin ETFs shed $643 million on Friday, marking their largest single-day outflow since June 25, following Thursday s Binance s hack.",
-  "score": 34
- },
- {
-  "title": "KEEPER: Learning Control-Sufficient Textual Memory for Long-Horizon LLM Agents",
-  "url": "https://arxiv.org/abs/2610.41482",
-  "source": "arXiv cs.CL",
-  "published_at": "Mon, 02 Nov 2026 00:00:00 -0500",
-  "summary": "arXiv:2610.41482v1 Announce Type: new Abstract: Recursive textual memory can carry earlier errors into later updates, yet task performance alone does not establish memory reliability. We define self-consistency bias as the persistence of incorrect claims already present in the incoming memory. We pr",
-  "score": 34
- },
- {
-  "title": "In-Model Context Compression with Agentic Soft Tokens for Long-Horizon LLM Agents",
-  "url": "https://arxiv.org/abs/2610.41291",
-  "source": "arXiv cs.CL",
-  "published_at": "Mon, 02 Nov 2026 00:00:00 -0500",
-  "summary": "arXiv:2610.41291v1 Announce Type: new Abstract: Long-horizon LLM agents play an important role in solving complex and sustained tasks, with ever-growing interaction contexts. However, these accumulated contexts will raise substantial computational cost and obscure key decision-relevant evidence. Exi",
-  "score": 34
- },
- {
-  "title": "TraceSpec: Understanding and Improving Speculative Decoding for LLM Agents",
-  "url": "https://arxiv.org/abs/2610.41177",
-  "source": "arXiv cs.CL",
-  "published_at": "Mon, 02 Nov 2026 00:00:00 -0500",
-  "summary": "arXiv:2610.41177v1 Announce Type: new Abstract: LLM agents execute tasks through repeated model calls over evolving histories of reasoning, actions, and tool feedback. Aggregate speculative-decoding metrics merge these distinct decisions, providing limited guidance on where draft supervision is need",
-  "score": 34
- },
- {
   "title": "North Korea Is Laundering Binance Hack Loot at One New Wallet Every 25 Seconds",
   "url": "https://decrypt.co/382355/north-korea-laundering-binance-hack-loot-new-wallet-every-25-seconds",
   "source": "Decrypt",
@@ -80,12 +80,28 @@
   "score": 32
  },
  {
+  "title": "Claude-Built Linux Exploit Targets Bug That Ubuntu Still Hasn t Patched",
+  "url": "https://decrypt.co/382375/claude-built-linux-exploit-bug-ubuntu",
+  "source": "Decrypt",
+  "published_at": "Mon, 02 Nov 2026 20:36:03 +0000",
+  "summary": "Anthropic says Claude wrote an attack that can take over a Linux server with no password. Red Hat patched on Sunday, but Ubuntu still has no fix.",
+  "score": 30
+ },
+ {
   "title": "NVIDIA Describes Agent-Controlled Telescope Workflow",
   "url": "https://www.hpcwire.com/off-the-wire/nvidia-describes-agent-controlled-telescope-workflow/",
   "source": "HPCwire",
   "published_at": "Mon, 02 Nov 2026 19:25:09 +0000",
   "summary": "Scientists at the Allen Telescope Array have integrated the NVIDIA Holoscan platform to search for signals that may come from aliens — or the AI they built. Nov. 2, 2026 — Breakthrough Listen and the SETI Institute are bringing agentic AI into the daily search for extraterrestrial intelligence. At t",
   "score": 30
+ },
+ {
+  "title": "The SEC Should Block Anthropic s IPO to Protect the Public",
+  "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+  "source": "Hacker News Frontpage",
+  "published_at": "Mon, 02 Nov 2026 22:30:47 +0000",
+  "summary": "Comments URL: Points: 20",
+  "score": 24
  },
  {
   "title": "AI Vulnerability Finding",
@@ -112,51 +128,35 @@
   "score": 24
  },
  {
-  "title": "Strive inches closer to becoming second-largest public bitcoin holder after latest $10 million buy",
-  "url": "https://www.theblock.co/news/business/2026-11-02-strive-inches-closer-second-largest-public-bitcoin-holder-10-million-buy-432312",
+  "title": "Kim Jong-Un’s sister rejects FBI claims linking North Korea to record $6 billion Binance hack: reports",
+  "url": "https://www.theblock.co/news/regulation/2026-11-02-kim-jong-un-sister-rejects-fbi-claims-linking-north-korea-binance-hack-432344",
   "source": "The Block",
-  "published_at": "Mon, 02 Nov 2026 15:01:36 +0000",
-  "summary": "Strive bought another 124 BTC, bringing it closer to becoming the second-largest public company holder of bitcoin after Strategy.",
+  "published_at": "Mon, 02 Nov 2026 22:26:06 +0000",
+  "summary": "North Korea is now reportedly saying it was not behind the hack, despite the FBI finding that North Korean hackers were behind the heist.",
   "score": 22
  },
  {
-  "title": "Hackers claim to have stolen 23TB of data from Russian statistics body, including Ukraine war casualty figures — Russian Federal State Statistics Service admits its servers were hit by coordinated cyb",
-  "url": "https://www.tomshardware.com/tech-industry/cyber-security/hackers-claim-to-have-stolen-23tb-of-data-from-russian-statistics-body-including-ukraine-war-casualty-figures-russian-federal-state-statistics-service-admits-its-servers-were-hit-by-coordinated-cyberattacks",
-  "source": "Tom's Hardware",
-  "published_at": "Mon, 02 Nov 2026 12:41:54 +0000",
-  "summary": "Russia s Rosstat admitted that its servers were attacked by hackers but denies data leaks which appear to show as many as 50,000 military deaths per month.",
+  "title": "North Korea Rejects FBI Blame for $6.3 Billion Binance Hack",
+  "url": "https://thedefiant.io/news/hacks/north-korea-rejects-fbi-blame-for-6-3-billion-binance-hack",
+  "source": "The Defiant",
+  "published_at": "Mon, 02 Nov 2026 21:25:45 GMT",
+  "summary": "Kim Yo Jong called the US accusation “absurd rhetoric,” while Chainalysis cited stolen funds mixing with proceeds of an earlier exploit.",
   "score": 22
  },
  {
-  "title": "No proof of AI in North Korean hackers move of stolen Binance funds",
-  "url": "https://www.coindesk.com/tech/2026/11/02/no-proof-of-ai-in-north-korean-hackers-move-of-stolen-binance-funds-through-thousands-of-wallets",
-  "source": "CoinDesk",
-  "published_at": "Mon, 02 Nov 2026 11:57:45 +0000",
-  "summary": "",
-  "score": 22
- },
- {
-  "title": "FBI Blames North Korea for $6B Binance Hack as Exchange Reopens Withdrawals",
-  "url": "https://decrypt.co/382316/fbi-blames-north-korea-for-6b-binance-hack-as-exchange-reopens-withdrawals",
+  "title": "Mystery $106 Million Crypto Theft Hits EU Entity Days After Binance Hack",
+  "url": "https://decrypt.co/382383/mystery-106-million-crypto-theft-eu-entity-binance-hack",
   "source": "Decrypt",
-  "published_at": "Mon, 02 Nov 2026 10:36:19 +0000",
-  "summary": "Binance saw $3.64 billion in net outflows in the first nine and a half hours after reopening withdrawals, or 2.1% of its assets, it said.",
+  "published_at": "Mon, 02 Nov 2026 21:16:03 +0000",
+  "summary": "Onchain investigator ZachXBT says an unidentified EU entity lost more than $106 million from centralized exchange accounts on Sunday,.",
   "score": 22
  },
  {
-  "title": "Hackers disrupt refrigeration systems at European supermarkets",
-  "url": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/",
+  "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+  "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
   "source": "BleepingComputer",
-  "published_at": "Mon, 02 Nov 2026 09:28:39 -0500",
-  "summary": "A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems. [...]",
+  "published_at": "Mon, 02 Nov 2026 16:40:14 -0500",
+  "summary": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]",
   "score": 22
- },
- {
-  "title": "Agentic backdoors via pretraining poisoning",
-  "url": "https://arxiv.org/abs/2610.37741",
-  "source": "Hacker News Frontpage",
-  "published_at": "Mon, 02 Nov 2026 18:30:58 +0000",
-  "summary": "Comments URL: Points: 45",
-  "score": 18
  }
 ]
