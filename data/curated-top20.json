@@ -8,28 +8,20 @@
   "score": 56
  },
  {
+  "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
+  "url": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
+  "source": "BleepingComputer",
+  "published_at": "Wed, 04 Nov 2026 04:39:54 -0500",
+  "summary": "A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]",
+  "score": 52
+ },
+ {
   "title": "Binance says hackers used fake job interview, internal AI tool in $6.3 billion breach",
   "url": "https://www.theblock.co/news/business/2026-11-03-binance-hack-incident-report-north-korea-fake-job-interview-ai-tool-432406",
   "source": "The Block",
   "published_at": "Tue, 03 Nov 2026 15:34:34 +0000",
   "summary": "Binance s incident report said hackers used a fake job interview and an internal AI tool to gain access to systems involved in the theft.",
   "score": 50
- },
- {
-  "title": "Liquid Network restores full bitcoin backing following $320 million exploit",
-  "url": "https://www.theblock.co/news/ecosystems/2026-11-03-liquid-network-restores-full-bitcoin-backing-following-exploit-432387",
-  "source": "The Block",
-  "published_at": "Tue, 03 Nov 2026 11:49:20 +0000",
-  "summary": "Liquid Network said its bitcoin reserves are back to full backing after September s exploit, with Blockstream providing the funds.",
-  "score": 42
- },
- {
-  "title": "Liquid Network Restores Full Bitcoin Backing Two Months After $320M Exploit",
-  "url": "https://decrypt.co/382397/liquid-network-restores-full-bitcoin-backing-two-months-after-320m-exploit",
-  "source": "Decrypt",
-  "published_at": "Tue, 03 Nov 2026 11:22:10 +0000",
-  "summary": "Blockstream CEO Adam Back said the sidechain s defenses have been hardened, and warned developers not to trust AI-suggested fixes blindly.",
-  "score": 42
  },
  {
   "title": "Brazil s Biggest Bitcoin Exchange Says It Will Refund Users After a $40 Million Hack",
@@ -40,12 +32,12 @@
   "score": 34
  },
  {
-  "title": "Morning Minute: Tom Lee Calls the Binance Hack Bullish for Ethereum",
-  "url": "https://decrypt.co/382410/morning-minute-tom-lee-calls-the-binance-hack-bullish-for-ethereum",
-  "source": "Decrypt",
-  "published_at": "Tue, 03 Nov 2026 13:11:47 +0000",
-  "summary": "Meanwhile, both the BTC ETFs and ETH ETFs bleed outflows in the Binance hack aftermath, dragging down prices.",
-  "score": 34
+  "title": "OpenAI agents keep disabling monitoring; is this being handled appropriately?",
+  "url": "https://www.lesswrong.com/posts/TCN4LPgq4aiA3wDG9/openai-agents-keep-disabling-monitoring-is-this-being",
+  "source": "LessWrong",
+  "published_at": "Wed, 04 Nov 2026 06:50:04 GMT",
+  "summary": "Recently, OpenAI disclosed two incidents in which their agents suppressed or disabled misalignment monitoring. These are part of a broader pattern: OpenAI’s agents “ keep turning off misalignment monitoring ” when working on code that runs other models (the agents are not turning off their own monit",
+  "score": 32
  },
  {
   "title": "CZ calls for crypto security alliance as AI-driven attacks accelerate after Binance hack",
@@ -64,12 +56,12 @@
   "score": 32
  },
  {
-  "title": "MIT Panel: Provably Secure: Math Against Superintelligent Hackers",
-  "url": "https://www.lesswrong.com/posts/wHgj3oPxqoDbdTvyK/mit-panel-provably-secure-math-against-superintelligent",
-  "source": "LessWrong",
-  "published_at": "Tue, 03 Nov 2026 13:53:05 GMT",
-  "summary": "This post is crossposted from my Substack, Structure and Guarantees , where I explore how formal verification and related ideas might scale to more complex intelligent systems. Here I set the stage for a panel I’ll moderate at MIT, on the potential for formal verification to defend against a set of ",
-  "score": 32
+  "title": "French bank Crédit Mutuel Arkéa exploited for over $133 million, ZachXBT says",
+  "url": "https://www.theblock.co/news/web3/2026-11-03-french-bank-credit-mutuel-arkea-exploited-zachxbt-432607",
+  "source": "The Block",
+  "published_at": "Wed, 04 Nov 2026 04:57:41 +0000",
+  "summary": "ZachXBT said he has a high degree of confidence that the attacker is not associated with North Korea s Lazarus Group.",
+  "score": 30
  },
  {
   "title": "How to make the US sign an asymmetric treaty as China? Exploit identity-confused AIs.",
@@ -80,35 +72,11 @@
   "score": 30
  },
  {
-  "title": "AI chip smugglers exploit trade control loophole to bring banned HBM from South Korea into China — expensive memory chips packaged with cheap, unsanctioned processors to become legal exports",
-  "url": "https://www.tomshardware.com/tech-industry/semiconductors/ai-chip-smugglers-exploit-trade-control-loophole-to-bring-banned-hbm-from-south-korea-into-china-expensive-memory-chips-packaged-with-cheap-unsanctioned-processors-to-become-legal-exports",
-  "source": "Tom's Hardware",
-  "published_at": "Tue, 03 Nov 2026 12:04:32 +0000",
-  "summary": "Customs authorities only check the performance specifications of a server s processors, allowing smugglers to attach high-end memory chips to low-end processors and ship them into China.",
-  "score": 30
- },
- {
-  "title": "INDONESIAN FINANCIAL REGULATOR IMPOSES SANCTIONS ON ENTITIES CONNECTED TO THREE CASES, INCLUDING BREACHES RELATED TO PANR AND BOGA COMPANIES.",
-  "url": "https://x.com/FirstSquawk/status/2117804978043760942",
-  "source": "MarketNewsFeed [STOCKS]",
-  "published_at": "2026-11-04T02:24:07Z",
-  "summary": "",
-  "score": 28
- },
- {
   "title": "Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach",
   "url": "https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach",
   "source": "Dark Reading",
   "published_at": "Wed, 04 Nov 2026 02:00:00 GMT",
   "summary": "An unknown operator appears to have exfiltrated SQL Server backups from the Philippine Overseas Employment Administration in under a half hour.",
-  "score": 28
- },
- {
-  "title": "GitBook Revokes All Personal API Tokens After Breach",
-  "url": "https://thedefiant.io/news/security/gitbook-revokes-all-personal-api-tokens-after-breach",
-  "source": "The Defiant",
-  "published_at": "Tue, 03 Nov 2026 17:18:50 GMT",
-  "summary": "The company says an attack used AI agents and may have exposed integration credentials and questions submitted by documentation visitors.",
   "score": 28
  },
  {
@@ -136,19 +104,11 @@
   "score": 24
  },
  {
-  "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
-  "url": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
-  "source": "BleepingComputer",
-  "published_at": "Tue, 03 Nov 2026 09:00:00 -0500",
-  "summary": "A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]",
-  "score": 24
- },
- {
-  "title": "THORChain Refused to Block the $387M Bitget Hacker. Here’s Why | Chad Barraford",
-  "url": "https://thedefiant.io/podcasts-and-videos/podcast/thorchain-refused-to-block-the-usd387m-bitget-hacker-here-s-why-or-chad-barraford",
+  "title": "BitMart Founder Confirms Hack During Restructuring",
+  "url": "https://thedefiant.io/news/hacks/bitmart-founder-confirms-hack-during-restructuring",
   "source": "The Defiant",
-  "published_at": "Tue, 03 Nov 2026 18:07:04 GMT",
-  "summary": "Bitget lost $387.5 million in a hack and asked THORChain to block the attacker’s addresses. THORChain said no. Weeks later, Tether froze four THORChain vaults on Tron holding 1.45 million USDT, then unfroze them three hours later. And in May, THORChain itself lost $10.7 million to a GG20 flaw and",
+  "published_at": "Wed, 04 Nov 2026 04:56:34 GMT",
+  "summary": "Bitquery traced about $391,000 in outflows mostly from BitMart-linked wallets to an address used in the Mercado Bitcoin attack.",
   "score": 22
  },
  {
@@ -158,5 +118,45 @@
   "published_at": "Tue, 03 Nov 2026 17:30:54 +0000",
   "summary": "From AI deepfakes to poisoning code libraries: here s how North Korean hackers get inside crypto companies.",
   "score": 22
+ },
+ {
+  "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
+  "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
+  "source": "BleepingComputer",
+  "published_at": "Tue, 03 Nov 2026 17:18:50 -0500",
+  "summary": "Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]",
+  "score": 22
+ },
+ {
+  "title": "AStockArena: Beyond Returns, Can We Entrust Real Capital to the Decisions of Financial Agents?",
+  "url": "https://arxiv.org/abs/2611.00515",
+  "source": "arXiv cs.CL",
+  "published_at": "Wed, 04 Nov 2026 00:00:00 -0500",
+  "summary": "arXiv:2611.00515v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used in dynamic financial trading, yet real-time trading benchmarks mainly evaluate agents by cumulative returns and risk-adjusted performance. Such outcome metrics cannot show whether trades are faithfully",
+  "score": 18
+ },
+ {
+  "title": "CrowdStrike Launches AI Agent Kill Switch, Plans to Acquire Fiddler AI",
+  "url": "https://decrypt.co/382467/crowdstrike-ai-agent-kill-switch-acquire-fiddler-ai",
+  "source": "Decrypt",
+  "published_at": "Tue, 03 Nov 2026 21:16:03 +0000",
+  "summary": "CrowdStrike s new kill switch lets security teams cut off unauthorized AI agents through a gateway, while its planned Fiddler acquisition aims to make autonomous software easier to monitor and audit.",
+  "score": 18
+ },
+ {
+  "title": "Agentic cheminformatics with Google Antigravity",
+  "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+  "source": "DeepMind Blog",
+  "published_at": "Tue, 03 Nov 2026 17:01:49 +0000",
+  "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+  "score": 18
+ },
+ {
+  "title": "An LLM based website blocker that understands natural language tasks and exceptions for preventing procrastination",
+  "url": "https://www.lesswrong.com/posts/NGEqJFZDtem48CYJm/an-llm-based-website-blocker-that-understands-natural",
+  "source": "LessWrong",
+  "published_at": "Wed, 04 Nov 2026 04:19:09 GMT",
+  "summary": "I always have some website / app blocker, to keep myself from getting distracted, but generally found them to be a bit inflexible e.g. sometimes I need access to Twitter, Youtube or Substack etc. during your work hours for some specific thing. Some website blockers solve this by letting you open the",
+  "score": 16
  }
 ]

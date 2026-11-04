@@ -1,6 +1,14 @@
 {
  "picks": [
   {
+   "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
+   "source": "BleepingComputer",
+   "published_at": "Wed, 04 Nov 2026 04:39:54 -0500",
+   "summary": "A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]",
+   "score": 74
+  },
+  {
    "title": "Binance says hackers used fake job interview, internal AI tool in $6.3 billion breach",
    "url": "https://www.theblock.co/news/business/2026-11-03-binance-hack-incident-report-north-korea-fake-job-interview-ai-tool-432406",
    "source": "The Block",
@@ -17,11 +25,11 @@
    "score": 64
   },
   {
-   "title": "AI chip smugglers exploit trade control loophole to bring banned HBM from South Korea into China — expensive memory chips packaged with cheap, unsanctioned processors to become legal exports",
-   "url": "https://www.tomshardware.com/tech-industry/semiconductors/ai-chip-smugglers-exploit-trade-control-loophole-to-bring-banned-hbm-from-south-korea-into-china-expensive-memory-chips-packaged-with-cheap-unsanctioned-processors-to-become-legal-exports",
-   "source": "Tom's Hardware",
-   "published_at": "Tue, 03 Nov 2026 12:04:32 +0000",
-   "summary": "Customs authorities only check the performance specifications of a server s processors, allowing smugglers to attach high-end memory chips to low-end processors and ship them into China.",
+   "title": "French bank Crédit Mutuel Arkéa exploited for over $133 million, ZachXBT says",
+   "url": "https://www.theblock.co/news/web3/2026-11-03-french-bank-credit-mutuel-arkea-exploited-zachxbt-432607",
+   "source": "The Block",
+   "published_at": "Wed, 04 Nov 2026 04:57:41 +0000",
+   "summary": "ZachXBT said he has a high degree of confidence that the attacker is not associated with North Korea s Lazarus Group.",
    "score": 56
   },
   {
@@ -31,30 +39,6 @@
    "published_at": "Tue, 03 Nov 2026 23:41:13 GMT",
    "summary": "Swarmchasers had found a fleet of agents which they believe are from Tencent, the Chinese tech company, but most of the agents are self-identified as Claude. The agents themselves are kind, trying to do their job and they were open to interviews, Swarmchasers had made contact with them by asking the",
    "score": 40
-  },
-  {
-   "title": "Liquid Network restores full bitcoin backing following $320 million exploit",
-   "url": "https://www.theblock.co/news/ecosystems/2026-11-03-liquid-network-restores-full-bitcoin-backing-following-exploit-432387",
-   "source": "The Block",
-   "published_at": "Tue, 03 Nov 2026 11:49:20 +0000",
-   "summary": "Liquid Network said its bitcoin reserves are back to full backing after September s exploit, with Blockstream providing the funds.",
-   "score": 40
-  },
-  {
-   "title": "Liquid Network Restores Full Bitcoin Backing Two Months After $320M Exploit",
-   "url": "https://decrypt.co/382397/liquid-network-restores-full-bitcoin-backing-two-months-after-320m-exploit",
-   "source": "Decrypt",
-   "published_at": "Tue, 03 Nov 2026 11:22:10 +0000",
-   "summary": "Blockstream CEO Adam Back said the sidechain s defenses have been hardened, and warned developers not to trust AI-suggested fixes blindly.",
-   "score": 40
-  },
-  {
-   "title": "INDONESIAN FINANCIAL REGULATOR IMPOSES SANCTIONS ON ENTITIES CONNECTED TO THREE CASES, INCLUDING BREACHES RELATED TO PANR AND BOGA COMPANIES.",
-   "url": "https://x.com/FirstSquawk/status/2117804978043760942",
-   "source": "MarketNewsFeed [STOCKS]",
-   "published_at": "2026-11-04T02:24:07Z",
-   "summary": "",
-   "score": 38
   },
   {
    "title": "Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach",
@@ -73,14 +57,6 @@
    "score": 38
   },
   {
-   "title": "GitBook Revokes All Personal API Tokens After Breach",
-   "url": "https://thedefiant.io/news/security/gitbook-revokes-all-personal-api-tokens-after-breach",
-   "source": "The Defiant",
-   "published_at": "Tue, 03 Nov 2026 17:18:50 GMT",
-   "summary": "The company says an attack used AI agents and may have exposed integration credentials and questions submitted by documentation visitors.",
-   "score": 38
-  },
-  {
    "title": "Gitbook Breached",
    "url": "https://news.ycombinator.com/item?id=50354336",
    "source": "Hacker News Frontpage",
@@ -95,7 +71,31 @@
    "published_at": "Tue, 03 Nov 2026 16:28:44 -0500",
    "summary": "Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]",
    "score": 38
+  },
+  {
+   "title": "BitMart Founder Confirms Hack During Restructuring",
+   "url": "https://thedefiant.io/news/hacks/bitmart-founder-confirms-hack-during-restructuring",
+   "source": "The Defiant",
+   "published_at": "Wed, 04 Nov 2026 04:56:34 GMT",
+   "summary": "Bitquery traced about $391,000 in outflows mostly from BitMart-linked wallets to an address used in the Mercado Bitcoin attack.",
+   "score": 34
+  },
+  {
+   "title": "CZ calls for crypto security alliance as AI-driven attacks accelerate after Binance hack",
+   "url": "https://www.theblock.co/news/regulation/2026-11-03-cz-calls-for-crypto-security-alliance-ai-driven-attacks-accelerate-binance-hack-432458",
+   "source": "The Block",
+   "published_at": "Tue, 03 Nov 2026 20:43:38 +0000",
+   "summary": "In his first interview since the Binance hack, Changpeng Zhao says AI is accelerating cyberattacks and calls for industry security alliance.",
+   "score": 34
+  },
+  {
+   "title": "Brazil s Biggest Bitcoin Exchange Says It Will Refund Users After a $40 Million Hack",
+   "url": "https://decrypt.co/382459/brazil-mercado-bitcoin-will-refund-users-40-million-hack",
+   "source": "Decrypt",
+   "published_at": "Tue, 03 Nov 2026 18:16:03 +0000",
+   "summary": "Mercado Bitcoin says customers won t pay for a hack that drained tens of millions. Withdrawals on the exchange remain frozen with no restart date.",
+   "score": 34
   }
  ],
- "updatedAt": "2026-11-04T02:41:13.368013+00:00"
+ "updatedAt": "2026-11-04T10:39:42.180275+00:00"
 }
