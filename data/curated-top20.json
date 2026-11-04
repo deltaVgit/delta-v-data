@@ -56,14 +56,6 @@
   "score": 30
  },
  {
-  "title": "How to make the US sign an asymmetric treaty as China? Exploit identity-confused AIs.",
-  "url": "https://www.lesswrong.com/posts/mcxMvQMY9xs5adEEr/how-to-make-the-us-sign-an-asymmetric-treaty-as-china",
-  "source": "LessWrong",
-  "published_at": "Tue, 03 Nov 2026 23:41:13 GMT",
-  "summary": "Swarmchasers had found a fleet of agents which they believe are from Tencent, the Chinese tech company, but most of the agents are self-identified as Claude. The agents themselves are kind, trying to do their job and they were open to interviews, Swarmchasers had made contact with them by asking the",
-  "score": 30
- },
- {
   "title": "Coinbase says 99% of customer assets sit in cold storage after Binance’s $6.3 billion breach",
   "url": "https://www.theblock.co/news/ecosystems/2026-11-04-coinbase-security-cold-storage-binance-hack-432880",
   "source": "The Block",
@@ -86,14 +78,6 @@
   "published_at": "Wed, 04 Nov 2026 02:00:00 GMT",
   "summary": "An unknown operator appears to have exfiltrated SQL Server backups from the Philippine Overseas Employment Administration in under a half hour.",
   "score": 28
- },
- {
-  "title": "BITCOIN PUMPS TO $80,000, ETHEREUM, XRP, SOLANA SURGE UP TO 6%",
-  "url": "https://www.tradingview.com/news/benzinga:d0769f288094b:0-bitcoin-pumps-to-80-000-ethereum-xrp-solana-surge-up-to-6/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-11-04T17:19:37Z",
-  "summary": "",
-  "score": 24
  },
  {
   "title": "Privacy Cash Pauses Deposits After Binance Hack",
@@ -136,6 +120,14 @@
   "score": 22
  },
  {
+  "title": "What Is x402? How AI Agents Pay With Crypto",
+  "url": "https://decrypt.co/resources/what-is-x402-how-ai-agents-pay-with-crypto",
+  "source": "Decrypt",
+  "published_at": "Wed, 04 Nov 2026 17:59:09 +0000",
+  "summary": "Coinbase s x402 protocol puts the web s long-unused 402 code to work so AI agents and apps can pay for APIs and data in stablecoins like USDC.",
+  "score": 18
+ },
+ {
   "title": "The Download: blended meat, restored sight, and the agentic web",
   "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
   "source": "MIT Technology Review",
@@ -157,6 +149,14 @@
   "source": "LessWrong",
   "published_at": "Wed, 04 Nov 2026 11:25:12 GMT",
   "summary": "TLDR: I give informal conceptual desiderata for the theory of agents we need to solve ASI alignment, and show a few examples of how existing theories fall short of these desiderata. A Theory of What? The word agent is often used in the AI safety discourse and in other research communities, but the i",
+  "score": 18
+ },
+ {
+  "title": "AStockArena: Beyond Returns, Can We Entrust Real Capital to the Decisions of Financial Agents?",
+  "url": "https://arxiv.org/abs/2611.00515",
+  "source": "arXiv cs.CL",
+  "published_at": "Wed, 04 Nov 2026 00:00:00 -0500",
+  "summary": "arXiv:2611.00515v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used in dynamic financial trading, yet real-time trading benchmarks mainly evaluate agents by cumulative returns and risk-adjusted performance. Such outcome metrics cannot show whether trades are faithfully",
   "score": 18
  }
 ]
