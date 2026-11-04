@@ -80,12 +80,28 @@
   "score": 32
  },
  {
+  "title": "How to make the US sign an asymmetric treaty as China? Exploit identity-confused AIs.",
+  "url": "https://www.lesswrong.com/posts/mcxMvQMY9xs5adEEr/how-to-make-the-us-sign-an-asymmetric-treaty-as-china",
+  "source": "LessWrong",
+  "published_at": "Tue, 03 Nov 2026 23:41:13 GMT",
+  "summary": "Swarmchasers had found a fleet of agents which they believe are from Tencent, the Chinese tech company, but most of the agents are self-identified as Claude. The agents themselves are kind, trying to do their job and they were open to interviews, Swarmchasers had made contact with them by asking the",
+  "score": 30
+ },
+ {
   "title": "AI chip smugglers exploit trade control loophole to bring banned HBM from South Korea into China — expensive memory chips packaged with cheap, unsanctioned processors to become legal exports",
   "url": "https://www.tomshardware.com/tech-industry/semiconductors/ai-chip-smugglers-exploit-trade-control-loophole-to-bring-banned-hbm-from-south-korea-into-china-expensive-memory-chips-packaged-with-cheap-unsanctioned-processors-to-become-legal-exports",
   "source": "Tom's Hardware",
   "published_at": "Tue, 03 Nov 2026 12:04:32 +0000",
   "summary": "Customs authorities only check the performance specifications of a server s processors, allowing smugglers to attach high-end memory chips to low-end processors and ship them into China.",
   "score": 30
+ },
+ {
+  "title": "Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach",
+  "url": "https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach",
+  "source": "Dark Reading",
+  "published_at": "Wed, 04 Nov 2026 02:00:00 GMT",
+  "summary": "An unknown operator appears to have exfiltrated SQL Server backups from the Philippine Overseas Employment Administration in under a half hour.",
+  "score": 28
  },
  {
   "title": "GitBook Revokes All Personal API Tokens After Breach",
@@ -109,14 +125,6 @@
   "source": "BleepingComputer",
   "published_at": "Tue, 03 Nov 2026 16:28:44 -0500",
   "summary": "Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]",
-  "score": 28
- },
- {
-  "title": "Harvard University data breach exposed info of 851,000 accounts",
-  "url": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
-  "source": "BleepingComputer",
-  "published_at": "Tue, 03 Nov 2026 05:53:25 -0500",
-  "summary": "Hackers who breached Harvard University s Alumni Affairs and Development systems in November 2025 stole data linked to more than 850,000 unique email addresses, according to breach notification service Have I Been Pwned. [...]",
   "score": 28
  },
  {
@@ -149,14 +157,6 @@
   "source": "Decrypt",
   "published_at": "Tue, 03 Nov 2026 17:30:54 +0000",
   "summary": "From AI deepfakes to poisoning code libraries: here s how North Korean hackers get inside crypto companies.",
-  "score": 22
- },
- {
-  "title": "Fake Job Interview Opened Path to $6.34 Billion Hack, Binance Says",
-  "url": "https://thedefiant.io/news/hacks/fake-job-interview-opened-path-to-6-34-billion-hack-binance-says",
-  "source": "The Defiant",
-  "published_at": "Tue, 03 Nov 2026 14:57:12 GMT",
-  "summary": "Attackers used an internal AI tool to reach wallet engineers, while persistent onchain permissions complicated containment.",
   "score": 22
  }
 ]
