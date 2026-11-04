@@ -41,6 +41,14 @@
    "score": 40
   },
   {
+   "title": "GITBOOK CONFIRMS INFRASTRUCTURE BREACH BEHIND DOCUMENTATION INCIDENT; TRADE.XYZ SAYS ITS SYSTEMS WERE UNAFFECTED",
+   "url": "http://TRADE.XYZ/",
+   "source": "MarketNewsFeed [OTHER]",
+   "published_at": "2026-11-04T23:24:00Z",
+   "summary": "",
+   "score": 38
+  },
+  {
    "title": "Coinbase says 99% of customer assets sit in cold storage after Binance’s $6.3 billion breach",
    "url": "https://www.theblock.co/news/ecosystems/2026-11-04-coinbase-security-cold-storage-binance-hack-432880",
    "source": "The Block",
@@ -57,30 +65,6 @@
    "score": 38
   },
   {
-   "title": "BITMART FOUNDER SAYS SECURITY TEAM ‘SEVERELY UNDERSTAFFED’ AFTER NEW HACK",
-   "url": "https://www.tradingview.com/news/cointelegraph:38099a1c2094b:0-bitmart-founder-says-security-team-severely-understaffed-after-new-hack/",
-   "source": "MarketNewsFeed [CRYPTO]",
-   "published_at": "2026-11-04T22:37:17Z",
-   "summary": "",
-   "score": 34
-  },
-  {
-   "title": "BITCOIN WILL BE UNBOTHERED BY BINANCE HACK, BITWISE'S MATT HOUGAN SAYS",
-   "url": "https://www.tradingview.com/news/benzinga:294640df9094b:0-bitcoin-will-be-unbothered-by-binance-hack-bitwise-s-matt-hougan-says/",
-   "source": "MarketNewsFeed [CRYPTO]",
-   "published_at": "2026-11-04T22:09:17Z",
-   "summary": "",
-   "score": 34
-  },
-  {
-   "title": "[ Z ]ONCHAIN SECURITY AND THREAT PREVENTION PLATFORMS SAW ATLEAST $40M IN CLIENT COMMITMENTS IN DAYS FOLLOWING BINANCE HACK: AXIOS",
-   "url": "https://x.com/Zfied/status/2118101205025186298",
-   "source": "MarketNewsFeed [CRYPTO]",
-   "published_at": "2026-11-04T22:01:01Z",
-   "summary": "",
-   "score": 34
-  },
-  {
    "title": "Coinbase Says 99% of Customer Crypto Is Offline and Out of Hackers’ Reach",
    "url": "https://decrypt.co/382570/coinbase-99-percent-customer-crypto-offline-binance-hack",
    "source": "Decrypt",
@@ -95,7 +79,23 @@
    "published_at": "Wed, 04 Nov 2026 20:09:58 +0000",
    "summary": "Bitcoin rose 3.5% to $80,500 and ether jumped 6% after Democrats won Congress, while Bitwise says the Binance hack had limited market impact.",
    "score": 34
+  },
+  {
+   "title": "Privacy Cash Pauses Deposits After Binance Hack",
+   "url": "https://thedefiant.io/news/defi/privacy-cash-pauses-deposits-after-binance-hack",
+   "source": "The Defiant",
+   "published_at": "Wed, 04 Nov 2026 16:39:50 GMT",
+   "summary": "Elliptic traced about $1.2 million in theft-linked ETH and SOL into its pools; the team says withdrawals remain open.",
+   "score": 34
+  },
+  {
+   "title": "Binance Expands Proof of Reserves to 44 Tokens After Hack",
+   "url": "https://thedefiant.io/news/hacks/binance-expands-proof-of-reserves-to-44-tokens-after-hack",
+   "source": "The Defiant",
+   "published_at": "Wed, 04 Nov 2026 15:38:12 GMT",
+   "summary": "The exchange says it has replenished about 98% of affected assets, but the new cryptographic proof is unfinished and withdrawals are not fully reopened.",
+   "score": 34
   }
  ],
- "updatedAt": "2026-11-04T22:49:26.383480+00:00"
+ "updatedAt": "2026-11-04T23:46:02.662209+00:00"
 }
