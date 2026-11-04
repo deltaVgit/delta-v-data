@@ -1,11 +1,11 @@
 {
  "picks": [
   {
-   "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
+   "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+   "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
    "source": "BleepingComputer",
-   "published_at": "Wed, 04 Nov 2026 04:39:54 -0500",
-   "summary": "A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]",
+   "published_at": "Wed, 04 Nov 2026 15:58:19 -0500",
+   "summary": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]",
    "score": 74
   },
   {
@@ -23,22 +23,6 @@
    "published_at": "Wed, 04 Nov 2026 11:58:46 -0500",
    "summary": "The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game s PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials and cryptocurrency wallet data. [...]",
    "score": 70
-  },
-  {
-   "title": "MERCADO BITCOIN HACKER SWAPS $10.5M IN STOLEN ALTCOINS FOR ETH",
-   "url": "https://www.tradingview.com/news/cryptobriefing:14353bd84094b:0-mercado-bitcoin-hacker-swaps-10-5m-in-stolen-altcoins-for-eth/",
-   "source": "MarketNewsFeed [CRYPTO]",
-   "published_at": "2026-11-04T17:29:00Z",
-   "summary": "",
-   "score": 64
-  },
-  {
-   "title": "French bank Crédit Mutuel Arkéa exploited for over $133 million, ZachXBT says",
-   "url": "https://www.theblock.co/news/web3/2026-11-03-french-bank-credit-mutuel-arkea-exploited-zachxbt-432607",
-   "source": "The Block",
-   "published_at": "Wed, 04 Nov 2026 04:57:41 +0000",
-   "summary": "ZachXBT said he has a high degree of confidence that the attacker is not associated with North Korea s Lazarus Group.",
-   "score": 56
   },
   {
    "title": "Paradise Lost: A simple honeypot that elicits reward hacking in GPT models",
@@ -65,37 +49,53 @@
    "score": 38
   },
   {
-   "title": "Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach",
-   "url": "https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach",
-   "source": "Dark Reading",
-   "published_at": "Wed, 04 Nov 2026 02:00:00 GMT",
-   "summary": "An unknown operator appears to have exfiltrated SQL Server backups from the Philippine Overseas Employment Administration in under a half hour.",
+   "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
+   "url": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
+   "source": "BleepingComputer",
+   "published_at": "Wed, 04 Nov 2026 14:05:19 -0500",
+   "summary": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers FTP/SFTP usernames and passwords. [...]",
    "score": 38
   },
   {
-   "title": "Privacy Cash Pauses Deposits After Binance Hack",
-   "url": "https://thedefiant.io/news/defi/privacy-cash-pauses-deposits-after-binance-hack",
-   "source": "The Defiant",
-   "published_at": "Wed, 04 Nov 2026 16:39:50 GMT",
-   "summary": "Elliptic traced about $1.2 million in theft-linked ETH and SOL into its pools; the team says withdrawals remain open.",
-   "score": 34
-  },
-  {
-   "title": "Binance Expands Proof of Reserves to 44 Tokens After Hack",
-   "url": "https://thedefiant.io/news/hacks/binance-expands-proof-of-reserves-to-44-tokens-after-hack",
-   "source": "The Defiant",
-   "published_at": "Wed, 04 Nov 2026 15:38:12 GMT",
-   "summary": "The exchange says it has replenished about 98% of affected assets, but the new cryptographic proof is unfinished and withdrawals are not fully reopened.",
-   "score": 34
-  },
-  {
-   "title": "THORChain s RUNE jumps 10% as North Korean hackers resume laundering Binance loot",
-   "url": "https://www.coindesk.com/markets/2026/11/04/thorchain-s-rune-jumps-10-as-north-korean-hackers-resume-laundering-binance-loot",
-   "source": "CoinDesk",
-   "published_at": "Wed, 04 Nov 2026 12:49:56 +0000",
+   "title": "BITMART FOUNDER SAYS SECURITY TEAM ‘SEVERELY UNDERSTAFFED’ AFTER NEW HACK",
+   "url": "https://www.tradingview.com/news/cointelegraph:38099a1c2094b:0-bitmart-founder-says-security-team-severely-understaffed-after-new-hack/",
+   "source": "MarketNewsFeed [CRYPTO]",
+   "published_at": "2026-11-04T22:37:17Z",
    "summary": "",
+   "score": 34
+  },
+  {
+   "title": "BITCOIN WILL BE UNBOTHERED BY BINANCE HACK, BITWISE'S MATT HOUGAN SAYS",
+   "url": "https://www.tradingview.com/news/benzinga:294640df9094b:0-bitcoin-will-be-unbothered-by-binance-hack-bitwise-s-matt-hougan-says/",
+   "source": "MarketNewsFeed [CRYPTO]",
+   "published_at": "2026-11-04T22:09:17Z",
+   "summary": "",
+   "score": 34
+  },
+  {
+   "title": "[ Z ]ONCHAIN SECURITY AND THREAT PREVENTION PLATFORMS SAW ATLEAST $40M IN CLIENT COMMITMENTS IN DAYS FOLLOWING BINANCE HACK: AXIOS",
+   "url": "https://x.com/Zfied/status/2118101205025186298",
+   "source": "MarketNewsFeed [CRYPTO]",
+   "published_at": "2026-11-04T22:01:01Z",
+   "summary": "",
+   "score": 34
+  },
+  {
+   "title": "Coinbase Says 99% of Customer Crypto Is Offline and Out of Hackers’ Reach",
+   "url": "https://decrypt.co/382570/coinbase-99-percent-customer-crypto-offline-binance-hack",
+   "source": "Decrypt",
+   "published_at": "Wed, 04 Nov 2026 20:46:03 +0000",
+   "summary": "Coinbase told customers it wasn’t affected by the $6.4 billion Binance hack and detailed its security controls, including offline storage for over 99% of assets, split private keys and kill switches.",
+   "score": 34
+  },
+  {
+   "title": "Bitcoin rebounds past $80,000 as markets shrug off midterms and Binance hack",
+   "url": "https://www.theblock.co/news/markets/2026-11-04-bitcoin-price-midterm-elections-binance-hack-recovery-433030",
+   "source": "The Block",
+   "published_at": "Wed, 04 Nov 2026 20:09:58 +0000",
+   "summary": "Bitcoin rose 3.5% to $80,500 and ether jumped 6% after Democrats won Congress, while Bitwise says the Binance hack had limited market impact.",
    "score": 34
   }
  ],
- "updatedAt": "2026-11-04T18:14:56.363190+00:00"
+ "updatedAt": "2026-11-04T22:49:26.383480+00:00"
 }
