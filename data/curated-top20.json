@@ -24,14 +24,6 @@
   "score": 34
  },
  {
-  "title": "Route to Remember: Adaptive Memory Selection for LLM Agents",
-  "url": "https://arxiv.org/abs/2611.05636",
-  "source": "arXiv cs.AI",
-  "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
-  "summary": "arXiv:2611.05636v1 Announce Type: new Abstract: The memory of production agents is increasingly becoming a bottleneck and is built almost exclusively from text: key points are extracted from out-of-limit context and retrieved into context at query time. Therefore, every new query incurs an additiona",
-  "score": 34
- },
- {
   "title": "Floki Takes Trading Bot Offline Amid Exploit Investigation",
   "url": "https://thedefiant.io/news/security/floki-takes-trading-bot-offline-amid-exploit-investigation",
   "source": "The Defiant",
@@ -72,6 +64,14 @@
   "score": 26
  },
  {
+  "title": "MS Paint Remote Code Execution Vulnerability",
+  "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+  "source": "Hacker News Frontpage",
+  "published_at": "Thu, 05 Nov 2026 20:43:42 +0000",
+  "summary": "Comments URL: Points: 3",
+  "score": 24
+ },
+ {
   "title": "Gauntlet Restricts V1 Vault Deposits After Reported op-reth Vulnerability",
   "url": "https://thedefiant.io/news/defi/gauntlet-restricts-v1-vault-deposits-after-reported-op-reth-vulnerability",
   "source": "The Defiant",
@@ -88,7 +88,7 @@
   "score": 24
  },
  {
-  "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist",
+  "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist?",
   "url": "https://www.coindesk.com/business/2026/11/05/what-is-tradertraitor-the-hacking-squad-behind-the-usd6-3-billion-binance-heist",
   "source": "CoinDesk",
   "published_at": "Thu, 05 Nov 2026 16:58:21 +0000",
@@ -104,27 +104,19 @@
   "score": 22
  },
  {
-  "title": "Grounded but Not Immune: Confirmation Bias in Agent-as-a-judge",
-  "url": "https://arxiv.org/abs/2611.05662",
-  "source": "arXiv cs.AI",
-  "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
-  "summary": "arXiv:2611.05662v1 Announce Type: new Abstract: Evaluating open-ended agent tasks increasingly falls to an Agent-as-a-Judge: an evaluator handed tools and the agent s full trajectory so it can verify a result against the environment. The premise is that a judge that gathers its own evidence should b",
+  "title": "Former FBI Agent Pleads Guilty to $2.47 Million Crypto Theft",
+  "url": "https://thedefiant.io/news/security/former-fbi-agent-pleads-guilty-to-2-47-million-crypto-theft",
+  "source": "The Defiant",
+  "published_at": "Thu, 05 Nov 2026 21:53:55 GMT",
+  "summary": "Prosecutors say Patrick Steven Yaroch used credentials tied to 35 FBI investigations, compromising cases and intelligence sources and methods.",
   "score": 18
  },
  {
-  "title": "Attributing Agent Failures to Their History Needs an Executed Counterfactual: Toward a Reporting Standard",
-  "url": "https://arxiv.org/abs/2611.05650",
-  "source": "arXiv cs.AI",
-  "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
-  "summary": "arXiv:2611.05650v1 Announce Type: new Abstract: Published explanations of why long-horizon agents fail are commonly taxonomies labeled over completed trajectories: a judge reads a transcript and names the failure. We argue that a claim attributing an agent s behavior to its history should carry inte",
-  "score": 18
- },
- {
-  "title": "Assurance-Conditioned Continuous Authorization for Autonomous AI Agents",
-  "url": "https://arxiv.org/abs/2611.05632",
-  "source": "arXiv cs.AI",
-  "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
-  "summary": "arXiv:2611.05632v1 Announce Type: new Abstract: Autonomous software agents can act through tools, delegate work, and change their models or execution environments while earlier authorizations remain in flight. We present Assurance-Conditioned Continuous Authorization (ACCA), an approach designed to ",
+  "title": "Hungary: Communist-era files released, up to 60k former agents revealed",
+  "url": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
+  "source": "Hacker News Frontpage",
+  "published_at": "Thu, 05 Nov 2026 19:16:34 +0000",
+  "summary": "Comments URL: Points: 90",
   "score": 18
  },
  {
@@ -136,12 +128,12 @@
   "score": 16
  },
  {
-  "title": "Verified but Vacuous: Three Failure Surfaces of LLM-Driven Verified Code Generation",
-  "url": "https://arxiv.org/abs/2611.05590",
-  "source": "arXiv cs.AI",
-  "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
-  "summary": "arXiv:2611.05590v1 Announce Type: new Abstract: What should verified mean when evaluating LLM-generated code? Many existing pipelines report a single verification number. We argue this collapses three distinct properties measured in a conditional audit sequence: verifier acceptance (Surface A), \\emp",
-  "score": 16
+  "title": "OpenAI Promises to Foot AI’s Power Bill After Voter Revolt. Who Enforces It?",
+  "url": "https://decrypt.co/382674/openai-promises-foot-ai-power-bill-after-voter-revolt",
+  "source": "Decrypt",
+  "published_at": "Thu, 05 Nov 2026 21:36:03 +0000",
+  "summary": "OpenAI wants to ease the backlash against AI campuses with promises on electricity, water and secrecy. Its new compact raises a tougher question: Who would make the company comply?",
+  "score": 14
  },
  {
   "title": "METR: Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
@@ -157,6 +149,14 @@
   "source": "LessWrong",
   "published_at": "Thu, 05 Nov 2026 18:50:45 GMT",
   "summary": "TLDR: roughly a 2x speedup, with a range of 1.3-3x. Model 4 looks very scary. Discuss",
+  "score": 14
+ },
+ {
+  "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+  "url": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
+  "source": "BleepingComputer",
+  "published_at": "Thu, 05 Nov 2026 16:30:30 -0500",
+  "summary": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions. [...]",
   "score": 14
  }
 ]

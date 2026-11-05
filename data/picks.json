@@ -49,7 +49,7 @@
    "score": 34
   },
   {
-   "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist",
+   "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist?",
    "url": "https://www.coindesk.com/business/2026/11/05/what-is-tradertraitor-the-hacking-squad-behind-the-usd6-3-billion-binance-heist",
    "source": "CoinDesk",
    "published_at": "Thu, 05 Nov 2026 16:58:21 +0000",
@@ -63,6 +63,14 @@
    "published_at": "Thu, 05 Nov 2026 10:44:54 +0000",
    "summary": "",
    "score": 34
+  },
+  {
+   "title": "MS Paint Remote Code Execution Vulnerability",
+   "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+   "source": "Hacker News Frontpage",
+   "published_at": "Thu, 05 Nov 2026 20:43:42 +0000",
+   "summary": "Comments URL: Points: 3",
+   "score": 30
   },
   {
    "title": "Gauntlet Restricts V1 Vault Deposits After Reported op-reth Vulnerability",
@@ -81,21 +89,13 @@
    "score": 30
   },
   {
-   "title": "JUST IN: BINANCE AND FOUNDER CZ SUBPOENA SHARK TANK'S KEVIN O'LEARY IN $1.76 BILLION FTX LAWSUIT.",
-   "url": "https://x.com/WatcherGuru/status/2118432353307504870",
-   "source": "MarketNewsFeed [CRYPTO]",
-   "published_at": "2026-11-05T19:57:09Z",
-   "summary": "",
+   "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
+   "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
+   "source": "Ars Technica",
+   "published_at": "Thu, 05 Nov 2026 21:39:40 +0000",
+   "summary": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
    "score": 18
-  },
-  {
-   "title": "Is it better to directly or indirectly ban ASI?",
-   "url": "https://www.lesswrong.com/posts/R3xWw6baZSKZMk8et/is-it-better-to-directly-or-indirectly-ban-asi",
-   "source": "LessWrong",
-   "published_at": "Thu, 05 Nov 2026 18:59:59 GMT",
-   "summary": "Senator Bernie Sanders has proposed directly banning development of ASI . Given the current scientific understanding of AI alignment, it is highly sensible to ban ASI and then consider revoking this ban if future scientific breakthroughs (e.g., “solving interp”) make it possible to safely develop AS",
-   "score": 16
   }
  ],
- "updatedAt": "2026-11-05T21:13:22.965966+00:00"
+ "updatedAt": "2026-11-05T22:58:01.539305+00:00"
 }
