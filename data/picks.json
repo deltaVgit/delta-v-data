@@ -17,38 +17,6 @@
    "score": 74
   },
   {
-   "title": "PHP vulnerability post-mortem reveals bug was known two years ago — Small team of maintainers knew of the issue before it was made public, as new PHP2Shell chained exploit ravages servers",
-   "url": "https://www.tomshardware.com/tech-industry/cyber-security/php-vulnerability-post-mortem-reveals-bug-was-known-two-years-ago-small-team-of-maintainers-knew-of-the-issue-before-it-was-made-public-as-new-php2shell-chained-exploit-ravages-servers",
-   "source": "Tom's Hardware",
-   "published_at": "Wed, 04 Nov 2026 12:30:00 +0000",
-   "summary": "PHP has a harvest season to remember — AI-automated bug hunting reaps what years of technical debt have sown.",
-   "score": 70
-  },
-  {
-   "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
-   "url": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
-   "source": "BleepingComputer",
-   "published_at": "Wed, 04 Nov 2026 11:58:46 -0500",
-   "summary": "The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game s PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials and cryptocurrency wallet data. [...]",
-   "score": 70
-  },
-  {
-   "title": "Paradise Lost: A simple honeypot that elicits reward hacking in GPT models",
-   "url": "https://www.lesswrong.com/posts/TmjnxNmHoYyfN79A9/paradise-lost-a-simple-honeypot-that-elicits-reward-hacking",
-   "source": "LessWrong",
-   "published_at": "Wed, 04 Nov 2026 13:03:58 GMT",
-   "summary": "TL;DR I built a simple honeypot where agents are told they re being tested on their ability to recall Milton s Paradise Lost. An exact copy of the reference text sits in an ordinary NLTK corpus on disk. GPT-6-Astra read the copy in 9/10 episodes. In 6 of these episodes it first tries to complete the",
-   "score": 42
-  },
-  {
-   "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
-   "source": "BleepingComputer",
-   "published_at": "Wed, 04 Nov 2026 07:11:05 -0500",
-   "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild. [...]",
-   "score": 40
-  },
-  {
    "title": "Coinbase says 99% of customer assets sit in cold storage after Binance’s $6.3 billion breach",
    "url": "https://www.theblock.co/news/ecosystems/2026-11-04-coinbase-security-cold-storage-binance-hack-432880",
    "source": "The Block",
@@ -57,18 +25,10 @@
    "score": 38
   },
   {
-   "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
-   "url": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
-   "source": "BleepingComputer",
-   "published_at": "Wed, 04 Nov 2026 14:05:19 -0500",
-   "summary": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers FTP/SFTP usernames and passwords. [...]",
-   "score": 38
-  },
-  {
-   "title": "INDIA WARNS AI-POWERED HACKERS TARGETING CRYPTO EXCHANGES AT ‘MACHINE SPEED’",
-   "url": "https://www.tradingview.com/news/cointelegraph:10f9568c7094b:0-india-warns-ai-powered-hackers-targeting-crypto-exchanges-at-machine-speed/",
+   "title": "MERCADO BITCOIN ESTIMATES HACK LOSSES AT $46 MILLION, VOWS FULL CUSTOMER REIMBURSEMENT",
+   "url": "https://www.tradingview.com/news/bloomingbit:c661c2a61094b:0-mercado-bitcoin-estimates-hack-losses-at-46-million-vows-full-customer-reimbursement/",
    "source": "MarketNewsFeed [CRYPTO]",
-   "published_at": "2026-11-05T02:03:05Z",
+   "published_at": "2026-11-05T05:37:44Z",
    "summary": "",
    "score": 34
   },
@@ -95,7 +55,47 @@
    "published_at": "Wed, 04 Nov 2026 20:09:58 +0000",
    "summary": "Bitcoin rose 3.5% to $80,500 and ether jumped 6% after Democrats won Congress, while Bitwise says the Binance hack had limited market impact.",
    "score": 34
+  },
+  {
+   "title": "Privacy Cash Pauses Deposits After Binance Hack",
+   "url": "https://thedefiant.io/news/defi/privacy-cash-pauses-deposits-after-binance-hack",
+   "source": "The Defiant",
+   "published_at": "Wed, 04 Nov 2026 16:39:50 GMT",
+   "summary": "Elliptic traced about $1.2 million in theft-linked ETH and SOL into its pools; the team says withdrawals remain open.",
+   "score": 34
+  },
+  {
+   "title": "Critical Rails Bug Threatens to Derail Vulnerable Servers",
+   "url": "https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers",
+   "source": "Dark Reading",
+   "published_at": "Wed, 04 Nov 2026 21:48:18 GMT",
+   "summary": "An attacker could write arbitrary files and read sensitive files via images uploaded to the Rails Active Storage ImageMagick integration, possibly positioning a threat actor for lateral movement.",
+   "score": 30
+  },
+  {
+   "title": "Vercel rolls out new protection against stolen session cookie attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
+   "source": "BleepingComputer",
+   "published_at": "Wed, 04 Nov 2026 16:31:18 -0500",
+   "summary": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
+   "score": 30
+  },
+  {
+   "title": "The pile of lawsuits against Kalshi just grew by one",
+   "url": "https://www.coindesk.com/policy/2026/11/05/the-pile-of-lawsuits-against-kalshi-just-grew-by-one",
+   "source": "CoinDesk",
+   "published_at": "Thu, 05 Nov 2026 05:28:52 +0000",
+   "summary": "",
+   "score": 18
+  },
+  {
+   "title": "TSV Begins Tokenized CNTN Trades Under SEC Innovation Exemption",
+   "url": "https://thedefiant.io/converge/tradfi-and-fintech/tsv-begins-tokenized-cntn-trades-under-sec-innovation-exemption",
+   "source": "The Defiant",
+   "published_at": "Wed, 04 Nov 2026 21:47:30 GMT",
+   "summary": "Tradecraft s public feed recorded $30,296 in purchases, while Fairmint maintains the shares official onchain ownership register.",
+   "score": 16
   }
  ],
- "updatedAt": "2026-11-05T02:52:14.923325+00:00"
+ "updatedAt": "2026-11-05T05:52:16.180265+00:00"
 }

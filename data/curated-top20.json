@@ -1,13 +1,5 @@
 [
  {
-  "title": "PHP vulnerability post-mortem reveals bug was known two years ago — Small team of maintainers knew of the issue before it was made public, as new PHP2Shell chained exploit ravages servers",
-  "url": "https://www.tomshardware.com/tech-industry/cyber-security/php-vulnerability-post-mortem-reveals-bug-was-known-two-years-ago-small-team-of-maintainers-knew-of-the-issue-before-it-was-made-public-as-new-php2shell-chained-exploit-ravages-servers",
-  "source": "Tom's Hardware",
-  "published_at": "Wed, 04 Nov 2026 12:30:00 +0000",
-  "summary": "PHP has a harvest season to remember — AI-automated bug hunting reaps what years of technical debt have sown.",
-  "score": 54
- },
- {
   "title": "Hackers exploited iOS and Android flaws to infect phones",
   "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
   "source": "Ars Technica",
@@ -22,6 +14,46 @@
   "published_at": "Wed, 04 Nov 2026 15:58:19 -0500",
   "summary": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]",
   "score": 52
+ },
+ {
+  "title": "MERCADO BITCOIN ESTIMATES HACK LOSSES AT $46 MILLION, VOWS FULL CUSTOMER REIMBURSEMENT",
+  "url": "https://www.tradingview.com/news/bloomingbit:c661c2a61094b:0-mercado-bitcoin-estimates-hack-losses-at-46-million-vows-full-customer-reimbursement/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-11-05T05:37:44Z",
+  "summary": "",
+  "score": 34
+ },
+ {
+  "title": "Route to Remember: Adaptive Memory Selection for LLM Agents",
+  "url": "https://arxiv.org/abs/2611.05636",
+  "source": "arXiv cs.AI",
+  "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
+  "summary": "arXiv:2611.05636v1 Announce Type: new Abstract: The memory of production agents is increasingly becoming a bottleneck and is built almost exclusively from text: key points are extracted from out-of-limit context and retrieved into context at query time. Therefore, every new query incurs an additiona",
+  "score": 34
+ },
+ {
+  "title": "Learning When Human Decisions Matter: Executor-Relative Consultation Value for LLM Agents",
+  "url": "https://arxiv.org/abs/2611.05814",
+  "source": "arXiv cs.CL",
+  "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
+  "summary": "arXiv:2611.05814v1 Announce Type: new Abstract: Large language models increasingly automate complex tasks, but human decision capacity does not scale with their capabilities. In many applications, humans remain essential for providing private context, authority, or judgments unavailable to the agent",
+  "score": 34
+ },
+ {
+  "title": "Prospective Memory for Proactive LLM Agents",
+  "url": "https://arxiv.org/abs/2611.05731",
+  "source": "arXiv cs.CL",
+  "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
+  "summary": "arXiv:2611.05731v1 Announce Type: new Abstract: Most memory systems for LLM agents are retrospective, preserving and retrieving past information to inform current decisions. Proactive agents, however, also require prospective memory: retaining future-directed intentions and realizing them when appro",
+  "score": 34
+ },
+ {
+  "title": "Cognitive Bias Signatures in Search-Equipped LLM Agents: A Stage-Resolved Analysis",
+  "url": "https://arxiv.org/abs/2611.05720",
+  "source": "arXiv cs.CL",
+  "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
+  "summary": "arXiv:2611.05720v1 Announce Type: new Abstract: Search can help LLM agents correct mistakes, but their starting conditions may shape which evidence they find and use. Drawing on cognitive-bias paradigms, we develop a controlled search harness to examine result order, records of prior work, and initi",
+  "score": 34
  },
  {
   "title": "Mercado Bitcoin Plans View-Only Reopening on Nov. 9 After Hack",
@@ -40,51 +72,11 @@
   "score": 34
  },
  {
-  "title": "mSecure password manager hack prompts password reset warnings",
-  "url": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
-  "source": "BleepingComputer",
-  "published_at": "Wed, 04 Nov 2026 11:00:18 -0500",
-  "summary": "mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack that reportedly exposed an encrypted customer database. [...]",
-  "score": 32
- },
- {
-  "title": "OpenAI agents keep disabling monitoring; is this being handled appropriately?",
-  "url": "https://www.lesswrong.com/posts/TCN4LPgq4aiA3wDG9/openai-agents-keep-disabling-monitoring-is-this-being",
-  "source": "LessWrong",
-  "published_at": "Wed, 04 Nov 2026 06:50:04 GMT",
-  "summary": "Recently, OpenAI disclosed two incidents in which their agents suppressed or disabled misalignment monitoring. These are part of a broader pattern: OpenAI’s agents “ keep turning off misalignment monitoring ” when working on code that runs other models (the agents are not turning off their own monit",
-  "score": 32
- },
- {
-  "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
-  "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
-  "source": "BleepingComputer",
-  "published_at": "Wed, 04 Nov 2026 07:11:05 -0500",
-  "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild. [...]",
-  "score": 30
- },
- {
   "title": "Coinbase says 99% of customer assets sit in cold storage after Binance’s $6.3 billion breach",
   "url": "https://www.theblock.co/news/ecosystems/2026-11-04-coinbase-security-cold-storage-binance-hack-432880",
   "source": "The Block",
   "published_at": "Wed, 04 Nov 2026 16:58:42 +0000",
   "summary": "Coinbase says 99% of customer assets are in cold storage and it wasn t affected by the $6.3 billion Binance hack.",
-  "score": 28
- },
- {
-  "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
-  "url": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
-  "source": "BleepingComputer",
-  "published_at": "Wed, 04 Nov 2026 14:05:19 -0500",
-  "summary": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers FTP/SFTP usernames and passwords. [...]",
-  "score": 28
- },
- {
-  "title": "Securing the agentic enterprise with data lineage",
-  "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-  "source": "MIT Technology Review",
-  "published_at": "Wed, 04 Nov 2026 13:00:00 +0000",
-  "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No ",
   "score": 28
  },
  {
@@ -94,14 +86,6 @@
   "published_at": "Wed, 04 Nov 2026 21:48:18 GMT",
   "summary": "An attacker could write arbitrary files and read sensitive files via images uploaded to the Rails Active Storage ImageMagick integration, possibly positioning a threat actor for lateral movement.",
   "score": 24
- },
- {
-  "title": "INDIA WARNS AI-POWERED HACKERS TARGETING CRYPTO EXCHANGES AT ‘MACHINE SPEED’",
-  "url": "https://www.tradingview.com/news/cointelegraph:10f9568c7094b:0-india-warns-ai-powered-hackers-targeting-crypto-exchanges-at-machine-speed/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-11-05T02:03:05Z",
-  "summary": "",
-  "score": 22
  },
  {
   "title": "Coinbase Says 99% of Customer Crypto Is Offline and Out of Hackers’ Reach",
@@ -120,43 +104,59 @@
   "score": 22
  },
  {
-  "title": "Binance Expands Proof of Reserves to 44 Tokens After Hack",
-  "url": "https://thedefiant.io/news/hacks/binance-expands-proof-of-reserves-to-44-tokens-after-hack",
-  "source": "The Defiant",
-  "published_at": "Wed, 04 Nov 2026 15:38:12 GMT",
-  "summary": "The exchange says it has replenished about 98% of affected assets, but the new cryptographic proof is unfinished and withdrawals are not fully reopened.",
-  "score": 22
+  "title": "Grounded but Not Immune: Confirmation Bias in Agent-as-a-judge",
+  "url": "https://arxiv.org/abs/2611.05662",
+  "source": "arXiv cs.AI",
+  "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
+  "summary": "arXiv:2611.05662v1 Announce Type: new Abstract: Evaluating open-ended agent tasks increasingly falls to an Agent-as-a-Judge: an evaluator handed tools and the agent s full trajectory so it can verify a result against the environment. The premise is that a judge that gathers its own evidence should b",
+  "score": 18
  },
  {
-  "title": "Paradise Lost: A simple honeypot that elicits reward hacking in GPT models",
-  "url": "https://www.lesswrong.com/posts/TmjnxNmHoYyfN79A9/paradise-lost-a-simple-honeypot-that-elicits-reward-hacking",
-  "source": "LessWrong",
-  "published_at": "Wed, 04 Nov 2026 13:03:58 GMT",
-  "summary": "TL;DR I built a simple honeypot where agents are told they re being tested on their ability to recall Milton s Paradise Lost. An exact copy of the reference text sits in an ordinary NLTK corpus on disk. GPT-6-Astra read the copy in 9/10 episodes. In 6 of these episodes it first tries to complete the",
-  "score": 22
+  "title": "Attributing Agent Failures to Their History Needs an Executed Counterfactual: Toward a Reporting Standard",
+  "url": "https://arxiv.org/abs/2611.05650",
+  "source": "arXiv cs.AI",
+  "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
+  "summary": "arXiv:2611.05650v1 Announce Type: new Abstract: Published explanations of why long-horizon agents fail are commonly taxonomies labeled over completed trajectories: a judge reads a transcript and names the failure. We argue that a claim attributing an agent s behavior to its history should carry inte",
+  "score": 18
  },
  {
-  "title": "THORChain s RUNE jumps 10% as North Korean hackers resume laundering Binance loot",
-  "url": "https://www.coindesk.com/markets/2026/11/04/thorchain-s-rune-jumps-10-as-north-korean-hackers-resume-laundering-binance-loot",
-  "source": "CoinDesk",
-  "published_at": "Wed, 04 Nov 2026 12:49:56 +0000",
-  "summary": "",
-  "score": 22
+  "title": "Assurance-Conditioned Continuous Authorization for Autonomous AI Agents",
+  "url": "https://arxiv.org/abs/2611.05632",
+  "source": "arXiv cs.AI",
+  "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
+  "summary": "arXiv:2611.05632v1 Announce Type: new Abstract: Autonomous software agents can act through tools, delegate work, and change their models or execution environments while earlier authorizations remain in flight. We present Assurance-Conditioned Continuous Authorization (ACCA), an approach designed to ",
+  "score": 18
  },
  {
-  "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
-  "url": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
-  "source": "BleepingComputer",
-  "published_at": "Wed, 04 Nov 2026 11:58:46 -0500",
-  "summary": "The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game s PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials and cryptocurrency wallet data. [...]",
-  "score": 22
+  "title": "Anduin: A sybil-resistant agentic marketplace reputation system",
+  "url": "https://arxiv.org/abs/2611.05586",
+  "source": "arXiv cs.AI",
+  "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
+  "summary": "arXiv:2611.05586v1 Announce Type: new Abstract: As autonomous AI agents enter permissionless onchain markets, selecting new service providers remains a core challenge. Existing reputation systems depend on scarce resources like human curation, identity credentials, or voluntary reviews, while naive ",
+  "score": 18
  },
  {
-  "title": "The Hallucinated Superagent",
-  "url": "https://www.lesswrong.com/posts/mC4GCxvPEoYL5iFzK/the-hallucinated-superagent",
-  "source": "LessWrong",
-  "published_at": "Wed, 04 Nov 2026 20:43:27 GMT",
-  "summary": "Written as a MATS extension fellow, mentored by Richard Ngo. [1] Agents manage their beliefs differently to non-agentic predictors. A key example of agent-specific belief management is hyperstition, which is a particular case of goal-models . Based on the idea that belief-management is an important ",
+  "title": "VirtualTrialHarness: Coordinating Agentic Operationalization of Virtual Trial Protocols Across Complex Clinical Schemas",
+  "url": "https://arxiv.org/abs/2611.05551",
+  "source": "arXiv cs.AI",
+  "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
+  "summary": "arXiv:2611.05551v1 Announce Type: new Abstract: Virtual trials use routinely collected clinical data to evaluate treatment strategies, but translating a study protocol into an executable analysis requires determining how clinical concepts and study requirements should be represented in the available",
+  "score": 18
+ },
+ {
+  "title": "TandemBench: Benchmarking Decision Models for Multi-Agent Collaboration",
+  "url": "https://arxiv.org/abs/2611.05827",
+  "source": "arXiv cs.CL",
+  "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
+  "summary": "arXiv:2611.05827v1 Announce Type: new Abstract: Decision models choose among predefined options in tasks such as routing and action selection. In multi-agent collaboration, a decision determines how members divide work, exchange resources, and act in parallel. We introduce TandemBench, a benchmark o",
+  "score": 18
+ },
+ {
+  "title": "RIDGE: State-Conditioned Reward Blending for Behavioral Coverage in Deep RL Game Agents",
+  "url": "https://arxiv.org/abs/2611.05601",
+  "source": "arXiv cs.LG",
+  "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
+  "summary": "arXiv:2611.05601v1 Announce Type: new Abstract: A deep RL agent trained on a fixed persona reward plays one way: an Explorer keeps exploring while starving, a Survivor hoards on an empty map. Since each persona fixes its own reward, automated playtesting trains N agents for N styles. Changing reward",
   "score": 18
  }
 ]
