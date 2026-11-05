@@ -8,6 +8,14 @@
   "score": 52
  },
  {
+  "title": "Mercado Bitcoin hack continued hours after exchange said attack was contained, report finds",
+  "url": "https://www.coindesk.com/business/2026/11/05/mercado-bitcoin-hack-continued-hours-after-exchange-said-attack-was-contained-report-finds",
+  "source": "CoinDesk",
+  "published_at": "Thu, 05 Nov 2026 10:44:54 +0000",
+  "summary": "",
+  "score": 34
+ },
+ {
   "title": "Route to Remember: Adaptive Memory Selection for LLM Agents",
   "url": "https://arxiv.org/abs/2611.05636",
   "source": "arXiv cs.AI",
@@ -48,36 +56,28 @@
   "score": 34
  },
  {
-  "title": "Bitcoin rebounds past $80,000 as markets shrug off midterms and Binance hack",
-  "url": "https://www.theblock.co/news/markets/2026-11-04-bitcoin-price-midterm-elections-binance-hack-recovery-433030",
-  "source": "The Block",
-  "published_at": "Wed, 04 Nov 2026 20:09:58 +0000",
-  "summary": "Bitcoin rose 3.5% to $80,500 and ether jumped 6% after Democrats won Congress, while Bitwise says the Binance hack had limited market impact.",
-  "score": 34
+  "title": "Google could take stake in bitcoin miner TeraWulf’s $19 billion AI project if Anthropic defaults",
+  "url": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults",
+  "source": "CoinDesk",
+  "published_at": "Thu, 05 Nov 2026 13:29:40 +0000",
+  "summary": "",
+  "score": 26
  },
  {
-  "title": "Coinbase says 99% of customer assets sit in cold storage after Binance’s $6.3 billion breach",
-  "url": "https://www.theblock.co/news/ecosystems/2026-11-04-coinbase-security-cold-storage-binance-hack-432880",
-  "source": "The Block",
-  "published_at": "Wed, 04 Nov 2026 16:58:42 +0000",
-  "summary": "Coinbase says 99% of customer assets are in cold storage and it wasn t affected by the $6.3 billion Binance hack.",
-  "score": 28
+  "title": "Bitcoin miner Riot could pay Anthropic 12% interest under $28 billion AI deal",
+  "url": "https://www.coindesk.com/tech/2026/11/05/bitcoin-miner-riot-could-pay-anthropic-12-interest-under-usd28-billion-ai-deal",
+  "source": "CoinDesk",
+  "published_at": "Thu, 05 Nov 2026 09:36:32 +0000",
+  "summary": "",
+  "score": 26
  },
  {
-  "title": "Critical Rails Bug Threatens to Derail Vulnerable Servers",
-  "url": "https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers",
-  "source": "Dark Reading",
-  "published_at": "Wed, 04 Nov 2026 21:48:18 GMT",
-  "summary": "An attacker could write arbitrary files and read sensitive files via images uploaded to the Rails Active Storage ImageMagick integration, possibly positioning a threat actor for lateral movement.",
+  "title": "OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability",
+  "url": "https://hachyderm.io/@damienmiller/117563026759098135",
+  "source": "Hacker News Frontpage",
+  "published_at": "Thu, 05 Nov 2026 09:46:17 +0000",
+  "summary": "Comments URL: Points: 7",
   "score": 24
- },
- {
-  "title": "Coinbase Says 99% of Customer Crypto Is Offline and Out of Hackers’ Reach",
-  "url": "https://decrypt.co/382570/coinbase-99-percent-customer-crypto-offline-binance-hack",
-  "source": "Decrypt",
-  "published_at": "Wed, 04 Nov 2026 20:46:03 +0000",
-  "summary": "Coinbase told customers it wasn’t affected by the $6.4 billion Binance hack and detailed its security controls, including offline storage for over 99% of assets, split private keys and kill switches.",
-  "score": 22
  },
  {
   "title": "Grounded but Not Immune: Confirmation Bias in Agent-as-a-judge",
@@ -136,27 +136,27 @@
   "score": 18
  },
  {
-  "title": "The Hallucinated Superagent",
-  "url": "https://www.lesswrong.com/posts/mC4GCxvPEoYL5iFzK/the-hallucinated-superagent",
-  "source": "LessWrong",
-  "published_at": "Wed, 04 Nov 2026 20:43:27 GMT",
-  "summary": "Written as a MATS extension fellow, mentored by Richard Ngo. [1] Agents manage their beliefs differently to non-agentic predictors. A key example of agent-specific belief management is hyperstition, which is a particular case of goal-models . Based on the idea that belief-management is an important ",
-  "score": 18
+  "title": "Verified but Vacuous: Three Failure Surfaces of LLM-Driven Verified Code Generation",
+  "url": "https://arxiv.org/abs/2611.05590",
+  "source": "arXiv cs.AI",
+  "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
+  "summary": "arXiv:2611.05590v1 Announce Type: new Abstract: What should verified mean when evaluating LLM-generated code? Many existing pipelines report a single verification number. We argue this collapses three distinct properties measured in a conditional audit sequence: verifier acceptance (Surface A), \\emp",
+  "score": 16
  },
  {
-  "title": "US Bank Regulator Issues First AI Framework as Banks Battle Rogue Agents",
-  "url": "https://decrypt.co/382560/us-bank-regulator-issues-first-ai-framework-banks-battle-rogue-agents",
-  "source": "Decrypt",
-  "published_at": "Wed, 04 Nov 2026 19:57:18 +0000",
-  "summary": "The OCC s first examiner guide weighs autonomy and financial harm, and directly addresses outside AI agents—the same risk that recently prompted major banks to restrict customer-account access.",
-  "score": 18
+  "title": "AGORA: Reliability-Aware Aggregation of LLM Judges via Item-Response Theory",
+  "url": "https://arxiv.org/abs/2611.05556",
+  "source": "arXiv cs.AI",
+  "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
+  "summary": "arXiv:2611.05556v1 Announce Type: new Abstract: LLM-as-a-judge is a common substitute for costly human evaluation, and aggregating several judges is the standard remedy for any single judge s bias. Judge pools mix judges of very different reliability, while the human-labeled sets that validate them ",
+  "score": 16
  },
  {
-  "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-  "url": "https://www.ricursive.com/ripple",
-  "source": "Hacker News Frontpage",
-  "published_at": "Wed, 04 Nov 2026 18:53:29 +0000",
-  "summary": "Comments URL: Points: 289",
-  "score": 18
+  "title": "Understanding the Out-of-Distribution Generalization of Chain-of-Thought Reasoning in LLMs",
+  "url": "https://arxiv.org/abs/2611.06438",
+  "source": "arXiv stat.ML",
+  "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
+  "summary": "arXiv:2611.06438v1 Announce Type: cross Abstract: Chain-of-Thought (CoT) reasoning substantially improves Large Language Models (LLMs), yet its out-of-distribution (OOD) generalization mechanism remains theoretically underexplored. We study CoT as compositional OOD generalization: the target task la",
+  "score": 16
  }
 ]
