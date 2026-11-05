@@ -1,12 +1,28 @@
 {
  "picks": [
   {
-   "title": "Hackers exploited iOS and Android flaws to infect phones",
-   "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
-   "source": "Ars Technica",
-   "published_at": "Wed, 04 Nov 2026 22:26:49 +0000",
-   "summary": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
-   "score": 74
+   "title": "Hackers backdoor Linux servers using trojanized CWP web server",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
+   "source": "BleepingComputer",
+   "published_at": "Thu, 05 Nov 2026 11:24:26 -0500",
+   "summary": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]",
+   "score": 64
+  },
+  {
+   "title": "Floki Takes Trading Bot Offline Amid Exploit Investigation",
+   "url": "https://thedefiant.io/news/security/floki-takes-trading-bot-offline-amid-exploit-investigation",
+   "source": "The Defiant",
+   "published_at": "Thu, 05 Nov 2026 17:17:51 GMT",
+   "summary": "The team plans to move affected users to new wallets and warns against further deposits into bot wallets.",
+   "score": 40
+  },
+  {
+   "title": "DigiCert data breach exposes customer information, identity documents",
+   "url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
+   "source": "BleepingComputer",
+   "published_at": "Thu, 05 Nov 2026 11:12:46 -0500",
+   "summary": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents. [...]",
+   "score": 38
   },
   {
    "title": "OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability",
@@ -17,6 +33,14 @@
    "score": 38
   },
   {
+   "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist",
+   "url": "https://www.coindesk.com/business/2026/11/05/what-is-tradertraitor-the-hacking-squad-behind-the-usd6-3-billion-binance-heist",
+   "source": "CoinDesk",
+   "published_at": "Thu, 05 Nov 2026 16:58:21 +0000",
+   "summary": "",
+   "score": 34
+  },
+  {
    "title": "Mercado Bitcoin hack continued hours after exchange said attack was contained, report finds",
    "url": "https://www.coindesk.com/business/2026/11/05/mercado-bitcoin-hack-continued-hours-after-exchange-said-attack-was-contained-report-finds",
    "source": "CoinDesk",
@@ -25,12 +49,12 @@
    "score": 34
   },
   {
-   "title": "Mercado Bitcoin Plans View-Only Reopening on Nov. 9 After Hack",
-   "url": "https://thedefiant.io/news/hacks/mercado-bitcoin-plans-view-only-reopening-on-nov-9-after-hack",
-   "source": "The Defiant",
-   "published_at": "Wed, 04 Nov 2026 23:36:50 GMT",
-   "summary": "The exchange says it will use company funds to replace affected assets, while withdrawals and trading await security clearance.",
-   "score": 34
+   "title": "Adversarial Training Can Further Hide a Backdoor, but Does It Improve Trigger Identification?",
+   "url": "https://www.lesswrong.com/posts/uKFrPK2oQo8LECrbh/adversarial-training-can-further-hide-a-backdoor-but-does-it",
+   "source": "LessWrong",
+   "published_at": "Thu, 05 Nov 2026 17:18:41 GMT",
+   "summary": "Summary The Sleeper Agents paper demonstrated that adversarial training on red-team prompts failed to remove a planted backdoor. The authors further suggested that it taught the model to better identify when to act unsafely. This would pose a significant danger, as a standard safety practice would b",
+   "score": 30
   },
   {
    "title": "The pile of lawsuits against Kalshi just grew by one",
@@ -39,6 +63,22 @@
    "published_at": "Thu, 05 Nov 2026 05:28:52 +0000",
    "summary": "",
    "score": 18
+  },
+  {
+   "title": "Hollywood Studios Quietly Ban Staff From Betting on Prediction Markets: Report",
+   "url": "https://decrypt.co/382626/hollywood-studios-quietly-ban-staff-from-betting-on-prediction-markets-report",
+   "source": "Decrypt",
+   "published_at": "Thu, 05 Nov 2026 17:31:10 +0000",
+   "summary": "Employees are being told not to bet on casting news, release dates or earnings, though experts say the rules will be hard to enforce.",
+   "score": 16
+  },
+  {
+   "title": "Qualcomm Tests High Bandwidth Compute Silicon Ahead of AI250 Sampling",
+   "url": "https://www.hpcwire.com/off-the-wire/qualcomm-tests-high-bandwidth-compute-silicon-ahead-of-ai250-sampling/",
+   "source": "HPCwire",
+   "published_at": "Thu, 05 Nov 2026 16:07:47 +0000",
+   "summary": "First-generation Qualcomm High Bandwidth Compute silicon has completed hardware validation, demonstrating the bandwidth and energy-efficiency advantages needed to reshape AI infrastructure economics Nov. 5, 2026 — Qualcomm Technologies is advancing AI inference with first-generation Qualcomm High Ba",
+   "score": 16
   },
   {
    "title": "Congresswoman calls for artificial superintelligence ban after Democrats seismic midterm sweep",
@@ -55,47 +95,7 @@
    "published_at": "Thu, 05 Nov 2026 12:50:57 +0000",
    "summary": "",
    "score": 16
-  },
-  {
-   "title": "Anthropic loosens Claude s game cloning ban — AI will now offer to build original games in the requested genre",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-loosens-game-restrictions-claude-will-now-offer-to-build-original-game-in-same-genre-if-asked-to-copy",
-   "source": "Tom's Hardware",
-   "published_at": "Thu, 05 Nov 2026 11:00:00 +0000",
-   "summary": "The update is expected to reduce false positives and allow game developers to use the tool for their own legitimate projects without getting blocked.",
-   "score": 16
-  },
-  {
-   "title": "SUPERMICRO LAUNCHES KV CACHE SOLUTION WITH IBM AND NVIDIA DEMONSTRATING SIGNIFICANT INFERENCE PERFORMANCE BENEFITS.",
-   "url": "https://x.com/financialjuice/status/2118344104572551516",
-   "source": "MarketNewsFeed [STOCKS]",
-   "published_at": "2026-11-05T14:06:14Z",
-   "summary": "",
-   "score": 10
-  },
-  {
-   "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-   "url": "https://huggingface.co/blog/phonon-tts",
-   "source": "Hugging Face Blog",
-   "published_at": "Thu, 05 Nov 2026 00:00:00 GMT",
-   "summary": "",
-   "score": 10
-  },
-  {
-   "title": "Zlib 1.4 Released With More Than One Dozen Security Fixes",
-   "url": "https://www.phoronix.com/news/Zlib-1.4-Released",
-   "source": "Phoronix",
-   "published_at": "Thu, 05 Nov 2026 09:11:33 -0500",
-   "summary": "Zlib 1.4 is now available for this widely-used compression library. In these AI times, Zlib 1.4 ships with more than a dozen security fixes...",
-   "score": 8
-  },
-  {
-   "title": "Fitting AI Models To Edge Applications",
-   "url": "https://semiengineering.com/fitting-ai-models-to-edge-applications/",
-   "source": "SemiEngineering",
-   "published_at": "Thu, 05 Nov 2026 08:04:08 +0000",
-   "summary": "Key Takeaways: The first step in right-sizing an AI model for an embedded application is determining its purpose, including the target device functions and product features. Designers typically use a mix of compression techniques rather than a single method. Strategies include quantization, distilla",
-   "score": 8
   }
  ],
- "updatedAt": "2026-11-05T14:21:56.450968+00:00"
+ "updatedAt": "2026-11-05T17:50:10.076547+00:00"
 }

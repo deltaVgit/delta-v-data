@@ -1,13 +1,5 @@
 [
  {
-  "title": "Hackers exploited iOS and Android flaws to infect phones",
-  "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
-  "source": "Ars Technica",
-  "published_at": "Wed, 04 Nov 2026 22:26:49 +0000",
-  "summary": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
-  "score": 52
- },
- {
   "title": "Mercado Bitcoin hack continued hours after exchange said attack was contained, report finds",
   "url": "https://www.coindesk.com/business/2026/11/05/mercado-bitcoin-hack-continued-hours-after-exchange-said-attack-was-contained-report-finds",
   "source": "CoinDesk",
@@ -48,12 +40,20 @@
   "score": 34
  },
  {
-  "title": "Mercado Bitcoin Plans View-Only Reopening on Nov. 9 After Hack",
-  "url": "https://thedefiant.io/news/hacks/mercado-bitcoin-plans-view-only-reopening-on-nov-9-after-hack",
+  "title": "Floki Takes Trading Bot Offline Amid Exploit Investigation",
+  "url": "https://thedefiant.io/news/security/floki-takes-trading-bot-offline-amid-exploit-investigation",
   "source": "The Defiant",
-  "published_at": "Wed, 04 Nov 2026 23:36:50 GMT",
-  "summary": "The exchange says it will use company funds to replace affected assets, while withdrawals and trading await security clearance.",
-  "score": 34
+  "published_at": "Thu, 05 Nov 2026 17:17:51 GMT",
+  "summary": "The team plans to move affected users to new wallets and warns against further deposits into bot wallets.",
+  "score": 30
+ },
+ {
+  "title": "DigiCert data breach exposes customer information, identity documents",
+  "url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
+  "source": "BleepingComputer",
+  "published_at": "Thu, 05 Nov 2026 11:12:46 -0500",
+  "summary": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents. [...]",
+  "score": 28
  },
  {
   "title": "Google could take stake in bitcoin miner TeraWulf’s $19 billion AI project if Anthropic defaults",
@@ -72,12 +72,44 @@
   "score": 26
  },
  {
+  "title": "BITCOIN PLUNGES TO $76,000, ETHEREUM, XRP, DOGECOIN DROP 5% ON $500M IN LIQUIDATIONS",
+  "url": "https://www.tradingview.com/news/benzinga:c81ba6e22094b:0-bitcoin-plunges-to-76-000-ethereum-xrp-dogecoin-drop-5-on-500m-in-liquidations/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-11-05T17:19:58Z",
+  "summary": "",
+  "score": 24
+ },
+ {
   "title": "OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability",
   "url": "https://hachyderm.io/@damienmiller/117563026759098135",
   "source": "Hacker News Frontpage",
   "published_at": "Thu, 05 Nov 2026 09:46:17 +0000",
   "summary": "Comments URL: Points: 7",
   "score": 24
+ },
+ {
+  "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist",
+  "url": "https://www.coindesk.com/business/2026/11/05/what-is-tradertraitor-the-hacking-squad-behind-the-usd6-3-billion-binance-heist",
+  "source": "CoinDesk",
+  "published_at": "Thu, 05 Nov 2026 16:58:21 +0000",
+  "summary": "",
+  "score": 22
+ },
+ {
+  "title": "Hackers backdoor Linux servers using trojanized CWP web server",
+  "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
+  "source": "BleepingComputer",
+  "published_at": "Thu, 05 Nov 2026 11:24:26 -0500",
+  "summary": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]",
+  "score": 22
+ },
+ {
+  "title": "Building a Multi-Agent System from Scratch: Architecture Patterns",
+  "url": "https://kadhar.dev/blog/multi-agent-systems-from-scratch",
+  "source": "Hacker News Frontpage",
+  "published_at": "Thu, 05 Nov 2026 15:51:57 +0000",
+  "summary": "Comments URL: Points: 23",
+  "score": 18
  },
  {
   "title": "Grounded but Not Immune: Confirmation Bias in Agent-as-a-judge",
@@ -126,37 +158,5 @@
   "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
   "summary": "arXiv:2611.05827v1 Announce Type: new Abstract: Decision models choose among predefined options in tasks such as routing and action selection. In multi-agent collaboration, a decision determines how members divide work, exchange resources, and act in parallel. We introduce TandemBench, a benchmark o",
   "score": 18
- },
- {
-  "title": "RIDGE: State-Conditioned Reward Blending for Behavioral Coverage in Deep RL Game Agents",
-  "url": "https://arxiv.org/abs/2611.05601",
-  "source": "arXiv cs.LG",
-  "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
-  "summary": "arXiv:2611.05601v1 Announce Type: new Abstract: A deep RL agent trained on a fixed persona reward plays one way: an Explorer keeps exploring while starving, a Survivor hoards on an empty map. Since each persona fixes its own reward, automated playtesting trains N agents for N styles. Changing reward",
-  "score": 18
- },
- {
-  "title": "Verified but Vacuous: Three Failure Surfaces of LLM-Driven Verified Code Generation",
-  "url": "https://arxiv.org/abs/2611.05590",
-  "source": "arXiv cs.AI",
-  "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
-  "summary": "arXiv:2611.05590v1 Announce Type: new Abstract: What should verified mean when evaluating LLM-generated code? Many existing pipelines report a single verification number. We argue this collapses three distinct properties measured in a conditional audit sequence: verifier acceptance (Surface A), \\emp",
-  "score": 16
- },
- {
-  "title": "AGORA: Reliability-Aware Aggregation of LLM Judges via Item-Response Theory",
-  "url": "https://arxiv.org/abs/2611.05556",
-  "source": "arXiv cs.AI",
-  "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
-  "summary": "arXiv:2611.05556v1 Announce Type: new Abstract: LLM-as-a-judge is a common substitute for costly human evaluation, and aggregating several judges is the standard remedy for any single judge s bias. Judge pools mix judges of very different reliability, while the human-labeled sets that validate them ",
-  "score": 16
- },
- {
-  "title": "Understanding the Out-of-Distribution Generalization of Chain-of-Thought Reasoning in LLMs",
-  "url": "https://arxiv.org/abs/2611.06438",
-  "source": "arXiv stat.ML",
-  "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
-  "summary": "arXiv:2611.06438v1 Announce Type: cross Abstract: Chain-of-Thought (CoT) reasoning substantially improves Large Language Models (LLMs), yet its out-of-distribution (OOD) generalization mechanism remains theoretically underexplored. We study CoT as compositional OOD generalization: the target task la",
-  "score": 16
  }
 ]
