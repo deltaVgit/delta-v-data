@@ -9,6 +9,14 @@
    "score": 64
   },
   {
+   "title": "OpenAI Found 948 Linux Security Flaws—And Figured Out How to Exploit Them",
+   "url": "https://decrypt.co/382632/openai-linux-security-flaws-exploit",
+   "source": "Decrypt",
+   "published_at": "Thu, 05 Nov 2026 19:16:03 +0000",
+   "summary": "An automated OpenAI system produced working exploits and draft fixes at roughly $1,279 per flaw, raising new questions about how cheaply AI can find holes in critical software at scale.",
+   "score": 40
+  },
+  {
    "title": "Floki Takes Trading Bot Offline Amid Exploit Investigation",
    "url": "https://thedefiant.io/news/security/floki-takes-trading-bot-offline-amid-exploit-investigation",
    "source": "The Defiant",
@@ -33,6 +41,14 @@
    "score": 38
   },
   {
+   "title": "Mercado Bitcoin Said Its Hack Was Contained, But Blockchain Data Tells a Different Story",
+   "url": "https://decrypt.co/382670/mercado-bitcoin-hack-contained-blockchain-data",
+   "source": "Decrypt",
+   "published_at": "Thu, 05 Nov 2026 20:16:03 +0000",
+   "summary": "Fresh forensic analysis traces $48.6 million across 11 blockchains and finds thousands of customer deposit addresses drained hours after the Brazilian exchange said it had stopped the breach on Monday.",
+   "score": 34
+  },
+  {
    "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist",
    "url": "https://www.coindesk.com/business/2026/11/05/what-is-tradertraitor-the-hacking-squad-behind-the-usd6-3-billion-binance-heist",
    "source": "CoinDesk",
@@ -49,6 +65,14 @@
    "score": 34
   },
   {
+   "title": "Gauntlet Restricts V1 Vault Deposits After Reported op-reth Vulnerability",
+   "url": "https://thedefiant.io/news/defi/gauntlet-restricts-v1-vault-deposits-after-reported-op-reth-vulnerability",
+   "source": "The Defiant",
+   "published_at": "Thu, 05 Nov 2026 17:51:32 GMT",
+   "summary": "The risk curator is also pausing allocations and reducing LayerZero-bridged asset exposure, while saying no exploit has been reported to its knowledge.",
+   "score": 30
+  },
+  {
    "title": "Adversarial Training Can Further Hide a Backdoor, but Does It Improve Trigger Identification?",
    "url": "https://www.lesswrong.com/posts/uKFrPK2oQo8LECrbh/adversarial-training-can-further-hide-a-backdoor-but-does-it",
    "source": "LessWrong",
@@ -57,45 +81,21 @@
    "score": 30
   },
   {
-   "title": "The pile of lawsuits against Kalshi just grew by one",
-   "url": "https://www.coindesk.com/policy/2026/11/05/the-pile-of-lawsuits-against-kalshi-just-grew-by-one",
-   "source": "CoinDesk",
-   "published_at": "Thu, 05 Nov 2026 05:28:52 +0000",
+   "title": "JUST IN: BINANCE AND FOUNDER CZ SUBPOENA SHARK TANK'S KEVIN O'LEARY IN $1.76 BILLION FTX LAWSUIT.",
+   "url": "https://x.com/WatcherGuru/status/2118432353307504870",
+   "source": "MarketNewsFeed [CRYPTO]",
+   "published_at": "2026-11-05T19:57:09Z",
    "summary": "",
    "score": 18
   },
   {
-   "title": "Hollywood Studios Quietly Ban Staff From Betting on Prediction Markets: Report",
-   "url": "https://decrypt.co/382626/hollywood-studios-quietly-ban-staff-from-betting-on-prediction-markets-report",
-   "source": "Decrypt",
-   "published_at": "Thu, 05 Nov 2026 17:31:10 +0000",
-   "summary": "Employees are being told not to bet on casting news, release dates or earnings, though experts say the rules will be hard to enforce.",
-   "score": 16
-  },
-  {
-   "title": "Qualcomm Tests High Bandwidth Compute Silicon Ahead of AI250 Sampling",
-   "url": "https://www.hpcwire.com/off-the-wire/qualcomm-tests-high-bandwidth-compute-silicon-ahead-of-ai250-sampling/",
-   "source": "HPCwire",
-   "published_at": "Thu, 05 Nov 2026 16:07:47 +0000",
-   "summary": "First-generation Qualcomm High Bandwidth Compute silicon has completed hardware validation, demonstrating the bandwidth and energy-efficiency advantages needed to reshape AI infrastructure economics Nov. 5, 2026 — Qualcomm Technologies is advancing AI inference with first-generation Qualcomm High Ba",
-   "score": 16
-  },
-  {
-   "title": "Congresswoman calls for artificial superintelligence ban after Democrats seismic midterm sweep",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/congresswoman-calls-for-artificial-superintelligence-ban-after-democrats-seismic-midterm-sweep-demands-regulation-of-out-of-control-industry-and-pause-on-advanced-ai",
-   "source": "Tom's Hardware",
-   "published_at": "Thu, 05 Nov 2026 13:30:16 +0000",
-   "summary": "Rep. Yassamin Ansari of Arizona is asking her party to focus on AI issues.",
-   "score": 16
-  },
-  {
-   "title": "Ukraine’s central bank opposes crypto bill, citing monetary sovereignty concerns",
-   "url": "https://www.coindesk.com/business/2026/11/05/ukraine-s-central-bank-opposes-crypto-bill-citing-monetary-sovereignty-concerns",
-   "source": "CoinDesk",
-   "published_at": "Thu, 05 Nov 2026 12:50:57 +0000",
-   "summary": "",
+   "title": "Is it better to directly or indirectly ban ASI?",
+   "url": "https://www.lesswrong.com/posts/R3xWw6baZSKZMk8et/is-it-better-to-directly-or-indirectly-ban-asi",
+   "source": "LessWrong",
+   "published_at": "Thu, 05 Nov 2026 18:59:59 GMT",
+   "summary": "Senator Bernie Sanders has proposed directly banning development of ASI . Given the current scientific understanding of AI alignment, it is highly sensible to ban ASI and then consider revoking this ban if future scientific breakthroughs (e.g., “solving interp”) make it possible to safely develop AS",
    "score": 16
   }
  ],
- "updatedAt": "2026-11-05T17:50:10.076547+00:00"
+ "updatedAt": "2026-11-05T21:13:22.965966+00:00"
 }
