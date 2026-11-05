@@ -1,6 +1,14 @@
 {
  "picks": [
   {
+   "title": "Hackers exploited iOS and Android flaws to infect phones",
+   "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
+   "source": "Ars Technica",
+   "published_at": "Wed, 04 Nov 2026 22:26:49 +0000",
+   "summary": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
+   "score": 74
+  },
+  {
    "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
    "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
    "source": "BleepingComputer",
@@ -41,14 +49,6 @@
    "score": 40
   },
   {
-   "title": "GITBOOK CONFIRMS INFRASTRUCTURE BREACH BEHIND DOCUMENTATION INCIDENT; TRADE.XYZ SAYS ITS SYSTEMS WERE UNAFFECTED",
-   "url": "http://TRADE.XYZ/",
-   "source": "MarketNewsFeed [OTHER]",
-   "published_at": "2026-11-04T23:24:00Z",
-   "summary": "",
-   "score": 38
-  },
-  {
    "title": "Coinbase says 99% of customer assets sit in cold storage after Binance’s $6.3 billion breach",
    "url": "https://www.theblock.co/news/ecosystems/2026-11-04-coinbase-security-cold-storage-binance-hack-432880",
    "source": "The Block",
@@ -65,6 +65,22 @@
    "score": 38
   },
   {
+   "title": "INDIA WARNS AI-POWERED HACKERS TARGETING CRYPTO EXCHANGES AT ‘MACHINE SPEED’",
+   "url": "https://www.tradingview.com/news/cointelegraph:10f9568c7094b:0-india-warns-ai-powered-hackers-targeting-crypto-exchanges-at-machine-speed/",
+   "source": "MarketNewsFeed [CRYPTO]",
+   "published_at": "2026-11-05T02:03:05Z",
+   "summary": "",
+   "score": 34
+  },
+  {
+   "title": "Mercado Bitcoin Plans View-Only Reopening on Nov. 9 After Hack",
+   "url": "https://thedefiant.io/news/hacks/mercado-bitcoin-plans-view-only-reopening-on-nov-9-after-hack",
+   "source": "The Defiant",
+   "published_at": "Wed, 04 Nov 2026 23:36:50 GMT",
+   "summary": "The exchange says it will use company funds to replace affected assets, while withdrawals and trading await security clearance.",
+   "score": 34
+  },
+  {
    "title": "Coinbase Says 99% of Customer Crypto Is Offline and Out of Hackers’ Reach",
    "url": "https://decrypt.co/382570/coinbase-99-percent-customer-crypto-offline-binance-hack",
    "source": "Decrypt",
@@ -79,23 +95,7 @@
    "published_at": "Wed, 04 Nov 2026 20:09:58 +0000",
    "summary": "Bitcoin rose 3.5% to $80,500 and ether jumped 6% after Democrats won Congress, while Bitwise says the Binance hack had limited market impact.",
    "score": 34
-  },
-  {
-   "title": "Privacy Cash Pauses Deposits After Binance Hack",
-   "url": "https://thedefiant.io/news/defi/privacy-cash-pauses-deposits-after-binance-hack",
-   "source": "The Defiant",
-   "published_at": "Wed, 04 Nov 2026 16:39:50 GMT",
-   "summary": "Elliptic traced about $1.2 million in theft-linked ETH and SOL into its pools; the team says withdrawals remain open.",
-   "score": 34
-  },
-  {
-   "title": "Binance Expands Proof of Reserves to 44 Tokens After Hack",
-   "url": "https://thedefiant.io/news/hacks/binance-expands-proof-of-reserves-to-44-tokens-after-hack",
-   "source": "The Defiant",
-   "published_at": "Wed, 04 Nov 2026 15:38:12 GMT",
-   "summary": "The exchange says it has replenished about 98% of affected assets, but the new cryptographic proof is unfinished and withdrawals are not fully reopened.",
-   "score": 34
   }
  ],
- "updatedAt": "2026-11-04T23:46:02.662209+00:00"
+ "updatedAt": "2026-11-05T02:52:14.923325+00:00"
 }

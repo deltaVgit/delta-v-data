@@ -8,12 +8,28 @@
   "score": 54
  },
  {
+  "title": "Hackers exploited iOS and Android flaws to infect phones",
+  "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
+  "source": "Ars Technica",
+  "published_at": "Wed, 04 Nov 2026 22:26:49 +0000",
+  "summary": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
+  "score": 52
+ },
+ {
   "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
   "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
   "source": "BleepingComputer",
   "published_at": "Wed, 04 Nov 2026 15:58:19 -0500",
   "summary": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]",
   "score": 52
+ },
+ {
+  "title": "Mercado Bitcoin Plans View-Only Reopening on Nov. 9 After Hack",
+  "url": "https://thedefiant.io/news/hacks/mercado-bitcoin-plans-view-only-reopening-on-nov-9-after-hack",
+  "source": "The Defiant",
+  "published_at": "Wed, 04 Nov 2026 23:36:50 GMT",
+  "summary": "The exchange says it will use company funds to replace affected assets, while withdrawals and trading await security clearance.",
+  "score": 34
  },
  {
   "title": "Bitcoin rebounds past $80,000 as markets shrug off midterms and Binance hack",
@@ -48,14 +64,6 @@
   "score": 30
  },
  {
-  "title": "GITBOOK CONFIRMS INFRASTRUCTURE BREACH BEHIND DOCUMENTATION INCIDENT; TRADE.XYZ SAYS ITS SYSTEMS WERE UNAFFECTED",
-  "url": "http://TRADE.XYZ/",
-  "source": "MarketNewsFeed [OTHER]",
-  "published_at": "2026-11-04T23:24:00Z",
-  "summary": "",
-  "score": 28
- },
- {
   "title": "Coinbase says 99% of customer assets sit in cold storage after Binance’s $6.3 billion breach",
   "url": "https://www.theblock.co/news/ecosystems/2026-11-04-coinbase-security-cold-storage-binance-hack-432880",
   "source": "The Block",
@@ -86,6 +94,14 @@
   "published_at": "Wed, 04 Nov 2026 21:48:18 GMT",
   "summary": "An attacker could write arbitrary files and read sensitive files via images uploaded to the Rails Active Storage ImageMagick integration, possibly positioning a threat actor for lateral movement.",
   "score": 24
+ },
+ {
+  "title": "INDIA WARNS AI-POWERED HACKERS TARGETING CRYPTO EXCHANGES AT ‘MACHINE SPEED’",
+  "url": "https://www.tradingview.com/news/cointelegraph:10f9568c7094b:0-india-warns-ai-powered-hackers-targeting-crypto-exchanges-at-machine-speed/",
+  "source": "MarketNewsFeed [CRYPTO]",
+  "published_at": "2026-11-05T02:03:05Z",
+  "summary": "",
+  "score": 22
  },
  {
   "title": "Coinbase Says 99% of Customer Crypto Is Offline and Out of Hackers’ Reach",
@@ -141,22 +157,6 @@
   "source": "LessWrong",
   "published_at": "Wed, 04 Nov 2026 20:43:27 GMT",
   "summary": "Written as a MATS extension fellow, mentored by Richard Ngo. [1] Agents manage their beliefs differently to non-agentic predictors. A key example of agent-specific belief management is hyperstition, which is a particular case of goal-models . Based on the idea that belief-management is an important ",
-  "score": 18
- },
- {
-  "title": "US Bank Regulator Issues First AI Framework as Banks Battle Rogue Agents",
-  "url": "https://decrypt.co/382560/us-bank-regulator-issues-first-ai-framework-banks-battle-rogue-agents",
-  "source": "Decrypt",
-  "published_at": "Wed, 04 Nov 2026 19:57:18 +0000",
-  "summary": "The OCC s first examiner guide weighs autonomy and financial harm, and directly addresses outside AI agents—the same risk that recently prompted major banks to restrict customer-account access.",
-  "score": 18
- },
- {
-  "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-  "url": "https://www.ricursive.com/ripple",
-  "source": "Hacker News Frontpage",
-  "published_at": "Wed, 04 Nov 2026 18:53:29 +0000",
-  "summary": "Comments URL: Points: 185",
   "score": 18
  }
 ]
