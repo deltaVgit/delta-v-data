@@ -8,22 +8,6 @@
   "score": 52
  },
  {
-  "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
-  "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
-  "source": "BleepingComputer",
-  "published_at": "Wed, 04 Nov 2026 15:58:19 -0500",
-  "summary": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]",
-  "score": 52
- },
- {
-  "title": "MERCADO BITCOIN ESTIMATES HACK LOSSES AT $46 MILLION, VOWS FULL CUSTOMER REIMBURSEMENT",
-  "url": "https://www.tradingview.com/news/bloomingbit:c661c2a61094b:0-mercado-bitcoin-estimates-hack-losses-at-46-million-vows-full-customer-reimbursement/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-11-05T05:37:44Z",
-  "summary": "",
-  "score": 34
- },
- {
   "title": "Route to Remember: Adaptive Memory Selection for LLM Agents",
   "url": "https://arxiv.org/abs/2611.05636",
   "source": "arXiv cs.AI",
@@ -96,14 +80,6 @@
   "score": 22
  },
  {
-  "title": "Privacy Cash Pauses Deposits After Binance Hack",
-  "url": "https://thedefiant.io/news/defi/privacy-cash-pauses-deposits-after-binance-hack",
-  "source": "The Defiant",
-  "published_at": "Wed, 04 Nov 2026 16:39:50 GMT",
-  "summary": "Elliptic traced about $1.2 million in theft-linked ETH and SOL into its pools; the team says withdrawals remain open.",
-  "score": 22
- },
- {
   "title": "Grounded but Not Immune: Confirmation Bias in Agent-as-a-judge",
   "url": "https://arxiv.org/abs/2611.05662",
   "source": "arXiv cs.AI",
@@ -157,6 +133,30 @@
   "source": "arXiv cs.LG",
   "published_at": "Thu, 05 Nov 2026 00:00:00 -0500",
   "summary": "arXiv:2611.05601v1 Announce Type: new Abstract: A deep RL agent trained on a fixed persona reward plays one way: an Explorer keeps exploring while starving, a Survivor hoards on an empty map. Since each persona fixes its own reward, automated playtesting trains N agents for N styles. Changing reward",
+  "score": 18
+ },
+ {
+  "title": "The Hallucinated Superagent",
+  "url": "https://www.lesswrong.com/posts/mC4GCxvPEoYL5iFzK/the-hallucinated-superagent",
+  "source": "LessWrong",
+  "published_at": "Wed, 04 Nov 2026 20:43:27 GMT",
+  "summary": "Written as a MATS extension fellow, mentored by Richard Ngo. [1] Agents manage their beliefs differently to non-agentic predictors. A key example of agent-specific belief management is hyperstition, which is a particular case of goal-models . Based on the idea that belief-management is an important ",
+  "score": 18
+ },
+ {
+  "title": "US Bank Regulator Issues First AI Framework as Banks Battle Rogue Agents",
+  "url": "https://decrypt.co/382560/us-bank-regulator-issues-first-ai-framework-banks-battle-rogue-agents",
+  "source": "Decrypt",
+  "published_at": "Wed, 04 Nov 2026 19:57:18 +0000",
+  "summary": "The OCC s first examiner guide weighs autonomy and financial harm, and directly addresses outside AI agents—the same risk that recently prompted major banks to restrict customer-account access.",
+  "score": 18
+ },
+ {
+  "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+  "url": "https://www.ricursive.com/ripple",
+  "source": "Hacker News Frontpage",
+  "published_at": "Wed, 04 Nov 2026 18:53:29 +0000",
+  "summary": "Comments URL: Points: 289",
   "score": 18
  }
 ]

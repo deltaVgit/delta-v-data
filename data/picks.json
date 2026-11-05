@@ -9,28 +9,12 @@
    "score": 74
   },
   {
-   "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
-   "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
-   "source": "BleepingComputer",
-   "published_at": "Wed, 04 Nov 2026 15:58:19 -0500",
-   "summary": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]",
-   "score": 74
-  },
-  {
    "title": "Coinbase says 99% of customer assets sit in cold storage after Binance’s $6.3 billion breach",
    "url": "https://www.theblock.co/news/ecosystems/2026-11-04-coinbase-security-cold-storage-binance-hack-432880",
    "source": "The Block",
    "published_at": "Wed, 04 Nov 2026 16:58:42 +0000",
    "summary": "Coinbase says 99% of customer assets are in cold storage and it wasn t affected by the $6.3 billion Binance hack.",
    "score": 38
-  },
-  {
-   "title": "MERCADO BITCOIN ESTIMATES HACK LOSSES AT $46 MILLION, VOWS FULL CUSTOMER REIMBURSEMENT",
-   "url": "https://www.tradingview.com/news/bloomingbit:c661c2a61094b:0-mercado-bitcoin-estimates-hack-losses-at-46-million-vows-full-customer-reimbursement/",
-   "source": "MarketNewsFeed [CRYPTO]",
-   "published_at": "2026-11-05T05:37:44Z",
-   "summary": "",
-   "score": 34
   },
   {
    "title": "Mercado Bitcoin Plans View-Only Reopening on Nov. 9 After Hack",
@@ -54,14 +38,6 @@
    "source": "The Block",
    "published_at": "Wed, 04 Nov 2026 20:09:58 +0000",
    "summary": "Bitcoin rose 3.5% to $80,500 and ether jumped 6% after Democrats won Congress, while Bitwise says the Binance hack had limited market impact.",
-   "score": 34
-  },
-  {
-   "title": "Privacy Cash Pauses Deposits After Binance Hack",
-   "url": "https://thedefiant.io/news/defi/privacy-cash-pauses-deposits-after-binance-hack",
-   "source": "The Defiant",
-   "published_at": "Wed, 04 Nov 2026 16:39:50 GMT",
-   "summary": "Elliptic traced about $1.2 million in theft-linked ETH and SOL into its pools; the team says withdrawals remain open.",
    "score": 34
   },
   {
@@ -95,7 +71,31 @@
    "published_at": "Wed, 04 Nov 2026 21:47:30 GMT",
    "summary": "Tradecraft s public feed recorded $30,296 in purchases, while Fairmint maintains the shares official onchain ownership register.",
    "score": 16
+  },
+  {
+   "title": "US Bank Regulator Issues First AI Framework as Banks Battle Rogue Agents",
+   "url": "https://decrypt.co/382560/us-bank-regulator-issues-first-ai-framework-banks-battle-rogue-agents",
+   "source": "Decrypt",
+   "published_at": "Wed, 04 Nov 2026 19:57:18 +0000",
+   "summary": "The OCC s first examiner guide weighs autonomy and financial harm, and directly addresses outside AI agents—the same risk that recently prompted major banks to restrict customer-account access.",
+   "score": 16
+  },
+  {
+   "title": "Canton Coin Gets SEC Nod as Wall Street Tokenization Heats Up",
+   "url": "https://decrypt.co/382554/canton-coin-sec-no-action-wall-street-tokenization",
+   "source": "Decrypt",
+   "published_at": "Wed, 04 Nov 2026 18:16:02 +0000",
+   "summary": "SEC staff said they view Canton Coin as a digital commodity and won’t recommend enforcement over how it’s minted, a week after DTCC launched a tokenization service that runs partly on the Canton Network.",
+   "score": 16
+  },
+  {
+   "title": "$550B WIPED OUT AS ASIA’S AI STOCKS CRASH, BITCOIN JUMPS 4%",
+   "url": "https://www.tradingview.com/news/coinpedia:e1e386b26094b:0-550b-wiped-out-as-asia-s-ai-stocks-crash-bitcoin-jumps-4/",
+   "source": "MarketNewsFeed [CRYPTO]",
+   "published_at": "2026-11-05T09:32:17Z",
+   "summary": "",
+   "score": 14
   }
  ],
- "updatedAt": "2026-11-05T05:52:16.180265+00:00"
+ "updatedAt": "2026-11-05T09:58:32.680583+00:00"
 }
