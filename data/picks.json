@@ -1,60 +1,52 @@
 {
  "picks": [
   {
-   "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
-   "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
-   "source": "Ars Technica",
-   "published_at": "Thu, 05 Nov 2026 23:09:36 +0000",
-   "summary": "Certain configurations of Alpine are affected. Other distros may be as well.",
-   "score": 64
-  },
-  {
-   "title": "OpenAI Found 948 Linux Security Flaws—And Figured Out How to Exploit Them",
-   "url": "https://decrypt.co/382632/openai-linux-security-flaws-exploit",
-   "source": "Decrypt",
-   "published_at": "Thu, 05 Nov 2026 19:16:03 +0000",
-   "summary": "An automated OpenAI system produced working exploits and draft fixes at roughly $1,279 per flaw, raising new questions about how cheaply AI can find holes in critical software at scale.",
-   "score": 40
-  },
-  {
-   "title": "Brazilian Credit Guarantor Fund Data Breach Affecting PII and Payout Data",
-   "url": "https://www.fgc.org.br/comunicado",
-   "source": "Hacker News Frontpage",
-   "published_at": "Thu, 05 Nov 2026 23:32:36 +0000",
-   "summary": "Comments URL: Points: 7",
+   "title": "Gnosis Pay Confirms Breach of Consumer-Card System",
+   "url": "https://thedefiant.io/news/security/gnosis-pay-confirms-breach-of-consumer-card-system",
+   "source": "The Defiant",
+   "published_at": "Fri, 06 Nov 2026 15:01:29 GMT",
+   "summary": "The company says funds and its enterprise platform were unaffected, but has not disclosed how many customers were hit.",
    "score": 38
   },
   {
-   "title": "JUST IN: 🇰🇷 SOUTH KOREAN CRYPTO EXCHANGE GOPAX HALTS WITHDRAWALS FOLLOWING HACKING THREAT.",
-   "url": "https://x.com/WatcherGuru/status/2118651788949630989",
-   "source": "MarketNewsFeed [CRYPTO]",
-   "published_at": "2026-11-06T10:28:51Z",
-   "summary": "",
+   "title": "Chainalysis says breach exposed credentials for all customers",
+   "url": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/",
+   "source": "BleepingComputer",
+   "published_at": "Fri, 06 Nov 2026 09:17:07 -0500",
+   "summary": "Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers. [...]",
+   "score": 38
+  },
+  {
+   "title": "Why Europe s Freezer Hacks Spread So Far, So Fast",
+   "url": "https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast",
+   "source": "Dark Reading",
+   "published_at": "Fri, 06 Nov 2026 14:00:00 GMT",
+   "summary": "Europe s supermarket freezer hacks show how security issues can cascade across an industry, disrupting supply chains at scale.",
    "score": 34
   },
   {
-   "title": "Mercado Bitcoin Said Its Hack Was Contained, But Blockchain Data Tells a Different Story",
-   "url": "https://decrypt.co/382670/mercado-bitcoin-hack-contained-blockchain-data",
+   "title": "Binance Hackers Swap $50 Million in XRP, Mostly Into Bitcoin, Elliptic Says",
+   "url": "https://thedefiant.io/news/hacks/binance-hackers-swap-50-million-in-xrp-mostly-into-bitcoin-elliptic-says",
+   "source": "The Defiant",
+   "published_at": "Fri, 06 Nov 2026 11:06:26 GMT",
+   "summary": "Bitcoin obtained from other stolen assets nearly doubled in a day to 1,650 BTC, while the main ETH and bitcoin holdings remain untouched.",
+   "score": 34
+  },
+  {
+   "title": "$3.1B in Stolen Binance Crypto Has Yet to Be Laundered: Elliptic",
+   "url": "https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic",
    "source": "Decrypt",
-   "published_at": "Thu, 05 Nov 2026 20:16:03 +0000",
-   "summary": "Fresh forensic analysis traces $48.6 million across 11 blockchains and finds thousands of customer deposit addresses drained hours after the Brazilian exchange said it had stopped the breach on Monday.",
-   "score": 34
-  },
-  {
-   "title": "MS Paint Remote Code Execution Vulnerability",
-   "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-   "source": "Hacker News Frontpage",
-   "published_at": "Thu, 05 Nov 2026 20:43:42 +0000",
-   "summary": "Comments URL: Points: 3",
+   "published_at": "Fri, 06 Nov 2026 14:04:18 +0000",
+   "summary": "The attackers have used more than 20,000 wallets on 16 blockchains so far, but the bulk of the stolen ETH and Bitcoin hasn t moved.",
    "score": 30
   },
   {
-   "title": "JUST IN: 🇨🇳 CHINA'S CENTRAL BANK LAUNCHES INVESTIGATION INTO SOLANA $SOL OVER CRYPTOCURRENCY ADVERTISING IN SHANGHAI.",
-   "url": "https://x.com/WatcherGuru/status/2118648841444675864",
-   "source": "MarketNewsFeed [CRYPTO]",
-   "published_at": "2026-11-06T10:17:22Z",
-   "summary": "",
-   "score": 26
+   "title": "Six pallets of Nvidia GPUs worth $11.4 million stolen in California cargo heist",
+   "url": "https://www.tomshardware.com/pc-components/gpus/six-pallets-of-nvidia-gpus-worth-usd11-4-million-stolen-in-california-cargo-heist-authorities-investigate-after-truck-posing-as-a-food-transport-company-disappears",
+   "source": "Tom's Hardware",
+   "published_at": "Fri, 06 Nov 2026 13:35:16 +0000",
+   "summary": "The latest incident comes amid growing concerns over GPU theft, with experts warning that advanced Nvidia chips can command significantly higher prices abroad and could end up in black-market channels.",
+   "score": 30
   },
   {
    "title": "iPhone Wallet Theft Probe Traces $4.06 Million in TRON Drains",
@@ -65,37 +57,45 @@
    "score": 26
   },
   {
-   "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
-   "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
-   "source": "Ars Technica",
-   "published_at": "Thu, 05 Nov 2026 21:39:40 +0000",
-   "summary": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
-   "score": 18
-  },
-  {
-   "title": "App Store 2026 in numbers: AI, pricing, abandoned apps",
-   "url": "https://obelisk.club/research/app-store-2026",
-   "source": "Hacker News Frontpage",
-   "published_at": "Fri, 06 Nov 2026 07:59:19 +0000",
-   "summary": "Comments URL: Points: 33",
+   "title": "JUST IN: 🇷🇺 RUSSIA'S CENTRAL BANK OFFICIALLY APPROVES BITCOIN, ETHEREUM, AND USDT TRADING FOR RETAIL INVESTORS.",
+   "url": "https://x.com/WatcherGuru/status/2118735403687563330",
+   "source": "MarketNewsFeed [CRYPTO]",
+   "published_at": "2026-11-06T16:01:18Z",
+   "summary": "",
    "score": 16
   },
   {
-   "title": "Double Machine Learning for Panel Data: Identification, Specification, and a Bank Regulation Effect",
-   "url": "https://arxiv.org/abs/2611.07249",
-   "source": "arXiv stat.ML",
-   "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
-   "summary": "arXiv:2611.07249v1 Announce Type: cross Abstract: This paper examines robustness and causal interpretation of panel estimates using double/debiased machine learning. The prototype treatment setup is the 2018 US banking regulation. Under common treatment timing, we characterize identification and nui",
+   "title": "Bank of Russia Clears Bitcoin, Ether and USDT Rules for Nov. 17",
+   "url": "https://thedefiant.io/converge/regulation/bank-of-russia-clears-bitcoin-ether-and-usdt-rules-for-nov-17",
+   "source": "The Defiant",
+   "published_at": "Fri, 06 Nov 2026 12:51:42 GMT",
+   "summary": "Non-qualified investors face testing and a 300,000-ruble annual purchase cap per intermediary, while Moscow Exchange targets a Dec. 1 rollout.",
    "score": 16
   },
   {
-   "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-   "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
-   "source": "Hacker News Frontpage",
-   "published_at": "Thu, 05 Nov 2026 23:09:57 +0000",
-   "summary": "Comments URL: Points: 337",
+   "title": "Nigeria’s central bank introduces stablecoin licensing rules, bans algorithmic versions",
+   "url": "https://www.theblock.co/news/regulation/2026-11-06-nigerias-central-bank-introduces-stablecoin-licensing-rules-bans-algorithmic-versions-435867",
+   "source": "The Block",
+   "published_at": "Fri, 06 Nov 2026 11:43:44 +0000",
+   "summary": "Nigeria s central bank issued new virtual asset regulations requiring stablecoin issuers and other service providers to obtain local licenses.",
    "score": 16
+  },
+  {
+   "title": "Kihan Launches Constitutional Computing to Bring Enforceable Authority to Enterprise AI Agents",
+   "url": "https://www.hpcwire.com/off-the-wire/kihan-launches-constitutional-computing-to-bring-enforceable-authority-to-enterprise-ai-agents/",
+   "source": "HPCwire",
+   "published_at": "Fri, 06 Nov 2026 14:57:24 +0000",
+   "summary": "SAN FRANCISCO, Nov. 6, 2026 — Kihan, a new technology company developing Constitutional Computing, has announced its formation and the introduction of a mathematically based architecture designed to make artificial intelligence governance enforceable at the point of execution. Constitutional Computi",
+   "score": 10
+  },
+  {
+   "title": "Hypercall to launch first Anthropic-linked pre-IPO options market",
+   "url": "https://www.theblock.co/news/markets/2026-11-06-hypercall-anthropic-linked-pre-ipo-options-market-435453",
+   "source": "The Block",
+   "published_at": "Fri, 06 Nov 2026 13:00:00 +0000",
+   "summary": "Trading is expected to begin Monday, with calls, puts and more complex strategies available in select non-US jurisdictions.",
+   "score": 10
   }
  ],
- "updatedAt": "2026-11-06T10:43:10.773082+00:00"
+ "updatedAt": "2026-11-06T16:16:32.772014+00:00"
 }
