@@ -9,6 +9,38 @@
    "score": 72
   },
   {
+   "title": "Elliptic says Binance hackers swap stolen tokens for $124M in bitcoin, exchange plans more withdrawal reopenings",
+   "url": "https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930",
+   "source": "The Block",
+   "published_at": "Fri, 06 Nov 2026 18:06:59 +0000",
+   "summary": "Elliptic says little of the stolen crypto has likely been cashed out, while $2.85 billion remains frozen.",
+   "score": 64
+  },
+  {
+   "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+   "url": "https://openai.com/index/partnering-with-hacktron",
+   "source": "OpenAI Blog",
+   "published_at": "Fri, 06 Nov 2026 08:00:00 GMT",
+   "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+   "score": 64
+  },
+  {
+   "title": "GNOSIS PAY BREACH EXPOSES CARD DETAILS, PERSONAL DATA AND CRYPTO WALLET INFORMATION",
+   "url": "https://www.tradingview.com/news/cointelegraph:56c73480e094b:0-gnosis-pay-breach-exposes-card-details-personal-data-and-crypto-wallet-information/",
+   "source": "MarketNewsFeed [CRYPTO]",
+   "published_at": "2026-11-06T21:04:09Z",
+   "summary": "",
+   "score": 38
+  },
+  {
+   "title": "Gnosis Pay data breach exposes customer info; funds unaffected",
+   "url": "https://www.theblock.co/news/defi/2026-11-06-gnosis-pay-data-breach-legacy-debit-card-system-435934",
+   "source": "The Block",
+   "published_at": "Fri, 06 Nov 2026 18:58:58 +0000",
+   "summary": "Gnosis Pay disclosed a data breach after unauthorized access to its legacy debit card system on Nov. 3. Customer funds were not affected.",
+   "score": 38
+  },
+  {
    "title": "Gnosis Pay Confirms Breach of Consumer-Card System",
    "url": "https://thedefiant.io/news/security/gnosis-pay-confirms-breach-of-consumer-card-system",
    "source": "The Defiant",
@@ -23,14 +55,6 @@
    "published_at": "Fri, 06 Nov 2026 09:17:07 -0500",
    "summary": "Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers. [...]",
    "score": 38
-  },
-  {
-   "title": "BINANCE REPLENISHES 98% OF FUNDS AFFECTED BY HACK, EXPANDS PROOF-OF-RESERVES COVERAGE TO 44 TOKENS",
-   "url": "https://www.tradingview.com/news/bloomingbit:e031417de094b:0-binance-replenishes-98-of-funds-affected-by-hack-expands-proof-of-reserves-coverage-to-44-tokens/",
-   "source": "MarketNewsFeed [CRYPTO]",
-   "published_at": "2026-11-06T17:19:42Z",
-   "summary": "",
-   "score": 34
   },
   {
    "title": "Crypto Card Provider Gnosis Pay Says Hackers Accessed Customer Data",
@@ -65,37 +89,13 @@
    "score": 30
   },
   {
-   "title": "Six pallets of Nvidia GPUs worth $11.4 million stolen in California cargo heist",
-   "url": "https://www.tomshardware.com/pc-components/gpus/six-pallets-of-nvidia-gpus-worth-usd11-4-million-stolen-in-california-cargo-heist-authorities-investigate-after-truck-posing-as-a-food-transport-company-disappears",
-   "source": "Tom's Hardware",
-   "published_at": "Fri, 06 Nov 2026 13:35:16 +0000",
-   "summary": "The latest incident comes amid growing concerns over GPU theft, with experts warning that advanced Nvidia chips can command significantly higher prices abroad and could end up in black-market channels.",
+   "title": "Fake security tools on GitHub push backdoors and infostealers",
+   "url": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
+   "source": "BleepingComputer",
+   "published_at": "Fri, 06 Nov 2026 13:46:52 -0500",
+   "summary": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]",
    "score": 30
-  },
-  {
-   "title": "iPhone Wallet Theft Probe Traces $4.06 Million in TRON Drains",
-   "url": "https://thedefiant.io/news/hacks/iphone-wallet-theft-probe-traces-4-06-million-in-tron-drains",
-   "source": "The Defiant",
-   "published_at": "Fri, 06 Nov 2026 08:13:07 GMT",
-   "summary": "Trust Wallet warns that DarkSword and Coruna exploit older iOS versions to access wallet data, rather than flaws in wallet apps.",
-   "score": 26
-  },
-  {
-   "title": "Bank of Russia Clears Bitcoin, Ether and USDT Rules for Nov. 17",
-   "url": "https://thedefiant.io/converge/regulation/bank-of-russia-clears-bitcoin-ether-and-usdt-rules-for-nov-17",
-   "source": "The Defiant",
-   "published_at": "Fri, 06 Nov 2026 12:51:42 GMT",
-   "summary": "Non-qualified investors face testing and a 300,000-ruble annual purchase cap per intermediary, while Moscow Exchange targets a Dec. 1 rollout.",
-   "score": 16
-  },
-  {
-   "title": "Nigeria’s central bank introduces stablecoin licensing rules, bans algorithmic versions",
-   "url": "https://www.theblock.co/news/regulation/2026-11-06-nigerias-central-bank-introduces-stablecoin-licensing-rules-bans-algorithmic-versions-435867",
-   "source": "The Block",
-   "published_at": "Fri, 06 Nov 2026 11:43:44 +0000",
-   "summary": "Nigeria s central bank issued new virtual asset regulations requiring stablecoin issuers and other service providers to obtain local licenses.",
-   "score": 16
   }
  ],
- "updatedAt": "2026-11-06T17:41:10.515262+00:00"
+ "updatedAt": "2026-11-06T21:37:56.753239+00:00"
 }
