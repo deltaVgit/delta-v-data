@@ -8,6 +8,14 @@
   "score": 54
  },
  {
+  "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+  "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+  "source": "Ars Technica",
+  "published_at": "Thu, 05 Nov 2026 23:09:36 +0000",
+  "summary": "Certain configurations of Alpine are affected. Other distros may be as well.",
+  "score": 46
+ },
+ {
   "title": "Mercado Bitcoin Said Its Hack Was Contained, But Blockchain Data Tells a Different Story",
   "url": "https://decrypt.co/382670/mercado-bitcoin-hack-contained-blockchain-data",
   "source": "Decrypt",
@@ -30,6 +38,22 @@
   "published_at": "Thu, 05 Nov 2026 17:17:51 GMT",
   "summary": "The team plans to move affected users to new wallets and warns against further deposits into bot wallets.",
   "score": 30
+ },
+ {
+  "title": "RBNZ TAKES ACTION AGAINST WESTPAC NEW ZEALAND LIMITED OVER AN ALLEGED DCS DISCLOSURE BREACH.",
+  "url": "https://x.com/FirstSquawk/status/2118510392179855668",
+  "source": "MarketNewsFeed [OTHER]",
+  "published_at": "2026-11-06T01:07:28Z",
+  "summary": "",
+  "score": 28
+ },
+ {
+  "title": "Brazilian Credit Guarantor Fund Data Breach Affecting PII and Payout Data",
+  "url": "https://www.fgc.org.br/comunicado",
+  "source": "Hacker News Frontpage",
+  "published_at": "Thu, 05 Nov 2026 23:32:36 +0000",
+  "summary": "Comments URL: Points: 7",
+  "score": 28
  },
  {
   "title": "DigiCert data breach exposes customer information, identity documents",
@@ -104,6 +128,14 @@
   "score": 22
  },
  {
+  "title": "Frontier coding agents claim work they didn t do",
+  "url": "https://www.lesswrong.com/posts/HjDuFZnQrr7rimHmg/frontier-coding-agents-claim-work-they-didn-t-do",
+  "source": "LessWrong",
+  "published_at": "Fri, 06 Nov 2026 00:48:16 GMT",
+  "summary": "Tara Research Team arXiv | Twitter thread tl;dr. We built OverclaimBench, which asks frontier coding agents to review a corpus of code or text documents, then compares their final report with their transcripts. Pooled across 12 frontier agents and five scenarios, two-thirds of runs didn t open some ",
+  "score": 18
+ },
+ {
   "title": "Former FBI Agent Pleads Guilty to $2.47 Million Crypto Theft",
   "url": "https://thedefiant.io/news/security/former-fbi-agent-pleads-guilty-to-2-47-million-crypto-theft",
   "source": "The Defiant",
@@ -116,7 +148,7 @@
   "url": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
   "source": "Hacker News Frontpage",
   "published_at": "Thu, 05 Nov 2026 19:16:34 +0000",
-  "summary": "Comments URL: Points: 90",
+  "summary": "Comments URL: Points: 148",
   "score": 18
  },
  {
@@ -126,37 +158,5 @@
   "published_at": "Thu, 05 Nov 2026 15:25:36 +0000",
   "summary": "Comments URL: Points: 4",
   "score": 16
- },
- {
-  "title": "OpenAI Promises to Foot AI’s Power Bill After Voter Revolt. Who Enforces It?",
-  "url": "https://decrypt.co/382674/openai-promises-foot-ai-power-bill-after-voter-revolt",
-  "source": "Decrypt",
-  "published_at": "Thu, 05 Nov 2026 21:36:03 +0000",
-  "summary": "OpenAI wants to ease the backlash against AI campuses with promises on electricity, water and secrecy. Its new compact raises a tougher question: Who would make the company comply?",
-  "score": 14
- },
- {
-  "title": "METR: Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
-  "url": "https://www.lesswrong.com/posts/N5AmYkRks5CqAxvBg/metr-independent-assessment-of-ai-r-and-d-acceleration-at",
-  "source": "LessWrong",
-  "published_at": "Thu, 05 Nov 2026 19:06:38 GMT",
-  "summary": "Executive summary From August 12 to October 29, 2026, METR staff performed a high-access evaluation at Anthropic to assess the degree to which AI is accelerating AI R&D. If AI systems started to significantly accelerate further AI development, this could lead to a sudden emergence of extreme and ris",
-  "score": 14
- },
- {
-  "title": "Linkpost to METR’s Anthropic Speedup Assessment",
-  "url": "https://www.lesswrong.com/posts/diKDKhQZtfpQ7PPu9/linkpost-to-metr-s-anthropic-speedup-assessment",
-  "source": "LessWrong",
-  "published_at": "Thu, 05 Nov 2026 18:50:45 GMT",
-  "summary": "TLDR: roughly a 2x speedup, with a range of 1.3-3x. Model 4 looks very scary. Discuss",
-  "score": 14
- },
- {
-  "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
-  "url": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
-  "source": "BleepingComputer",
-  "published_at": "Thu, 05 Nov 2026 16:30:30 -0500",
-  "summary": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions. [...]",
-  "score": 14
  }
 ]

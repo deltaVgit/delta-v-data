@@ -1,6 +1,14 @@
 {
  "picks": [
   {
+   "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+   "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+   "source": "Ars Technica",
+   "published_at": "Thu, 05 Nov 2026 23:09:36 +0000",
+   "summary": "Certain configurations of Alpine are affected. Other distros may be as well.",
+   "score": 64
+  },
+  {
    "title": "Hackers backdoor Linux servers using trojanized CWP web server",
    "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
    "source": "BleepingComputer",
@@ -23,6 +31,22 @@
    "published_at": "Thu, 05 Nov 2026 17:17:51 GMT",
    "summary": "The team plans to move affected users to new wallets and warns against further deposits into bot wallets.",
    "score": 40
+  },
+  {
+   "title": "RBNZ TAKES ACTION AGAINST WESTPAC NEW ZEALAND LIMITED OVER AN ALLEGED DCS DISCLOSURE BREACH.",
+   "url": "https://x.com/FirstSquawk/status/2118510392179855668",
+   "source": "MarketNewsFeed [OTHER]",
+   "published_at": "2026-11-06T01:07:28Z",
+   "summary": "",
+   "score": 38
+  },
+  {
+   "title": "Brazilian Credit Guarantor Fund Data Breach Affecting PII and Payout Data",
+   "url": "https://www.fgc.org.br/comunicado",
+   "source": "Hacker News Frontpage",
+   "published_at": "Thu, 05 Nov 2026 23:32:36 +0000",
+   "summary": "Comments URL: Points: 7",
+   "score": 38
   },
   {
    "title": "DigiCert data breach exposes customer information, identity documents",
@@ -71,31 +95,7 @@
    "published_at": "Thu, 05 Nov 2026 20:43:42 +0000",
    "summary": "Comments URL: Points: 3",
    "score": 30
-  },
-  {
-   "title": "Gauntlet Restricts V1 Vault Deposits After Reported op-reth Vulnerability",
-   "url": "https://thedefiant.io/news/defi/gauntlet-restricts-v1-vault-deposits-after-reported-op-reth-vulnerability",
-   "source": "The Defiant",
-   "published_at": "Thu, 05 Nov 2026 17:51:32 GMT",
-   "summary": "The risk curator is also pausing allocations and reducing LayerZero-bridged asset exposure, while saying no exploit has been reported to its knowledge.",
-   "score": 30
-  },
-  {
-   "title": "Adversarial Training Can Further Hide a Backdoor, but Does It Improve Trigger Identification?",
-   "url": "https://www.lesswrong.com/posts/uKFrPK2oQo8LECrbh/adversarial-training-can-further-hide-a-backdoor-but-does-it",
-   "source": "LessWrong",
-   "published_at": "Thu, 05 Nov 2026 17:18:41 GMT",
-   "summary": "Summary The Sleeper Agents paper demonstrated that adversarial training on red-team prompts failed to remove a planted backdoor. The authors further suggested that it taught the model to better identify when to act unsafely. This would pose a significant danger, as a standard safety practice would b",
-   "score": 30
-  },
-  {
-   "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
-   "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
-   "source": "Ars Technica",
-   "published_at": "Thu, 05 Nov 2026 21:39:40 +0000",
-   "summary": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
-   "score": 18
   }
  ],
- "updatedAt": "2026-11-05T22:58:01.539305+00:00"
+ "updatedAt": "2026-11-06T01:38:44.601146+00:00"
 }
