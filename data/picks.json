@@ -33,14 +33,6 @@
    "score": 40
   },
   {
-   "title": "RBNZ TAKES ACTION AGAINST WESTPAC NEW ZEALAND LIMITED OVER AN ALLEGED DCS DISCLOSURE BREACH.",
-   "url": "https://x.com/FirstSquawk/status/2118510392179855668",
-   "source": "MarketNewsFeed [OTHER]",
-   "published_at": "2026-11-06T01:07:28Z",
-   "summary": "",
-   "score": 38
-  },
-  {
    "title": "Brazilian Credit Guarantor Fund Data Breach Affecting PII and Payout Data",
    "url": "https://www.fgc.org.br/comunicado",
    "source": "Hacker News Frontpage",
@@ -95,7 +87,15 @@
    "published_at": "Thu, 05 Nov 2026 20:43:42 +0000",
    "summary": "Comments URL: Points: 3",
    "score": 30
+  },
+  {
+   "title": "Gauntlet Restricts V1 Vault Deposits After Reported op-reth Vulnerability",
+   "url": "https://thedefiant.io/news/defi/gauntlet-restricts-v1-vault-deposits-after-reported-op-reth-vulnerability",
+   "source": "The Defiant",
+   "published_at": "Thu, 05 Nov 2026 17:51:32 GMT",
+   "summary": "The risk curator is also pausing allocations and reducing LayerZero-bridged asset exposure, while saying no exploit has been reported to its knowledge.",
+   "score": 30
   }
  ],
- "updatedAt": "2026-11-06T01:38:44.601146+00:00"
+ "updatedAt": "2026-11-06T03:04:06.707339+00:00"
 }

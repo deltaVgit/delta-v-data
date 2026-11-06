@@ -40,14 +40,6 @@
   "score": 30
  },
  {
-  "title": "RBNZ TAKES ACTION AGAINST WESTPAC NEW ZEALAND LIMITED OVER AN ALLEGED DCS DISCLOSURE BREACH.",
-  "url": "https://x.com/FirstSquawk/status/2118510392179855668",
-  "source": "MarketNewsFeed [OTHER]",
-  "published_at": "2026-11-06T01:07:28Z",
-  "summary": "",
-  "score": 28
- },
- {
   "title": "Brazilian Credit Guarantor Fund Data Breach Affecting PII and Payout Data",
   "url": "https://www.fgc.org.br/comunicado",
   "source": "Hacker News Frontpage",
@@ -76,14 +68,6 @@
   "url": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults",
   "source": "CoinDesk",
   "published_at": "Thu, 05 Nov 2026 13:29:40 +0000",
-  "summary": "",
-  "score": 26
- },
- {
-  "title": "Bitcoin miner Riot could pay Anthropic 12% interest under $28 billion AI deal",
-  "url": "https://www.coindesk.com/tech/2026/11/05/bitcoin-miner-riot-could-pay-anthropic-12-interest-under-usd28-billion-ai-deal",
-  "source": "CoinDesk",
-  "published_at": "Thu, 05 Nov 2026 09:36:32 +0000",
   "summary": "",
   "score": 26
  },
@@ -148,7 +132,7 @@
   "url": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
   "source": "Hacker News Frontpage",
   "published_at": "Thu, 05 Nov 2026 19:16:34 +0000",
-  "summary": "Comments URL: Points: 148",
+  "summary": "Comments URL: Points: 168",
   "score": 18
  },
  {
@@ -158,5 +142,21 @@
   "published_at": "Thu, 05 Nov 2026 15:25:36 +0000",
   "summary": "Comments URL: Points: 4",
   "score": 16
+ },
+ {
+  "title": "Claude Gets Personal Finance—Anthony Pompliano Accuses Anthropic of Copying His Startup",
+  "url": "https://decrypt.co/382689/claude-personal-finance-anthony-pompliano-anthropic",
+  "source": "Decrypt",
+  "published_at": "Thu, 05 Nov 2026 23:06:02 +0000",
+  "summary": "Anthropic s Claude finance assistant analyzes spending from linked accounts in the U.S., and Anthony Pompliano has a big problem with it.",
+  "score": 14
+ },
+ {
+  "title": "OpenAI Promises to Foot AI’s Power Bill After Voter Revolt. Who Enforces It?",
+  "url": "https://decrypt.co/382674/openai-promises-foot-ai-power-bill-after-voter-revolt",
+  "source": "Decrypt",
+  "published_at": "Thu, 05 Nov 2026 21:36:03 +0000",
+  "summary": "OpenAI wants to ease the backlash against AI campuses with promises on electricity, water and secrecy. Its new compact raises a tougher question: Who would make the company comply?",
+  "score": 14
  }
 ]
