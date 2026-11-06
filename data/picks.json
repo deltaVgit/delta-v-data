@@ -25,14 +25,6 @@
    "score": 64
   },
   {
-   "title": "GNOSIS PAY BREACH EXPOSES CARD DETAILS, PERSONAL DATA AND CRYPTO WALLET INFORMATION",
-   "url": "https://www.tradingview.com/news/cointelegraph:56c73480e094b:0-gnosis-pay-breach-exposes-card-details-personal-data-and-crypto-wallet-information/",
-   "source": "MarketNewsFeed [CRYPTO]",
-   "published_at": "2026-11-06T21:04:09Z",
-   "summary": "",
-   "score": 38
-  },
-  {
    "title": "Gnosis Pay data breach exposes customer info; funds unaffected",
    "url": "https://www.theblock.co/news/defi/2026-11-06-gnosis-pay-data-breach-legacy-debit-card-system-435934",
    "source": "The Block",
@@ -57,6 +49,14 @@
    "score": 38
   },
   {
+   "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+   "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+   "source": "Ars Technica",
+   "published_at": "Fri, 06 Nov 2026 20:56:41 +0000",
+   "summary": "Company said a multifront cyberattack included AI agents and an on-path data snatch.",
+   "score": 34
+  },
+  {
    "title": "Crypto Card Provider Gnosis Pay Says Hackers Accessed Customer Data",
    "url": "https://decrypt.co/382718/crypto-card-provider-gnosis-pay-hackers-customer-data",
    "source": "Decrypt",
@@ -70,14 +70,6 @@
    "source": "Dark Reading",
    "published_at": "Fri, 06 Nov 2026 14:00:00 GMT",
    "summary": "Europe s supermarket freezer hacks show how security issues can cascade across an industry, disrupting supply chains at scale.",
-   "score": 34
-  },
-  {
-   "title": "Binance Hackers Swap $50 Million in XRP, Mostly Into Bitcoin, Elliptic Says",
-   "url": "https://thedefiant.io/news/hacks/binance-hackers-swap-50-million-in-xrp-mostly-into-bitcoin-elliptic-says",
-   "source": "The Defiant",
-   "published_at": "Fri, 06 Nov 2026 11:06:26 GMT",
-   "summary": "Bitcoin obtained from other stolen assets nearly doubled in a day to 1,650 BTC, while the main ETH and bitcoin holdings remain untouched.",
    "score": 34
   },
   {
@@ -95,7 +87,15 @@
    "published_at": "Fri, 06 Nov 2026 13:46:52 -0500",
    "summary": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]",
    "score": 30
+  },
+  {
+   "title": "Six pallets of Nvidia GPUs worth $11.4 million stolen in California cargo heist",
+   "url": "https://www.tomshardware.com/pc-components/gpus/six-pallets-of-nvidia-gpus-worth-usd11-4-million-stolen-in-california-cargo-heist-authorities-investigate-after-truck-posing-as-a-food-transport-company-disappears",
+   "source": "Tom's Hardware",
+   "published_at": "Fri, 06 Nov 2026 13:35:16 +0000",
+   "summary": "The latest incident comes amid growing concerns over GPU theft, with experts warning that advanced Nvidia chips can command significantly higher prices abroad and could end up in black-market channels.",
+   "score": 30
   }
  ],
- "updatedAt": "2026-11-06T21:37:56.753239+00:00"
+ "updatedAt": "2026-11-06T22:24:33.184608+00:00"
 }

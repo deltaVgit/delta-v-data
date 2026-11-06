@@ -20,7 +20,7 @@
   "url": "https://sketchagent.dev/",
   "source": "Hacker News Frontpage",
   "published_at": "Fri, 06 Nov 2026 20:28:24 +0000",
-  "summary": "Comments URL: Points: 5",
+  "summary": "Comments URL: Points: 7",
   "score": 34
  },
  {
@@ -30,22 +30,6 @@
   "published_at": "Fri, 06 Nov 2026 18:06:59 +0000",
   "summary": "Elliptic says little of the stolen crypto has likely been cashed out, while $2.85 billion remains frozen.",
   "score": 34
- },
- {
-  "title": "Binance Hackers Swap $50 Million in XRP, Mostly Into Bitcoin, Elliptic Says",
-  "url": "https://thedefiant.io/news/hacks/binance-hackers-swap-50-million-in-xrp-mostly-into-bitcoin-elliptic-says",
-  "source": "The Defiant",
-  "published_at": "Fri, 06 Nov 2026 11:06:26 GMT",
-  "summary": "Bitcoin obtained from other stolen assets nearly doubled in a day to 1,650 BTC, while the main ETH and bitcoin holdings remain untouched.",
-  "score": 34
- },
- {
-  "title": "GNOSIS PAY BREACH EXPOSES CARD DETAILS, PERSONAL DATA AND CRYPTO WALLET INFORMATION",
-  "url": "https://www.tradingview.com/news/cointelegraph:56c73480e094b:0-gnosis-pay-breach-exposes-card-details-personal-data-and-crypto-wallet-information/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-11-06T21:04:09Z",
-  "summary": "",
-  "score": 28
  },
  {
   "title": "Gnosis Pay data breach exposes customer info; funds unaffected",
@@ -78,6 +62,14 @@
   "published_at": "Fri, 06 Nov 2026 13:40:22 +0000",
   "summary": "TeraWulf reported $63 million in artificial intelligence-related quarterly HPC lease revenue, up 774% year over year.",
   "score": 26
+ },
+ {
+  "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+  "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+  "source": "Ars Technica",
+  "published_at": "Fri, 06 Nov 2026 20:56:41 +0000",
+  "summary": "Company said a multifront cyberattack included AI agents and an on-path data snatch.",
+  "score": 22
  },
  {
   "title": "Crypto Card Provider Gnosis Pay Says Hackers Accessed Customer Data",
@@ -128,35 +120,43 @@
   "score": 18
  },
  {
-  "title": "Goal-Branching LaCAM: Temporary Goals as Search Branches in Dense Multi-Agent Pathfinding",
-  "url": "https://arxiv.org/abs/2611.07528",
-  "source": "arXiv cs.AI",
-  "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
-  "summary": "arXiv:2611.07528v1 Announce Type: new Abstract: LaCAM is a search-based solver for multi-agent pathfinding (MAPF) that runs a depth-first search over joint configurations, using PIBT to generate successors and lazily adding single-agent constraints to explore alternatives. Although LaCAM is complete",
-  "score": 18
- },
- {
-  "title": "DelegateEval: Evaluating Platforms for Personal External Service Agents",
-  "url": "https://arxiv.org/abs/2611.07508",
-  "source": "arXiv cs.AI",
-  "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
-  "summary": "arXiv:2611.07508v1 Announce Type: new Abstract: AI agents that work for an individual over time may also help that individual serve external clients. We define a personal external service agent as an agent authorized and continuously managed by a specific individual to accept client requests, delive",
-  "score": 18
- },
- {
   "title": "Memorilla: Latent Semantic Memory for LLMs",
   "url": "https://arxiv.org/abs/2610.21375",
   "source": "Hacker News Frontpage",
   "published_at": "Fri, 06 Nov 2026 18:03:33 +0000",
-  "summary": "Comments URL: Points: 47",
+  "summary": "Comments URL: Points: 58",
   "score": 16
  },
  {
-  "title": "FlashOffloading: Low-Latency KV Cache Offloading for Long-Context LLM Serving",
-  "url": "https://arxiv.org/abs/2611.07542",
-  "source": "arXiv cs.AI",
-  "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
-  "summary": "arXiv:2611.07542v1 Announce Type: new Abstract: In large language model (LLM) serving systems, the key-value (KV) cache grows linearly with sequence length and concurrency, so long-context inference easily hits the high-bandwidth memory (HBM) capacity wall and results in low concurrency. Offloading ",
-  "score": 16
+  "title": "*ANTHROPIC PLANS NOVEMBER IPO RAISING $80B-$100B AT $1.25T-$1.75T VALUATION: FT",
+  "url": "https://x.com/DeItaone/status/2118816482130018752",
+  "source": "MarketNewsFeed [OTHER]",
+  "published_at": "2026-11-06T21:23:15Z",
+  "summary": "",
+  "score": 14
+ },
+ {
+  "title": "OPENAI COMPLETES $11 BILLION PORTION OF FUNDING AT $1.25 TRILLION VALUE",
+  "url": "https://x.com/DeItaone/status/2118816396335624218",
+  "source": "MarketNewsFeed [STOCKS]",
+  "published_at": "2026-11-06T21:23:00Z",
+  "summary": "",
+  "score": 14
+ },
+ {
+  "title": "JUST IN: OPENAI RAISES $11,000,000,000 AT $1.25 TRILLION VALUATION.",
+  "url": "https://x.com/WatcherGuru/status/2118814995597172759",
+  "source": "MarketNewsFeed [STOCKS]",
+  "published_at": "2026-11-06T21:17:30Z",
+  "summary": "",
+  "score": 14
+ },
+ {
+  "title": "Anthropic IPO Valuation Could Be Slashed in Half to $1T After AI Stock Rout: Report",
+  "url": "https://decrypt.co/382716/anthropic-ipo-valuation-could-fall-to-1-trillion-after-ai-stock-rout-report",
+  "source": "Decrypt",
+  "published_at": "Fri, 06 Nov 2026 16:28:58 +0000",
+  "summary": "Investors told The Wall Street Journal that the $1.5 trillion target now looks too high, as prediction markets bet on a December listing.",
+  "score": 14
  }
 ]
