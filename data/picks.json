@@ -9,12 +9,12 @@
    "score": 64
   },
   {
-   "title": "Hackers backdoor Linux servers using trojanized CWP web server",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
-   "source": "BleepingComputer",
-   "published_at": "Thu, 05 Nov 2026 11:24:26 -0500",
-   "summary": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]",
-   "score": 64
+   "title": "BAILEY SAYS HACKS SHOW WE MUST UNDERSTAND AI FRONTIER MODELS WELL",
+   "url": "https://x.com/FirstSquawk/status/2118614208279650743",
+   "source": "MarketNewsFeed [OTHER]",
+   "published_at": "2026-11-06T07:59:33Z",
+   "summary": "",
+   "score": 42
   },
   {
    "title": "OpenAI Found 948 Linux Security Flaws—And Figured Out How to Exploit Them",
@@ -25,34 +25,10 @@
    "score": 40
   },
   {
-   "title": "Floki Takes Trading Bot Offline Amid Exploit Investigation",
-   "url": "https://thedefiant.io/news/security/floki-takes-trading-bot-offline-amid-exploit-investigation",
-   "source": "The Defiant",
-   "published_at": "Thu, 05 Nov 2026 17:17:51 GMT",
-   "summary": "The team plans to move affected users to new wallets and warns against further deposits into bot wallets.",
-   "score": 40
-  },
-  {
    "title": "Brazilian Credit Guarantor Fund Data Breach Affecting PII and Payout Data",
    "url": "https://www.fgc.org.br/comunicado",
    "source": "Hacker News Frontpage",
    "published_at": "Thu, 05 Nov 2026 23:32:36 +0000",
-   "summary": "Comments URL: Points: 7",
-   "score": 38
-  },
-  {
-   "title": "DigiCert data breach exposes customer information, identity documents",
-   "url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
-   "source": "BleepingComputer",
-   "published_at": "Thu, 05 Nov 2026 11:12:46 -0500",
-   "summary": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents. [...]",
-   "score": 38
-  },
-  {
-   "title": "OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability",
-   "url": "https://hachyderm.io/@damienmiller/117563026759098135",
-   "source": "Hacker News Frontpage",
-   "published_at": "Thu, 05 Nov 2026 09:46:17 +0000",
    "summary": "Comments URL: Points: 7",
    "score": 38
   },
@@ -65,22 +41,6 @@
    "score": 34
   },
   {
-   "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist?",
-   "url": "https://www.coindesk.com/business/2026/11/05/what-is-tradertraitor-the-hacking-squad-behind-the-usd6-3-billion-binance-heist",
-   "source": "CoinDesk",
-   "published_at": "Thu, 05 Nov 2026 16:58:21 +0000",
-   "summary": "",
-   "score": 34
-  },
-  {
-   "title": "Mercado Bitcoin hack continued hours after exchange said attack was contained, report finds",
-   "url": "https://www.coindesk.com/business/2026/11/05/mercado-bitcoin-hack-continued-hours-after-exchange-said-attack-was-contained-report-finds",
-   "source": "CoinDesk",
-   "published_at": "Thu, 05 Nov 2026 10:44:54 +0000",
-   "summary": "",
-   "score": 34
-  },
-  {
    "title": "MS Paint Remote Code Execution Vulnerability",
    "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
    "source": "Hacker News Frontpage",
@@ -89,13 +49,53 @@
    "score": 30
   },
   {
-   "title": "Gauntlet Restricts V1 Vault Deposits After Reported op-reth Vulnerability",
-   "url": "https://thedefiant.io/news/defi/gauntlet-restricts-v1-vault-deposits-after-reported-op-reth-vulnerability",
+   "title": "iPhone Wallet Theft Probe Traces $4.06 Million in TRON Drains",
+   "url": "https://thedefiant.io/news/hacks/iphone-wallet-theft-probe-traces-4-06-million-in-tron-drains",
    "source": "The Defiant",
-   "published_at": "Thu, 05 Nov 2026 17:51:32 GMT",
-   "summary": "The risk curator is also pausing allocations and reducing LayerZero-bridged asset exposure, while saying no exploit has been reported to its knowledge.",
-   "score": 30
+   "published_at": "Fri, 06 Nov 2026 08:13:07 GMT",
+   "summary": "Trust Wallet warns that DarkSword and Coruna exploit older iOS versions to access wallet data, rather than flaws in wallet apps.",
+   "score": 26
+  },
+  {
+   "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
+   "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
+   "source": "Ars Technica",
+   "published_at": "Thu, 05 Nov 2026 21:39:40 +0000",
+   "summary": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
+   "score": 18
+  },
+  {
+   "title": "Double Machine Learning for Panel Data: Identification, Specification, and a Bank Regulation Effect",
+   "url": "https://arxiv.org/abs/2611.07249",
+   "source": "arXiv stat.ML",
+   "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
+   "summary": "arXiv:2611.07249v1 Announce Type: cross Abstract: This paper examines robustness and causal interpretation of panel estimates using double/debiased machine learning. The prototype treatment setup is the 2018 US banking regulation. Under common treatment timing, we characterize identification and nui",
+   "score": 16
+  },
+  {
+   "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+   "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+   "source": "Hacker News Frontpage",
+   "published_at": "Thu, 05 Nov 2026 23:09:57 +0000",
+   "summary": "Comments URL: Points: 285",
+   "score": 16
+  },
+  {
+   "title": "Bitcoin Fixes This? Paraguay President Resigns After Bank Lockout Hits 60% of Country",
+   "url": "https://decrypt.co/382676/paraguay-president-resigns-bank-lockout-bitcoin-fixes-this",
+   "source": "Decrypt",
+   "published_at": "Thu, 05 Nov 2026 22:16:03 +0000",
+   "summary": "Ueno’s collapse trapped millions of Paraguayan depositors and triggered a president’s resignation, reviving Bitcoin’s argument for self-custody.",
+   "score": 16
+  },
+  {
+   "title": "SEC Crypto Broker Rule Enters White House Review",
+   "url": "https://thedefiant.io/converge/regulation/sec-crypto-broker-rule-enters-white-house-review",
+   "source": "The Defiant",
+   "published_at": "Thu, 05 Nov 2026 18:55:08 GMT",
+   "summary": "The planned amendments cover capital requirements, customer-asset safeguards and recordkeeping for broker-dealers handling crypto assets.",
+   "score": 16
   }
  ],
- "updatedAt": "2026-11-06T03:04:06.707339+00:00"
+ "updatedAt": "2026-11-06T08:31:32.224953+00:00"
 }
