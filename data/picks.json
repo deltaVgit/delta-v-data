@@ -1,6 +1,14 @@
 {
  "picks": [
   {
+   "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
+   "source": "BleepingComputer",
+   "published_at": "Fri, 06 Nov 2026 12:04:23 -0500",
+   "summary": "QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]",
+   "score": 72
+  },
+  {
    "title": "Gnosis Pay Confirms Breach of Consumer-Card System",
    "url": "https://thedefiant.io/news/security/gnosis-pay-confirms-breach-of-consumer-card-system",
    "source": "The Defiant",
@@ -15,6 +23,22 @@
    "published_at": "Fri, 06 Nov 2026 09:17:07 -0500",
    "summary": "Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers. [...]",
    "score": 38
+  },
+  {
+   "title": "BINANCE REPLENISHES 98% OF FUNDS AFFECTED BY HACK, EXPANDS PROOF-OF-RESERVES COVERAGE TO 44 TOKENS",
+   "url": "https://www.tradingview.com/news/bloomingbit:e031417de094b:0-binance-replenishes-98-of-funds-affected-by-hack-expands-proof-of-reserves-coverage-to-44-tokens/",
+   "source": "MarketNewsFeed [CRYPTO]",
+   "published_at": "2026-11-06T17:19:42Z",
+   "summary": "",
+   "score": 34
+  },
+  {
+   "title": "Crypto Card Provider Gnosis Pay Says Hackers Accessed Customer Data",
+   "url": "https://decrypt.co/382718/crypto-card-provider-gnosis-pay-hackers-customer-data",
+   "source": "Decrypt",
+   "published_at": "Fri, 06 Nov 2026 16:41:29 +0000",
+   "summary": "Gnosis Pay said hackers accessed customer information on the legacy system behind its branded cards, though funds weren’t affected and its enterprise card platform was untouched.",
+   "score": 34
   },
   {
    "title": "Why Europe s Freezer Hacks Spread So Far, So Fast",
@@ -57,14 +81,6 @@
    "score": 26
   },
   {
-   "title": "JUST IN: 🇷🇺 RUSSIA'S CENTRAL BANK OFFICIALLY APPROVES BITCOIN, ETHEREUM, AND USDT TRADING FOR RETAIL INVESTORS.",
-   "url": "https://x.com/WatcherGuru/status/2118735403687563330",
-   "source": "MarketNewsFeed [CRYPTO]",
-   "published_at": "2026-11-06T16:01:18Z",
-   "summary": "",
-   "score": 16
-  },
-  {
    "title": "Bank of Russia Clears Bitcoin, Ether and USDT Rules for Nov. 17",
    "url": "https://thedefiant.io/converge/regulation/bank-of-russia-clears-bitcoin-ether-and-usdt-rules-for-nov-17",
    "source": "The Defiant",
@@ -79,23 +95,7 @@
    "published_at": "Fri, 06 Nov 2026 11:43:44 +0000",
    "summary": "Nigeria s central bank issued new virtual asset regulations requiring stablecoin issuers and other service providers to obtain local licenses.",
    "score": 16
-  },
-  {
-   "title": "Kihan Launches Constitutional Computing to Bring Enforceable Authority to Enterprise AI Agents",
-   "url": "https://www.hpcwire.com/off-the-wire/kihan-launches-constitutional-computing-to-bring-enforceable-authority-to-enterprise-ai-agents/",
-   "source": "HPCwire",
-   "published_at": "Fri, 06 Nov 2026 14:57:24 +0000",
-   "summary": "SAN FRANCISCO, Nov. 6, 2026 — Kihan, a new technology company developing Constitutional Computing, has announced its formation and the introduction of a mathematically based architecture designed to make artificial intelligence governance enforceable at the point of execution. Constitutional Computi",
-   "score": 10
-  },
-  {
-   "title": "Hypercall to launch first Anthropic-linked pre-IPO options market",
-   "url": "https://www.theblock.co/news/markets/2026-11-06-hypercall-anthropic-linked-pre-ipo-options-market-435453",
-   "source": "The Block",
-   "published_at": "Fri, 06 Nov 2026 13:00:00 +0000",
-   "summary": "Trading is expected to begin Monday, with calls, puts and more complex strategies available in select non-US jurisdictions.",
-   "score": 10
   }
  ],
- "updatedAt": "2026-11-06T16:16:32.772014+00:00"
+ "updatedAt": "2026-11-06T17:41:10.515262+00:00"
 }

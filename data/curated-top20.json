@@ -1,5 +1,13 @@
 [
  {
+  "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
+  "url": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
+  "source": "BleepingComputer",
+  "published_at": "Fri, 06 Nov 2026 12:04:23 -0500",
+  "summary": "QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]",
+  "score": 50
+ },
+ {
   "title": "Binance Hackers Swap $50 Million in XRP, Mostly Into Bitcoin, Elliptic Says",
   "url": "https://thedefiant.io/news/hacks/binance-hackers-swap-50-million-in-xrp-mostly-into-bitcoin-elliptic-says",
   "source": "The Defiant",
@@ -40,12 +48,20 @@
   "score": 26
  },
  {
-  "title": "JUST IN: 🇷🇺 RUSSIA'S CENTRAL BANK OFFICIALLY APPROVES BITCOIN, ETHEREUM, AND USDT TRADING FOR RETAIL INVESTORS.",
-  "url": "https://x.com/WatcherGuru/status/2118735403687563330",
+  "title": "BINANCE REPLENISHES 98% OF FUNDS AFFECTED BY HACK, EXPANDS PROOF-OF-RESERVES COVERAGE TO 44 TOKENS",
+  "url": "https://www.tradingview.com/news/bloomingbit:e031417de094b:0-binance-replenishes-98-of-funds-affected-by-hack-expands-proof-of-reserves-coverage-to-44-tokens/",
   "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-11-06T16:01:18Z",
+  "published_at": "2026-11-06T17:19:42Z",
   "summary": "",
-  "score": 24
+  "score": 22
+ },
+ {
+  "title": "Crypto Card Provider Gnosis Pay Says Hackers Accessed Customer Data",
+  "url": "https://decrypt.co/382718/crypto-card-provider-gnosis-pay-hackers-customer-data",
+  "source": "Decrypt",
+  "published_at": "Fri, 06 Nov 2026 16:41:29 +0000",
+  "summary": "Gnosis Pay said hackers accessed customer information on the legacy system behind its branded cards, though funds weren’t affected and its enterprise card platform was untouched.",
+  "score": 22
  },
  {
   "title": "Why Europe s Freezer Hacks Spread So Far, So Fast",
@@ -141,22 +157,6 @@
   "source": "arXiv cs.CL",
   "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
   "summary": "arXiv:2611.07554v1 Announce Type: new Abstract: Language agents increasingly use persistent memory to record user preferences and procedures across sessions. We show that memory from benign interactions can cause unsafe or unreliable behavior on later tasks. We call this failure the memory trap. To ",
-  "score": 18
- },
- {
-  "title": "The Last Mile to the Real World: Agent-Native Primitives as Reusable Building Blocks for Solving Real-World Tasks",
-  "url": "https://arxiv.org/abs/2611.07461",
-  "source": "arXiv cs.CL",
-  "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
-  "summary": "arXiv:2611.07461v1 Announce Type: new Abstract: How can an agent handle a real-world task end to end? Frontier models with their own harnesses still fall short on real-world benchmarks: on Terminal-Bench 4.0, GPT-5.6 Sol with Codex resolves 37.3% of the tasks and Claude Opus 5 with Claude Code 51.8%",
-  "score": 18
- },
- {
-  "title": "How Do AI Agents Waste Your Money?",
-  "url": "https://arxiv.org/abs/2611.07238",
-  "source": "arXiv cs.CL",
-  "published_at": "Fri, 06 Nov 2026 00:00:00 -0500",
-  "summary": "arXiv:2611.07238v1 Announce Type: new Abstract: AI agents may consume massive tokens across a wide range of tasks, but how many of those tokens are really necessary? Although prior work has shown that agents can incur unexpectedly high token costs, we still lack a systematic way to identify and meas",
   "score": 18
  }
 ]
