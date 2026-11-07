@@ -1,29 +1,101 @@
 {
-  "picks": [
-    {
-      "title": "Treasury Cuts Crypto Exchange MEXC Off From US Financial System",
-      "source": "Decrypt",
-      "category": "macro",
-      "url": "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system",
-      "published_at": "Fri, 06 Nov 2026 21:06:03 +0000",
-      "score": 240.0
-    },
-    {
-      "title": "Treasury cuts off MEXC Global over alleged $16 billion in transactions linked to Iran, North Korea and Russia",
-      "source": "The Block",
-      "category": "macro",
-      "url": "https://www.theblock.co/news/regulation/2026-11-06-treasury-cuts-off-mexc-global-over-alleged-16-billion-in-transactions-linked-to-iran-north-korea-and-russia-435957",
-      "published_at": "Fri, 06 Nov 2026 21:02:30 +0000",
-      "score": 240.0
-    },
-    {
-      "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
-      "source": "BleepingComputer",
-      "category": "macro",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
-      "published_at": "Fri, 06 Nov 2026 19:00:55 -0500",
-      "score": 150.0
-    }
-  ],
-  "updatedAt": "2026-11-07T14:02:20.482364+00:00"
+ "picks": [
+  {
+   "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+   "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+   "source": "BleepingComputer",
+   "published_at": "Fri, 06 Nov 2026 17:27:25 -0500",
+   "summary": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and unintentionally attacked the company. [...]",
+   "score": 72
+  },
+  {
+   "title": "[high] Keystone hardware wallet authenticity key stolen in website breach",
+   "url": "https://pwn.watch/i/keystone-hardware-wallet-auth-key-stolen-oct-2026",
+   "source": "pwn.watch · Supply chain",
+   "published_at": "Sat, 07 Nov 2026 02:30:25 GMT",
+   "summary": "An attacker who broke into hardware wallet maker Keystone s official website, detected on October 20, exploited a vulnerability in a third-party data monitoring tool to escalate privileges and stole the WebAuth key Keystone uses to verify that its devices are genuine. With that key, counterfeit wall",
+   "score": 68
+  },
+  {
+   "title": "Elliptic says Binance hackers swap stolen tokens for $124M in bitcoin, exchange plans more withdrawal reopenings",
+   "url": "https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930",
+   "source": "The Block",
+   "published_at": "Fri, 06 Nov 2026 18:06:59 +0000",
+   "summary": "Elliptic says little of the stolen crypto has likely been cashed out, while $2.85 billion remains frozen.",
+   "score": 64
+  },
+  {
+   "title": "[high] Android SMS of Death : one silent text crashes the phone service and drops calls (CVE-2026-58882)",
+   "url": "https://pwn.watch/i/android-sms-of-death-wap-push-dos-cve-2026-58882",
+   "source": "pwn.watch · Patch now",
+   "published_at": "Sat, 07 Nov 2026 11:52:05 GMT",
+   "summary": "A researcher published a working proof-of-concept for CVE-2026-58882, nicknamed SMS of Death , a zero-click denial-of-service flaw in Android s telephony framework. Android s WapPushOverSms.decodeWapPdu() reads a WAP Push header length and casts it to a signed 32-bit integer with no range check, so ",
+   "score": 42
+  },
+  {
+   "title": "[high] Chrome 157 fixes 213 security bugs, 7 of them critical (none known exploited)",
+   "url": "https://pwn.watch/i/chrome-157-security-update-nov-2026",
+   "source": "pwn.watch · Patch now",
+   "published_at": "Sat, 07 Nov 2026 13:14:12 GMT",
+   "summary": "Google promoted Chrome 157 to the stable channel on Nov 3 2026 (157.0.8103.38 on Linux, 157.0.8103.38/.39 on Windows and Mac) with 213 security fixes. Seven are rated critical: buffer overflows in Dawn (CVE-2026-121156, CVE-2026-121247), memory corruption in ANGLE (CVE-2026-121229), and use-after-fr",
+   "score": 40
+  },
+  {
+   "title": "[critical] Airbyte Connector Builder: arbitrary code execution via custom components even with unsafe code disabled (GHSA-g35w-6r6v-h4r7), exploited in the wild",
+   "url": "https://pwn.watch/i/airbyte-connector-builder-rce-ghsa-g35w-6r6v-h4r7",
+   "source": "pwn.watch · Patch now",
+   "published_at": "Sat, 07 Nov 2026 11:52:05 GMT",
+   "summary": "Self-managed Airbyte before 2.2.0 let Connector Builder / Manifest Server load unintended Python classes from a declarative manifest custom component, even when AIRBYTE_ENABLE_UNSAFE_CODE was off, so a user who could submit a test-read manifest could run commands inside those containers. On Airbyte ",
+   "score": 40
+  },
+  {
+   "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+   "source": "BleepingComputer",
+   "published_at": "Fri, 06 Nov 2026 19:00:55 -0500",
+   "summary": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
+   "score": 40
+  },
+  {
+   "title": "[medium] Kernel (kernel.sh) breach: leaked API key led to logging data theft and cryptominers on browser servers",
+   "url": "https://pwn.watch/i/kernel-sh-browser-infra-breach-cryptominer-nov-2026",
+   "source": "pwn.watch · Breaches",
+   "published_at": "Sat, 07 Nov 2026 11:52:05 GMT",
+   "summary": "Browser-infrastructure provider Kernel (kernel.sh) disclosed on Nov 4 2026 that an attacker used a compromised Kernel API key from Oct 24, then on Oct 27 used it to reach a staff login at Kernel s logging provider and downloaded data that included a small number of Kernel API keys and app deployment",
+   "score": 38
+  },
+  {
+   "title": "[medium] bunny.net pulls an Armenia CDN node after its hosting provider is breached and reissues TLS certificates",
+   "url": "https://pwn.watch/i/bunny-net-armenia-cdn-node-provider-compromise-oct-2026",
+   "source": "pwn.watch · Breaches",
+   "published_at": "Sat, 07 Nov 2026 09:29:57 GMT",
+   "summary": "On Oct 28 2026, CDN company bunny.net said one of its infrastructure providers reported unauthorized access involving third-party server management software. One bunny.net CDN node, in Armenia, ran on a server from that provider. bunny.net stopped routing traffic through it within 20 minutes, wiped ",
+   "score": 38
+  },
+  {
+   "title": "[high] Navigate360 breach exposes Crime Stoppers tips from its P3 platform, Canada s privacy commissioner investigates",
+   "url": "https://pwn.watch/i/navigate360-p3-crime-stoppers-tip-breach",
+   "source": "pwn.watch · Breaches",
+   "published_at": "Sat, 07 Nov 2026 05:14:09 GMT",
+   "summary": "Navigate360, the US company behind the P3 tip platform used by Crime Stoppers programs, disclosed on Oct 23 2026 that an unauthorized third party was in one of its systems from Nov 21 2025 to Mar 5 2026 and copied data. It says the files may include names, addresses, dates of birth, Social Security ",
+   "score": 38
+  },
+  {
+   "title": "Gnosis Pay data breach exposes customer info; funds unaffected",
+   "url": "https://www.theblock.co/news/defi/2026-11-06-gnosis-pay-data-breach-legacy-debit-card-system-435934",
+   "source": "The Block",
+   "published_at": "Fri, 06 Nov 2026 18:58:58 +0000",
+   "summary": "Gnosis Pay disclosed a data breach after unauthorized access to its legacy debit card system on Nov. 3. Customer funds were not affected.",
+   "score": 38
+  },
+  {
+   "title": "Gnosis Pay Confirms Breach of Consumer-Card System",
+   "url": "https://thedefiant.io/news/security/gnosis-pay-confirms-breach-of-consumer-card-system",
+   "source": "The Defiant",
+   "published_at": "Fri, 06 Nov 2026 15:01:29 GMT",
+   "summary": "The company says funds and its enterprise platform were unaffected, but has not disclosed how many customers were hit.",
+   "score": 38
+  }
+ ],
+ "updatedAt": "2026-11-07T14:12:51.753957+00:00"
 }
