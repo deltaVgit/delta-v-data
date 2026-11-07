@@ -72,14 +72,6 @@
   "score": 26
  },
  {
-  "title": "TRM LABS CALLS $6.3 BILLION BINANCE HACK ‘CYBER WARFARE,’ SAYS NORTH KOREAN ATTACKS WILL CONTINUE",
-  "url": "https://www.tradingview.com/news/bloomingbit:fb2456ef1094b:0-trm-labs-calls-6-3-billion-binance-hack-cyber-warfare-says-north-korean-attacks-will-continue/",
-  "source": "MarketNewsFeed [CRYPTO]",
-  "published_at": "2026-11-07T01:53:48Z",
-  "summary": "",
-  "score": 22
- },
- {
   "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
   "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
   "source": "Ars Technica",
@@ -136,14 +128,6 @@
   "score": 18
  },
  {
-  "title": "Memorilla: Latent Semantic Memory for LLMs",
-  "url": "https://arxiv.org/abs/2610.21375",
-  "source": "Hacker News Frontpage",
-  "published_at": "Fri, 06 Nov 2026 18:03:33 +0000",
-  "summary": "Comments URL: Points: 86",
-  "score": 16
- },
- {
   "title": "Dinari Promises Anthropic dShares on IPO Day, Including for US Investors",
   "url": "https://thedefiant.io/converge/tradfi-and-fintech/dinari-promises-anthropic-dshares-on-ipo-day-including-for-us-investors",
   "source": "The Defiant",
@@ -157,6 +141,22 @@
   "source": "Decrypt",
   "published_at": "Fri, 06 Nov 2026 16:28:58 +0000",
   "summary": "Investors told The Wall Street Journal that the $1.5 trillion target now looks too high, as prediction markets bet on a December listing.",
+  "score": 14
+ },
+ {
+  "title": "Ondo Plans Tokenized Anthropic Shares From IPO Day",
+  "url": "https://thedefiant.io/news/defi/ondo-plans-tokenized-anthropic-shares-from-ipo-day",
+  "source": "The Defiant",
+  "published_at": "Fri, 06 Nov 2026 15:31:46 GMT",
+  "summary": "Ondo Stocks uses share-backed notes for eligible non-US investors, unlike the derivatives already trading on Anthropic s valuation.",
+  "score": 14
+ },
+ {
+  "title": "OpenAI s new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+  "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+  "source": "BleepingComputer",
+  "published_at": "Fri, 06 Nov 2026 15:24:19 -0500",
+  "summary": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [...]",
   "score": 14
  }
 ]
