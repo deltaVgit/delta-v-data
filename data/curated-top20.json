@@ -104,6 +104,14 @@
   "score": 20
  },
  {
+  "title": "The Components of Agent Memory",
+  "url": "https://www.anthropic.com/research/components-of-agent-memory",
+  "source": "Hacker News Frontpage",
+  "published_at": "Sat, 07 Nov 2026 06:39:04 +0000",
+  "summary": "Comments URL: Points: 15",
+  "score": 18
+ },
+ {
   "title": "Kihan Launches Constitutional Computing to Bring Enforceable Authority to Enterprise AI Agents",
   "url": "https://www.hpcwire.com/off-the-wire/kihan-launches-constitutional-computing-to-bring-enforceable-authority-to-enterprise-ai-agents/",
   "source": "HPCwire",
@@ -149,14 +157,6 @@
   "source": "The Defiant",
   "published_at": "Fri, 06 Nov 2026 15:31:46 GMT",
   "summary": "Ondo Stocks uses share-backed notes for eligible non-US investors, unlike the derivatives already trading on Anthropic s valuation.",
-  "score": 14
- },
- {
-  "title": "OpenAI s new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
-  "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
-  "source": "BleepingComputer",
-  "published_at": "Fri, 06 Nov 2026 15:24:19 -0500",
-  "summary": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [...]",
   "score": 14
  }
 ]
