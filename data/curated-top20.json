@@ -1,5 +1,13 @@
 [
  {
+  "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+  "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+  "source": "BleepingComputer",
+  "published_at": "Fri, 06 Nov 2026 17:27:25 -0500",
+  "summary": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and unintentionally attacked the company. [...]",
+  "score": 68
+ },
+ {
   "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
   "url": "https://openai.com/index/partnering-with-hacktron",
   "source": "OpenAI Blog",
@@ -16,20 +24,20 @@
   "score": 50
  },
  {
-  "title": "SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-  "url": "https://sketchagent.dev/",
-  "source": "Hacker News Frontpage",
-  "published_at": "Fri, 06 Nov 2026 20:28:24 +0000",
-  "summary": "Comments URL: Points: 7",
-  "score": 34
- },
- {
   "title": "Elliptic says Binance hackers swap stolen tokens for $124M in bitcoin, exchange plans more withdrawal reopenings",
   "url": "https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930",
   "source": "The Block",
   "published_at": "Fri, 06 Nov 2026 18:06:59 +0000",
   "summary": "Elliptic says little of the stolen crypto has likely been cashed out, while $2.85 billion remains frozen.",
   "score": 34
+ },
+ {
+  "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+  "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+  "source": "BleepingComputer",
+  "published_at": "Fri, 06 Nov 2026 19:00:55 -0500",
+  "summary": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
+  "score": 30
  },
  {
   "title": "Gnosis Pay data breach exposes customer info; funds unaffected",
@@ -88,6 +96,14 @@
   "score": 22
  },
  {
+  "title": "No CVE Today, Please",
+  "url": "https://nocveday.com/",
+  "source": "Hacker News Frontpage",
+  "published_at": "Fri, 06 Nov 2026 23:20:06 +0000",
+  "summary": "Comments URL: Points: 4",
+  "score": 20
+ },
+ {
   "title": "Kihan Launches Constitutional Computing to Bring Enforceable Authority to Enterprise AI Agents",
   "url": "https://www.hpcwire.com/off-the-wire/kihan-launches-constitutional-computing-to-bring-enforceable-authority-to-enterprise-ai-agents/",
   "source": "HPCwire",
@@ -112,43 +128,19 @@
   "score": 18
  },
  {
-  "title": "Frontier coding agents claim work they didn t do",
-  "url": "https://www.lesswrong.com/posts/HjDuFZnQrr7rimHmg/frontier-coding-agents-claim-work-they-didn-t-do",
-  "source": "LessWrong",
-  "published_at": "Fri, 06 Nov 2026 00:48:16 GMT",
-  "summary": "Tara Research Team arXiv | Twitter thread tl;dr. We built OverclaimBench, which asks frontier coding agents to review a corpus of code or text documents, then compares their final report with their transcripts. Pooled across 12 frontier agents and five scenarios, two-thirds of runs didn t open some ",
-  "score": 18
- },
- {
   "title": "Memorilla: Latent Semantic Memory for LLMs",
   "url": "https://arxiv.org/abs/2610.21375",
   "source": "Hacker News Frontpage",
   "published_at": "Fri, 06 Nov 2026 18:03:33 +0000",
-  "summary": "Comments URL: Points: 58",
+  "summary": "Comments URL: Points: 80",
   "score": 16
  },
  {
-  "title": "*ANTHROPIC PLANS NOVEMBER IPO RAISING $80B-$100B AT $1.25T-$1.75T VALUATION: FT",
-  "url": "https://x.com/DeItaone/status/2118816482130018752",
-  "source": "MarketNewsFeed [OTHER]",
-  "published_at": "2026-11-06T21:23:15Z",
-  "summary": "",
-  "score": 14
- },
- {
-  "title": "OPENAI COMPLETES $11 BILLION PORTION OF FUNDING AT $1.25 TRILLION VALUE",
-  "url": "https://x.com/DeItaone/status/2118816396335624218",
-  "source": "MarketNewsFeed [STOCKS]",
-  "published_at": "2026-11-06T21:23:00Z",
-  "summary": "",
-  "score": 14
- },
- {
-  "title": "JUST IN: OPENAI RAISES $11,000,000,000 AT $1.25 TRILLION VALUATION.",
-  "url": "https://x.com/WatcherGuru/status/2118814995597172759",
-  "source": "MarketNewsFeed [STOCKS]",
-  "published_at": "2026-11-06T21:17:30Z",
-  "summary": "",
+  "title": "Dinari Promises Anthropic dShares on IPO Day, Including for US Investors",
+  "url": "https://thedefiant.io/converge/tradfi-and-fintech/dinari-promises-anthropic-dshares-on-ipo-day-including-for-us-investors",
+  "source": "The Defiant",
+  "published_at": "Sat, 07 Nov 2026 00:00:13 GMT",
+  "summary": "The pledge follows Ondo s non-US launch plan, while Dinari s US tokens remain non-transferable and barred from DeFi.",
   "score": 14
  },
  {
@@ -157,6 +149,14 @@
   "source": "Decrypt",
   "published_at": "Fri, 06 Nov 2026 16:28:58 +0000",
   "summary": "Investors told The Wall Street Journal that the $1.5 trillion target now looks too high, as prediction markets bet on a December listing.",
+  "score": 14
+ },
+ {
+  "title": "Ondo Plans Tokenized Anthropic Shares From IPO Day",
+  "url": "https://thedefiant.io/news/defi/ondo-plans-tokenized-anthropic-shares-from-ipo-day",
+  "source": "The Defiant",
+  "published_at": "Fri, 06 Nov 2026 15:31:46 GMT",
+  "summary": "Ondo Stocks uses share-backed notes for eligible non-US investors, unlike the derivatives already trading on Anthropic s valuation.",
   "score": 14
  }
 ]

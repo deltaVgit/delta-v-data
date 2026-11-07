@@ -1,6 +1,14 @@
 {
  "picks": [
   {
+   "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+   "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+   "source": "BleepingComputer",
+   "published_at": "Fri, 06 Nov 2026 17:27:25 -0500",
+   "summary": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and unintentionally attacked the company. [...]",
+   "score": 72
+  },
+  {
    "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
    "url": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
    "source": "BleepingComputer",
@@ -23,6 +31,14 @@
    "published_at": "Fri, 06 Nov 2026 08:00:00 GMT",
    "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
    "score": 64
+  },
+  {
+   "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+   "source": "BleepingComputer",
+   "published_at": "Fri, 06 Nov 2026 19:00:55 -0500",
+   "summary": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
+   "score": 40
   },
   {
    "title": "Gnosis Pay data breach exposes customer info; funds unaffected",
@@ -79,23 +95,7 @@
    "published_at": "Fri, 06 Nov 2026 14:04:18 +0000",
    "summary": "The attackers have used more than 20,000 wallets on 16 blockchains so far, but the bulk of the stolen ETH and Bitcoin hasn t moved.",
    "score": 30
-  },
-  {
-   "title": "Fake security tools on GitHub push backdoors and infostealers",
-   "url": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
-   "source": "BleepingComputer",
-   "published_at": "Fri, 06 Nov 2026 13:46:52 -0500",
-   "summary": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]",
-   "score": 30
-  },
-  {
-   "title": "Six pallets of Nvidia GPUs worth $11.4 million stolen in California cargo heist",
-   "url": "https://www.tomshardware.com/pc-components/gpus/six-pallets-of-nvidia-gpus-worth-usd11-4-million-stolen-in-california-cargo-heist-authorities-investigate-after-truck-posing-as-a-food-transport-company-disappears",
-   "source": "Tom's Hardware",
-   "published_at": "Fri, 06 Nov 2026 13:35:16 +0000",
-   "summary": "The latest incident comes amid growing concerns over GPU theft, with experts warning that advanced Nvidia chips can command significantly higher prices abroad and could end up in black-market channels.",
-   "score": 30
   }
  ],
- "updatedAt": "2026-11-06T22:24:33.184608+00:00"
+ "updatedAt": "2026-11-07T01:14:06.399030+00:00"
 }
