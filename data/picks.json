@@ -1,20 +1,20 @@
 {
   "picks": [
     {
+      "title": "Treasury Cuts Crypto Exchange MEXC Off From US Financial System",
+      "source": "Decrypt",
+      "category": "macro",
+      "url": "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system",
+      "published_at": "Fri, 06 Nov 2026 21:06:03 +0000",
+      "score": 240.0
+    },
+    {
       "title": "Treasury cuts off MEXC Global over alleged $16 billion in transactions linked to Iran, North Korea and Russia",
       "source": "The Block",
       "category": "macro",
       "url": "https://www.theblock.co/news/regulation/2026-11-06-treasury-cuts-off-mexc-global-over-alleged-16-billion-in-transactions-linked-to-iran-north-korea-and-russia-435957",
       "published_at": "Fri, 06 Nov 2026 21:02:30 +0000",
       "score": 240.0
-    },
-    {
-      "title": "Why a Hyperliquid Treasury Firm Wants to Become a US Futures Broker",
-      "source": "Decrypt",
-      "category": "macro",
-      "url": "https://decrypt.co/382754/why-hyperliquid-treasury-wants-us-futures-broker",
-      "published_at": "Fri, 06 Nov 2026 19:46:03 +0000",
-      "score": 156.0
     },
     {
       "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
@@ -25,5 +25,5 @@
       "score": 150.0
     }
   ],
-  "updatedAt": "2026-11-08T00:47:42.481734+00:00"
+  "updatedAt": "2026-11-08T01:02:30.566615+00:00"
 }
