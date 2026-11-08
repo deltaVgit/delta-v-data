@@ -1,101 +1,29 @@
 {
- "picks": [
-  {
-   "title": "[high] Keystone hardware wallet authenticity key stolen in website breach",
-   "url": "https://pwn.watch/i/keystone-hardware-wallet-auth-key-stolen-oct-2026",
-   "source": "pwn.watch · Supply chain",
-   "published_at": "Sat, 07 Nov 2026 02:30:25 GMT",
-   "summary": "An attacker who broke into hardware wallet maker Keystone s official website, detected on October 20, exploited a vulnerability in a third-party data monitoring tool to escalate privileges and stole the WebAuth key Keystone uses to verify that its devices are genuine. With that key, counterfeit wall",
-   "score": 68
-  },
-  {
-   "title": "Hackers pull off $133 million French bank heist via service provider",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
-   "source": "BleepingComputer",
-   "published_at": "Sat, 07 Nov 2026 10:25:35 -0500",
-   "summary": "French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]",
-   "score": 50
-  },
-  {
-   "title": "[high] Chrome 156 updates fix 426 security bugs, 11 of them critical (none known exploited)",
-   "url": "https://pwn.watch/i/chrome-156-security-update-oct-2026",
-   "source": "pwn.watch · Patch now",
-   "published_at": "Sat, 07 Nov 2026 13:48:10 GMT",
-   "summary": "Google s Chrome 156 stable release (156.0.8078.47, .48 on some Windows/Mac) fixed 353 security issues, including six critical bugs in Skia, Accessibility, CSS, Paint and WebRTC. On Oct 27 a follow-up update (156.0.8078.73/.74) fixed 52 more, four of them critical (FileSystem, FileAPI, Skia, Layout).",
-   "score": 40
-  },
-  {
-   "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
-   "url": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
-   "source": "BleepingComputer",
-   "published_at": "Sat, 07 Nov 2026 09:10:19 -0500",
-   "summary": "Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger unwanted subscriptions. CTM360 reveals how these campaigns use deceptive verification steps and affiliate networks to generate revenue without deliver",
-   "score": 40
-  },
-  {
-   "title": "[high] @cosme breach leaks data on about 3 million members, including skin and hair types",
-   "url": "https://pwn.watch/i/istyle-cosme-member-data-breach-3m-nov-2026",
-   "source": "pwn.watch · Breaches",
-   "published_at": "Sun, 08 Nov 2026 16:17:56 GMT",
-   "summary": "istyle, which runs Japan s @cosme beauty review and shopping site, said on Nov 2 2026 that unauthorized access to @cosme, confirmed on Oct 28, leaked part of the member data tied to @cosme common IDs for about 3 million people, including members who have since left. The leaked fields are user IDs, n",
-   "score": 38
-  },
-  {
-   "title": "[high] Iris Ohyama s Iris Plaza store breach may expose data on 7.7 million people",
-   "url": "https://pwn.watch/i/iris-ohyama-iris-plaza-cloud-breach-7-7m-nov-2026",
-   "source": "pwn.watch · Breaches",
-   "published_at": "Sun, 08 Nov 2026 16:17:56 GMT",
-   "summary": "Iris Plaza, which runs the official online store of Japanese manufacturer Iris Ohyama, found a suspicious file in an external cloud service it uses on Oct 28 2026, confirmed unauthorized access by a third party and took the store and related sites offline. Its Nov 5 update says the customer data kep",
-   "score": 38
-  },
-  {
-   "title": "Keplr Confirms Web3Auth Recovery Addresses After Wallet Breach",
-   "url": "https://thedefiant.io/news/security/keplr-confirms-web3auth-recovery-addresses-after-wallet-breach",
-   "source": "The Defiant",
-   "published_at": "Sun, 08 Nov 2026 13:07:22 GMT",
-   "summary": "The list includes the destination of a six-account Cosmos Hub batch that tokenized 2,265.59 staked ATOM.",
-   "score": 38
-  },
-  {
-   "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
-   "url": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
-   "source": "BleepingComputer",
-   "published_at": "Sun, 08 Nov 2026 10:43:08 -0500",
-   "summary": "Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-party cloud service the company used. [...]",
-   "score": 38
-  },
-  {
-   "title": "[high] Chainalysis breach: all-customer password hashes and live tokens exposed; Reactor, KYT and Address Screening back online",
-   "url": "https://pwn.watch/i/chainalysis-internal-systems-unauthorized-access-oct-2026",
-   "source": "pwn.watch · Breaches",
-   "published_at": "Sat, 07 Nov 2026 22:09:56 GMT",
-   "summary": "Blockchain analytics firm Chainalysis said on Oct 30 2026 that an external actor using offensive agentic techniques gained unauthorized access to its systems and internal tools, initially exposing user IDs, full names, email addresses and organization role labels. The incident then widened: on Nov 2",
-   "score": 38
-  },
-  {
-   "title": "[critical] Web3Auth infrastructure breach exposed private keys for some Keplr Google/Apple-login wallets",
-   "url": "https://pwn.watch/i/web3auth-keplr-google-apple-login-key-breach-nov-2026",
-   "source": "pwn.watch · Breaches",
-   "published_at": "Sat, 07 Nov 2026 21:29:12 GMT",
-   "summary": "Web3Auth (Consensys) said on Nov 6 2026 it had paused its embedded-wallet service over a security issue affecting services used by some third parties, with no evidence MetaMask users were impacted. Its status page put the Login Service into maintenance for a security incident from Nov 6 18:30 UTC. O",
-   "score": 38
-  },
-  {
-   "title": "[high] Gnosis Pay breach exposed card numbers, home addresses and linked crypto wallets",
-   "url": "https://pwn.watch/i/gnosis-pay-legacy-card-system-breach-nov-2026",
-   "source": "pwn.watch · Breaches",
-   "published_at": "Sat, 07 Nov 2026 19:17:39 GMT",
-   "summary": "Crypto debit-card provider Gnosis Pay said its monitoring detected unauthorised access on Nov 3 2026 to the legacy system powering Gnosis Pay-branded (B2C) cards, with containment starting within two hours. It published the disclosure on Nov 6 and said customer funds were not affected; its enterpris",
-   "score": 38
-  },
-  {
-   "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
-   "url": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
-   "source": "CoinDesk",
-   "published_at": "Sat, 07 Nov 2026 16:51:00 +0000",
-   "summary": "",
-   "score": 38
-  }
- ],
- "updatedAt": "2026-11-08T23:10:01.144937+00:00"
+  "picks": [
+    {
+      "title": "We asked 100 AI researchers at EMNLP whether AI could be conscious, how they define consciousness, and how they engage with it",
+      "source": "LessWrong",
+      "category": "macro",
+      "url": "https://www.lesswrong.com/posts/34CgHvoSHA2TudSDp/we-asked-100-ai-researchers-at-emnlp-whether-ai-could-be",
+      "published_at": "Sun, 08 Nov 2026 21:18:59 GMT",
+      "score": 141.0
+    },
+    {
+      "title": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June",
+      "source": "The Block",
+      "category": "market",
+      "url": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984",
+      "published_at": "Sat, 07 Nov 2026 16:46:02 +0000",
+      "score": 135.0
+    },
+    {
+      "title": "This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet",
+      "source": "Decrypt",
+      "category": "market",
+      "url": "https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet",
+      "published_at": "Sun, 08 Nov 2026 14:01:03 +0000",
+      "score": 126.0
+    }
+  ],
+  "updatedAt": "2026-11-08T23:17:24.982574+00:00"
 }
