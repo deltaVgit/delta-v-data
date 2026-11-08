@@ -1,20 +1,20 @@
 {
   "picks": [
     {
-      "title": "Treasury Cuts Crypto Exchange MEXC Off From US Financial System",
-      "source": "Decrypt",
-      "category": "macro",
-      "url": "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system",
-      "published_at": "Fri, 06 Nov 2026 21:06:03 +0000",
-      "score": 240.0
-    },
-    {
       "title": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June",
       "source": "The Block",
       "category": "market",
       "url": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984",
       "published_at": "Sat, 07 Nov 2026 16:46:02 +0000",
       "score": 135.0
+    },
+    {
+      "title": "This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet",
+      "source": "Decrypt",
+      "category": "market",
+      "url": "https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet",
+      "published_at": "Sun, 08 Nov 2026 14:01:03 +0000",
+      "score": 126.0
     },
     {
       "title": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
@@ -25,5 +25,5 @@
       "score": 105.0
     }
   ],
-  "updatedAt": "2026-11-08T18:32:25.840452+00:00"
+  "updatedAt": "2026-11-08T18:47:22.243411+00:00"
 }
