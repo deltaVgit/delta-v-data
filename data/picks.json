@@ -1,101 +1,29 @@
 {
- "picks": [
-  {
-   "title": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
-   "source": "BleepingComputer",
-   "published_at": "Mon, 09 Nov 2026 11:04:57 -0500",
-   "summary": "Hackers are actively exploiting the SSHole vulnerability (CVE-2026-123158) in OpenSSH to execute commands, steal credentials, and establish persistent access. [...]",
-   "score": 112
-  },
-  {
-   "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
-   "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
-   "source": "Ars Technica",
-   "published_at": "Mon, 09 Nov 2026 19:41:34 +0000",
-   "summary": "*sshole poses a serious threat to Internet security.",
-   "score": 104
-  },
-  {
-   "title": "Binance Hack Launderers Mint Elon Musk and Animal Meme Coins to Move Stolen Crypto",
-   "url": "https://decrypt.co/382873/binance-hack-elon-musk-animal-meme-coins-launder-stolen-crypto",
-   "source": "Decrypt",
-   "published_at": "Mon, 09 Nov 2026 19:36:02 +0000",
-   "summary": "Elliptic says the hackers are minting their own worthless tokens—complete with cartoon animal and Elon Musk logos—and routing stolen funds through liquidity pools to break the trail.",
-   "score": 64
-  },
-  {
-   "title": "Binance hack launderers mint homemade Elon Musk, animal memecoins to move stolen funds: Elliptic",
-   "url": "https://www.theblock.co/news/ecosystems/2026-11-09-binance-hack-launderers-mint-homemade-elon-musk-animal-memecoins-move-stolen-funds-elliptic-436440",
-   "source": "The Block",
-   "published_at": "Mon, 09 Nov 2026 15:54:16 +0000",
-   "summary": "Elliptic says the extra swaps slow investigators down, but the stolen funds remain traceable onchain.",
-   "score": 64
-  },
-  {
-   "title": "Attackers Exploit Alpine SSH Password-Bypass Flaw",
-   "url": "https://thedefiant.io/news/security/attackers-exploit-alpine-ssh-password-bypass-flaw",
-   "source": "The Defiant",
-   "published_at": "Mon, 09 Nov 2026 19:52:50 GMT",
-   "summary": "GreyNoise reports successful exploitation, while Previdian logged 20 attempts. Alpine operators need to patch and restart SSH, or disable password authentication.",
-   "score": 40
-  },
-  {
-   "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
-   "url": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
-   "source": "BleepingComputer",
-   "published_at": "Mon, 09 Nov 2026 17:09:33 -0500",
-   "summary": "Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers. [...]",
-   "score": 38
-  },
-  {
-   "title": "York University breach exposed personal information dating to 2007",
-   "url": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
-   "source": "BleepingComputer",
-   "published_at": "Mon, 09 Nov 2026 16:22:31 -0500",
-   "summary": "York University has announced it suffered a cybersecurity incident in which a threat actor stole personal information people submitted through online forms. [...]",
-   "score": 38
-  },
-  {
-   "title": "Binance denies data breach after alleged ShinyHunters claims",
-   "url": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/",
-   "source": "BleepingComputer",
-   "published_at": "Mon, 09 Nov 2026 11:12:39 -0500",
-   "summary": "Binance, the world s largest crypto exchange, has denied claims of a new security breach made by a threat actor using the ShinyHunters handle on a newly emerged underground cybercrime forum. [...]",
-   "score": 38
-  },
-  {
-   "title": "North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack",
-   "url": "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack",
-   "source": "CoinDesk",
-   "published_at": "Mon, 09 Nov 2026 15:00:44 +0000",
-   "summary": "",
-   "score": 34
-  },
-  {
-   "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
-   "url": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
-   "source": "BleepingComputer",
-   "published_at": "Mon, 09 Nov 2026 13:32:42 -0500",
-   "summary": "France has linked October cyberattacks that disrupted refrigeration systems at more than 700 supermarkets and other retail locations to Iranian state-backed hackers, saying the attacks caused food losses and sparked at least 15 fires. [...]",
-   "score": 34
-  },
-  {
-   "title": "Cryptocurrency lawsuit: Ethereum Foundation required suicide pledge",
-   "url": "https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/",
-   "source": "Hacker News Frontpage",
-   "published_at": "Mon, 09 Nov 2026 15:23:57 +0000",
-   "summary": "Comments URL: Points: 63",
-   "score": 18
-  },
-  {
-   "title": "Google TPU 8tx Pairs AMD EPYC Turin Hosts with Confidential Computing while TPU 8i Max Doubles Memory Bandwidth",
-   "url": "https://www.servethehome.com/google-tpu-8tx-8i-max-amd-epyc-turin/",
-   "source": "ServeTheHome",
-   "published_at": "Mon, 09 Nov 2026 21:37:58 +0000",
-   "summary": "The new Google TPU 8tx pairs AMD EPYC Turin hosts with confidential computing while TPU 8i Max doubles memory bandwidth for inference The post Google TPU 8tx Pairs AMD EPYC Turin Hosts with Confidential Computing while TPU 8i Max Doubles Memory Bandwidth appeared first on ServeTheHome .",
-   "score": 16
-  }
- ],
- "updatedAt": "2026-11-09T23:29:13.511370+00:00"
+  "picks": [
+    {
+      "title": "Bitcoin in Limbo as Stocks Rebound Ahead of US Inflation Report",
+      "source": "Decrypt",
+      "category": "macro",
+      "url": "https://decrypt.co/382861/bitcoin-limbo-stocks-rebound-us-inflation",
+      "published_at": "Mon, 09 Nov 2026 19:06:03 +0000",
+      "score": 270.0
+    },
+    {
+      "title": "Binance denies data breach after alleged ShinyHunters claims",
+      "source": "BleepingComputer",
+      "category": "macro",
+      "url": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/",
+      "published_at": "Mon, 09 Nov 2026 11:12:39 -0500",
+      "score": 231.0
+    },
+    {
+      "title": "Prediction market broker River Markets registers affiliate as CFTC futures commission merchant",
+      "source": "The Block",
+      "category": "macro",
+      "url": "https://www.theblock.co/news/regulation/2026-11-09-river-markets-prediction-market-prime-brokerage-cftc-fcm-registration-436266",
+      "published_at": "Mon, 09 Nov 2026 15:05:02 +0000",
+      "score": 156.0
+    }
+  ],
+  "updatedAt": "2026-11-09T23:32:40.833543+00:00"
 }
