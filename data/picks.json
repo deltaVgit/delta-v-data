@@ -1,101 +1,29 @@
 {
- "picks": [
-  {
-   "title": "Current Reward Hacking Model Organisms Don’t Hack Like Real Models",
-   "url": "https://www.lesswrong.com/posts/PJjRs2mxRsN9TMXar/current-reward-hacking-model-organisms-don-t-hack-like-real",
-   "source": "LessWrong",
-   "published_at": "Mon, 09 Nov 2026 04:15:28 GMT",
-   "summary": "Summary Current reward hacking model organisms are poor proxies for real models . They do not exploit the hacks that open-weight frontier models do, and mostly hack narrowly or not at all. This is based on our evaluation of three model organisms : Mini HackGPT (GPT-OSS-120B from Golechha et al., 202",
-   "score": 42
-  },
-  {
-   "title": "Ankr Ethereum Bridge Loses More Than $303,000 in Five-Transaction Exploit",
-   "url": "https://thedefiant.io/news/hacks/ankr-ethereum-bridge-loses-more-than-303-000-in-five-transaction-exploit",
-   "source": "The Defiant",
-   "published_at": "Mon, 09 Nov 2026 08:53:50 GMT",
-   "summary": "The contract remained unpaused after withdrawals referencing a small Optimism deposit that had already been redeemed.",
-   "score": 40
-  },
-  {
-   "title": "Binance Says 335.9 Million-Record Breach Claim Is Likely a Scam",
-   "url": "https://thedefiant.io/news/hacks/binance-says-335-9-million-record-breach-claim-is-likely-a-scam",
-   "source": "The Defiant",
-   "published_at": "Mon, 09 Nov 2026 08:47:03 GMT",
-   "summary": "The exchange cites inconsistencies in a listing seeking $900,000 for purported identity documents, credentials and private keys.",
-   "score": 38
-  },
-  {
-   "title": "[high] @cosme breach leaks data on about 3 million members, including skin and hair types",
-   "url": "https://pwn.watch/i/istyle-cosme-member-data-breach-3m-nov-2026",
-   "source": "pwn.watch · Breaches",
-   "published_at": "Sun, 08 Nov 2026 16:17:56 GMT",
-   "summary": "istyle, which runs Japan s @cosme beauty review and shopping site, said on Nov 2 2026 that unauthorized access to @cosme, confirmed on Oct 28, leaked part of the member data tied to @cosme common IDs for about 3 million people, including members who have since left. The leaked fields are user IDs, n",
-   "score": 38
-  },
-  {
-   "title": "[high] Iris Ohyama s Iris Plaza store breach may expose data on 7.7 million people",
-   "url": "https://pwn.watch/i/iris-ohyama-iris-plaza-cloud-breach-7-7m-nov-2026",
-   "source": "pwn.watch · Breaches",
-   "published_at": "Sun, 08 Nov 2026 16:17:56 GMT",
-   "summary": "Iris Plaza, which runs the official online store of Japanese manufacturer Iris Ohyama, found a suspicious file in an external cloud service it uses on Oct 28 2026, confirmed unauthorized access by a third party and took the store and related sites offline. Its Nov 5 update says the customer data kep",
-   "score": 38
-  },
-  {
-   "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
-   "url": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
-   "source": "BleepingComputer",
-   "published_at": "Sun, 08 Nov 2026 10:43:08 -0500",
-   "summary": "Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-party cloud service the company used. [...]",
-   "score": 38
-  },
-  {
-   "title": "[high] Chainalysis breach: all-customer password hashes and live tokens exposed; Reactor, KYT and Address Screening back online",
-   "url": "https://pwn.watch/i/chainalysis-internal-systems-unauthorized-access-oct-2026",
-   "source": "pwn.watch · Breaches",
-   "published_at": "Sat, 07 Nov 2026 22:09:56 GMT",
-   "summary": "Blockchain analytics firm Chainalysis said on Oct 30 2026 that an external actor using offensive agentic techniques gained unauthorized access to its systems and internal tools, initially exposing user IDs, full names, email addresses and organization role labels. The incident then widened: on Nov 2",
-   "score": 38
-  },
-  {
-   "title": "[critical] Web3Auth infrastructure breach exposed private keys for some Keplr Google/Apple-login wallets",
-   "url": "https://pwn.watch/i/web3auth-keplr-google-apple-login-key-breach-nov-2026",
-   "source": "pwn.watch · Breaches",
-   "published_at": "Sat, 07 Nov 2026 21:29:12 GMT",
-   "summary": "Web3Auth (Consensys) said on Nov 6 2026 it had paused its embedded-wallet service over a security issue affecting services used by some third parties, with no evidence MetaMask users were impacted. Its status page put the Login Service into maintenance for a security incident from Nov 6 18:30 UTC. O",
-   "score": 38
-  },
-  {
-   "title": "Binance CFO steps down nine days after record hack; co-CEO says transition was planned six months ago",
-   "url": "https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992",
-   "source": "The Block",
-   "published_at": "Sat, 07 Nov 2026 21:57:58 +0000",
-   "summary": "Co-CEO Yi He said Ng is departing to pursue a new venture, under a transition plan put in place over the past six months.",
-   "score": 34
-  },
-  {
-   "title": "Linux Fixes Faulty Mitigation Selection For BHI Vulnerability",
-   "url": "https://www.phoronix.com/news/Linux-Fix-BHI-Mitigation-Build",
-   "source": "Phoronix",
-   "published_at": "Sun, 08 Nov 2026 06:03:38 -0500",
-   "summary": "This week s batch of x86 fixes have been sent out ahead of the Linux 7.4-rc2 kernel releasing later today...",
-   "score": 30
-  },
-  {
-   "title": "[critical] Contact Form 7 6.2–6.2.3 lets anyone upload arbitrary files, leading to RCE on stock Debian/Ubuntu Apache (CVE-2026-114432)",
-   "url": "https://pwn.watch/i/contact-form-7-unauthenticated-file-upload-cve-2026-114432",
-   "source": "pwn.watch · Patch now",
-   "published_at": "Sun, 08 Nov 2026 06:35:20 GMT",
-   "summary": "Contact Form 7, a WordPress form plugin with more than 10 million active installs, did not validate the type or extension of files uploaded through a form file field in versions 6.2 through 6.2.3, and a flaw in its temporary-file cleanup left the uploaded file on disk. Unauthenticated visitors can t",
-   "score": 28
-  },
-  {
-   "title": "[critical] CWP2Shell: Control Web Panel before 1.29 has an unauthenticated-to-root RCE chain (10 CVEs, fixed in 1.29)",
-   "url": "https://pwn.watch/i/cwp2shell-control-web-panel-pre-auth-root-rce-chain-nov-2026",
-   "source": "pwn.watch · Patch now",
-   "published_at": "Sun, 08 Nov 2026 05:40:00 GMT",
-   "summary": "On Nov 3 2026 VulnCheck disclosed ten vulnerabilities in Control Web Panel (CWP, formerly CentOS Web Panel) that chain from an unauthenticated request to a root shell. The CWP user panel (port 2083) sends its login redirect without stopping execution (CVE-2026-73696), so an attacker-named module fil",
-   "score": 28
-  }
- ],
- "updatedAt": "2026-11-09T10:16:16.930478+00:00"
+  "picks": [
+    {
+      "title": "Zama spin-off Raycash launches confidential stablecoin payments and private yield on Ethereum",
+      "source": "The Block",
+      "category": "market",
+      "url": "https://www.theblock.co/news/defi/2026-11-09-zama-spin-off-raycash-launches-confidential-stablecoin-payments-private-yield-ethereum-435909",
+      "published_at": "Mon, 09 Nov 2026 09:05:02 +0000",
+      "score": 171.0
+    },
+    {
+      "title": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
+      "source": "CoinDesk",
+      "category": "macro",
+      "url": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
+      "published_at": "Mon, 09 Nov 2026 03:21:49 +0000",
+      "score": 150.0
+    },
+    {
+      "title": "We asked 100 AI researchers at EMNLP whether AI could be conscious, how they define consciousness, and how they engage with it",
+      "source": "LessWrong",
+      "category": "macro",
+      "url": "https://www.lesswrong.com/posts/34CgHvoSHA2TudSDp/we-asked-100-ai-researchers-at-emnlp-whether-ai-could-be",
+      "published_at": "Sun, 08 Nov 2026 21:18:59 GMT",
+      "score": 141.0
+    }
+  ],
+  "updatedAt": "2026-11-09T10:17:23.577918+00:00"
 }
