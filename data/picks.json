@@ -1,20 +1,20 @@
 {
   "picks": [
     {
+      "title": "Binance denies data breach after alleged ShinyHunters claims",
+      "source": "BleepingComputer",
+      "category": "macro",
+      "url": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/",
+      "published_at": "Mon, 09 Nov 2026 11:12:39 -0500",
+      "score": 231.0
+    },
+    {
       "title": "Zama spin-off Raycash launches confidential stablecoin payments and private yield on Ethereum",
       "source": "The Block",
       "category": "market",
       "url": "https://www.theblock.co/news/defi/2026-11-09-zama-spin-off-raycash-launches-confidential-stablecoin-payments-private-yield-ethereum-435909",
       "published_at": "Mon, 09 Nov 2026 09:05:02 +0000",
       "score": 171.0
-    },
-    {
-      "title": "US bans MEXC crypto exchange over sanctions evasion, cybercrime links",
-      "source": "BleepingComputer",
-      "category": "macro",
-      "url": "https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/",
-      "published_at": "Mon, 09 Nov 2026 08:28:56 -0500",
-      "score": 156.0
     },
     {
       "title": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
@@ -25,5 +25,5 @@
       "score": 150.0
     }
   ],
-  "updatedAt": "2026-11-09T16:02:28.778233+00:00"
+  "updatedAt": "2026-11-09T16:17:29.990057+00:00"
 }
