@@ -1,29 +1,101 @@
 {
-  "picks": [
-    {
-      "title": "Zama spin-off Raycash launches confidential stablecoin payments and private yield on Ethereum",
-      "source": "The Block",
-      "category": "market",
-      "url": "https://www.theblock.co/news/defi/2026-11-09-zama-spin-off-raycash-launches-confidential-stablecoin-payments-private-yield-ethereum-435909",
-      "published_at": "Mon, 09 Nov 2026 09:05:02 +0000",
-      "score": 171.0
-    },
-    {
-      "title": "US bans MEXC crypto exchange over sanctions evasion, cybercrime links",
-      "source": "BleepingComputer",
-      "category": "macro",
-      "url": "https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/",
-      "published_at": "Mon, 09 Nov 2026 08:28:56 -0500",
-      "score": 156.0
-    },
-    {
-      "title": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
-      "source": "CoinDesk",
-      "category": "macro",
-      "url": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
-      "published_at": "Mon, 09 Nov 2026 03:21:49 +0000",
-      "score": 150.0
-    }
-  ],
-  "updatedAt": "2026-11-09T14:17:23.845163+00:00"
+ "picks": [
+  {
+   "title": "Current Reward Hacking Model Organisms Don’t Hack Like Real Models",
+   "url": "https://www.lesswrong.com/posts/PJjRs2mxRsN9TMXar/current-reward-hacking-model-organisms-don-t-hack-like-real",
+   "source": "LessWrong",
+   "published_at": "Mon, 09 Nov 2026 04:15:28 GMT",
+   "summary": "Summary Current reward hacking model organisms are poor proxies for real models . They do not exploit the hacks that open-weight frontier models do, and mostly hack narrowly or not at all. This is based on our evaluation of three model organisms : Mini HackGPT (GPT-OSS-120B from Golechha et al., 202",
+   "score": 42
+  },
+  {
+   "title": "PeckShield Flags $45.3 Million ETH Long With Possible UXLink Exploit Link",
+   "url": "https://thedefiant.io/news/markets/peckshield-flags-45-3-million-eth-long-with-possible-uxlink-exploit-link",
+   "source": "The Defiant",
+   "published_at": "Mon, 09 Nov 2026 10:39:12 GMT",
+   "summary": "A later dashboard snapshot showed about $44 million in ETH exposure and an unrealized loss of roughly $652,000.",
+   "score": 40
+  },
+  {
+   "title": "Ankr Ethereum Bridge Loses More Than $303,000 in Five-Transaction Exploit",
+   "url": "https://thedefiant.io/news/hacks/ankr-ethereum-bridge-loses-more-than-303-000-in-five-transaction-exploit",
+   "source": "The Defiant",
+   "published_at": "Mon, 09 Nov 2026 08:53:50 GMT",
+   "summary": "The contract remained unpaused after withdrawals referencing a small Optimism deposit that had already been redeemed.",
+   "score": 40
+  },
+  {
+   "title": "Binance Says 335.9 Million-Record Breach Claim Is Likely a Scam",
+   "url": "https://thedefiant.io/news/hacks/binance-says-335-9-million-record-breach-claim-is-likely-a-scam",
+   "source": "The Defiant",
+   "published_at": "Mon, 09 Nov 2026 08:47:03 GMT",
+   "summary": "The exchange cites inconsistencies in a listing seeking $900,000 for purported identity documents, credentials and private keys.",
+   "score": 38
+  },
+  {
+   "title": "FITCH RATINGS: FOR BITCOIN-BACKED SECURITIES, THE BINANCE HACK REINFORCES THE BENEFITS OF CONSERVATIVE COLLATERAL COVERAGE AND SHORT LIQUIDATION PERIODS.",
+   "url": "https://x.com/financialjuice/status/2119794661846131115",
+   "source": "MarketNewsFeed [CRYPTO]",
+   "published_at": "2026-11-09T14:10:18Z",
+   "summary": "",
+   "score": 34
+  },
+  {
+   "title": "BINANCE HACK SUGGESTS STRONGER BITCOIN MARKET RESILIENCE TO STRESS - FITCH RATINGS",
+   "url": "https://x.com/financialjuice/status/2119794219762188790",
+   "source": "MarketNewsFeed [CRYPTO]",
+   "published_at": "2026-11-09T14:08:35Z",
+   "summary": "",
+   "score": 34
+  },
+  {
+   "title": "FITCH RATINGS: BINANCE HACK SUGGESTS STRONGER BITCOIN MARKET RESILIENCE TO STRESS.",
+   "url": "https://x.com/financialjuice/status/2119793358076051905",
+   "source": "MarketNewsFeed [CRYPTO]",
+   "published_at": "2026-11-09T14:05:03Z",
+   "summary": "",
+   "score": 34
+  },
+  {
+   "title": "Mercado Bitcoin Begins View-Only Reopening After Hack",
+   "url": "https://thedefiant.io/news/hacks/mercado-bitcoin-begins-view-only-reopening-after-hack",
+   "source": "The Defiant",
+   "published_at": "Mon, 09 Nov 2026 13:34:05 GMT",
+   "summary": "The exchange says it is replacing stolen assets with company funds, while payments and trading will return in later phases.",
+   "score": 34
+  },
+  {
+   "title": "SlowMist Flags Cracked TradingView Premium as Wallet-Data Malware",
+   "url": "https://thedefiant.io/news/security/slowmist-flags-cracked-tradingview-premium-as-wallet-data-malware",
+   "source": "The Defiant",
+   "published_at": "Mon, 09 Nov 2026 04:13:40 GMT",
+   "summary": "The Windows sample uses Telegram and Steam to rotate command servers. SlowMist s alert gives no confirmed thefts or victim count.",
+   "score": 26
+  },
+  {
+   "title": "FORMATION SECURITIES NOTIFIES SEC OF INTENT TO OPERATE TOKENIZED SECURITIES VENUE ON SOLANA",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46Q1I4:0-formation-securities-notifies-sec-of-intent-to-operate-tokenized-securities-venue-on-solana/",
+   "source": "MarketNewsFeed [CRYPTO]",
+   "published_at": "2026-11-09T14:09:35Z",
+   "summary": "",
+   "score": 16
+  },
+  {
+   "title": "STRIVE - PURCHASES 29 BITCOIN AT $75,721 PER BITCOIN BETWEEN OCT 31-NOV 6, 2026 - SEC FILING",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46Q1ID:0-strive-purchases-29-bitcoin-at-75-721-per-bitcoin-between-oct-31-nov-6-2026-sec-filing/",
+   "source": "MarketNewsFeed [CRYPTO]",
+   "published_at": "2026-11-09T14:09:33Z",
+   "summary": "",
+   "score": 16
+  },
+  {
+   "title": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
+   "url": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy",
+   "source": "CoinDesk",
+   "published_at": "Mon, 09 Nov 2026 12:41:35 +0000",
+   "summary": "",
+   "score": 16
+  }
+ ],
+ "updatedAt": "2026-11-09T14:20:01.097583+00:00"
 }
