@@ -1,101 +1,29 @@
 {
- "picks": [
-  {
-   "title": "Current Reward Hacking Model Organisms Don’t Hack Like Real Models",
-   "url": "https://www.lesswrong.com/posts/PJjRs2mxRsN9TMXar/current-reward-hacking-model-organisms-don-t-hack-like-real",
-   "source": "LessWrong",
-   "published_at": "Mon, 09 Nov 2026 04:15:28 GMT",
-   "summary": "Summary Current reward hacking model organisms are poor proxies for real models . They do not exploit the hacks that open-weight frontier models do, and mostly hack narrowly or not at all. This is based on our evaluation of three model organisms : Mini HackGPT (GPT-OSS-120B from Golechha et al., 202",
-   "score": 42
-  },
-  {
-   "title": "[high] @cosme breach leaks data on about 3 million members, including skin and hair types",
-   "url": "https://pwn.watch/i/istyle-cosme-member-data-breach-3m-nov-2026",
-   "source": "pwn.watch · Breaches",
-   "published_at": "Sun, 08 Nov 2026 16:17:56 GMT",
-   "summary": "istyle, which runs Japan s @cosme beauty review and shopping site, said on Nov 2 2026 that unauthorized access to @cosme, confirmed on Oct 28, leaked part of the member data tied to @cosme common IDs for about 3 million people, including members who have since left. The leaked fields are user IDs, n",
-   "score": 38
-  },
-  {
-   "title": "[high] Iris Ohyama s Iris Plaza store breach may expose data on 7.7 million people",
-   "url": "https://pwn.watch/i/iris-ohyama-iris-plaza-cloud-breach-7-7m-nov-2026",
-   "source": "pwn.watch · Breaches",
-   "published_at": "Sun, 08 Nov 2026 16:17:56 GMT",
-   "summary": "Iris Plaza, which runs the official online store of Japanese manufacturer Iris Ohyama, found a suspicious file in an external cloud service it uses on Oct 28 2026, confirmed unauthorized access by a third party and took the store and related sites offline. Its Nov 5 update says the customer data kep",
-   "score": 38
-  },
-  {
-   "title": "Keplr Confirms Web3Auth Recovery Addresses After Wallet Breach",
-   "url": "https://thedefiant.io/news/security/keplr-confirms-web3auth-recovery-addresses-after-wallet-breach",
-   "source": "The Defiant",
-   "published_at": "Sun, 08 Nov 2026 13:07:22 GMT",
-   "summary": "The list includes the destination of a six-account Cosmos Hub batch that tokenized 2,265.59 staked ATOM.",
-   "score": 38
-  },
-  {
-   "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
-   "url": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
-   "source": "BleepingComputer",
-   "published_at": "Sun, 08 Nov 2026 10:43:08 -0500",
-   "summary": "Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-party cloud service the company used. [...]",
-   "score": 38
-  },
-  {
-   "title": "[high] Chainalysis breach: all-customer password hashes and live tokens exposed; Reactor, KYT and Address Screening back online",
-   "url": "https://pwn.watch/i/chainalysis-internal-systems-unauthorized-access-oct-2026",
-   "source": "pwn.watch · Breaches",
-   "published_at": "Sat, 07 Nov 2026 22:09:56 GMT",
-   "summary": "Blockchain analytics firm Chainalysis said on Oct 30 2026 that an external actor using offensive agentic techniques gained unauthorized access to its systems and internal tools, initially exposing user IDs, full names, email addresses and organization role labels. The incident then widened: on Nov 2",
-   "score": 38
-  },
-  {
-   "title": "[critical] Web3Auth infrastructure breach exposed private keys for some Keplr Google/Apple-login wallets",
-   "url": "https://pwn.watch/i/web3auth-keplr-google-apple-login-key-breach-nov-2026",
-   "source": "pwn.watch · Breaches",
-   "published_at": "Sat, 07 Nov 2026 21:29:12 GMT",
-   "summary": "Web3Auth (Consensys) said on Nov 6 2026 it had paused its embedded-wallet service over a security issue affecting services used by some third parties, with no evidence MetaMask users were impacted. Its status page put the Login Service into maintenance for a security incident from Nov 6 18:30 UTC. O",
-   "score": 38
-  },
-  {
-   "title": "[high] Gnosis Pay breach exposed card numbers, home addresses and linked crypto wallets",
-   "url": "https://pwn.watch/i/gnosis-pay-legacy-card-system-breach-nov-2026",
-   "source": "pwn.watch · Breaches",
-   "published_at": "Sat, 07 Nov 2026 19:17:39 GMT",
-   "summary": "Crypto debit-card provider Gnosis Pay said its monitoring detected unauthorised access on Nov 3 2026 to the legacy system powering Gnosis Pay-branded (B2C) cards, with containment starting within two hours. It published the disclosure on Nov 6 and said customer funds were not affected; its enterpris",
-   "score": 38
-  },
-  {
-   "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
-   "url": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
-   "source": "CoinDesk",
-   "published_at": "Sat, 07 Nov 2026 16:51:00 +0000",
-   "summary": "",
-   "score": 38
-  },
-  {
-   "title": "Binance CFO steps down nine days after record hack; co-CEO says transition was planned six months ago",
-   "url": "https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992",
-   "source": "The Block",
-   "published_at": "Sat, 07 Nov 2026 21:57:58 +0000",
-   "summary": "Co-CEO Yi He said Ng is departing to pursue a new venture, under a transition plan put in place over the past six months.",
-   "score": 34
-  },
-  {
-   "title": "Linux Fixes Faulty Mitigation Selection For BHI Vulnerability",
-   "url": "https://www.phoronix.com/news/Linux-Fix-BHI-Mitigation-Build",
-   "source": "Phoronix",
-   "published_at": "Sun, 08 Nov 2026 06:03:38 -0500",
-   "summary": "This week s batch of x86 fixes have been sent out ahead of the Linux 7.4-rc2 kernel releasing later today...",
-   "score": 30
-  },
-  {
-   "title": "[critical] Contact Form 7 6.2–6.2.3 lets anyone upload arbitrary files, leading to RCE on stock Debian/Ubuntu Apache (CVE-2026-114432)",
-   "url": "https://pwn.watch/i/contact-form-7-unauthenticated-file-upload-cve-2026-114432",
-   "source": "pwn.watch · Patch now",
-   "published_at": "Sun, 08 Nov 2026 06:35:20 GMT",
-   "summary": "Contact Form 7, a WordPress form plugin with more than 10 million active installs, did not validate the type or extension of files uploaded through a form file field in versions 6.2 through 6.2.3, and a flaw in its temporary-file cleanup left the uploaded file on disk. Unauthenticated visitors can t",
-   "score": 28
-  }
- ],
- "updatedAt": "2026-11-09T05:28:34.028363+00:00"
+  "picks": [
+    {
+      "title": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
+      "source": "CoinDesk",
+      "category": "macro",
+      "url": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
+      "published_at": "Mon, 09 Nov 2026 03:21:49 +0000",
+      "score": 150.0
+    },
+    {
+      "title": "We asked 100 AI researchers at EMNLP whether AI could be conscious, how they define consciousness, and how they engage with it",
+      "source": "LessWrong",
+      "category": "macro",
+      "url": "https://www.lesswrong.com/posts/34CgHvoSHA2TudSDp/we-asked-100-ai-researchers-at-emnlp-whether-ai-could-be",
+      "published_at": "Sun, 08 Nov 2026 21:18:59 GMT",
+      "score": 141.0
+    },
+    {
+      "title": "This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet",
+      "source": "Decrypt",
+      "category": "market",
+      "url": "https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet",
+      "published_at": "Sun, 08 Nov 2026 14:01:03 +0000",
+      "score": 126.0
+    }
+  ],
+  "updatedAt": "2026-11-09T05:32:33.220008+00:00"
 }
