@@ -1,6 +1,14 @@
 {
   "picks": [
     {
+      "title": "Bitcoin in Limbo as Stocks Rebound Ahead of US Inflation Report",
+      "source": "Decrypt",
+      "category": "macro",
+      "url": "https://decrypt.co/382861/bitcoin-limbo-stocks-rebound-us-inflation",
+      "published_at": "Mon, 09 Nov 2026 19:06:03 +0000",
+      "score": 270.0
+    },
+    {
       "title": "Binance denies data breach after alleged ShinyHunters claims",
       "source": "BleepingComputer",
       "category": "macro",
@@ -15,15 +23,7 @@
       "url": "https://www.theblock.co/news/defi/2026-11-09-zama-spin-off-raycash-launches-confidential-stablecoin-payments-private-yield-ethereum-435909",
       "published_at": "Mon, 09 Nov 2026 09:05:02 +0000",
       "score": 171.0
-    },
-    {
-      "title": "Vitalik Buterin Moves On From ‘Ultrasound Money,’ Says ETH’s Value Is Stability",
-      "source": "Decrypt",
-      "category": "macro",
-      "url": "https://decrypt.co/382837/vitalik-buterin-moves-on-from-ultrasound-money-says-eths-value-is-stability",
-      "published_at": "Mon, 09 Nov 2026 17:14:10 +0000",
-      "score": 150.0
     }
   ],
-  "updatedAt": "2026-11-09T19:02:37.226255+00:00"
+  "updatedAt": "2026-11-09T19:17:24.832113+00:00"
 }
