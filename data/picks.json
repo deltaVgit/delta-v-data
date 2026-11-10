@@ -1,101 +1,29 @@
 {
- "picks": [
-  {
-   "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
-   "source": "BleepingComputer",
-   "published_at": "Tue, 10 Nov 2026 14:31:11 -0500",
-   "summary": "A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform s AWS account to access and exfiltrate data from multiple customers AWS environments. [...]",
-   "score": 112
-  },
-  {
-   "title": "NEAR AI says SGLang vulnerability exposed user account details in security breach",
-   "url": "https://www.theblock.co/news/defi/2026-11-10-near-ai-security-breach-437002",
-   "source": "The Block",
-   "published_at": "Tue, 10 Nov 2026 10:17:13 +0000",
-   "summary": "NEAR AI explained that it found no indication that stored Private Chat conversations or uploaded files were accessed.",
-   "score": 68
-  },
-  {
-   "title": "Software engineer Rickrolls his Prusa 3D printer via remote code execution exploit",
-   "url": "https://www.tomshardware.com/tech-industry/cyber-security/software-engineer-rickrolls-his-prusa-3d-printer-via-remote-code-execution-exploit-one-week-of-testing-with-claude-opus-uncovers-23-prusa-buddy-firmware-defects",
-   "source": "Tom's Hardware",
-   "published_at": "Tue, 10 Nov 2026 12:18:07 +0000",
-   "summary": "A software engineer demonstrated the ability to Rickroll a 3D printer via remote code execution (RCE). This security flaw has been fixed in the latest Prusa software.",
-   "score": 40
-  },
-  {
-   "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
-   "url": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
-   "source": "BleepingComputer",
-   "published_at": "Tue, 10 Nov 2026 11:17:16 -0500",
-   "summary": "A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts. [...]",
-   "score": 40
-  },
-  {
-   "title": "Near AI Breach Exposes User Details and Data From 18 AI Agents",
-   "url": "https://decrypt.co/382965/near-ai-breach-exposes-user-details-data-ai-agents",
-   "source": "Decrypt",
-   "published_at": "Tue, 10 Nov 2026 20:16:03 +0000",
-   "summary": "An SGLang flaw let an attacker reach internal systems and potentially view confidential AI requests, exposing the limits of hardware-backed privacy protections.",
-   "score": 38
-  },
-  {
-   "title": "Fireworks AI security breach impacts Notion and their customers",
-   "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
-   "source": "Hacker News Frontpage",
-   "published_at": "Tue, 10 Nov 2026 07:19:38 +0000",
-   "summary": "Comments URL: Points: 5",
-   "score": 38
-  },
-  {
-   "title": "All net-connected vehicles from two major automakers allowed hackers to remotely unlock doors and start the engine",
-   "url": "https://www.tomshardware.com/tech-industry/cyber-security/all-net-connected-vehicles-from-two-major-automakers-allowed-hackers-to-remotely-unlock-doors-and-start-the-engine-now-patched-hard-coded-credentials-and-bypassed-mfa-security-showcase-a-lack-of-101-level-best-practices",
-   "source": "Tom's Hardware",
-   "published_at": "Tue, 10 Nov 2026 10:50:00 +0000",
-   "summary": "Any net-connected vehicle from two automakers could be remotely opened and started — now-patched failures with API backend security showcase a lack of 101-level best practices",
-   "score": 34
-  },
-  {
-   "title": "Ransomware recovery is now a client retention metric",
-   "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/",
-   "source": "BleepingComputer",
-   "published_at": "Tue, 10 Nov 2026 10:01:11 -0500",
-   "summary": "Recovering from ransomware doesn t guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermine trust. Kaseya examines how disconnected recovery tools create these problems and how integrated workflows can improve response times, transparency, ",
-   "score": 32
-  },
-  {
-   "title": "Queens Public library under ransomware attack e-borrowing suspended",
-   "url": "https://connect.queenslibrary.org/",
-   "source": "Hacker News Frontpage",
-   "published_at": "Tue, 10 Nov 2026 09:04:39 +0000",
-   "summary": "Comments URL: Points: 5",
-   "score": 32
-  },
-  {
-   "title": "New OpenSSH Vulnerability",
-   "url": "https://www.schneier.com/blog/archives/2026/11/new-openssh-vulnerability.html",
-   "source": "Schneier on Security",
-   "published_at": "2026-11-10T12:02:38Z",
-   "summary": "It’s a bad one , and it’s been in the code for a decade: A newly disclosed flaw involving OpenSSH and musl, dubbed “*sshole,” allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts configured to block password authentication simply by entering an oversized password. “",
-   "score": 30
-  },
-  {
-   "title": "AI Makes Reverse Engineering Mainstream Software & Malware Far Easier",
-   "url": "https://www.darkreading.com/application-security/ai-reverse-engineering-apps",
-   "source": "Dark Reading",
-   "published_at": "Tue, 10 Nov 2026 13:00:00 GMT",
-   "summary": "Researchers unpacked, mapped, and recreated complex software and the Turla malware, raising fresh concerns for defenders.",
-   "score": 26
-  },
-  {
-   "title": "Goldman, Citi and Global Banks Commit $270 Million to Challenge Crypto’s Stablecoin Giants",
-   "url": "https://decrypt.co/382953/goldman-citi-global-banks-270-million-challenge-crypto-stablecoin-giants",
-   "source": "Decrypt",
-   "published_at": "Tue, 10 Nov 2026 18:33:37 +0000",
-   "summary": "The funding, backing a U.S.-incorporated issuer codenamed “Project Faro,” covers five years of operations as traditional lenders move to challenge crypto-native giants Tether and Circle.",
-   "score": 16
-  }
- ],
- "updatedAt": "2026-11-10T20:30:38.449143+00:00"
+  "picks": [
+    {
+      "title": "Bitcoin Falls as Hot US Inflation Fuels Fears of Bigger Fed Rate Hike",
+      "source": "Decrypt",
+      "category": "macro",
+      "url": "https://decrypt.co/382950/bitcoin-falls-hot-us-inflation-fears-bigger-fed-rate-hike",
+      "published_at": "Tue, 10 Nov 2026 16:27:57 +0000",
+      "score": 285.0
+    },
+    {
+      "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
+      "source": "BleepingComputer",
+      "category": "macro",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
+      "published_at": "Tue, 10 Nov 2026 14:07:36 -0500",
+      "score": 195.0
+    },
+    {
+      "title": "Bitcoin slips before U.S. inflation report as traders price in Fed rate increase",
+      "source": "CoinDesk",
+      "category": "macro",
+      "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-u-s-inflation-report-as-traders-price-in-fed-rate-increase",
+      "published_at": "Tue, 10 Nov 2026 10:48:37 +0000",
+      "score": 165.0
+    }
+  ],
+  "updatedAt": "2026-11-10T20:32:36.452449+00:00"
 }
