@@ -1,0 +1,127 @@
+{
+  "source": "SlowMist Hacked",
+  "sourceUrl": "https://hacked.slowmist.io/en/",
+  "updatedAt": "2026-11-10",
+  "generatedAt": "2026-11-10T12:55:20Z",
+  "totals": {
+    "events": 2354,
+    "lostUsd": 45654597212.58
+  },
+  "window": {
+    "days": 30,
+    "from": "2026-10-11",
+    "to": "2026-11-10",
+    "events": 46,
+    "lostUsd": 6578757304.58
+  },
+  "latest": [
+    {
+      "date": "2026-11-10",
+      "target": "Initia",
+      "lossUsd": 615000.0,
+      "lossLabel": "$ 615,000",
+      "method": "Private Key Leak",
+      "summary": "The Initia L1 was halted at 06:18 UTC on November 10, 2026, in coordination with validators after identifying unauthorized transfers from escrow accounts holding assets bridged to several rollups. Compromised rollup infrastructure keys allowed the attacker to fabricate IBC transf",
+      "url": "https://x.com/initia/status/2120050740626628972?a=QJo33joErvmhV_SB2E8&s=46"
+    },
+    {
+      "date": "2026-11-09",
+      "target": "Ankr Ethereum Cross-chain Bridge",
+      "lossUsd": 304500.0,
+      "lossLabel": "$ 304,500",
+      "method": "Smart Contract Vulnerability",
+      "summary": "Ankr’s Ethereum cross-chain bridge was exploited. The attacker submitted five forged cross-chain receipts referencing the same legitimate Optimism transaction, altering the recipient, token, and amounts. All receipts carried valid signatures from the bridge’s trusted consensus si",
+      "url": "https://x.com/SlowMist_Team/status/2119720284093890615"
+    },
+    {
+      "date": "2026-11-09",
+      "target": "Swarm",
+      "lossUsd": 0.0,
+      "lossLabel": "0",
+      "method": "Supply Chain Attack",
+      "summary": "The development team Ethersphere behind the decentralized storage project Swarm suffered a supply chain attack. On November 9, 2026, attackers published a malicious bee-js 13.3.0 to npm and pushed a trojanized Swarm Desktop 0.56.2 via auto-updates. The malware reads Bee node conf",
+      "url": "https://x.com/ethswarm/status/2119764040008491491"
+    },
+    {
+      "date": "2026-11-08",
+      "target": "ACryptoS",
+      "lossUsd": 665429.0,
+      "lossLabel": "$ 665,429",
+      "method": "Smart Contract Vulnerability",
+      "summary": "DeFi yield aggregator ACryptoS suffered a vault exploit due to a missing input validation check in the depositMulti function (array length not verified against token count). Attackers could deposit a tiny single-token amount to mint the vast majority of vault shares and withdraw ",
+      "url": "https://x.com/acryptosdao/status/2119479478749667555"
+    },
+    {
+      "date": "2026-11-08",
+      "target": "LNbits",
+      "lossUsd": 1700.0,
+      "lossLabel": "$ 1,700",
+      "method": "Software Vulnerability",
+      "summary": "LNbits (open-source Lightning Network wallet and tools suite) suffered a wave of attacks where attackers created new accounts on instances and withdrew funds without authorization. The team urgently instructed all users to shut down their LNbits servers immediately while preparin",
+      "url": "https://x.com/lnbits/status/2119428804951048237"
+    },
+    {
+      "date": "2026-11-06",
+      "target": "Degen Coin Flip",
+      "lossUsd": 10000.0,
+      "lossLabel": "$ 10,000",
+      "method": "Smart Contract Vulnerability",
+      "summary": "Degen Coin Flip discovered an exploit in its Degen Spin game and was attacked by over 30,000 wallets. Damage was limited to about $10,000, all from the house. User funds are safe as players use their own wallets and the project does not hold balances. Spin and side bets are pause",
+      "url": "https://x.com/degencoinflip/status/2118555191599616042?s=46"
+    },
+    {
+      "date": "2026-11-06",
+      "target": "Keplr Wallet",
+      "lossUsd": 6010000.0,
+      "lossLabel": "$ 6,010,000",
+      "method": "Supply Chain Attack",
+      "summary": "Keplr Wallet accounts created via Google or Apple social login (powered by Web3Auth) suffered a private key breach due to a Web3Auth infrastructure vulnerability, leading to unauthorized transactions. Over 44,000 wallets were affected with ~$6.01 million in on-chain transfers. We",
+      "url": "https://x.com/keplrwallet/status/2118926087615045807"
+    },
+    {
+      "date": "2026-11-05",
+      "target": "$TENDRIL",
+      "lossUsd": 555000.0,
+      "lossLabel": "$ 555000",
+      "method": "Smart Contract Vulnerability",
+      "summary": "$TENDRIL's sell hook let sellers debit the pair's token balance and sync reserves before the remaining sell input arrived. The delayed input then withdrew nearly all USDT from the pool, causing ~$555K net loss.",
+      "url": "https://x.com/CertiKAlert/status/2118242639212658985"
+    },
+    {
+      "date": "2026-11-05",
+      "target": "FLOKI Trading Bot",
+      "lossUsd": 0.0,
+      "lossLabel": "-",
+      "method": "Unknown",
+      "summary": "The FLOKI team announced an exploit in its Telegram trading bot and took it offline. They are identifying affected users and will move remaining funds to new secure wallets. Users are instructed not to deposit into bot wallets, to move any funds from exported private keys to self",
+      "url": "https://x.com/FLOKI/status/2118381080260608281"
+    },
+    {
+      "date": "2026-11-03",
+      "target": "InsurancePool/CoreVault",
+      "lossUsd": 112300.0,
+      "lossLabel": "$ 112300",
+      "method": "Flash Loan Attack",
+      "summary": "On November 3, 2026, the InsurancePool and CoreVault contracts on BSC were attacked, resulting in a loss of approximately $112,300 (about 160.26 BNB). The attacker used a flash loan to manipulate liquidity pool prices/oracle, inflating a CoreVault redemption by about 33 times to ",
+      "url": "https://x.com/TenArmorAlert/status/2117794176079376390"
+    },
+    {
+      "date": "2026-11-02",
+      "target": "Mercado Bitcoin",
+      "lossUsd": 49000000.0,
+      "lossLabel": "$ 49,000,000",
+      "method": "Signing Capability Compromise",
+      "summary": "Brazil’s largest crypto exchange Mercado Bitcoin suffered a security incident in the early hours of November 2, 2026. Attackers drained approximately $38 million from its multi-chain hot wallets and some deposit addresses. The platform quickly suspended deposits and withdrawals, ",
+      "url": "https://x.com/MercadoBitcoin/status/2117417663966150718"
+    },
+    {
+      "date": "2026-11-02",
+      "target": "Solana MEV Bot King",
+      "lossUsd": 856000.0,
+      "lossLabel": "$ 856,000",
+      "method": "Hot Wallet Key Compromise",
+      "summary": "The main wallet of King (one of Solana’s oldest and most successful MEV/arbitrage bots with ~$7.2M lifetime PnL) was emptied in 146 seconds via five plain transfers signed with its own private key, just 24 seconds after it stopped trading on November 2, 2026. Approximately $856K ",
+      "url": "https://x.com/OnchainLens/status/2117318995460476935"
+    }
+  ]
+}
