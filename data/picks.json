@@ -1,14 +1,6 @@
 {
   "picks": [
     {
-      "title": "Bitcoin in Limbo as Stocks Rebound Ahead of US Inflation Report",
-      "source": "Decrypt",
-      "category": "macro",
-      "url": "https://decrypt.co/382861/bitcoin-limbo-stocks-rebound-us-inflation",
-      "published_at": "Mon, 09 Nov 2026 19:06:03 +0000",
-      "score": 270.0
-    },
-    {
       "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
       "source": "BleepingComputer",
       "category": "macro",
@@ -23,7 +15,15 @@
       "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-u-s-inflation-report-as-traders-price-in-fed-rate-increase",
       "published_at": "Tue, 10 Nov 2026 10:48:37 +0000",
       "score": 165.0
+    },
+    {
+      "title": "NEAR AI says SGLang vulnerability exposed user account details in security breach",
+      "source": "The Block",
+      "category": "macro",
+      "url": "https://www.theblock.co/news/defi/2026-11-10-near-ai-security-breach-437002",
+      "published_at": "Tue, 10 Nov 2026 10:17:13 +0000",
+      "score": 150.0
     }
   ],
-  "updatedAt": "2026-11-10T15:47:32.987459+00:00"
+  "updatedAt": "2026-11-10T16:02:30.237234+00:00"
 }
