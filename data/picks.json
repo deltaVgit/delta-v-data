@@ -1,6 +1,14 @@
 {
   "picks": [
     {
+      "title": "Bitcoin Falls as Hot US Inflation Fuels Fears of Bigger Fed Rate Hike",
+      "source": "Decrypt",
+      "category": "macro",
+      "url": "https://decrypt.co/382950/bitcoin-falls-hot-us-inflation-fears-bigger-fed-rate-hike",
+      "published_at": "Tue, 10 Nov 2026 16:27:57 +0000",
+      "score": 285.0
+    },
+    {
       "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
       "source": "BleepingComputer",
       "category": "macro",
@@ -15,15 +23,7 @@
       "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-u-s-inflation-report-as-traders-price-in-fed-rate-increase",
       "published_at": "Tue, 10 Nov 2026 10:48:37 +0000",
       "score": 165.0
-    },
-    {
-      "title": "NEAR AI says SGLang vulnerability exposed user account details in security breach",
-      "source": "The Block",
-      "category": "macro",
-      "url": "https://www.theblock.co/news/defi/2026-11-10-near-ai-security-breach-437002",
-      "published_at": "Tue, 10 Nov 2026 10:17:13 +0000",
-      "score": 150.0
     }
   ],
-  "updatedAt": "2026-11-10T16:17:23.539489+00:00"
+  "updatedAt": "2026-11-10T16:32:30.985755+00:00"
 }
