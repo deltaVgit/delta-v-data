@@ -1,101 +1,29 @@
 {
- "picks": [
-  {
-   "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
-   "source": "BleepingComputer",
-   "published_at": "Tue, 10 Nov 2026 05:10:20 -0500",
-   "summary": "Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges. [...]",
-   "score": 74
-  },
-  {
-   "title": "Fireworks AI discloses new breach after cloud provider hack",
-   "url": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/",
-   "source": "BleepingComputer",
-   "published_at": "Tue, 10 Nov 2026 02:49:58 -0500",
-   "summary": "AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider. [...]",
-   "score": 72
-  },
-  {
-   "title": "NEAR AI says SGLang vulnerability exposed user account details in security breach",
-   "url": "https://www.theblock.co/news/defi/2026-11-10-near-ai-security-breach-437002",
-   "source": "The Block",
-   "published_at": "Tue, 10 Nov 2026 10:17:13 +0000",
-   "summary": "NEAR AI explained that it found no indication that stored Private Chat conversations or uploaded files were accessed.",
-   "score": 68
-  },
-  {
-   "title": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
-   "url": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/",
-   "source": "BleepingComputer",
-   "published_at": "Tue, 10 Nov 2026 05:04:32 -0500",
-   "summary": "The Russian state-backed threat group Turla has been using a new malicious toolset called Cereal to intercept emails on Microsoft Exchange servers at government organizations. [...]",
-   "score": 60
-  },
-  {
-   "title": "Software engineer Rickrolls his Prusa 3D printer via remote code execution exploit",
-   "url": "https://www.tomshardware.com/tech-industry/cyber-security/software-engineer-rickrolls-his-prusa-3d-printer-via-remote-code-execution-exploit-one-week-of-testing-with-claude-opus-uncovers-23-prusa-buddy-firmware-defects",
-   "source": "Tom's Hardware",
-   "published_at": "Tue, 10 Nov 2026 12:18:07 +0000",
-   "summary": "A software engineer demonstrated the ability to Rickroll a 3D printer via remote code execution (RCE). This security flaw has been fixed in the latest Prusa software.",
-   "score": 40
-  },
-  {
-   "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
-   "url": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
-   "source": "BleepingComputer",
-   "published_at": "Tue, 10 Nov 2026 11:17:16 -0500",
-   "summary": "A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts. [...]",
-   "score": 40
-  },
-  {
-   "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
-   "url": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
-   "source": "BleepingComputer",
-   "published_at": "Tue, 10 Nov 2026 03:51:25 -0500",
-   "summary": "Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]",
-   "score": 40
-  },
-  {
-   "title": "Fireworks AI security breach impacts Notion and their customers",
-   "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
-   "source": "Hacker News Frontpage",
-   "published_at": "Tue, 10 Nov 2026 07:19:38 +0000",
-   "summary": "Comments URL: Points: 5",
-   "score": 38
-  },
-  {
-   "title": "All net-connected vehicles from two major automakers allowed hackers to remotely unlock doors and start the engine",
-   "url": "https://www.tomshardware.com/tech-industry/cyber-security/all-net-connected-vehicles-from-two-major-automakers-allowed-hackers-to-remotely-unlock-doors-and-start-the-engine-now-patched-hard-coded-credentials-and-bypassed-mfa-security-showcase-a-lack-of-101-level-best-practices",
-   "source": "Tom's Hardware",
-   "published_at": "Tue, 10 Nov 2026 10:50:00 +0000",
-   "summary": "Any net-connected vehicle from two automakers could be remotely opened and started — now-patched failures with API backend security showcase a lack of 101-level best practices",
-   "score": 34
-  },
-  {
-   "title": "Ransomware recovery is now a client retention metric",
-   "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/",
-   "source": "BleepingComputer",
-   "published_at": "Tue, 10 Nov 2026 10:01:11 -0500",
-   "summary": "Recovering from ransomware doesn t guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermine trust. Kaseya examines how disconnected recovery tools create these problems and how integrated workflows can improve response times, transparency, ",
-   "score": 32
-  },
-  {
-   "title": "Queens Public library under ransomware attack e-borrowing suspended",
-   "url": "https://connect.queenslibrary.org/",
-   "source": "Hacker News Frontpage",
-   "published_at": "Tue, 10 Nov 2026 09:04:39 +0000",
-   "summary": "Comments URL: Points: 5",
-   "score": 32
-  },
-  {
-   "title": "New OpenSSH Vulnerability",
-   "url": "https://www.schneier.com/blog/archives/2026/11/new-openssh-vulnerability.html",
-   "source": "Schneier on Security",
-   "published_at": "2026-11-10T12:02:38Z",
-   "summary": "It’s a bad one , and it’s been in the code for a decade: A newly disclosed flaw involving OpenSSH and musl, dubbed “*sshole,” allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts configured to block password authentication simply by entering an oversized password. “",
-   "score": 30
-  }
- ],
- "updatedAt": "2026-11-10T18:13:45.211834+00:00"
+  "picks": [
+    {
+      "title": "Bitcoin Falls as Hot US Inflation Fuels Fears of Bigger Fed Rate Hike",
+      "source": "Decrypt",
+      "category": "macro",
+      "url": "https://decrypt.co/382950/bitcoin-falls-hot-us-inflation-fears-bigger-fed-rate-hike",
+      "published_at": "Tue, 10 Nov 2026 16:27:57 +0000",
+      "score": 285.0
+    },
+    {
+      "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
+      "source": "BleepingComputer",
+      "category": "macro",
+      "url": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
+      "published_at": "Tue, 10 Nov 2026 03:51:25 -0500",
+      "score": 195.0
+    },
+    {
+      "title": "Bitcoin slips before U.S. inflation report as traders price in Fed rate increase",
+      "source": "CoinDesk",
+      "category": "macro",
+      "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-u-s-inflation-report-as-traders-price-in-fed-rate-increase",
+      "published_at": "Tue, 10 Nov 2026 10:48:37 +0000",
+      "score": 165.0
+    }
+  ],
+  "updatedAt": "2026-11-10T18:17:27.488501+00:00"
 }
