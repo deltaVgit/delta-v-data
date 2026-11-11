@@ -1,6 +1,14 @@
 {
   "picks": [
     {
+      "title": "Railway breach leads to $740,000 in fraudulent AI charges",
+      "source": "BleepingComputer",
+      "category": "macro",
+      "url": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
+      "published_at": "Tue, 10 Nov 2026 17:20:19 -0500",
+      "score": 150.0
+    },
+    {
       "title": "Characterizing secondary structure representation in ESM-2",
       "source": "LessWrong",
       "category": "macro",
@@ -15,15 +23,7 @@
       "url": "https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves",
       "published_at": "Tue, 10 Nov 2026 22:26:51 GMT",
       "score": 135.0
-    },
-    {
-      "title": "Bitmine reports $6.3 billion net loss in latest fiscal year, driven by 44% ether decline",
-      "source": "The Block",
-      "category": "macro",
-      "url": "https://www.theblock.co/news/business/2026-11-11-bitmine-6-3-billion-net-loss-437812",
-      "published_at": "Wed, 11 Nov 2026 06:22:32 +0000",
-      "score": 105.0
     }
   ],
-  "updatedAt": "2026-11-11T08:02:27.529417+00:00"
+  "updatedAt": "2026-11-11T08:17:30.371203+00:00"
 }
