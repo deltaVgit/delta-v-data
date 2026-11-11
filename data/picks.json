@@ -9,21 +9,21 @@
       "score": 195.0
     },
     {
-      "title": "Characterizing secondary structure representation in ESM-2",
-      "source": "LessWrong",
-      "category": "macro",
-      "url": "https://www.lesswrong.com/posts/BoBYFAbo9j8hJyKyn/characterizing-secondary-structure-representation-in-esm-2",
-      "published_at": "Wed, 11 Nov 2026 00:51:03 GMT",
-      "score": 141.0
-    },
-    {
       "title": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day",
       "source": "CoinDesk",
       "category": "market",
       "url": "https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day",
       "published_at": "Wed, 11 Nov 2026 11:37:04 +0000",
       "score": 135.0
+    },
+    {
+      "title": "Bitcoin Core discloses three patched security flaws, including high-severity mining bug",
+      "source": "The Block",
+      "category": "macro",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-11-bitcoin-core-discloses-three-patched-security-flaws-including-high-severity-mining-bug-437862",
+      "published_at": "Wed, 11 Nov 2026 12:50:08 +0000",
+      "score": 105.0
     }
   ],
-  "updatedAt": "2026-11-11T16:17:50.651719+00:00"
+  "updatedAt": "2026-11-11T16:32:40.002304+00:00"
 }
