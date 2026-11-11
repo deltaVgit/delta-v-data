@@ -1,29 +1,101 @@
 {
-  "picks": [
-    {
-      "title": "Bitcoin Falls as Hot US Inflation Fuels Fears of Bigger Fed Rate Hike",
-      "source": "Decrypt",
-      "category": "macro",
-      "url": "https://decrypt.co/382950/bitcoin-falls-hot-us-inflation-fears-bigger-fed-rate-hike",
-      "published_at": "Tue, 10 Nov 2026 16:27:57 +0000",
-      "score": 285.0
-    },
-    {
-      "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
-      "source": "BleepingComputer",
-      "category": "macro",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
-      "published_at": "Tue, 10 Nov 2026 14:07:36 -0500",
-      "score": 195.0
-    },
-    {
-      "title": "Characterizing secondary structure representation in ESM-2",
-      "source": "LessWrong",
-      "category": "macro",
-      "url": "https://www.lesswrong.com/posts/BoBYFAbo9j8hJyKyn/characterizing-secondary-structure-representation-in-esm-2",
-      "published_at": "Wed, 11 Nov 2026 00:51:03 GMT",
-      "score": 141.0
-    }
-  ],
-  "updatedAt": "2026-11-11T02:47:19.291089+00:00"
+ "picks": [
+  {
+   "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
+   "source": "BleepingComputer",
+   "published_at": "Tue, 10 Nov 2026 14:31:11 -0500",
+   "summary": "A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform s AWS account to access and exfiltrate data from multiple customers AWS environments. [...]",
+   "score": 112
+  },
+  {
+   "title": "Software engineer Rickrolls his Prusa 3D printer via remote code execution exploit",
+   "url": "https://www.tomshardware.com/tech-industry/cyber-security/software-engineer-rickrolls-his-prusa-3d-printer-via-remote-code-execution-exploit-one-week-of-testing-with-claude-opus-uncovers-23-prusa-buddy-firmware-defects",
+   "source": "Tom's Hardware",
+   "published_at": "Tue, 10 Nov 2026 12:18:07 +0000",
+   "summary": "A software engineer demonstrated the ability to Rickroll a 3D printer via remote code execution (RCE). This security flaw has been fixed in the latest Prusa software.",
+   "score": 40
+  },
+  {
+   "title": "Near AI Breach Exposes User Details and Data From 18 AI Agents",
+   "url": "https://decrypt.co/382965/near-ai-breach-exposes-user-details-data-ai-agents",
+   "source": "Decrypt",
+   "published_at": "Tue, 10 Nov 2026 20:16:03 +0000",
+   "summary": "An SGLang flaw let an attacker reach internal systems and potentially view confidential AI requests, exposing the limits of hardware-backed privacy protections.",
+   "score": 38
+  },
+  {
+   "title": "Railway breach leads to $740,000 in fraudulent AI charges",
+   "url": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
+   "source": "BleepingComputer",
+   "published_at": "Tue, 10 Nov 2026 17:20:19 -0500",
+   "summary": "Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing credentials for up to 100,000 workspaces. [...]",
+   "score": 38
+  },
+  {
+   "title": "A great old-timey game-programming hack (2013)",
+   "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+   "source": "Hacker News Frontpage",
+   "published_at": "Wed, 11 Nov 2026 01:56:31 +0000",
+   "summary": "Comments URL: Points: 3",
+   "score": 34
+  },
+  {
+   "title": "Artex: The AI Pen-Test Tool Hackers Turned Into a Weapon",
+   "url": "https://www.darkreading.com/cyberattacks-data-breaches/artex-ai-pen-test-tool-hackers-weapon",
+   "source": "Dark Reading",
+   "published_at": "Tue, 10 Nov 2026 21:01:14 GMT",
+   "summary": "Forks of the open source Artex framework, along with 45 similar pen-testing tools, remain capable of executing credential attacks and cloud breaches at machine speed across multiple industries.",
+   "score": 34
+  },
+  {
+   "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
+   "url": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
+   "source": "BleepingComputer",
+   "published_at": "Tue, 10 Nov 2026 15:54:55 -0500",
+   "summary": "Nitori, a major Japanese furniture and home accessories retailer, discovered that an attacker accessed a system on its network and may have stolen 37.62 million customer records. [...]",
+   "score": 34
+  },
+  {
+   "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+   "url": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
+   "source": "Krebs on Security",
+   "published_at": "Tue, 10 Nov 2026 21:55:03 +0000",
+   "summary": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month s Patch Tuesday addresses 63 critical flaws -- including a zero-day in Microsoft Outlook -- and comes amid important s",
+   "score": 30
+  },
+  {
+   "title": "New OpenSSH Vulnerability",
+   "url": "https://www.schneier.com/blog/archives/2026/11/new-openssh-vulnerability.html",
+   "source": "Schneier on Security",
+   "published_at": "2026-11-10T12:02:38Z",
+   "summary": "It’s a bad one , and it’s been in the code for a decade: A newly disclosed flaw involving OpenSSH and musl, dubbed “*sshole,” allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts configured to block password authentication simply by entering an oversized password. “",
+   "score": 30
+  },
+  {
+   "title": "November Patch Tuesday: An Overflowing Cornucopia of CVEs",
+   "url": "https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves",
+   "source": "Dark Reading",
+   "published_at": "Tue, 10 Nov 2026 22:26:51 GMT",
+   "summary": "Microsoft serves up an actively exploited Outlook zero-day, and a wave of critical Exchange, SharePoint, Windows Search, and LDAP bugs that exhausted defenders need to prioritize fast.",
+   "score": 28
+  },
+  {
+   "title": "AI Makes Reverse Engineering Mainstream Software & Malware Far Easier",
+   "url": "https://www.darkreading.com/application-security/ai-reverse-engineering-apps",
+   "source": "Dark Reading",
+   "published_at": "Tue, 10 Nov 2026 13:00:00 GMT",
+   "summary": "Researchers unpacked, mapped, and recreated complex software and the Turla malware, raising fresh concerns for defenders.",
+   "score": 26
+  },
+  {
+   "title": "ELEVATED HOUSEHOLD DEBT CONTINUES TO WEIGH ON THAILAND'S PRIVATE CONSUMPTION, CBANK MINUTES SAY.",
+   "url": "https://x.com/FirstSquawk/status/2120336563066548512",
+   "source": "MarketNewsFeed [STOCKS]",
+   "published_at": "2026-11-11T02:03:47Z",
+   "summary": "",
+   "score": 16
+  }
+ ],
+ "updatedAt": "2026-11-11T02:52:15.318107+00:00"
 }
