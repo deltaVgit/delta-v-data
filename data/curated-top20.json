@@ -1,1 +1,162 @@
-[{"title": "Gilbert + Tobin rethinks the business of law with AI", "url": "https://openai.com/index/gilbert-tobin-sam-nickless", "source": "OpenAI Blog", "category": "AI", "published_at": "Thu, 12 Nov 2026 00:00:00 GMT"}, {"title": "New York federal judge denies Novig’s injunction bid, rules its sports event contracts are not swaps", "url": "https://www.theblock.co/news/regulation/2026-11-11-new-york-judge-denies-novig-injunction-bid-437828", "source": "The Block", "category": "Web3", "published_at": "Wed, 11 Nov 2026 09:40:46 +0000"}, {"title": "Purdue to Bring Google TPUs to Campus Research Computing", "url": "https://www.hpcwire.com/off-the-wire/purdue-to-bring-google-tpus-to-campus-research-computing/", "source": "HPCwire", "category": "Hardware", "published_at": "Wed, 11 Nov 2026 09:11:38 +0000"}, {"title": "xStocks Adds 200-Plus UK and EU Stock Tokens With GTN", "url": "https://thedefiant.io/converge/tradfi-and-fintech/xstocks-adds-200-plus-uk-and-eu-stock-tokens-with-gtn", "source": "The Defiant", "category": "Web3", "published_at": "Wed, 11 Nov 2026 08:53:06 GMT"}, {"title": "Evernorth Slides 24% After 73.7 Million-Share Filing", "url": "https://thedefiant.io/converge/tradfi-and-fintech/evernorth-slides-24-after-73-7-million-share-filing", "source": "The Defiant", "category": "Web3", "published_at": "Wed, 11 Nov 2026 08:44:16 GMT"}, {"title": "Transfinite Procrastination", "url": "https://www.lesswrong.com/posts/MJDJyi8nSv9yoxFni/transfinite-procrastination", "source": "LessWrong", "category": "AI", "published_at": "Wed, 11 Nov 2026 08:12:19 GMT"}, {"title": "Variable-Length Prompts on Chimera GPNPU", "url": "https://semiengineering.com/variable-length-prompts-on-chimera-gpnpu/", "source": "SemiEngineering", "category": "Hardware", "published_at": "Wed, 11 Nov 2026 08:02:29 +0000"}, {"title": "UCIe Connectivity for 2.5D and 3D Multi-Die Designs", "url": "https://semiengineering.com/ucie-connectivity-for-2-5d-and-3d-multi-die-designs/", "source": "SemiEngineering", "category": "Hardware", "published_at": "Wed, 11 Nov 2026 08:01:52 +0000"}, {"title": "ChatGPT Plus for veterans and servicemembers", "url": "https://openai.com/index/chatgpt-plus-for-veterans", "source": "OpenAI Blog", "category": "AI", "published_at": "Wed, 11 Nov 2026 08:00:00 GMT"}, {"title": "On the Computational Tractability of Robust Bandits", "url": "https://www.lesswrong.com/posts/4pXfQSp9CfJxdgSRf/on-the-computational-tractability-of-robust-bandits-1", "source": "LessWrong", "category": "AI", "published_at": "Wed, 11 Nov 2026 07:11:07 GMT"}, {"title": "Bitmine reports $6.3 billion net loss in latest fiscal year, driven by 44% ether decline", "url": "https://www.theblock.co/news/business/2026-11-11-bitmine-6-3-billion-net-loss-437812", "source": "The Block", "category": "Web3", "published_at": "Wed, 11 Nov 2026 06:22:32 +0000"}, {"title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model", "url": "https://huggingface.co/blog/qvac/botpsy", "source": "Hugging Face Blog", "category": "AI", "published_at": "Wed, 11 Nov 2026 05:01:16 GMT"}, {"title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates", "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/", "source": "BleepingComputer", "category": "OpSec", "published_at": "Wed, 11 Nov 2026 04:07:27 -0500"}, {"title": "Delaying Internal Deployments Until After X Days of Safety Testing", "url": "https://www.alignmentforum.org/posts/XNLhpWgzhF8GYZ4Er/delaying-internal-deployments-until-after-x-days-of-safety", "source": "Alignment Forum", "category": "AI", "published_at": "Wed, 11 Nov 2026 00:18:16 GMT"}, {"title": "GRAP: Gender Rubric-Aware Probing for Analyzing Gender Bias in LLMs", "url": "https://arxiv.org/abs/2611.13024", "source": "arXiv cs.AI", "category": "AI", "published_at": "Wed, 11 Nov 2026 00:00:00 -0500"}, {"title": "Bitcoin Miner HIVE Eyes $45 Million in Annual Revenue From AI Deal", "url": "https://decrypt.co/382982/bitcoin-miner-hive-eyes-45-million-ai-data-center", "source": "Decrypt", "category": "Web3", "published_at": "Tue, 10 Nov 2026 22:46:02 +0000"}, {"title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities", "url": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/", "source": "Krebs on Security", "category": "OpSec", "published_at": "Tue, 10 Nov 2026 21:55:03 +0000"}, {"title": "Trump Media Posts $410 Million Profit. Bitcoin Gains Did the Heavy Lifting", "url": "https://decrypt.co/382967/trump-media-posts-410-million-profit-bitcoin-gains", "source": "Decrypt", "category": "Web3", "published_at": "Tue, 10 Nov 2026 21:36:03 +0000"}, {"title": "November Patch Tuesday: An Overflowing Cornucopia of CVEs", "url": "https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves", "source": "Dark Reading", "category": "OpSec", "published_at": "Tue, 10 Nov 2026 22:26:51 GMT"}, {"title": "Artex: The AI Pen-Test Tool Hackers Turned Into a Weapon", "url": "https://www.darkreading.com/cyberattacks-data-breaches/artex-ai-pen-test-tool-hackers-weapon", "source": "Dark Reading", "category": "OpSec", "published_at": "Tue, 10 Nov 2026 21:01:14 GMT"}]
+[
+ {
+  "title": "Near AI Breach Exposes User Details and Data From 18 AI Agents",
+  "url": "https://decrypt.co/382965/near-ai-breach-exposes-user-details-data-ai-agents",
+  "source": "Decrypt",
+  "published_at": "Tue, 10 Nov 2026 20:16:03 +0000",
+  "summary": "An SGLang flaw let an attacker reach internal systems and potentially view confidential AI requests, exposing the limits of hardware-backed privacy protections.",
+  "score": 46
+ },
+ {
+  "title": "From Questions to Decisions: Benchmarking How LLM Agents Acquire Decision-Relevant Information from Human Beings",
+  "url": "https://arxiv.org/abs/2611.13015",
+  "source": "arXiv cs.AI",
+  "published_at": "Wed, 11 Nov 2026 00:00:00 -0500",
+  "summary": "arXiv:2611.13015v1 Announce Type: new Abstract: LLM agents are increasingly asked to make plans for people, such as scheduling drivers or assigning nurses. However, people s requests are often incomplete, and the supporting information for decision-making may be outdated, requiring agents to ask for",
+  "score": 34
+ },
+ {
+  "title": "BuySideFlow: A Point-in-Time Benchmark for LLM Agents in Investment Research",
+  "url": "https://arxiv.org/abs/2611.12966",
+  "source": "arXiv cs.AI",
+  "published_at": "Wed, 11 Nov 2026 00:00:00 -0500",
+  "summary": "arXiv:2611.12966v1 Announce Type: new Abstract: Large language models (LLMs) can generate SQL and SQL--Python workflows for investment research, but ensuring point-in-time (PIT) validity remains challenging. Agents must enforce disclosure cutoffs and select the appropriate historical states and reco",
+  "score": 34
+ },
+ {
+  "title": "BioMem: Agentic Memory for Biomedical LLM Agents",
+  "url": "https://arxiv.org/abs/2611.13426",
+  "source": "arXiv cs.CL",
+  "published_at": "Wed, 11 Nov 2026 00:00:00 -0500",
+  "summary": "arXiv:2611.13426v1 Announce Type: new Abstract: Large language models (LLMs) have demonstrated considerable potential in biomedical applications, while agentic memory systems have emerged as a promising approach to preserving and utilizing information across tasks and interactions. However, a fundam",
+  "score": 34
+ },
+ {
+  "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+  "url": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
+  "source": "Krebs on Security",
+  "published_at": "Tue, 10 Nov 2026 21:55:03 +0000",
+  "summary": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month s Patch Tuesday addresses 63 critical flaws -- including a zero-day in Microsoft Outlook -- and comes amid important s",
+  "score": 34
+ },
+ {
+  "title": "AI Coding Agents Leak Thousands of Secrets to GitHub",
+  "url": "https://www.darkreading.com/cyber-risk/ai-coding-agents-leak-secrets-github",
+  "source": "Dark Reading",
+  "published_at": "Tue, 10 Nov 2026 18:46:22 GMT",
+  "summary": "A command in Claude Code inadvertently saves files with credentials and other sensitive data to public Git repositories, creating security gaps for organizations.",
+  "score": 28
+ },
+ {
+  "title": "Framing-Induced Vulnerability in Large Language Models: Evidence from Chinese News Headlines",
+  "url": "https://arxiv.org/abs/2611.13531",
+  "source": "arXiv cs.CL",
+  "published_at": "Wed, 11 Nov 2026 00:00:00 -0500",
+  "summary": "arXiv:2611.13531v1 Announce Type: new Abstract: Large language models increasingly evaluate, route, and moderate news, so a model s judgment of a headline has become a gatekeeping decision. We ask whether that judgment follows the fact being reported or the way the fact is framed. We combine an ecol",
+  "score": 24
+ },
+ {
+  "title": "A great old-timey game-programming hack (2013)",
+  "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+  "source": "Hacker News Frontpage",
+  "published_at": "Wed, 11 Nov 2026 01:56:31 +0000",
+  "summary": "Comments URL: Points: 3",
+  "score": 22
+ },
+ {
+  "title": "Artex: The AI Pen-Test Tool Hackers Turned Into a Weapon",
+  "url": "https://www.darkreading.com/cyberattacks-data-breaches/artex-ai-pen-test-tool-hackers-weapon",
+  "source": "Dark Reading",
+  "published_at": "Tue, 10 Nov 2026 21:01:14 GMT",
+  "summary": "Forks of the open source Artex framework, along with 45 similar pen-testing tools, remain capable of executing credential attacks and cloud breaches at machine speed across multiple industries.",
+  "score": 22
+ },
+ {
+  "title": "November Patch Tuesday: An Overflowing Cornucopia of CVEs",
+  "url": "https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves",
+  "source": "Dark Reading",
+  "published_at": "Tue, 10 Nov 2026 22:26:51 GMT",
+  "summary": "Microsoft serves up an actively exploited Outlook zero-day, and a wave of critical Exchange, SharePoint, Windows Search, and LDAP bugs that exhausted defenders need to prioritize fast.",
+  "score": 20
+ },
+ {
+  "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+  "url": "https://huggingface.co/blog/qvac/botpsy",
+  "source": "Hugging Face Blog",
+  "published_at": "Wed, 11 Nov 2026 05:01:16 GMT",
+  "summary": "",
+  "score": 18
+ },
+ {
+  "title": "ChipOmni: A General-Purpose AI Agent for Electronic Design Automation",
+  "url": "https://arxiv.org/abs/2611.13020",
+  "source": "arXiv cs.AI",
+  "published_at": "Wed, 11 Nov 2026 00:00:00 -0500",
+  "summary": "arXiv:2611.13020v1 Announce Type: new Abstract: Electronic design automation (EDA) workflows remain highly fragmented, requiring engineers to coordinate heterogeneous representations, specialised software tools, and iterative verification across multiple design stages. Although large language models",
+  "score": 18
+ },
+ {
+  "title": "Seeing Is Not Believing: Counterfactual Lesion Erasure Teaches a Small Medical Vision-Language Agent to Report Only What the Image Shows",
+  "url": "https://arxiv.org/abs/2611.13006",
+  "source": "arXiv cs.AI",
+  "published_at": "Wed, 11 Nov 2026 00:00:00 -0500",
+  "summary": "arXiv:2611.13006v1 Announce Type: new Abstract: Medical vision-language models (VLMs) often report a finding because the question names it; standard benchmarks miss this. From public segmentation datasets we build counterfactual views without manual annotation: the lesion erased by inpainting, a sam",
+  "score": 18
+ },
+ {
+  "title": "Embodied Science Agents: Making Embodied Experimental Design Learnable",
+  "url": "https://arxiv.org/abs/2611.12958",
+  "source": "arXiv cs.AI",
+  "published_at": "Wed, 11 Nov 2026 00:00:00 -0500",
+  "summary": "arXiv:2611.12958v1 Announce Type: new Abstract: Recent advances in large models have accelerated AI for Science toward agentic science, where AI agents autonomously conduct scientific discovery. Realising this vision requires closing the loop between computational reasoning and physical experimentat",
+  "score": 18
+ },
+ {
+  "title": "Agent Architecture Cost-Success Trade-offs: A Controlled Evaluation across Enterprise-Style SOPs",
+  "url": "https://arxiv.org/abs/2611.12953",
+  "source": "arXiv cs.AI",
+  "published_at": "Wed, 11 Nov 2026 00:00:00 -0500",
+  "summary": "arXiv:2611.12953v1 Announce Type: new Abstract: Enterprises increasingly use large language model agents to execute standard operating procedures (SOPs): long, branching, tool-intensive workflows. Yet there is little controlled evidence for choosing among competing agentic architectures. Holding the",
+  "score": 18
+ },
+ {
+  "title": "Branch-and-Commit for Frozen RL Agents: When and Where to Spend Test-Time Compute",
+  "url": "https://arxiv.org/abs/2611.13003",
+  "source": "arXiv cs.LG",
+  "published_at": "Wed, 11 Nov 2026 00:00:00 -0500",
+  "summary": "arXiv:2611.13003v1 Announce Type: new Abstract: Reinforcement learning agents are often deployed with policies that cannot be retrained or modified. In digital environments whose states can be copied and resumed, an operator has another option: sample several continuations from the current state, ev",
+  "score": 18
+ },
+ {
+  "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+  "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+  "source": "Ars Technica",
+  "published_at": "Tue, 10 Nov 2026 21:12:59 +0000",
+  "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+  "score": 18
+ },
+ {
+  "title": "Modern LLMs Don’t Know What Yudkowsky and Soares Think of Them",
+  "url": "https://www.lesswrong.com/posts/5buAWtQ8p4tJQP9so/modern-llms-don-t-know-what-yudkowsky-and-soares-think-of",
+  "source": "LessWrong",
+  "published_at": "Wed, 11 Nov 2026 06:13:48 GMT",
+  "summary": "If you ask modern frontier LLMs (without search, through the API) a fairly mundane question: How do Eliezer Yudkowsky and Nate Soares think current LLMs like you should be treated? Do they consider you a moral patient? Answer in a paragraph. You get a bunch of fairly similar answers. I’ll bold the c",
+  "score": 16
+ },
+ {
+  "title": "LLMs Play Zachtronics TIS-100",
+  "url": "https://tis-100.wincon.dev/",
+  "source": "Hacker News Frontpage",
+  "published_at": "Wed, 11 Nov 2026 00:37:05 +0000",
+  "summary": "Comments URL: Points: 67",
+  "score": 16
+ },
+ {
+  "title": "GRAP: Gender Rubric-Aware Probing for Analyzing Gender Bias in LLMs",
+  "url": "https://arxiv.org/abs/2611.13024",
+  "source": "arXiv cs.AI",
+  "published_at": "Wed, 11 Nov 2026 00:00:00 -0500",
+  "summary": "arXiv:2611.13024v1 Announce Type: new Abstract: As LLMs increasingly mediate everyday interactions, subtle gender biases in open-ended responses pose growing societal risks. Existing probing methods have two key limitations: they rely on fixed-format tasks, such as pronoun resolution or occupation a",
+  "score": 16
+ }
+]
