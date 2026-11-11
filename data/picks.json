@@ -1,20 +1,12 @@
 {
   "picks": [
     {
-      "title": "Bitcoin Falls as Hot US Inflation Fuels Fears of Bigger Fed Rate Hike",
-      "source": "Decrypt",
-      "category": "macro",
-      "url": "https://decrypt.co/382950/bitcoin-falls-hot-us-inflation-fears-bigger-fed-rate-hike",
-      "published_at": "Tue, 10 Nov 2026 16:27:57 +0000",
-      "score": 285.0
-    },
-    {
-      "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
+      "title": "Railway breach leads to $740,000 in fraudulent AI charges",
       "source": "BleepingComputer",
       "category": "macro",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
-      "published_at": "Tue, 10 Nov 2026 14:07:36 -0500",
-      "score": 195.0
+      "url": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
+      "published_at": "Tue, 10 Nov 2026 17:20:19 -0500",
+      "score": 150.0
     },
     {
       "title": "Characterizing secondary structure representation in ESM-2",
@@ -23,7 +15,15 @@
       "url": "https://www.lesswrong.com/posts/BoBYFAbo9j8hJyKyn/characterizing-secondary-structure-representation-in-esm-2",
       "published_at": "Wed, 11 Nov 2026 00:51:03 GMT",
       "score": 141.0
+    },
+    {
+      "title": "November Patch Tuesday: An Overflowing Cornucopia of CVEs",
+      "source": "Dark Reading",
+      "category": "cyber",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves",
+      "published_at": "Tue, 10 Nov 2026 22:26:51 GMT",
+      "score": 135.0
     }
   ],
-  "updatedAt": "2026-11-11T04:47:22.296334+00:00"
+  "updatedAt": "2026-11-11T05:02:33.416660+00:00"
 }
