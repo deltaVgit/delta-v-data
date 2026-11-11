@@ -1,6 +1,14 @@
 {
   "picks": [
     {
+      "title": "Who Runs the Ransomware Group Qilin?",
+      "source": "Krebs on Security",
+      "category": "macro",
+      "url": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
+      "published_at": "Wed, 11 Nov 2026 18:06:01 +0000",
+      "score": 201.0
+    },
+    {
       "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
       "source": "BleepingComputer",
       "category": "macro",
@@ -15,15 +23,7 @@
       "url": "https://www.theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907",
       "published_at": "Wed, 11 Nov 2026 17:23:10 +0000",
       "score": 135.0
-    },
-    {
-      "title": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day",
-      "source": "CoinDesk",
-      "category": "market",
-      "url": "https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day",
-      "published_at": "Wed, 11 Nov 2026 11:37:04 +0000",
-      "score": 135.0
     }
   ],
-  "updatedAt": "2026-11-11T18:02:40.713092+00:00"
+  "updatedAt": "2026-11-11T18:17:38.805143+00:00"
 }
