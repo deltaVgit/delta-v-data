@@ -1,0 +1,51 @@
+{
+  "source": "SEAL Weekly",
+  "sourceUrl": "https://radar.securityalliance.org/seal-weekly-stats-4-11-nov-2026/",
+  "title": "SEAL weekly stats: 4-11 Nov, 2026",
+  "week": "4-11 Nov, 2026",
+  "publishedAt": "Wed, 11 Nov 2026 02:20:38 GMT",
+  "incidents": 60,
+  "categories": [
+    {
+      "rank": 1,
+      "label": "Protocol compromise",
+      "amount": "$3.87M"
+    },
+    {
+      "rank": 2,
+      "label": "Social engineering",
+      "amount": "€3M"
+    },
+    {
+      "rank": 3,
+      "label": "Infrastructure exploit",
+      "amount": "$914K"
+    },
+    {
+      "rank": 4,
+      "label": "Phishing",
+      "amount": "$623K"
+    },
+    {
+      "rank": 5,
+      "label": "Seed compromise",
+      "amount": "$169K"
+    },
+    {
+      "rank": 6,
+      "label": "Malware",
+      "amount": "$108K"
+    },
+    {
+      "rank": 7,
+      "label": "DPRK intrusion",
+      "amount": "$35K"
+    }
+  ],
+  "collected": {
+    "phishingDomains": 5640,
+    "indicators": 5652,
+    "wallets": 105
+  },
+  "generatedAt": "2026-11-11T11:23:42Z"
+}
