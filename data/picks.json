@@ -1,29 +1,101 @@
 {
-  "picks": [
-    {
-      "title": "Who Runs the Ransomware Group Qilin?",
-      "source": "Krebs on Security",
-      "category": "macro",
-      "url": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
-      "published_at": "Wed, 11 Nov 2026 18:06:01 +0000",
-      "score": 201.0
-    },
-    {
-      "title": "Stablecoin Drain, ETF Outflows Leave Bitcoin Running on Empty",
-      "source": "Decrypt",
-      "category": "market",
-      "url": "https://decrypt.co/383094/stablecoin-drain-etf-outflows-bitcoin-running-empty",
-      "published_at": "Wed, 11 Nov 2026 21:46:03 +0000",
-      "score": 180.0
-    },
-    {
-      "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
-      "source": "BleepingComputer",
-      "category": "cyber",
-      "url": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
-      "published_at": "Wed, 11 Nov 2026 11:24:18 -0500",
-      "score": 180.0
-    }
-  ],
-  "updatedAt": "2026-11-12T03:02:27.660707+00:00"
+ "picks": [
+  {
+   "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
+   "url": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
+   "source": "BleepingComputer",
+   "published_at": "Wed, 11 Nov 2026 11:24:18 -0500",
+   "summary": "Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it. [...]",
+   "score": 70
+  },
+  {
+   "title": "Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise",
+   "url": "https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches",
+   "source": "Dark Reading",
+   "published_at": "Thu, 12 Nov 2026 00:00:00 GMT",
+   "summary": "The package adds public-private cyber responders, an AI-focused team run by the economic ministry, and more leeway to use the government s new active cyber-defense powers.",
+   "score": 38
+  },
+  {
+   "title": "Baker Tilly notifies clients of data breach at third-party provider",
+   "url": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
+   "source": "BleepingComputer",
+   "published_at": "Wed, 11 Nov 2026 18:01:31 -0500",
+   "summary": "The Baker Tilly Advisory Group is notifying clients that a data breach has compromised certain personal information about them and their dependents. [...]",
+   "score": 38
+  },
+  {
+   "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
+   "url": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
+   "source": "BleepingComputer",
+   "published_at": "Wed, 11 Nov 2026 17:56:21 -0500",
+   "summary": "ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices. [...]",
+   "score": 38
+  },
+  {
+   "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
+   "url": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
+   "source": "BleepingComputer",
+   "published_at": "Wed, 11 Nov 2026 15:54:20 -0500",
+   "summary": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]",
+   "score": 38
+  },
+  {
+   "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
+   "source": "BleepingComputer",
+   "published_at": "Wed, 11 Nov 2026 10:12:59 -0500",
+   "summary": "Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments. [...]",
+   "score": 34
+  },
+  {
+   "title": "Who Runs the Ransomware Group Qilin?",
+   "url": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
+   "source": "Krebs on Security",
+   "published_at": "Wed, 11 Nov 2026 18:06:01 +0000",
+   "summary": "The cybercrime group Qilin has emerged as the world s most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational security mistakes, and the administrator of Qilin has made a few key missteps over ",
+   "score": 32
+  },
+  {
+   "title": "Stablecoin Drain, ETF Outflows Leave Bitcoin Running on Empty",
+   "url": "https://decrypt.co/383094/stablecoin-drain-etf-outflows-bitcoin-running-empty",
+   "source": "Decrypt",
+   "published_at": "Wed, 11 Nov 2026 21:46:03 +0000",
+   "summary": "Stablecoin supply fell $14.2 billion in 30 days, the fastest contraction since June 2022, amid weak ETF demand.",
+   "score": 26
+  },
+  {
+   "title": "OKXICE sets Nov. 23 launch for tokenized securities venue under SEC innovation exemption",
+   "url": "https://www.theblock.co/news/regulation/2026-11-11-okxice-sets-nov-23-launch-for-tokenized-securities-venue-under-sec-innovation-exemption-437342",
+   "source": "The Block",
+   "published_at": "Wed, 11 Nov 2026 13:01:02 +0000",
+   "summary": "OKXICC, plans to launch its tokenized securities venue at the end of the month, the joint venture announced on Wednesday.",
+   "score": 26
+  },
+  {
+   "title": "OpenAI and Georgia county leaders hit with Mafia-style RICO racketeering lawsuit over $30 billion AI data center",
+   "url": "https://www.tomshardware.com/tech-industry/data-centers/georgia-politicians-openai-slapped-with-racketeering-lawsuit-over-3-2-gigawatt-ai-data-centers-plaintiffs-allege-multiple-violations-were-part-of-a-coordinated-scheme-to-get-project-camellia-approved",
+   "source": "Tom's Hardware",
+   "published_at": "Wed, 11 Nov 2026 16:30:00 +0000",
+   "summary": "The plaintiffs alleged that the parties committed fraud and concealment through NDAs and misleading public statements.",
+   "score": 18
+  },
+  {
+   "title": "PARAGUAY BANK COLLAPSE SHOWS STABLECOINS OFFER A LIMITED LIQUIDITY LIFELINE",
+   "url": "https://www.tradingview.com/news/binance_news:a1ac77551094b:0-paraguay-bank-collapse-shows-stablecoins-offer-a-limited-liquidity-lifeline/",
+   "source": "MarketNewsFeed [CRYPTO]",
+   "published_at": "2026-11-12T02:32:12Z",
+   "summary": "",
+   "score": 16
+  },
+  {
+   "title": "SEC enters fight over who regulates perpetual derivatives on stocks in the US",
+   "url": "https://www.theblock.co/news/regulation/2026-11-11-sec-enters-fight-who-regulates-perpetual-derivatives-stocks-in-us-438427",
+   "source": "The Block",
+   "published_at": "Wed, 11 Nov 2026 22:06:47 +0000",
+   "summary": "The SEC is stepping into the brewing fight over whether its sister agency should have approved perpetual derivatives on individual stocks.",
+   "score": 16
+  }
+ ],
+ "updatedAt": "2026-11-12T03:09:23.399697+00:00"
 }
