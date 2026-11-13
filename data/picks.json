@@ -1,14 +1,6 @@
 {
   "picks": [
     {
-      "title": "New N-able 4EverAble2Shell zero-day exploited hours after PoC released",
-      "source": "BleepingComputer",
-      "category": "macro",
-      "url": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
-      "published_at": "Thu, 12 Nov 2026 14:51:16 -0500",
-      "score": 231.0
-    },
-    {
       "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
       "source": "CoinDesk",
       "category": "macro",
@@ -23,7 +15,15 @@
       "url": "https://www.theblock.co/news/regulation/2026-11-13-doj-cftc-sue-arkansas-to-block-state-enforcement-action-against-kalshi-439669",
       "published_at": "Fri, 13 Nov 2026 09:32:39 +0000",
       "score": 180.0
+    },
+    {
+      "title": "North Korea Stole $400 Million in Crypto Using Deepfake Video Calls, DOJ Says",
+      "source": "Decrypt",
+      "category": "macro",
+      "url": "https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls",
+      "published_at": "Thu, 12 Nov 2026 22:06:03 +0000",
+      "score": 165.0
     }
   ],
-  "updatedAt": "2026-11-13T12:47:36.625385+00:00"
+  "updatedAt": "2026-11-13T13:02:39.442690+00:00"
 }
