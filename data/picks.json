@@ -1,29 +1,101 @@
 {
-  "picks": [
-    {
-      "title": "Fed Chair Warsh Wants Answers on AI Inflation—and Bitcoin May Feel the Impact",
-      "source": "Decrypt",
-      "category": "macro",
-      "url": "https://decrypt.co/383259/fed-chair-warsh-wants-answers-ai-inflation-bitcoin",
-      "published_at": "Fri, 13 Nov 2026 18:36:02 +0000",
-      "score": 330.0
-    },
-    {
-      "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
-      "source": "CoinDesk",
-      "category": "macro",
-      "url": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
-      "published_at": "Fri, 13 Nov 2026 07:05:29 +0000",
-      "score": 195.0
-    },
-    {
-      "title": "Ethereum and Layer 1s Explained",
-      "source": "The Block",
-      "category": "macro",
-      "url": "https://www.theblock.co/learn/campus/ethereum-and-layer-1s-explained-435883",
-      "published_at": "Fri, 13 Nov 2026 14:12:23 +0000",
-      "score": 186.0
-    }
-  ],
-  "updatedAt": "2026-11-13T22:02:41.907912+00:00"
+ "picks": [
+  {
+   "title": "Unpatched Windows SignDrop Exploit Grants System Rights",
+   "url": "https://thedefiant.io/frontier/technology/unpatched-windows-signdrop-exploit-grants-system-rights",
+   "source": "The Defiant",
+   "published_at": "Fri, 13 Nov 2026 16:38:33 GMT",
+   "summary": "Independent testers reproduced the local privilege escalation, but exposure depends on Windows builds and CLFS settings. Disabling the affected hardening carries its own risk.",
+   "score": 40
+  },
+  {
+   "title": "Check Point warns of zero-day flaw exploited for root access",
+   "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
+   "source": "BleepingComputer",
+   "published_at": "Fri, 13 Nov 2026 05:44:22 -0500",
+   "summary": "Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since late October. [...]",
+   "score": 40
+  },
+  {
+   "title": "BitGo Denies Breach as Unocoin Probes Wallet Transfers",
+   "url": "https://thedefiant.io/news/security/bitgo-denies-breach-as-unocoin-probes-wallet-transfers",
+   "source": "The Defiant",
+   "published_at": "Fri, 13 Nov 2026 18:11:50 GMT",
+   "summary": "BitGo says the disputed transfers used Unocoin-held keys without its participation. The exchange suspects misuse of a backup mechanism as services remain suspended.",
+   "score": 38
+  },
+  {
+   "title": "Brazil s Caixa insurer breach exposes names and tax IDs of all 7.6M customers",
+   "url": "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e",
+   "source": "Hacker News Frontpage",
+   "published_at": "Fri, 13 Nov 2026 15:52:04 +0000",
+   "summary": "Comments URL: Points: 3",
+   "score": 38
+  },
+  {
+   "title": "Attackers in Binance Breach Targeted Known Weakness, Missing Controls",
+   "url": "https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls",
+   "source": "Dark Reading",
+   "published_at": "Fri, 13 Nov 2026 13:00:00 GMT",
+   "summary": "Blockchain complexities (such as attacker-deployed sweepers) hobble security controls designed to limit the damage of an exchange compromise.",
+   "score": 38
+  },
+  {
+   "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+   "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+   "source": "Ars Technica",
+   "published_at": "Fri, 13 Nov 2026 16:26:32 +0000",
+   "summary": "SignDrop exploit lets local users gain all-powerful System rights.",
+   "score": 34
+  },
+  {
+   "title": "Microsoft blames failed server health checks—not hackers—for global outage",
+   "url": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
+   "source": "Ars Technica",
+   "published_at": "Fri, 13 Nov 2026 15:26:53 +0000",
+   "summary": "Governments, hospitals, courts scrambled by global Microsoft outage.",
+   "score": 34
+  },
+  {
+   "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
+   "url": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
+   "source": "BleepingComputer",
+   "published_at": "Fri, 13 Nov 2026 11:21:43 -0500",
+   "summary": "Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]",
+   "score": 34
+  },
+  {
+   "title": "1994 Jeep Cherokee owner hacks 32-year-old car with Claude AI to pass California smog tests",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/1994-jeep-cherokee-owner-hacks-32-year-old-car-with-claude-ai-to-pass-california-smog-tests-enthusiast-reverse-engineered-the-ancient-ecu-for-diagnostics-and-control",
+   "source": "Tom's Hardware",
+   "published_at": "Fri, 13 Nov 2026 10:30:00 +0000",
+   "summary": "An AI enthusiast managed to get his old 1994 Jeep Cherokee to pass the California smog tests thanks to the help of AI, a little electronics wiring skill, and $15 of components.",
+   "score": 34
+  },
+  {
+   "title": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
+   "url": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations",
+   "source": "CoinDesk",
+   "published_at": "Fri, 13 Nov 2026 17:05:43 +0000",
+   "summary": "",
+   "score": 32
+  },
+  {
+   "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android s Clipboard Read Security Measures",
+   "url": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
+   "source": "Hacker News Frontpage",
+   "published_at": "Fri, 13 Nov 2026 18:23:49 +0000",
+   "summary": "Comments URL: Points: 6",
+   "score": 28
+  },
+  {
+   "title": "OpenAI disbands its robotics team as its general models start running robots",
+   "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+   "source": "Hacker News Frontpage",
+   "published_at": "Fri, 13 Nov 2026 17:55:23 +0000",
+   "summary": "Comments URL: Points: 114",
+   "score": 24
+  }
+ ],
+ "updatedAt": "2026-11-13T22:04:04.175868+00:00"
 }
