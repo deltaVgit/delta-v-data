@@ -1,6 +1,14 @@
 {
   "picks": [
     {
+      "title": "Bitcoin Hits 12-Week Low as Fed Rate Fears Undo Most of Summer Rally",
+      "source": "Decrypt",
+      "category": "macro",
+      "url": "https://decrypt.co/383231/bitcoin-hits-12-week-low-fed-rate-fears-undo-summer-rally",
+      "published_at": "Fri, 13 Nov 2026 17:22:54 +0000",
+      "score": 315.0
+    },
+    {
       "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
       "source": "CoinDesk",
       "category": "macro",
@@ -15,15 +23,7 @@
       "url": "https://www.theblock.co/learn/campus/ethereum-and-layer-1s-explained-435883",
       "published_at": "Fri, 13 Nov 2026 14:12:23 +0000",
       "score": 186.0
-    },
-    {
-      "title": "North Korea Stole $400 Million in Crypto Using Deepfake Video Calls, DOJ Says",
-      "source": "Decrypt",
-      "category": "macro",
-      "url": "https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls",
-      "published_at": "Thu, 12 Nov 2026 22:06:03 +0000",
-      "score": 165.0
     }
   ],
-  "updatedAt": "2026-11-13T17:17:31.587407+00:00"
+  "updatedAt": "2026-11-13T17:32:37.412129+00:00"
 }
