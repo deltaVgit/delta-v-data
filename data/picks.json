@@ -1,101 +1,29 @@
 {
- "picks": [
-  {
-   "title": "North Korea s Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
-   "url": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
-   "source": "CoinDesk",
-   "published_at": "Thu, 12 Nov 2026 22:55:52 +0000",
-   "summary": "",
-   "score": 64
-  },
-  {
-   "title": "New N-able 4EverAble2Shell zero-day exploited hours after PoC released",
-   "url": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
-   "source": "BleepingComputer",
-   "published_at": "Thu, 12 Nov 2026 14:51:16 -0500",
-   "summary": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed 4EverAble2Shell to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected systems, including 19 running the company s latest security update. [...]",
-   "score": 48
-  },
-  {
-   "title": "DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme",
-   "url": "https://www.theblock.co/news/business/2026-11-12-doj-seize-1-2-billion-binance-hack-north-korea-facestealer-439065",
-   "source": "The Block",
-   "published_at": "Thu, 12 Nov 2026 22:40:22 +0000",
-   "summary": "DOJ got court approval to seize $1.2B stolen from Binance by North Korea s TraderTraitor & took down the FaceStealer deepfake scam.",
-   "score": 34
-  },
-  {
-   "title": "Binance Says Hack Assets Covered, Reserve Proof Pending",
-   "url": "https://thedefiant.io/news/hacks/binance-says-hack-assets-covered-reserve-proof-pending",
-   "source": "The Defiant",
-   "published_at": "Thu, 12 Nov 2026 18:41:56 GMT",
-   "summary": "The exchange says it has closed the remaining gap in customer backing, but users must wait for the new snapshot s cryptographic proof to verify it.",
-   "score": 34
-  },
-  {
-   "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
-   "source": "BleepingComputer",
-   "published_at": "Thu, 12 Nov 2026 17:25:30 -0500",
-   "summary": "A new campaign dubbed wfx-loot has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull requests, and push secrets-stealing malware. [...]",
-   "score": 34
-  },
-  {
-   "title": "UK bank Griffin raises $20 million to expand into stablecoin payments",
-   "url": "https://www.coindesk.com/business/2026/11/12/uk-bank-griffin-raises-usd20-million-to-expand-into-stablecoin-payments",
-   "source": "CoinDesk",
-   "published_at": "Thu, 12 Nov 2026 12:04:42 +0000",
-   "summary": "",
-   "score": 28
-  },
-  {
-   "title": "New worm-like SCKit malware targets MSPs in ScreenConnect attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
-   "source": "BleepingComputer",
-   "published_at": "Thu, 12 Nov 2026 17:53:10 -0500",
-   "summary": "A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer devices to MSP technicians computers and compromise additional managed networks. [...]",
-   "score": 26
-  },
-  {
-   "title": "White House sends crypto-relevant picks to fill SEC and CFTC seats",
-   "url": "https://www.theblock.co/news/regulation/2026-11-12-white-house-crypto-picks-sec-cftc-439175",
-   "source": "The Block",
-   "published_at": "Fri, 13 Nov 2026 04:56:47 +0000",
-   "summary": "Crypto Council for Innovation s Ji Kim said this bipartisan lineup could develop durable rules that safeguard markets and support innovation.",
-   "score": 16
-  },
-  {
-   "title": "U.S. President names CFTC, SEC nominees for first time in a year",
-   "url": "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year",
-   "source": "CoinDesk",
-   "published_at": "Thu, 12 Nov 2026 22:47:41 +0000",
-   "summary": "",
-   "score": 16
-  },
-  {
-   "title": "Illinois Crypto Tax Draws Unlikely Alliance of DOJ, Banks and DeFi",
-   "url": "https://decrypt.co/383144/illinois-crypto-tax-draws-alliance-doj-banks-defi",
-   "source": "Decrypt",
-   "published_at": "Thu, 12 Nov 2026 17:46:02 +0000",
-   "summary": "The DOJ, the U.S. Chamber of Commerce, SIFMA and a crypto coalition led by a16z, Paradigm and Uniswap filed briefs backing a lawsuit to strike down the state’s 0.2% levy on digital asset transactions.",
-   "score": 16
-  },
-  {
-   "title": "SoFi Brings Its Bank-Issued Stablecoin to Polygon’s Payments Stack",
-   "url": "https://decrypt.co/383096/sofi-brings-bank-issued-stablecoin-polygon-payments-stack",
-   "source": "Decrypt",
-   "published_at": "Thu, 12 Nov 2026 14:01:02 +0000",
-   "summary": "SoFiUSD, the first stablecoin from a U.S. national bank, is now live on Polygon Open Money Stack alongside Ethereum and Solana.",
-   "score": 16
-  },
-  {
-   "title": "SoFiUSD goes live on Polygon as bank-issued stablecoin expands reach",
-   "url": "https://www.theblock.co/news/ecosystems/2026-11-12-sofiusd-goes-live-on-polygon-as-bank-issued-stablecoin-expands-reach-438542",
-   "source": "The Block",
-   "published_at": "Thu, 12 Nov 2026 14:00:00 +0000",
-   "summary": "SoFiUSD went live on Polygon, adding the network alongside Ethereum and Solana for SoFi s more than 17 million members.",
-   "score": 16
-  }
- ],
- "updatedAt": "2026-11-13T08:16:46.019315+00:00"
+  "picks": [
+    {
+      "title": "New N-able 4EverAble2Shell zero-day exploited hours after PoC released",
+      "source": "BleepingComputer",
+      "category": "macro",
+      "url": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
+      "published_at": "Thu, 12 Nov 2026 14:51:16 -0500",
+      "score": 231.0
+    },
+    {
+      "title": "Securitize and Ethena’s $100 million BlackRock BUIDL liquidity facility goes live",
+      "source": "The Block",
+      "category": "macro",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-12-securitize-ethena-buidl-liquidity-facility-live-usdc-438442",
+      "published_at": "Thu, 12 Nov 2026 14:00:00 +0000",
+      "score": 231.0
+    },
+    {
+      "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
+      "source": "CoinDesk",
+      "category": "macro",
+      "url": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
+      "published_at": "Fri, 13 Nov 2026 07:05:29 +0000",
+      "score": 195.0
+    }
+  ],
+  "updatedAt": "2026-11-13T08:17:31.643866+00:00"
 }
