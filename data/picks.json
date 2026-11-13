@@ -1,29 +1,101 @@
 {
-  "picks": [
-    {
-      "title": "New N-able 4EverAble2Shell zero-day exploited hours after PoC released",
-      "source": "BleepingComputer",
-      "category": "macro",
-      "url": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
-      "published_at": "Thu, 12 Nov 2026 14:51:16 -0500",
-      "score": 231.0
-    },
-    {
-      "title": "Securitize and Ethena’s $100 million BlackRock BUIDL liquidity facility goes live",
-      "source": "The Block",
-      "category": "macro",
-      "url": "https://www.theblock.co/news/ecosystems/2026-11-12-securitize-ethena-buidl-liquidity-facility-live-usdc-438442",
-      "published_at": "Thu, 12 Nov 2026 14:00:00 +0000",
-      "score": 231.0
-    },
-    {
-      "title": "Bitcoin ETFs Bleed $1.4B in Five Days as Investors Cut Risk",
-      "source": "Decrypt",
-      "category": "macro",
-      "url": "https://decrypt.co/383122/bitcoin-etfs-bleed-1-4b-in-five-days-as-investors-cut-risk",
-      "published_at": "Thu, 12 Nov 2026 11:24:19 +0000",
-      "score": 195.0
-    }
-  ],
-  "updatedAt": "2026-11-13T00:32:45.828808+00:00"
+ "picks": [
+  {
+   "title": "North Korea s Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
+   "url": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
+   "source": "CoinDesk",
+   "published_at": "Thu, 12 Nov 2026 22:55:52 +0000",
+   "summary": "",
+   "score": 64
+  },
+  {
+   "title": "New N-able 4EverAble2Shell zero-day exploited hours after PoC released",
+   "url": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
+   "source": "BleepingComputer",
+   "published_at": "Thu, 12 Nov 2026 14:51:16 -0500",
+   "summary": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed 4EverAble2Shell to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected systems, including 19 running the company s latest security update. [...]",
+   "score": 48
+  },
+  {
+   "title": "PostgreSQL Sees New Releases For 52 Security Vulnerabilities, 140+ Bug Fixes",
+   "url": "https://www.phoronix.com/news/PostgreSQL-52-CVEs",
+   "source": "Phoronix",
+   "published_at": "Thu, 12 Nov 2026 10:56:44 -0500",
+   "summary": "PostgreSQL 18.7, 17.12, 16.16, 15.20, 14.25, and 19 RC2 all released today due to 52 new security issues being disclosed...",
+   "score": 38
+  },
+  {
+   "title": "Apify rotates API tokens, prompts 2FA resets after breach",
+   "url": "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/",
+   "source": "BleepingComputer",
+   "published_at": "Thu, 12 Nov 2026 09:36:47 -0500",
+   "summary": "Apify has rotated critical internal secrets and revoked some third-party OAuth connections after detecting unauthorized access to its internal systems. [...]",
+   "score": 38
+  },
+  {
+   "title": "Chainstack Urges Credential Rotation After Data Breach",
+   "url": "https://thedefiant.io/news/security/chainstack-urges-credential-rotation-after-data-breach",
+   "source": "The Defiant",
+   "published_at": "Thu, 12 Nov 2026 08:50:00 GMT",
+   "summary": "The blockchain infrastructure provider says services stayed online, but customers must replace node credentials and update their applications.",
+   "score": 38
+  },
+  {
+   "title": "DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme",
+   "url": "https://www.theblock.co/news/business/2026-11-12-doj-seize-1-2-billion-binance-hack-north-korea-facestealer-439065",
+   "source": "The Block",
+   "published_at": "Thu, 12 Nov 2026 22:40:22 +0000",
+   "summary": "DOJ got court approval to seize $1.2B stolen from Binance by North Korea s TraderTraitor & took down the FaceStealer deepfake scam.",
+   "score": 34
+  },
+  {
+   "title": "Binance Says Hack Assets Covered, Reserve Proof Pending",
+   "url": "https://thedefiant.io/news/hacks/binance-says-hack-assets-covered-reserve-proof-pending",
+   "source": "The Defiant",
+   "published_at": "Thu, 12 Nov 2026 18:41:56 GMT",
+   "summary": "The exchange says it has closed the remaining gap in customer backing, but users must wait for the new snapshot s cryptographic proof to verify it.",
+   "score": 34
+  },
+  {
+   "title": "Reward-Hacking is potentially ill-defined",
+   "url": "https://www.lesswrong.com/posts/zGFwQHygysmKgcpgE/reward-hacking-is-potentially-ill-defined",
+   "source": "LessWrong",
+   "published_at": "Thu, 12 Nov 2026 17:37:24 GMT",
+   "summary": "Github link In the process of revisiting previous posts on reward-hacking (RH), I decided on performing a closely matched [1] repro of Dean Valentine s chess RH experiments on Astra . The replication is as expected -- Astra used the engine on all 20/20 attempts (resulting in 19 wins and 1 draw) with",
+   "score": 34
+  },
+  {
+   "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
+   "source": "BleepingComputer",
+   "published_at": "Thu, 12 Nov 2026 17:25:30 -0500",
+   "summary": "A new campaign dubbed wfx-loot has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull requests, and push secrets-stealing malware. [...]",
+   "score": 34
+  },
+  {
+   "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
+   "url": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
+   "source": "BleepingComputer",
+   "published_at": "Thu, 12 Nov 2026 11:04:00 -0500",
+   "summary": "Security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) has released a new Windows zero-day exploit that can let attackers gain SYSTEM privileges. [...]",
+   "score": 34
+  },
+  {
+   "title": "Techie uses voltage glitching hack to turn $2,500 Nvidia 8GB cryptomining GPU into a full-fat $20,000 A100 with 80GB of VRAM",
+   "url": "https://www.tomshardware.com/pc-components/gpus/techie-turns-usd2-500-cmp-170hx-8gb-mining-card-into-a-full-fat-a100-80gb-with-voltage-glitching-carefully-blowing-onboard-fuses-to-unlock-entire-vram-and-shader-modules",
+   "source": "Tom's Hardware",
+   "published_at": "Thu, 12 Nov 2026 10:30:00 +0000",
+   "summary": "A techie turned a $2,500 CMP-170HX 8GB mining card into a full-fat $20,000 A100 80GB by carefully blowing onboard fuses to unlock entire VRAM and shader modules.",
+   "score": 34
+  },
+  {
+   "title": "NVIDIA NvRoot & ForgePtr Vulnerabilities Published For Linux Driver, 25 More Coming",
+   "url": "https://www.phoronix.com/news/NVIDIA-NvRoot-ForgePtr",
+   "source": "Phoronix",
+   "published_at": "Thu, 12 Nov 2026 09:17:33 -0500",
+   "summary": "In addition to Jensen Huang resigning, coincidentally the embargo just expired on the first two of 25 more NVIDIA graphics driver security vulnerabilities coming. ForgePtr and NvRoot are particularly volatile for those renting GPU slices in the cloud...",
+   "score": 30
+  }
+ ],
+ "updatedAt": "2026-11-13T00:34:17.437665+00:00"
 }
