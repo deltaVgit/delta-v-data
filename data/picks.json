@@ -1,29 +1,101 @@
 {
-  "picks": [
-    {
-      "title": "Fed Chair Warsh Wants Answers on AI Inflation—and Bitcoin May Feel the Impact",
-      "source": "Decrypt",
-      "category": "macro",
-      "url": "https://decrypt.co/383259/fed-chair-warsh-wants-answers-ai-inflation-bitcoin",
-      "published_at": "Fri, 13 Nov 2026 18:36:02 +0000",
-      "score": 330.0
-    },
-    {
-      "title": "Ethereum and Layer 1s Explained",
-      "source": "The Block",
-      "category": "macro",
-      "url": "https://www.theblock.co/learn/campus/ethereum-and-layer-1s-explained-435883",
-      "published_at": "Fri, 13 Nov 2026 14:12:23 +0000",
-      "score": 186.0
-    },
-    {
-      "title": "A behind the scenes force may amplify bitcoin and ether price volatility",
-      "source": "CoinDesk",
-      "category": "market",
-      "url": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
-      "published_at": "Sat, 14 Nov 2026 12:57:00 +0000",
-      "score": 135.0
-    }
-  ],
-  "updatedAt": "2026-11-14T15:32:41.853465+00:00"
+ "picks": [
+  {
+   "title": "BLOCKSTREAM CEO ADAM BACK SAYS AI RAISES HACKING RISKS, URGES BITCOIN COLD STORAGE",
+   "url": "https://www.tradingview.com/news/bloomingbit:2d36965f7094b:0-blockstream-ceo-adam-back-says-ai-raises-hacking-risks-urges-bitcoin-cold-storage/",
+   "source": "MarketNewsFeed [CRYPTO]",
+   "published_at": "2026-11-14T14:47:08Z",
+   "summary": "",
+   "score": 46
+  },
+  {
+   "title": "Pennysia Users Urged to Revoke Approvals After Exploit",
+   "url": "https://thedefiant.io/news/hacks/pennysia-users-urged-to-revoke-approvals-after-exploit",
+   "source": "The Defiant",
+   "published_at": "Sat, 14 Nov 2026 09:31:12 GMT",
+   "summary": "Onchain records show swaps were disabled before SlowMist s public warning. The cited drain affected four addresses.",
+   "score": 40
+  },
+  {
+   "title": "Brazil s Caixa insurer breach exposes names and tax IDs of all 7.6M customers",
+   "url": "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e",
+   "source": "Hacker News Frontpage",
+   "published_at": "Fri, 13 Nov 2026 15:52:04 +0000",
+   "summary": "Comments URL: Points: 3",
+   "score": 38
+  },
+  {
+   "title": "Attackers in Binance Breach Targeted Known Weakness, Missing Controls",
+   "url": "https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls",
+   "source": "Dark Reading",
+   "published_at": "Fri, 13 Nov 2026 13:00:00 GMT",
+   "summary": "Blockchain complexities (such as attacker-deployed sweepers) hobble security controls designed to limit the damage of an exchange compromise.",
+   "score": 38
+  },
+  {
+   "title": "RL Reward-Hack Auditing for Chinese AI Safety",
+   "url": "https://www.lesswrong.com/posts/jwCPQhLWbWnwMhHME/rl-reward-hack-auditing-for-chinese-ai-safety",
+   "source": "LessWrong",
+   "published_at": "Sat, 14 Nov 2026 13:04:10 GMT",
+   "summary": "TL;DR: Access to AI safety talent & resources, particularly for labs during training, is sorely lacking in China. We created one of the largest AI safety communities in China , and plan to next start with auditing reward-hacks of unreliable upstream RL environments that domestic data vendors provide",
+   "score": 34
+  },
+  {
+   "title": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
+   "url": "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304",
+   "source": "The Block",
+   "published_at": "Sat, 14 Nov 2026 05:40:00 +0000",
+   "summary": "In today s newsletter, Meta tests prediction-market app using points instead of cash; DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme; and more.",
+   "score": 34
+  },
+  {
+   "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+   "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+   "source": "Ars Technica",
+   "published_at": "Fri, 13 Nov 2026 16:26:32 +0000",
+   "summary": "SignDrop exploit lets local users gain all-powerful System rights.",
+   "score": 34
+  },
+  {
+   "title": "Microsoft blames failed server health checks—not hackers—for global outage",
+   "url": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
+   "source": "Ars Technica",
+   "published_at": "Fri, 13 Nov 2026 15:26:53 +0000",
+   "summary": "Governments, hospitals, courts scrambled by global Microsoft outage.",
+   "score": 34
+  },
+  {
+   "title": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
+   "url": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations",
+   "source": "CoinDesk",
+   "published_at": "Fri, 13 Nov 2026 17:05:43 +0000",
+   "summary": "",
+   "score": 32
+  },
+  {
+   "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android s Clipboard Read Security Measures",
+   "url": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
+   "source": "Hacker News Frontpage",
+   "published_at": "Fri, 13 Nov 2026 18:23:49 +0000",
+   "summary": "Comments URL: Points: 6",
+   "score": 28
+  },
+  {
+   "title": "Researchers allege DeepSeek, Kimi, and other Chinese AI models were trained using banned Nvidia Blackwell GPUs",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-allege-deepseek-kimi-and-other-chinese-ai-models-were-trained-on-export-controlled-nvidia-blackwell-chips-statistical-analysis-on-model-weights-reveals-high-correlation-to-nvidia-hardware",
+   "source": "Tom's Hardware",
+   "published_at": "Sat, 14 Nov 2026 14:50:00 +0000",
+   "summary": "Researchers pinpoint that DeepSeek, Kimi, and other Chinese AI models were trained on export-controlled Nvidia Blackwell chips — statistical analysis on model weights reveals high correlation to Nvidia hardware",
+   "score": 24
+  },
+  {
+   "title": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
+   "url": "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground",
+   "source": "CoinDesk",
+   "published_at": "Sat, 14 Nov 2026 15:00:00 +0000",
+   "summary": "",
+   "score": 16
+  }
+ ],
+ "updatedAt": "2026-11-14T15:36:42.270863+00:00"
 }
