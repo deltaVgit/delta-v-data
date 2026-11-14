@@ -1,29 +1,101 @@
 {
-  "picks": [
-    {
-      "title": "Fed Chair Warsh Wants Answers on AI Inflation—and Bitcoin May Feel the Impact",
-      "source": "Decrypt",
-      "category": "macro",
-      "url": "https://decrypt.co/383259/fed-chair-warsh-wants-answers-ai-inflation-bitcoin",
-      "published_at": "Fri, 13 Nov 2026 18:36:02 +0000",
-      "score": 330.0
-    },
-    {
-      "title": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding",
-      "source": "The Block",
-      "category": "macro",
-      "url": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337",
-      "published_at": "Sat, 14 Nov 2026 17:50:41 +0000",
-      "score": 195.0
-    },
-    {
-      "title": "A behind the scenes force may amplify bitcoin and ether price volatility",
-      "source": "CoinDesk",
-      "category": "market",
-      "url": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
-      "published_at": "Sat, 14 Nov 2026 12:57:00 +0000",
-      "score": 135.0
-    }
-  ],
-  "updatedAt": "2026-11-14T20:02:35.810499+00:00"
+ "picks": [
+  {
+   "title": "Pennysia Users Urged to Revoke Approvals After Exploit",
+   "url": "https://thedefiant.io/news/hacks/pennysia-users-urged-to-revoke-approvals-after-exploit",
+   "source": "The Defiant",
+   "published_at": "Sat, 14 Nov 2026 09:31:12 GMT",
+   "summary": "Onchain records show swaps were disabled before SlowMist s public warning. The cited drain affected four addresses.",
+   "score": 40
+  },
+  {
+   "title": "Cursor confirms security breach led to malicious Claude Code extension",
+   "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+   "source": "BleepingComputer",
+   "published_at": "Sat, 14 Nov 2026 12:27:25 -0500",
+   "summary": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. [...]",
+   "score": 38
+  },
+  {
+   "title": "RL Reward-Hack Auditing for Chinese AI Safety",
+   "url": "https://www.lesswrong.com/posts/jwCPQhLWbWnwMhHME/rl-reward-hack-auditing-for-chinese-ai-safety",
+   "source": "LessWrong",
+   "published_at": "Sat, 14 Nov 2026 13:04:10 GMT",
+   "summary": "TL;DR: Access to AI safety talent & resources, particularly for labs during training, is sorely lacking in China. We created one of the largest AI safety communities in China , and plan to next start with auditing reward-hacks of unreliable upstream RL environments that domestic data vendors provide",
+   "score": 34
+  },
+  {
+   "title": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
+   "url": "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304",
+   "source": "The Block",
+   "published_at": "Sat, 14 Nov 2026 05:40:00 +0000",
+   "summary": "In today s newsletter, Meta tests prediction-market app using points instead of cash; DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme; and more.",
+   "score": 34
+  },
+  {
+   "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+   "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+   "source": "Ars Technica",
+   "published_at": "Fri, 13 Nov 2026 16:26:32 +0000",
+   "summary": "SignDrop exploit lets local users gain all-powerful System rights.",
+   "score": 34
+  },
+  {
+   "title": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
+   "url": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations",
+   "source": "CoinDesk",
+   "published_at": "Fri, 13 Nov 2026 17:05:43 +0000",
+   "summary": "",
+   "score": 32
+  },
+  {
+   "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android s Clipboard Read Security Measures",
+   "url": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
+   "source": "Hacker News Frontpage",
+   "published_at": "Fri, 13 Nov 2026 18:23:49 +0000",
+   "summary": "Comments URL: Points: 6",
+   "score": 28
+  },
+  {
+   "title": "Researchers allege DeepSeek, Kimi, and other Chinese AI models were trained using banned Nvidia Blackwell GPUs",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-allege-deepseek-kimi-and-other-chinese-ai-models-were-trained-on-export-controlled-nvidia-blackwell-chips-statistical-analysis-on-model-weights-reveals-high-correlation-to-nvidia-hardware",
+   "source": "Tom's Hardware",
+   "published_at": "Sat, 14 Nov 2026 14:50:00 +0000",
+   "summary": "Researchers pinpoint that DeepSeek, Kimi, and other Chinese AI models were trained on export-controlled Nvidia Blackwell chips — statistical analysis on model weights reveals high correlation to Nvidia hardware",
+   "score": 24
+  },
+  {
+   "title": "Louisiana AG calls CFTC chair an ‘obsequious standard bearer’ for prediction markets following agency lawsuit",
+   "url": "https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342",
+   "source": "The Block",
+   "published_at": "Sat, 14 Nov 2026 19:06:59 +0000",
+   "summary": "The CFTC sued Louisiana Friday to block a state judge s order banning 31 prediction markets, including Kalshi and Polymarket, in the state.",
+   "score": 18
+  },
+  {
+   "title": "OpenAI, Anthropic, Google and Other AI Giants Face Lawsuit Demanding Development Freeze",
+   "url": "https://decrypt.co/383270/openai-anthropic-google-ai-giants-lawsuit-development-freeze",
+   "source": "Decrypt",
+   "published_at": "Sat, 14 Nov 2026 17:01:02 +0000",
+   "summary": "Four nonprofit advocacy groups want a California court to stop major AI developers from building stronger models, alleging their technology could cause catastrophic harm worldwide.",
+   "score": 18
+  },
+  {
+   "title": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
+   "url": "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground",
+   "source": "CoinDesk",
+   "published_at": "Sat, 14 Nov 2026 15:00:00 +0000",
+   "summary": "",
+   "score": 16
+  },
+  {
+   "title": "Deutsche Bank Crypto Custody Goes Live for Paying Clients",
+   "url": "https://thedefiant.io/converge/tradfi-and-fintech/deutsche-bank-crypto-custody-goes-live-for-paying-clients",
+   "source": "The Defiant",
+   "published_at": "Sat, 14 Nov 2026 07:52:49 GMT",
+   "summary": "The European service supports bitcoin, ether and three stablecoins. Stablecoin conversion and tokenized financial instruments remain later steps.",
+   "score": 16
+  }
+ ],
+ "updatedAt": "2026-11-14T20:03:36.006392+00:00"
 }
