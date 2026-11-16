@@ -1,29 +1,101 @@
 {
-  "picks": [
-    {
-      "title": "TSMC employee data breach linked to cloud provider",
-      "source": "BleepingComputer",
-      "category": "macro",
-      "url": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
-      "published_at": "Sun, 15 Nov 2026 10:23:48 -0500",
-      "score": 231.0
-    },
-    {
-      "title": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
-      "source": "Decrypt",
-      "category": "market",
-      "url": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
-      "published_at": "Sun, 15 Nov 2026 14:01:02 +0000",
-      "score": 135.0
-    },
-    {
-      "title": "Our new blog for science",
-      "source": "OpenAI Blog",
-      "category": "market",
-      "url": "https://openai.com/index/our-new-blog-for-science",
-      "published_at": "Sun, 15 Nov 2026 22:00:00 GMT",
-      "score": 117.0
-    }
-  ],
-  "updatedAt": "2026-11-16T05:32:35.650578+00:00"
+ "picks": [
+  {
+   "title": "TSMC employee data breach linked to cloud provider",
+   "url": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
+   "source": "BleepingComputer",
+   "published_at": "Sun, 15 Nov 2026 10:23:48 -0500",
+   "summary": "Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for auction. [...]",
+   "score": 38
+  },
+  {
+   "title": "FBI disrupts North Korean FaceStealer campaign behind $5 billion Binance hack",
+   "url": "https://www.tomshardware.com/tech-industry/cyber-security/fbi-disrupts-north-korean-facestealer-campaign-behind-usd5-billion-binance-hack-doj-seizes-facestealer-cloud-infrastructure-containing-900-videos-of-tech-workers-hackers-used-ai-deepfakes-to-steal-usd400-million-and-compromise-open-source-software",
+   "source": "Tom's Hardware",
+   "published_at": "Sun, 15 Nov 2026 16:30:00 +0000",
+   "summary": "US DoJ partially disrupts FaceStealer campaign that s taken $400m from victims and threatens open-source software — gov techs disrupt cloud infrastructure and find 900 videos of targeted tech workers",
+   "score": 34
+  },
+  {
+   "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+   "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+   "source": "BleepingComputer",
+   "published_at": "Sun, 15 Nov 2026 13:29:53 -0500",
+   "summary": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. [...]",
+   "score": 34
+  },
+  {
+   "title": "Dev hacks Coway air purifier to cut it off from the cloud",
+   "url": "https://www.tomshardware.com/tech-industry/cyber-security/dev-hacks-coway-air-purifier-to-cut-it-off-from-the-cloud-now-runs-locally-in-home-assistant-fan-downloads-the-certificate-over-plain-http-letting-a-home-server-stand-in-for-coways",
+   "source": "Tom's Hardware",
+   "published_at": "Sun, 15 Nov 2026 12:30:00 +0000",
+   "summary": "A developer reverse-engineered his Coway Airmega IconS air purifier to run it locally in Home Assistant, without Coway’s cloud.",
+   "score": 34
+  },
+  {
+   "title": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
+   "url": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350",
+   "source": "The Block",
+   "published_at": "Sat, 14 Nov 2026 23:07:35 +0000",
+   "summary": "About 49.2 million KAVA was bridged to BNB Chain via LayerZero and sold for roughly $2.1 million in BNB and USDT.",
+   "score": 34
+  },
+  {
+   "title": "LUXOR HIT BY AI-ENABLED ATTACK THAT REDIRECTED CLIENT HASHRATE, SAYS VULNERABILITY PATCHED",
+   "url": "https://www.tradingview.com/news/the_block:eab4f4b94094b:0-luxor-hit-by-ai-enabled-attack-that-redirected-client-hashrate-says-vulnerability-patched/",
+   "source": "MarketNewsFeed [CRYPTO]",
+   "published_at": "2026-11-16T04:48:38Z",
+   "summary": "",
+   "score": 30
+  },
+  {
+   "title": "Luxor hit by AI-enabled attack that redirected client hashrate, says vulnerability patched",
+   "url": "https://www.theblock.co/news/business/2026-11-15-luxor-attack-client-hashrate-440810",
+   "source": "The Block",
+   "published_at": "Mon, 16 Nov 2026 04:35:34 +0000",
+   "summary": "The company said it patched the vulnerability within two hours and that no data was leaked or exfiltrated.",
+   "score": 30
+  },
+  {
+   "title": "Judge denies motion to dismiss DRAM price-fixing lawsuit against Micron, Samsung, and SK hynix, finds evidence of DRAM collusion plausible after 500% price surge",
+   "url": "https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-of-dram-collusion-plausible-after-500-percent-price-surge",
+   "source": "Tom's Hardware",
+   "published_at": "Sun, 15 Nov 2026 15:09:50 +0000",
+   "summary": "The judge characterized the three companies as hawks flying in formation when it came to their business decisions.",
+   "score": 18
+  },
+  {
+   "title": "Alibaba Launches Qwen4-Max With Lower API Prices",
+   "url": "https://thedefiant.io/frontier/ai/alibaba-launches-qwen4-max-with-lower-api-prices",
+   "source": "The Defiant",
+   "published_at": "Mon, 16 Nov 2026 02:20:35 GMT",
+   "summary": "Singapore input and output list rates fall 25% from Qwen3.8-Max as access expands beyond a subscription-only preview. Smaller open-weight models are still to come.",
+   "score": 10
+  },
+  {
+   "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+   "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+   "source": "Ars Technica",
+   "published_at": "Sun, 15 Nov 2026 23:11:54 +0000",
+   "summary": "This was the first total mission failure in United Launch Alliance s 20-year history.",
+   "score": 10
+  },
+  {
+   "title": "Solflare Launches Private Mode for Solana Payments",
+   "url": "https://thedefiant.io/news/defi/solflare-launches-private-mode-for-solana-payments",
+   "source": "The Defiant",
+   "published_at": "Sun, 15 Nov 2026 21:19:07 GMT",
+   "summary": "The Helius-powered feature hides assets and amounts, not wallet addresses. Swaps and staking still require public balances.",
+   "score": 10
+  },
+  {
+   "title": "The Lustre Collective Names Do IT Now Launch Partner Ahead of SC26",
+   "url": "https://www.hpcwire.com/off-the-wire/the-lustre-collective-names-do-it-now-launch-partner-ahead-of-sc26/",
+   "source": "HPCwire",
+   "published_at": "Sun, 15 Nov 2026 08:05:41 +0000",
+   "summary": "ARVADA, Colo., Nov. 15, 2026 — The Lustre Collective (TLC), the engineering company founded by veteran Lustre developers to advance Lustre upstream and in the open, has announced a strategic partnership with Do IT Now, the European HPC and AI infrastructure integrator. Together, the two companies wi",
+   "score": 10
+  }
+ ],
+ "updatedAt": "2026-11-16T05:38:38.408510+00:00"
 }
