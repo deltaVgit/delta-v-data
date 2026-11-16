@@ -1,101 +1,29 @@
 {
- "picks": [
-  {
-   "title": "Coinone Warns of Identity Theft After Support Breach",
-   "url": "https://thedefiant.io/news/hacks/coinone-warns-of-identity-theft-after-support-breach",
-   "source": "The Defiant",
-   "published_at": "Sun, 15 Nov 2026 15:52:35 GMT",
-   "summary": "Passwords, bank details and national ID numbers shared with support may be exposed. Coinone says it has found no evidence of direct intrusion into its account, trading or wallet systems.",
-   "score": 38
-  },
-  {
-   "title": "TSMC employee data breach linked to cloud provider",
-   "url": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
-   "source": "BleepingComputer",
-   "published_at": "Sun, 15 Nov 2026 10:23:48 -0500",
-   "summary": "Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for auction. [...]",
-   "score": 38
-  },
-  {
-   "title": "Cursor confirms security breach led to malicious Claude Code extension",
-   "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
-   "source": "BleepingComputer",
-   "published_at": "Sat, 14 Nov 2026 12:27:25 -0500",
-   "summary": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. [...]",
-   "score": 38
-  },
-  {
-   "title": "FBI disrupts North Korean FaceStealer campaign behind $5 billion Binance hack",
-   "url": "https://www.tomshardware.com/tech-industry/cyber-security/fbi-disrupts-north-korean-facestealer-campaign-behind-usd5-billion-binance-hack-doj-seizes-facestealer-cloud-infrastructure-containing-900-videos-of-tech-workers-hackers-used-ai-deepfakes-to-steal-usd400-million-and-compromise-open-source-software",
-   "source": "Tom's Hardware",
-   "published_at": "Sun, 15 Nov 2026 16:30:00 +0000",
-   "summary": "US DoJ partially disrupts FaceStealer campaign that s taken $400m from victims and threatens open-source software — gov techs disrupt cloud infrastructure and find 900 videos of targeted tech workers",
-   "score": 34
-  },
-  {
-   "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
-   "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
-   "source": "BleepingComputer",
-   "published_at": "Sun, 15 Nov 2026 13:29:53 -0500",
-   "summary": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. [...]",
-   "score": 34
-  },
-  {
-   "title": "Dev hacks Coway air purifier to cut it off from the cloud",
-   "url": "https://www.tomshardware.com/tech-industry/cyber-security/dev-hacks-coway-air-purifier-to-cut-it-off-from-the-cloud-now-runs-locally-in-home-assistant-fan-downloads-the-certificate-over-plain-http-letting-a-home-server-stand-in-for-coways",
-   "source": "Tom's Hardware",
-   "published_at": "Sun, 15 Nov 2026 12:30:00 +0000",
-   "summary": "A developer reverse-engineered his Coway Airmega IconS air purifier to run it locally in Home Assistant, without Coway’s cloud.",
-   "score": 34
-  },
-  {
-   "title": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
-   "url": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350",
-   "source": "The Block",
-   "published_at": "Sat, 14 Nov 2026 23:07:35 +0000",
-   "summary": "About 49.2 million KAVA was bridged to BNB Chain via LayerZero and sold for roughly $2.1 million in BNB and USDT.",
-   "score": 34
-  },
-  {
-   "title": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
-   "url": "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304",
-   "source": "The Block",
-   "published_at": "Sat, 14 Nov 2026 05:40:00 +0000",
-   "summary": "In today s newsletter, Meta tests prediction-market app using points instead of cash; DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme; and more.",
-   "score": 34
-  },
-  {
-   "title": "Judge denies motion to dismiss DRAM price-fixing lawsuit against Micron, Samsung, and SK hynix, finds evidence of DRAM collusion plausible after 500% price surge",
-   "url": "https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-of-dram-collusion-plausible-after-500-percent-price-surge",
-   "source": "Tom's Hardware",
-   "published_at": "Sun, 15 Nov 2026 15:09:50 +0000",
-   "summary": "The judge characterized the three companies as hawks flying in formation when it came to their business decisions.",
-   "score": 18
-  },
-  {
-   "title": "Louisiana AG calls CFTC chair an ‘obsequious standard bearer’ for prediction markets following agency lawsuit",
-   "url": "https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342",
-   "source": "The Block",
-   "published_at": "Sat, 14 Nov 2026 19:06:59 +0000",
-   "summary": "The CFTC sued Louisiana Friday to block a state judge s order banning 31 prediction markets, including Kalshi and Polymarket, in the state.",
-   "score": 18
-  },
-  {
-   "title": "OpenAI, Anthropic, Google and Other AI Giants Face Lawsuit Demanding Development Freeze",
-   "url": "https://decrypt.co/383270/openai-anthropic-google-ai-giants-lawsuit-development-freeze",
-   "source": "Decrypt",
-   "published_at": "Sat, 14 Nov 2026 17:01:02 +0000",
-   "summary": "Four nonprofit advocacy groups want a California court to stop major AI developers from building stronger models, alleging their technology could cause catastrophic harm worldwide.",
-   "score": 18
-  },
-  {
-   "title": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
-   "url": "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground",
-   "source": "CoinDesk",
-   "published_at": "Sat, 14 Nov 2026 15:00:00 +0000",
-   "summary": "",
-   "score": 16
-  }
- ],
- "updatedAt": "2026-11-16T01:27:24.314662+00:00"
+  "picks": [
+    {
+      "title": "TSMC employee data breach linked to cloud provider",
+      "source": "BleepingComputer",
+      "category": "macro",
+      "url": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
+      "published_at": "Sun, 15 Nov 2026 10:23:48 -0500",
+      "score": 231.0
+    },
+    {
+      "title": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding",
+      "source": "The Block",
+      "category": "macro",
+      "url": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337",
+      "published_at": "Sat, 14 Nov 2026 17:50:41 +0000",
+      "score": 195.0
+    },
+    {
+      "title": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
+      "source": "Decrypt",
+      "category": "market",
+      "url": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
+      "published_at": "Sun, 15 Nov 2026 14:01:02 +0000",
+      "score": 135.0
+    }
+  ],
+  "updatedAt": "2026-11-16T01:32:31.337969+00:00"
 }
