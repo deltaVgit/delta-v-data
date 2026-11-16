@@ -1,29 +1,29 @@
 {
   "picks": [
     {
+      "title": "China-Nexus Actors Breach 10 Organizations in AI-Driven Attacks",
+      "source": "Dark Reading",
+      "category": "macro",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-nexus-actors-breach-10-organizations-ai-driven-attacks",
+      "published_at": "Mon, 16 Nov 2026 16:36:55 GMT",
+      "score": 225.0
+    },
+    {
+      "title": "Supreme Court rejects Custodia Bank’s bid for Fed master account",
+      "source": "The Block",
+      "category": "macro",
+      "url": "https://www.theblock.co/news/regulation/2026-11-16-supreme-court-rejects-custodia-banks-bid-for-fed-master-account-441376",
+      "published_at": "Mon, 16 Nov 2026 17:15:10 +0000",
+      "score": 180.0
+    },
+    {
       "title": "Google warns that fully-automated AI attacks are coming soon",
       "source": "BleepingComputer",
       "category": "cyber",
       "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
       "published_at": "Mon, 16 Nov 2026 09:00:00 -0500",
       "score": 171.0
-    },
-    {
-      "title": "Vitalik Buterin Now ‘a Total Bull’ on leanPCS as Fast Track to Quantum-Safe Ethereum",
-      "source": "Decrypt",
-      "category": "market",
-      "url": "https://decrypt.co/383294/vitalik-buterin-now-a-total-bull-on-leanpcs-as-fast-track-to-quantum-safe-ethereum",
-      "published_at": "Mon, 16 Nov 2026 09:54:55 +0000",
-      "score": 126.0
-    },
-    {
-      "title": "Vitalik Buterin flips to ‘total bull’ on a faster route to quantum-safe Ethereum",
-      "source": "CoinDesk",
-      "category": "market",
-      "url": "https://www.coindesk.com/tech/2026/11/16/vitalik-buterin-flips-to-total-bull-on-a-faster-route-to-quantum-safe-ethereum",
-      "published_at": "Mon, 16 Nov 2026 08:18:03 +0000",
-      "score": 126.0
     }
   ],
-  "updatedAt": "2026-11-16T17:02:25.591993+00:00"
+  "updatedAt": "2026-11-16T17:17:38.345168+00:00"
 }
