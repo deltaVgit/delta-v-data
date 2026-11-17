@@ -1,6 +1,14 @@
 {
   "picks": [
     {
+      "title": "Anchorage, Kalshi Prime let institutions use custodied bitcoin as margin",
+      "source": "The Block",
+      "category": "macro",
+      "url": "https://www.theblock.co/news/business/2026-11-17-anchorage-digital-kalshi-prime-hodl-margining-bitcoin-collateral-442568",
+      "published_at": "Tue, 17 Nov 2026 15:53:25 +0000",
+      "score": 315.0
+    },
+    {
       "title": "Judge Acquits MIT Brothers in $25M Ethereum MEV Case, Ending Prosecution",
       "source": "Decrypt",
       "category": "macro",
@@ -15,15 +23,7 @@
       "url": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
       "published_at": "Tue, 17 Nov 2026 04:44:22 -0500",
       "score": 195.0
-    },
-    {
-      "title": "Peraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case",
-      "source": "The Block",
-      "category": "macro",
-      "url": "https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425",
-      "published_at": "Mon, 16 Nov 2026 20:30:37 +0000",
-      "score": 195.0
     }
   ],
-  "updatedAt": "2026-11-17T15:47:39.880187+00:00"
+  "updatedAt": "2026-11-17T16:02:43.464296+00:00"
 }
