@@ -9,21 +9,21 @@
       "score": 246.0
     },
     {
-      "title": "China-Nexus Actors Breach 10 Organizations in AI-Driven Attacks",
-      "source": "Dark Reading",
-      "category": "macro",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-nexus-actors-breach-10-organizations-ai-driven-attacks",
-      "published_at": "Mon, 16 Nov 2026 16:36:55 GMT",
-      "score": 225.0
-    },
-    {
       "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
       "source": "BleepingComputer",
       "category": "macro",
       "url": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
       "published_at": "Tue, 17 Nov 2026 04:44:22 -0500",
       "score": 195.0
+    },
+    {
+      "title": "Peraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case",
+      "source": "The Block",
+      "category": "macro",
+      "url": "https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425",
+      "published_at": "Mon, 16 Nov 2026 20:30:37 +0000",
+      "score": 195.0
     }
   ],
-  "updatedAt": "2026-11-17T12:47:36.939720+00:00"
+  "updatedAt": "2026-11-17T13:02:47.264899+00:00"
 }
