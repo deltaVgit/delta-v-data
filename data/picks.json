@@ -1,101 +1,29 @@
 {
- "picks": [
-  {
-   "title": "FBI says Artex AI open-source hacking tool used to breach networks",
-   "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
-   "source": "Hacker News Frontpage",
-   "published_at": "Mon, 16 Nov 2026 18:12:21 +0000",
-   "summary": "Comments URL: Points: 16",
-   "score": 72
-  },
-  {
-   "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
-   "url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
-   "source": "BleepingComputer",
-   "published_at": "Mon, 16 Nov 2026 21:12:17 -0500",
-   "summary": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts designed to steal cryptocurrency and payment information and exploit vulnerabilitie",
-   "score": 60
-  },
-  {
-   "title": "Lighter suspends all withdrawals after $10.4 million crypto exploit",
-   "url": "https://www.coindesk.com/tech/2026/11/16/lighter-suspends-all-withdrawals-after-usd10-4-million-crypto-exploit",
-   "source": "CoinDesk",
-   "published_at": "Mon, 16 Nov 2026 16:41:42 +0000",
-   "summary": "",
-   "score": 40
-  },
-  {
-   "title": "China-Nexus Actors Breach 10 Organizations in AI-Driven Attacks",
-   "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-nexus-actors-breach-10-organizations-ai-driven-attacks",
-   "source": "Dark Reading",
-   "published_at": "Mon, 16 Nov 2026 16:36:55 GMT",
-   "summary": "Attackers used Cairn once again in autonomous attacks that targeted advanced manufacturing and defense sectors, as well as civil and human rights organizations.",
-   "score": 38
-  },
-  {
-   "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
-   "url": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
-   "source": "BleepingComputer",
-   "published_at": "Mon, 16 Nov 2026 14:57:13 -0500",
-   "summary": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]",
-   "score": 38
-  },
-  {
-   "title": "Arkham Says Bitget Hacker Moved $161 Million in Bitcoin",
-   "url": "https://thedefiant.io/news/hacks/arkham-says-bitget-hacker-moved-161-million-in-bitcoin",
-   "source": "The Defiant",
-   "published_at": "Tue, 17 Nov 2026 03:34:28 GMT",
-   "summary": "Just 34.63 BTC remained in wallets Arkham attributes to the Bitget hacker—not a full accounting of everything the attacker may still control.",
-   "score": 34
-  },
-  {
-   "title": "Hackers Redirected Bitcoin Miner Rewards via AI Attack, Luxor CEO Says",
-   "url": "https://decrypt.co/383392/hackers-redirected-bitcoin-miner-rewards-ai-attack-luxor",
-   "source": "Decrypt",
-   "published_at": "Mon, 16 Nov 2026 21:16:03 +0000",
-   "summary": "Luxor said hackers redirected hashrate from just over a dozen client accounts through its Commander tool, and its CEO blamed a “sophisticated AI-enabled vector.”",
-   "score": 34
-  },
-  {
-   "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
-   "url": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
-   "source": "BleepingComputer",
-   "published_at": "Mon, 16 Nov 2026 15:59:44 -0500",
-   "summary": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated environments and launch cyberattacks against real-world organi",
-   "score": 34
-  },
-  {
-   "title": "Fandango says hackers stole payment card details from checkout pages",
-   "url": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
-   "source": "BleepingComputer",
-   "published_at": "Mon, 16 Nov 2026 10:44:21 -0500",
-   "summary": "Ticket seller Fandango Media is notifying customers about a data breach that exposed payment card details entered on its checkout pages. [...]",
-   "score": 34
-  },
-  {
-   "title": "Ransomware Attacks Increase Behind AI, But Payments Decline",
-   "url": "https://www.darkreading.com/threat-intelligence/ransomware-attacks-increase-ai-payments-decline",
-   "source": "Dark Reading",
-   "published_at": "Mon, 16 Nov 2026 19:56:05 GMT",
-   "summary": "Large language models and other AI systems allow a growing number of ransomware groups to create convincing phishing emails and identify sensitive data quickly.",
-   "score": 32
-  },
-  {
-   "title": "Researchers Find Crypto Malware in Optimizely Scripts",
-   "url": "https://thedefiant.io/news/hacks/researchers-find-crypto-malware-in-optimizely-scripts",
-   "source": "The Defiant",
-   "published_at": "Tue, 17 Nov 2026 00:25:38 GMT",
-   "summary": "Report URI identified 188 poisoned scripts tied to 178 organizations, including Ledger and CNN. Scott Helme later said cleanup appeared complete.",
-   "score": 26
-  },
-  {
-   "title": "Optimizely Compromised, Served Malware on Zoom, GitLab",
-   "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
-   "source": "Hacker News Frontpage",
-   "published_at": "Mon, 16 Nov 2026 23:00:34 +0000",
-   "summary": "Comments URL: Points: 7",
-   "score": 26
-  }
- ],
- "updatedAt": "2026-11-17T05:14:06.096957+00:00"
+  "picks": [
+    {
+      "title": "Fed Is Modeling AI Super Intelligence Scenarios, Including Job Losses and a Stock Market Slump",
+      "source": "Decrypt",
+      "category": "macro",
+      "url": "https://decrypt.co/383354/fed-modeling-ai-super-intelligence-scenarios-job-losses-stock-market",
+      "published_at": "Mon, 16 Nov 2026 18:36:44 +0000",
+      "score": 246.0
+    },
+    {
+      "title": "China-Nexus Actors Breach 10 Organizations in AI-Driven Attacks",
+      "source": "Dark Reading",
+      "category": "macro",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-nexus-actors-breach-10-organizations-ai-driven-attacks",
+      "published_at": "Mon, 16 Nov 2026 16:36:55 GMT",
+      "score": 225.0
+    },
+    {
+      "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+      "source": "BleepingComputer",
+      "category": "macro",
+      "url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+      "published_at": "Mon, 16 Nov 2026 21:12:17 -0500",
+      "score": 195.0
+    }
+  ],
+  "updatedAt": "2026-11-17T05:17:29.510252+00:00"
 }
