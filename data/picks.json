@@ -1,29 +1,101 @@
 {
-  "picks": [
-    {
-      "title": "Judge Acquits MIT Brothers in $25M Ethereum MEV Case, Ending Prosecution",
-      "source": "Decrypt",
-      "category": "macro",
-      "url": "https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution",
-      "published_at": "Tue, 17 Nov 2026 09:27:29 +0000",
-      "score": 210.0
-    },
-    {
-      "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
-      "source": "BleepingComputer",
-      "category": "macro",
-      "url": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
-      "published_at": "Tue, 17 Nov 2026 04:44:22 -0500",
-      "score": 195.0
-    },
-    {
-      "title": "Peraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case",
-      "source": "The Block",
-      "category": "macro",
-      "url": "https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425",
-      "published_at": "Mon, 16 Nov 2026 20:30:37 +0000",
-      "score": 195.0
-    }
-  ],
-  "updatedAt": "2026-11-17T14:32:41.463414+00:00"
+ "picks": [
+  {
+   "title": "Japan’s most powerful supercomputer may have been hacked, over 4,000 users’ personal data stolen",
+   "url": "https://www.tomshardware.com/tech-industry/supercomputers/japans-most-powerful-supercomputer-may-have-been-hacked-over-4-000-users-personal-data-stolen-investigation-opened-into-fugaku-breach-after-unauthorized-software-installed",
+   "source": "Tom's Hardware",
+   "published_at": "Tue, 17 Nov 2026 11:47:47 +0000",
+   "summary": "Fugaku, Japan s most powerful supercomputer, has suffered a suspected data breach, with the information of more than 4,000 of its users potentially stolen as a result.",
+   "score": 64
+  },
+  {
+   "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+   "url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+   "source": "BleepingComputer",
+   "published_at": "Mon, 16 Nov 2026 21:12:17 -0500",
+   "summary": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts designed to steal cryptocurrency and payment information and exploit vulnerabilitie",
+   "score": 60
+  },
+  {
+   "title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
+   "url": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
+   "source": "BleepingComputer",
+   "published_at": "Tue, 17 Nov 2026 03:35:42 -0500",
+   "summary": "Ride-hailing company Uber is notifying nearly 150,000 drivers that attackers stole their data after breaching AI infrastructure provider Fireworks in early October. [...]",
+   "score": 38
+  },
+  {
+   "title": "Hackers Redirected Bitcoin Miner Rewards via AI Attack, Luxor CEO Says",
+   "url": "https://decrypt.co/383392/hackers-redirected-bitcoin-miner-rewards-ai-attack-luxor",
+   "source": "Decrypt",
+   "published_at": "Mon, 16 Nov 2026 21:16:03 +0000",
+   "summary": "Luxor said hackers redirected hashrate from just over a dozen client accounts through its Commander tool, and its CEO blamed a “sophisticated AI-enabled vector.”",
+   "score": 34
+  },
+  {
+   "title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
+   "url": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
+   "source": "BleepingComputer",
+   "published_at": "Tue, 17 Nov 2026 02:25:44 -0500",
+   "summary": "A Kazakh national has been extradited from Italy to face charges alleging he targeted US schools, hospitals, and healthcare entities in ransomware attacks. [...]",
+   "score": 32
+  },
+  {
+   "title": "Ransomware Attacks Increase Behind AI, But Payments Decline",
+   "url": "https://www.darkreading.com/threat-intelligence/ransomware-attacks-increase-ai-payments-decline",
+   "source": "Dark Reading",
+   "published_at": "Mon, 16 Nov 2026 19:56:05 GMT",
+   "summary": "Large language models and other AI systems allow a growing number of ransomware groups to create convincing phishing emails and identify sensitive data quickly.",
+   "score": 32
+  },
+  {
+   "title": "Microsoft testing Remote Lock for lost or stolen Windows devices",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
+   "source": "BleepingComputer",
+   "published_at": "Tue, 17 Nov 2026 06:19:51 -0500",
+   "summary": "Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. [...]",
+   "score": 30
+  },
+  {
+   "title": "Optimizely Compromised, Served Malware on Zoom, GitLab",
+   "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+   "source": "Hacker News Frontpage",
+   "published_at": "Mon, 16 Nov 2026 23:00:34 +0000",
+   "summary": "Comments URL: Points: 7",
+   "score": 26
+  },
+  {
+   "title": "Optimizely supply chain attack infects major brands sites with malware",
+   "url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-infects-major-brands-sites-with-malware/",
+   "source": "BleepingComputer",
+   "published_at": "Mon, 16 Nov 2026 21:12:17 -0500",
+   "summary": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts designed to steal cryptocurrency and payment information and exploit vulnerabilitie",
+   "score": 26
+  },
+  {
+   "title": "OpenAI Pushes Back on California AI-Testing Lawsuit",
+   "url": "https://thedefiant.io/frontier/ai/openai-pushes-back-on-california-ai-testing-lawsuit",
+   "source": "The Defiant",
+   "published_at": "Tue, 17 Nov 2026 11:12:43 GMT",
+   "summary": "California alleges unsafe testing and misleading safety assurances. OpenAI says the case singles it out and points to public reports and stronger safeguards.",
+   "score": 18
+  },
+  {
+   "title": "New DeFi-yield generation targets ‘scam-like’ bank accounts that keep all the interest",
+   "url": "https://www.coindesk.com/business/2026/11/16/new-defi-yield-generation-targets-scam-like-bank-accounts-that-keep-all-the-interest",
+   "source": "CoinDesk",
+   "published_at": "Tue, 17 Nov 2026 11:25:58 +0000",
+   "summary": "",
+   "score": 16
+  },
+  {
+   "title": "Fed Governor Michael Barr warns AI agents could trigger bank runs in minutes",
+   "url": "https://www.coindesk.com/business/2026/11/17/fed-governor-michael-barr-warns-ai-agents-could-trigger-bank-runs-in-minutes",
+   "source": "CoinDesk",
+   "published_at": "Tue, 17 Nov 2026 10:48:12 +0000",
+   "summary": "",
+   "score": 16
+  }
+ ],
+ "updatedAt": "2026-11-17T14:39:35.476618+00:00"
 }
