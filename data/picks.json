@@ -1,29 +1,101 @@
 {
-  "picks": [
-    {
-      "title": "Senators: Treasury must ensure ‘equal footing’ for stablecoin issuers in GENIUS Act implementation",
-      "source": "The Block",
-      "category": "macro",
-      "url": "https://www.theblock.co/news/regulation/2026-11-18-senators-treasury-must-ensure-equal-footing-for-stablecoin-issuers-in-genius-act-implementation-443501",
-      "published_at": "Wed, 18 Nov 2026 22:09:17 +0000",
-      "score": 285.0
-    },
-    {
-      "title": "AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks",
-      "source": "Dark Reading",
-      "category": "macro",
-      "url": "https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups",
-      "published_at": "Wed, 18 Nov 2026 20:38:42 GMT",
-      "score": 246.0
-    },
-    {
-      "title": "Bitcoin Tanks Ahead of Anthropic’s IPO. Should We Really Blame AI?",
-      "source": "Decrypt",
-      "category": "macro",
-      "url": "https://decrypt.co/383551/bitcoin-tanks-ahead-anthropics-ipo-should-we-really-blame-ai",
-      "published_at": "Wed, 18 Nov 2026 19:16:02 +0000",
-      "score": 240.0
-    }
-  ],
-  "updatedAt": "2026-11-18T23:32:35.125978+00:00"
+ "picks": [
+  {
+   "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
+   "url": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
+   "source": "BleepingComputer",
+   "published_at": "Wed, 18 Nov 2026 14:39:33 -0500",
+   "summary": "A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland. [...]",
+   "score": 72
+  },
+  {
+   "title": "Gonka Bridge Exploit Drains Stablecoins, Mints WGNK",
+   "url": "https://thedefiant.io/news/hacks/gonka-bridge-exploit-drains-stablecoins-mints-wgnk",
+   "source": "The Defiant",
+   "published_at": "Wed, 18 Nov 2026 22:24:25 GMT",
+   "summary": "Ethereum records show withdrawals of 884,151 USDT and 648 USDC, plus the creation of 22 million WGNK that Blockaid described as unbacked.",
+   "score": 66
+  },
+  {
+   "title": "Cold Relic Turns One Cloud Breach Into Another",
+   "url": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another",
+   "source": "Dark Reading",
+   "published_at": "Wed, 18 Nov 2026 21:59:46 GMT",
+   "summary": "The Russia-linked threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks.",
+   "score": 38
+  },
+  {
+   "title": "Depth-Conditioned Backdoors in Looped Language Models",
+   "url": "https://www.lesswrong.com/posts/nZXyfWwiB8k95Ld9z/depth-conditioned-backdoors-in-looped-language-models",
+   "source": "LessWrong",
+   "published_at": "Wed, 18 Nov 2026 07:48:00 GMT",
+   "summary": "TLDR; We share some initial results on training a depth-conditioned backdoor in looped language models: a backdoor that is conditioned on both a trigger and the number of loops the model has done. We show that Ouro-1.4B can be trained with such a backdoor, where it uses its trigger tokens as a runni",
+   "score": 38
+  },
+  {
+   "title": "*NSA IT DISRUPTION LINKED TO RAPID PATCHING OF AI-DISCOVERED PHP FLAWS: CNN*DNI CLAYTON CITES 'VERY HIGH CONFIDENCE' RECENT OUTAGES NOT FROM HACKING",
+   "url": "https://x.com/tradfi/status/2123191676118389034",
+   "source": "MarketNewsFeed [OTHER]",
+   "published_at": "2026-11-18T23:08:45Z",
+   "summary": "",
+   "score": 34
+  },
+  {
+   "title": "Baiting monitorable reward hacks",
+   "url": "https://www.lesswrong.com/posts/ujPKfLtpXbzyz7ayN/baiting-monitorable-reward-hacks",
+   "source": "LessWrong",
+   "published_at": "Wed, 18 Nov 2026 19:51:29 GMT",
+   "summary": "This is joint work between Ziqian Zhong, Lawrence Feng, Gaurav Rohit Ghosal, Jiangqi Dai, and Aditi Raghunathan. This work is supported by a BlueDot Rapid Grant. We are unsure of whether this intervention is net positive (see discussions below) despite positive results, but we think similar techniqu",
+   "score": 34
+  },
+  {
+   "title": "Google finds self-running AI hacking tool with Russian comments in its files",
+   "url": "https://www.coindesk.com/tech/2026/11/18/google-finds-self-running-ai-hacking-tool-with-russian-comments-in-its-files",
+   "source": "CoinDesk",
+   "published_at": "Wed, 18 Nov 2026 07:37:59 +0000",
+   "summary": "",
+   "score": 34
+  },
+  {
+   "title": "Nvidia Hit with a Ransomware",
+   "url": "https://www.ransomware.live/id/TlZJRElBQHRoZWdlbnRsZW1lbg",
+   "source": "Hacker News Frontpage",
+   "published_at": "Wed, 18 Nov 2026 18:19:42 +0000",
+   "summary": "Comments URL: Points: 8",
+   "score": 32
+  },
+  {
+   "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
+   "url": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
+   "source": "BleepingComputer",
+   "published_at": "Wed, 18 Nov 2026 18:08:33 -0500",
+   "summary": "Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide. [...]",
+   "score": 32
+  },
+  {
+   "title": "Only Talking About Yourself as a Defense Mechanism Against Being Vulnerable",
+   "url": "https://www.lesswrong.com/posts/t6DxjBM37X3egjxz2/only-talking-about-yourself-as-a-defense-mechanism-against",
+   "source": "LessWrong",
+   "published_at": "Wed, 18 Nov 2026 23:07:46 GMT",
+   "summary": "Something about their conversation seemed odd to me. Then I realized they weren’t, in fact, having a conversation at all. What would happen is the first one would talk about himself for ten minutes or so. Then the other guy would talk about himself for ten minutes. And they alternated in this way, i",
+   "score": 30
+  },
+  {
+   "title": "Binance obtains $6.5 billion freezing order from Abu Dhabi court in bid to recover stolen crypto",
+   "url": "https://www.theblock.co/news/business/2026-11-18-binance-freezing-court-order-adgm-crypto-october-hack-443491",
+   "source": "The Block",
+   "published_at": "Wed, 18 Nov 2026 19:40:25 +0000",
+   "summary": "Binance has obtained a $6.5 billion worldwide freezing order from the Abu Dhabi Global Market Courts as it seeks to recover crypto stolen in October hack.",
+   "score": 30
+  },
+  {
+   "title": "KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)",
+   "url": "https://www.cve.org/CVERecord?id=CVE-2026-99312",
+   "source": "Hacker News Frontpage",
+   "published_at": "Wed, 18 Nov 2026 16:06:21 +0000",
+   "summary": "Comments URL: Points: 132",
+   "score": 28
+  }
+ ],
+ "updatedAt": "2026-11-18T23:47:26.527813+00:00"
 }
