@@ -1,6 +1,14 @@
 {
   "picks": [
     {
+      "title": "Backpack secures NFA approval, completing licensing stack for US derivatives launch",
+      "source": "The Block",
+      "category": "macro",
+      "url": "https://www.theblock.co/news/business/2026-11-18-backpack-completes-regulatory-framework-us-entry-442980",
+      "published_at": "Wed, 18 Nov 2026 14:49:00 +0000",
+      "score": 216.0
+    },
+    {
       "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
       "source": "BleepingComputer",
       "category": "macro",
@@ -15,15 +23,7 @@
       "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
       "published_at": "Wed, 18 Nov 2026 02:52:04 +0000",
       "score": 195.0
-    },
-    {
-      "title": "AI Will Make the Next 12 Months a Slaughterhouse for Crypto Security: Anchorage Exec",
-      "source": "Decrypt",
-      "category": "macro",
-      "url": "https://decrypt.co/383526/ai-will-make-the-next-12-months-a-slaughterhouse-for-crypto-security-anchorage-exec",
-      "published_at": "Wed, 18 Nov 2026 12:10:27 +0000",
-      "score": 165.0
     }
   ],
-  "updatedAt": "2026-11-18T14:47:46.343302+00:00"
+  "updatedAt": "2026-11-18T15:02:51.420799+00:00"
 }
