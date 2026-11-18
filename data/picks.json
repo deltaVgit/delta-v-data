@@ -1,6 +1,14 @@
 {
   "picks": [
     {
+      "title": "Bitcoin Tanks Ahead of Anthropic’s IPO. Should We Really Blame AI?",
+      "source": "Decrypt",
+      "category": "macro",
+      "url": "https://decrypt.co/383551/bitcoin-tanks-ahead-anthropics-ipo-should-we-really-blame-ai",
+      "published_at": "Wed, 18 Nov 2026 19:16:02 +0000",
+      "score": 240.0
+    },
+    {
       "title": "Backpack secures NFA approval, completing licensing stack for US derivatives launch",
       "source": "The Block",
       "category": "macro",
@@ -15,15 +23,7 @@
       "url": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
       "published_at": "Wed, 18 Nov 2026 05:35:05 -0500",
       "score": 195.0
-    },
-    {
-      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
-      "source": "Krebs on Security",
-      "category": "macro",
-      "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
-      "published_at": "Wed, 18 Nov 2026 02:52:04 +0000",
-      "score": 195.0
     }
   ],
-  "updatedAt": "2026-11-18T19:03:00.025926+00:00"
+  "updatedAt": "2026-11-18T19:17:41.515529+00:00"
 }
