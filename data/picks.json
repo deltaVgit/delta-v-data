@@ -1,14 +1,6 @@
 {
   "picks": [
     {
-      "title": "Anchorage, Kalshi Prime let institutions use custodied bitcoin as margin",
-      "source": "The Block",
-      "category": "macro",
-      "url": "https://www.theblock.co/news/business/2026-11-17-anchorage-digital-kalshi-prime-hodl-margining-bitcoin-collateral-442568",
-      "published_at": "Tue, 17 Nov 2026 15:53:25 +0000",
-      "score": 315.0
-    },
-    {
       "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
       "source": "Krebs on Security",
       "category": "macro",
@@ -23,7 +15,15 @@
       "url": "https://decrypt.co/383485/world-bank-circle-citi-test-stablecoins-development-payments",
       "published_at": "Tue, 17 Nov 2026 20:56:03 +0000",
       "score": 195.0
+    },
+    {
+      "title": "Coinbase expands onchain crypto loans to New York via Morpho",
+      "source": "The Block",
+      "category": "market",
+      "url": "https://www.theblock.co/news/business/2026-11-17-coinbase-borrow-new-york-morpho-442842",
+      "published_at": "Tue, 17 Nov 2026 18:00:02 +0000",
+      "score": 135.0
     }
   ],
-  "updatedAt": "2026-11-18T04:47:39.352940+00:00"
+  "updatedAt": "2026-11-18T05:02:37.643555+00:00"
 }
