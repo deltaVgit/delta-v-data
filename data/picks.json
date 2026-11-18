@@ -1,6 +1,14 @@
 {
   "picks": [
     {
+      "title": "AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks",
+      "source": "Dark Reading",
+      "category": "macro",
+      "url": "https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups",
+      "published_at": "Wed, 18 Nov 2026 20:38:42 GMT",
+      "score": 246.0
+    },
+    {
       "title": "Bitcoin Tanks Ahead of Anthropic’s IPO. Should We Really Blame AI?",
       "source": "Decrypt",
       "category": "macro",
@@ -15,15 +23,7 @@
       "url": "https://www.theblock.co/news/business/2026-11-18-backpack-completes-regulatory-framework-us-entry-442980",
       "published_at": "Wed, 18 Nov 2026 14:49:00 +0000",
       "score": 216.0
-    },
-    {
-      "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
-      "source": "BleepingComputer",
-      "category": "macro",
-      "url": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
-      "published_at": "Wed, 18 Nov 2026 05:35:05 -0500",
-      "score": 195.0
     }
   ],
-  "updatedAt": "2026-11-18T20:32:35.468600+00:00"
+  "updatedAt": "2026-11-18T20:47:39.587776+00:00"
 }
