@@ -1,101 +1,29 @@
 {
- "picks": [
-  {
-   "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
-   "source": "BleepingComputer",
-   "published_at": "Wed, 18 Nov 2026 05:35:05 -0500",
-   "summary": "Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]",
-   "score": 70
-  },
-  {
-   "title": "Depth-Conditioned Backdoors in Looped Language Models",
-   "url": "https://www.lesswrong.com/posts/nZXyfWwiB8k95Ld9z/depth-conditioned-backdoors-in-looped-language-models",
-   "source": "LessWrong",
-   "published_at": "Wed, 18 Nov 2026 07:48:00 GMT",
-   "summary": "TLDR; We share some initial results on training a depth-conditioned backdoor in looped language models: a backdoor that is conditioned on both a trigger and the number of loops the model has done. We show that Ouro-1.4B can be trained with such a backdoor, where it uses its trigger tokens as a runni",
-   "score": 38
-  },
-  {
-   "title": "Binance Hack Wallet Moves Another $142 Million in ETH",
-   "url": "https://thedefiant.io/news/hacks/binance-hack-wallet-moves-another-142-million-in-eth",
-   "source": "The Defiant",
-   "published_at": "Wed, 18 Nov 2026 10:31:54 GMT",
-   "summary": "Seven transfers redistributed the ether as records confirmed bitcoin swaps by a separate wallet linked to the previous day’s transfers.",
-   "score": 34
-  },
-  {
-   "title": "Scattered Spider Hacker Gets Six Years for Crypto Theft",
-   "url": "https://thedefiant.io/news/security/scattered-spider-hacker-gets-six-years-for-crypto-theft",
-   "source": "The Defiant",
-   "published_at": "Wed, 18 Nov 2026 10:31:11 GMT",
-   "summary": "Prosecutors counted 32 crypto theft victims and said seized funds could compensate most or all of them. A restitution hearing is set for Dec. 11.",
-   "score": 34
-  },
-  {
-   "title": "Google finds self-running AI hacking tool with Russian comments in its files",
-   "url": "https://www.coindesk.com/tech/2026/11/18/google-finds-self-running-ai-hacking-tool-with-russian-comments-in-its-files",
-   "source": "CoinDesk",
-   "published_at": "Wed, 18 Nov 2026 07:37:59 +0000",
-   "summary": "",
-   "score": 34
-  },
-  {
-   "title": "Curiosity as a Defense Mechanism Against Being Vulnerable",
-   "url": "https://www.lesswrong.com/posts/zr8MgWXLhqzTiiLNj/curiosity-as-a-defense-mechanism-against-being-vulnerable",
-   "source": "LessWrong",
-   "published_at": "Wed, 18 Nov 2026 06:40:36 GMT",
-   "summary": "When conversing with someone, there are two forms of curiosity you can use: epistemic and empathetic. Epistemic curiosity is an exploration of ideas by asking people ‘why’ they think something or ‘how’ they came to a conclusion. Empathetic curiosity seeks to understand the subjective thoughts and fe",
-   "score": 30
-  },
-  {
-   "title": "CVE-2026-99312: KVM Guest-to-Host Escape",
-   "url": "https://www.terra.security/blog/kvm-guest-to-host-escape",
-   "source": "Hacker News Frontpage",
-   "published_at": "Wed, 18 Nov 2026 16:06:21 +0000",
-   "summary": "Comments URL: Points: 14",
-   "score": 28
-  },
-  {
-   "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
-   "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
-   "source": "Krebs on Security",
-   "published_at": "Wed, 18 Nov 2026 02:52:04 +0000",
-   "summary": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize user experiences and test out new features. Experts say the incident, which saw ",
-   "score": 26
-  },
-  {
-   "title": "Lucky Trader Banks 66,000% Profit on GTA 6 Meme Coin Ticker Confusion",
-   "url": "https://decrypt.co/383536/lucky-trader-banks-66000-profit-on-gta-6-meme-coin-ticker-confusion",
-   "source": "Decrypt",
-   "published_at": "Wed, 18 Nov 2026 17:32:13 +0000",
-   "summary": "The trader turned $300 into over $200,000 as early footage of GTA 6 sent degens flocking between different token tickers.",
-   "score": 16
-  },
-  {
-   "title": "SambaNova and TACC Triple Down on AI Inference for Science",
-   "url": "https://www.hpcwire.com/2026/11/18/sambanova-and-tacc-triple-down-on-ai-inference-for-science/",
-   "source": "HPCwire",
-   "published_at": "Wed, 18 Nov 2026 16:01:50 +0000",
-   "summary": "The Texas Advanced Computing Center (TACC) is getting more hardware for AI inference. It’s working with SambaNova to triple the size of its existing SambaStack system. That should mean more researchers will be able to use large AI models. The money is coming from the National Science Foundation (NSF",
-   "score": 16
-  },
-  {
-   "title": "Hong Kong wants banks to use AI to catch crypto crime before money disappears",
-   "url": "https://www.coindesk.com/business/2026/11/18/hong-kong-wants-banks-to-use-ai-to-catch-crypto-crime-before-money-disappears",
-   "source": "CoinDesk",
-   "published_at": "Wed, 18 Nov 2026 15:23:18 +0000",
-   "summary": "",
-   "score": 16
-  },
-  {
-   "title": "Nvidia says it’s ‘absurd’ to assume it predicted the agentic moment during Vera’s development – ‘product intuition’ helped drive CPU design, superior memory bandwidth will play critical role in future",
-   "url": "https://www.tomshardware.com/pc-components/cpus/nvidia-says-its-absurd-to-assume-it-predicted-the-agentic-moment-during-veras-development-product-intuition-helped-drive-cpu-design-superior-memory-bandwidth-will-play-critical-role-in-future-ai-agents-cpu-boss-claims",
-   "source": "Tom's Hardware",
-   "published_at": "Wed, 18 Nov 2026 15:00:00 +0000",
-   "summary": "AMD has criticized Nvidia, and to a lesser extent Arm, for claims about creating a CPU designed for agentic AI. Nvidia is pushing back on that characterization, instead saying Vera was designed with “base principles, product intuition, and oftentimes simple allegorical laws of computer science” in a",
-   "score": 16
-  }
- ],
- "updatedAt": "2026-11-18T17:57:25.283470+00:00"
+  "picks": [
+    {
+      "title": "Backpack secures NFA approval, completing licensing stack for US derivatives launch",
+      "source": "The Block",
+      "category": "macro",
+      "url": "https://www.theblock.co/news/business/2026-11-18-backpack-completes-regulatory-framework-us-entry-442980",
+      "published_at": "Wed, 18 Nov 2026 14:49:00 +0000",
+      "score": 216.0
+    },
+    {
+      "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
+      "source": "BleepingComputer",
+      "category": "macro",
+      "url": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
+      "published_at": "Wed, 18 Nov 2026 05:35:05 -0500",
+      "score": 195.0
+    },
+    {
+      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+      "source": "Krebs on Security",
+      "category": "macro",
+      "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+      "published_at": "Wed, 18 Nov 2026 02:52:04 +0000",
+      "score": 195.0
+    }
+  ],
+  "updatedAt": "2026-11-18T18:02:46.755938+00:00"
 }
