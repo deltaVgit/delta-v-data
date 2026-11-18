@@ -1,29 +1,101 @@
 {
-  "picks": [
-    {
-      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
-      "source": "Krebs on Security",
-      "category": "macro",
-      "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
-      "published_at": "Wed, 18 Nov 2026 02:52:04 +0000",
-      "score": 195.0
-    },
-    {
-      "title": "World Bank Taps Circle and Citi to Test Stablecoins for Development Payments",
-      "source": "Decrypt",
-      "category": "macro",
-      "url": "https://decrypt.co/383485/world-bank-circle-citi-test-stablecoins-development-payments",
-      "published_at": "Tue, 17 Nov 2026 20:56:03 +0000",
-      "score": 195.0
-    },
-    {
-      "title": "CFTC nominee questions public benefit of prediction markets as legal fight grows",
-      "source": "CoinDesk",
-      "category": "macro",
-      "url": "https://www.coindesk.com/policy/2026/11/17/nominee-says-u-s-cftc-must-think-hard-about-public-benefit-of-prediction-markets",
-      "published_at": "Wed, 18 Nov 2026 00:46:25 +0000",
-      "score": 120.0
-    }
-  ],
-  "updatedAt": "2026-11-18T09:02:35.612426+00:00"
+ "picks": [
+  {
+   "title": "Depth-Conditioned Backdoors in Looped Language Models",
+   "url": "https://www.lesswrong.com/posts/nZXyfWwiB8k95Ld9z/depth-conditioned-backdoors-in-looped-language-models",
+   "source": "LessWrong",
+   "published_at": "Wed, 18 Nov 2026 07:48:00 GMT",
+   "summary": "TLDR; We share some initial results on training a depth-conditioned backdoor in looped language models: a backdoor that is conditioned on both a trigger and the number of loops the model has done. We show that Ouro-1.4B can be trained with such a backdoor, where it uses its trigger tokens as a runni",
+   "score": 38
+  },
+  {
+   "title": "Google finds self-running AI hacking tool with Russian comments in its files",
+   "url": "https://www.coindesk.com/tech/2026/11/18/google-finds-self-running-ai-hacking-tool-with-russian-comments-in-its-files",
+   "source": "CoinDesk",
+   "published_at": "Wed, 18 Nov 2026 07:37:59 +0000",
+   "summary": "",
+   "score": 34
+  },
+  {
+   "title": "Curiosity as a Defense Mechanism Against Being Vulnerable",
+   "url": "https://www.lesswrong.com/posts/zr8MgWXLhqzTiiLNj/curiosity-as-a-defense-mechanism-against-being-vulnerable",
+   "source": "LessWrong",
+   "published_at": "Wed, 18 Nov 2026 06:40:36 GMT",
+   "summary": "When conversing with someone, there are two forms of curiosity you can use: epistemic and empathetic. Epistemic curiosity is an exploration of ideas by asking people ‘why’ they think something or ‘how’ they came to a conclusion. Empathetic curiosity seeks to understand the subjective thoughts and fe",
+   "score": 30
+  },
+  {
+   "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+   "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+   "source": "Krebs on Security",
+   "published_at": "Wed, 18 Nov 2026 02:52:04 +0000",
+   "summary": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize user experiences and test out new features. Experts say the incident, which saw ",
+   "score": 26
+  },
+  {
+   "title": "Optimizely Malware Attacks Highlight Third-Party Vendor Risks",
+   "url": "https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks",
+   "source": "Dark Reading",
+   "published_at": "Tue, 17 Nov 2026 22:34:22 GMT",
+   "summary": "At least 178 organizations, including several major brands, unwittingly exposed website visitors to hydra-like malware via a third-party platform.",
+   "score": 26
+  },
+  {
+   "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+   "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
+   "source": "Ars Technica",
+   "published_at": "Tue, 17 Nov 2026 22:32:16 +0000",
+   "summary": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
+   "score": 26
+  },
+  {
+   "title": "TheMailer Phishing Kit Puts AI in the Driver s Seat",
+   "url": "https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat",
+   "source": "Dark Reading",
+   "published_at": "Tue, 17 Nov 2026 20:58:13 GMT",
+   "summary": "The commercial kit uses attacker-supplied AI models to personalize lures, evade spam filters, and scale campaigns to tens of thousands of targets.",
+   "score": 24
+  },
+  {
+   "title": "HONG KONG CENTRAL BANK EXPLORES AGENTIC AI TO DETECT CRYPTO-RELATED FINANCIAL CRIME",
+   "url": "https://www.tradingview.com/news/the_block:7144e4779094b:0-hong-kong-central-bank-explores-agentic-ai-to-detect-crypto-related-financial-crime/",
+   "source": "MarketNewsFeed [OTHER]",
+   "published_at": "2026-11-18T08:56:59Z",
+   "summary": "",
+   "score": 16
+  },
+  {
+   "title": "Hong Kong central bank explores agentic AI to detect crypto-related financial crime",
+   "url": "https://www.theblock.co/news/regulation/2026-11-18-hong-kong-agentic-ai-crypto-crime-442959",
+   "source": "The Block",
+   "published_at": "Wed, 18 Nov 2026 08:43:02 +0000",
+   "summary": "HKMA Executive Director Raymond Chan said AI could help analyze both onchain transfers and offchain customer transactions to flag anomalies.",
+   "score": 16
+  },
+  {
+   "title": "World Bank Group taps Circle and Citi to test stablecoin-based fund disbursements",
+   "url": "https://www.theblock.co/news/business/2026-11-17-world-bank-group-citi-circle-fund-disbursements-442924",
+   "source": "The Block",
+   "published_at": "Wed, 18 Nov 2026 04:21:02 +0000",
+   "summary": "The initiative plans to initially focus on an intermediated and interoperable stablecoin-based payment model.",
+   "score": 16
+  },
+  {
+   "title": "ATLAS-Finance: Benchmarking AI Agents in Realistic Banking Environments",
+   "url": "https://arxiv.org/abs/2611.22085",
+   "source": "arXiv cs.AI",
+   "published_at": "Wed, 18 Nov 2026 00:00:00 -0500",
+   "summary": "arXiv:2611.22085v1 Announce Type: new Abstract: Professional work involves under-specified assignments, where relevant information is spread across workplace applications and may conflict or change over time. To evaluate how well frontier agents can perform economically valuable work in such setting",
+   "score": 16
+  },
+  {
+   "title": "Batched Stochastic Linear Bandits with 1-Bit Communication Constraints",
+   "url": "https://arxiv.org/abs/2605.30976",
+   "source": "arXiv stat.ML",
+   "published_at": "Wed, 18 Nov 2026 00:00:00 -0500",
+   "summary": "arXiv:2605.30976v2 Announce Type: replace Abstract: We study stochastic linear bandits under a natural combination of batching and communication constraints: the time horizon is partitioned into batches of equal size $B$, and during each batch the learner sends $B$ requested arm pulls to an agent, w",
+   "score": 16
+  }
+ ],
+ "updatedAt": "2026-11-18T09:05:43.348992+00:00"
 }
