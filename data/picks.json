@@ -1,101 +1,29 @@
 {
- "picks": [
-  {
-   "title": "Blockaid Says B18TimeBank Exploit Drained 404,540 USDC",
-   "url": "https://thedefiant.io/news/hacks/blockaid-says-b18timebank-exploit-drained-404-540-usdc",
-   "source": "The Defiant",
-   "published_at": "Tue, 17 Nov 2026 20:00:29 GMT",
-   "summary": "Onchain records confirm the payout on Base. About 106,785 USDC remained in the settlement contract during a subsequent check; containment was unconfirmed.",
-   "score": 82
-  },
-  {
-   "title": "Japan’s most powerful supercomputer may have been hacked, over 4,000 users’ personal data stolen",
-   "url": "https://www.tomshardware.com/tech-industry/supercomputers/japans-most-powerful-supercomputer-may-have-been-hacked-over-4-000-users-personal-data-stolen-investigation-opened-into-fugaku-breach-after-unauthorized-software-installed",
-   "source": "Tom's Hardware",
-   "published_at": "Tue, 17 Nov 2026 11:47:47 +0000",
-   "summary": "Fugaku, Japan s most powerful supercomputer, has suffered a suspected data breach, with the information of more than 4,000 of its users potentially stolen as a result.",
-   "score": 64
-  },
-  {
-   "title": "Cursor Traces Malicious Claude Code Extension to Third-Party Breach",
-   "url": "https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach",
-   "source": "Dark Reading",
-   "published_at": "Tue, 17 Nov 2026 18:38:37 GMT",
-   "summary": "A compromised key issued to AI infrastructure provider Fireworks was used by threat actors to access Cursor data and credentials.",
-   "score": 38
-  },
-  {
-   "title": "Binance Hack Wallets Move $137 Million in Ethereum After Two Weeks of Silence",
-   "url": "https://decrypt.co/383446/binance-hack-wallets-move-ethereum-after-two-weeks",
-   "source": "Decrypt",
-   "published_at": "Tue, 17 Nov 2026 17:18:41 +0000",
-   "summary": "A wallet linked to October’s record Binance theft moved $63 million in ether, before analysts flagged a larger wave of transfers and reported Bitcoin swaps amid ongoing U.S. recovery efforts.",
-   "score": 34
-  },
-  {
-   "title": "Java4Shell Vulnerability For OpenJDK Java That Can Lead To Remote Code Execution",
-   "url": "https://www.phoronix.com/news/Java4Shell-Vulnerability",
-   "source": "Phoronix",
-   "published_at": "Tue, 17 Nov 2026 16:35:01 -0500",
-   "summary": "Java4Shell was publicly disclosed this afternoon as the latest high profile security vulnerability in the age of AI and LLMs...",
-   "score": 30
-  },
-  {
-   "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
-   "url": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
-   "source": "BleepingComputer",
-   "published_at": "Tue, 17 Nov 2026 16:27:17 -0500",
-   "summary": "Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]",
-   "score": 30
-  },
-  {
-   "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
-   "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
-   "source": "Krebs on Security",
-   "published_at": "Wed, 18 Nov 2026 02:52:04 +0000",
-   "summary": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize user experiences and test out new features. Experts say the incident, which saw ",
-   "score": 26
-  },
-  {
-   "title": "Optimizely Malware Attacks Highlight Third-Party Vendor Risks",
-   "url": "https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks",
-   "source": "Dark Reading",
-   "published_at": "Tue, 17 Nov 2026 22:34:22 GMT",
-   "summary": "At least 178 organizations, including several major brands, unwittingly exposed website visitors to hydra-like malware via a third-party platform.",
-   "score": 26
-  },
-  {
-   "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
-   "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
-   "source": "Ars Technica",
-   "published_at": "Tue, 17 Nov 2026 22:32:16 +0000",
-   "summary": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
-   "score": 26
-  },
-  {
-   "title": "TheMailer Phishing Kit Puts AI in the Driver s Seat",
-   "url": "https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat",
-   "source": "Dark Reading",
-   "published_at": "Tue, 17 Nov 2026 20:58:13 GMT",
-   "summary": "The commercial kit uses attacker-supplied AI models to personalize lures, evade spam filters, and scale campaigns to tens of thousands of targets.",
-   "score": 24
-  },
-  {
-   "title": "Bank of England Finalizes Clearing-House Test Policy",
-   "url": "https://thedefiant.io/converge/regulation/bank-of-england-finalizes-clearing-house-test-policy",
-   "source": "The Defiant",
-   "published_at": "Tue, 17 Nov 2026 21:34:33 GMT",
-   "summary": "Blockchain-based entrants are included in a technology-neutral route for limited live testing. The new rule-waiver policy is expected to take effect in 2027.",
-   "score": 16
-  },
-  {
-   "title": "World Bank Taps Circle and Citi to Test Stablecoins for Development Payments",
-   "url": "https://decrypt.co/383485/world-bank-circle-citi-test-stablecoins-development-payments",
-   "source": "Decrypt",
-   "published_at": "Tue, 17 Nov 2026 20:56:03 +0000",
-   "summary": "The institution will test whether Circle’s USDC and blockchain rails can speed up and cut the cost of disbursing development funds.",
-   "score": 16
-  }
- ],
- "updatedAt": "2026-11-18T04:04:19.739483+00:00"
+  "picks": [
+    {
+      "title": "Anchorage, Kalshi Prime let institutions use custodied bitcoin as margin",
+      "source": "The Block",
+      "category": "macro",
+      "url": "https://www.theblock.co/news/business/2026-11-17-anchorage-digital-kalshi-prime-hodl-margining-bitcoin-collateral-442568",
+      "published_at": "Tue, 17 Nov 2026 15:53:25 +0000",
+      "score": 315.0
+    },
+    {
+      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+      "source": "Krebs on Security",
+      "category": "macro",
+      "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+      "published_at": "Wed, 18 Nov 2026 02:52:04 +0000",
+      "score": 195.0
+    },
+    {
+      "title": "World Bank Taps Circle and Citi to Test Stablecoins for Development Payments",
+      "source": "Decrypt",
+      "category": "macro",
+      "url": "https://decrypt.co/383485/world-bank-circle-citi-test-stablecoins-development-payments",
+      "published_at": "Tue, 17 Nov 2026 20:56:03 +0000",
+      "score": 195.0
+    }
+  ],
+  "updatedAt": "2026-11-18T04:17:30.914469+00:00"
 }
