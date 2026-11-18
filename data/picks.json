@@ -1,6 +1,14 @@
 {
   "picks": [
     {
+      "title": "Senators: Treasury must ensure ‘equal footing’ for stablecoin issuers in GENIUS Act implementation",
+      "source": "The Block",
+      "category": "macro",
+      "url": "https://www.theblock.co/news/regulation/2026-11-18-senators-treasury-must-ensure-equal-footing-for-stablecoin-issuers-in-genius-act-implementation-443501",
+      "published_at": "Wed, 18 Nov 2026 22:09:17 +0000",
+      "score": 285.0
+    },
+    {
       "title": "AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks",
       "source": "Dark Reading",
       "category": "macro",
@@ -15,15 +23,7 @@
       "url": "https://decrypt.co/383551/bitcoin-tanks-ahead-anthropics-ipo-should-we-really-blame-ai",
       "published_at": "Wed, 18 Nov 2026 19:16:02 +0000",
       "score": 240.0
-    },
-    {
-      "title": "Backpack secures NFA approval, completing licensing stack for US derivatives launch",
-      "source": "The Block",
-      "category": "macro",
-      "url": "https://www.theblock.co/news/business/2026-11-18-backpack-completes-regulatory-framework-us-entry-442980",
-      "published_at": "Wed, 18 Nov 2026 14:49:00 +0000",
-      "score": 216.0
     }
   ],
-  "updatedAt": "2026-11-18T22:02:46.740984+00:00"
+  "updatedAt": "2026-11-18T22:17:41.110037+00:00"
 }
