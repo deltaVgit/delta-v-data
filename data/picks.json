@@ -1,101 +1,29 @@
 {
- "picks": [
-  {
-   "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
-   "source": "BleepingComputer",
-   "published_at": "Wed, 18 Nov 2026 05:35:05 -0500",
-   "summary": "Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]",
-   "score": 70
-  },
-  {
-   "title": "Depth-Conditioned Backdoors in Looped Language Models",
-   "url": "https://www.lesswrong.com/posts/nZXyfWwiB8k95Ld9z/depth-conditioned-backdoors-in-looped-language-models",
-   "source": "LessWrong",
-   "published_at": "Wed, 18 Nov 2026 07:48:00 GMT",
-   "summary": "TLDR; We share some initial results on training a depth-conditioned backdoor in looped language models: a backdoor that is conditioned on both a trigger and the number of loops the model has done. We show that Ouro-1.4B can be trained with such a backdoor, where it uses its trigger tokens as a runni",
-   "score": 38
-  },
-  {
-   "title": "Binance Hack Wallet Moves Another $142 Million in ETH",
-   "url": "https://thedefiant.io/news/hacks/binance-hack-wallet-moves-another-142-million-in-eth",
-   "source": "The Defiant",
-   "published_at": "Wed, 18 Nov 2026 10:31:54 GMT",
-   "summary": "Seven transfers redistributed the ether as records confirmed bitcoin swaps by a separate wallet linked to the previous day’s transfers.",
-   "score": 34
-  },
-  {
-   "title": "Scattered Spider Hacker Gets Six Years for Crypto Theft",
-   "url": "https://thedefiant.io/news/security/scattered-spider-hacker-gets-six-years-for-crypto-theft",
-   "source": "The Defiant",
-   "published_at": "Wed, 18 Nov 2026 10:31:11 GMT",
-   "summary": "Prosecutors counted 32 crypto theft victims and said seized funds could compensate most or all of them. A restitution hearing is set for Dec. 11.",
-   "score": 34
-  },
-  {
-   "title": "Google finds self-running AI hacking tool with Russian comments in its files",
-   "url": "https://www.coindesk.com/tech/2026/11/18/google-finds-self-running-ai-hacking-tool-with-russian-comments-in-its-files",
-   "source": "CoinDesk",
-   "published_at": "Wed, 18 Nov 2026 07:37:59 +0000",
-   "summary": "",
-   "score": 34
-  },
-  {
-   "title": "Curiosity as a Defense Mechanism Against Being Vulnerable",
-   "url": "https://www.lesswrong.com/posts/zr8MgWXLhqzTiiLNj/curiosity-as-a-defense-mechanism-against-being-vulnerable",
-   "source": "LessWrong",
-   "published_at": "Wed, 18 Nov 2026 06:40:36 GMT",
-   "summary": "When conversing with someone, there are two forms of curiosity you can use: epistemic and empathetic. Epistemic curiosity is an exploration of ideas by asking people ‘why’ they think something or ‘how’ they came to a conclusion. Empathetic curiosity seeks to understand the subjective thoughts and fe",
-   "score": 30
-  },
-  {
-   "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
-   "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
-   "source": "Krebs on Security",
-   "published_at": "Wed, 18 Nov 2026 02:52:04 +0000",
-   "summary": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize user experiences and test out new features. Experts say the incident, which saw ",
-   "score": 26
-  },
-  {
-   "title": "Hong Kong central bank explores agentic AI to detect crypto-related financial crime",
-   "url": "https://www.theblock.co/news/regulation/2026-11-18-hong-kong-agentic-ai-crypto-crime-442959",
-   "source": "The Block",
-   "published_at": "Wed, 18 Nov 2026 08:43:02 +0000",
-   "summary": "HKMA Executive Director Raymond Chan said AI could help analyze both onchain transfers and offchain customer transactions to flag anomalies.",
-   "score": 16
-  },
-  {
-   "title": "World Bank Group taps Circle and Citi to test stablecoin-based fund disbursements",
-   "url": "https://www.theblock.co/news/business/2026-11-17-world-bank-group-citi-circle-fund-disbursements-442924",
-   "source": "The Block",
-   "published_at": "Wed, 18 Nov 2026 04:21:02 +0000",
-   "summary": "The initiative plans to initially focus on an intermediated and interoperable stablecoin-based payment model.",
-   "score": 16
-  },
-  {
-   "title": "ATLAS-Finance: Benchmarking AI Agents in Realistic Banking Environments",
-   "url": "https://arxiv.org/abs/2611.22085",
-   "source": "arXiv cs.AI",
-   "published_at": "Wed, 18 Nov 2026 00:00:00 -0500",
-   "summary": "arXiv:2611.22085v1 Announce Type: new Abstract: Professional work involves under-specified assignments, where relevant information is spread across workplace applications and may conflict or change over time. To evaluate how well frontier agents can perform economically valuable work in such setting",
-   "score": 16
-  },
-  {
-   "title": "Batched Stochastic Linear Bandits with 1-Bit Communication Constraints",
-   "url": "https://arxiv.org/abs/2605.30976",
-   "source": "arXiv stat.ML",
-   "published_at": "Wed, 18 Nov 2026 00:00:00 -0500",
-   "summary": "arXiv:2605.30976v2 Announce Type: replace Abstract: We study stochastic linear bandits under a natural combination of batching and communication constraints: the time horizon is partitioned into batches of equal size $B$, and during each batch the learner sends $B$ requested arm pulls to an agent, w",
-   "score": 16
-  },
-  {
-   "title": "Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans",
-   "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans",
-   "source": "CoinDesk",
-   "published_at": "Wed, 18 Nov 2026 12:53:34 +0000",
-   "summary": "",
-   "score": 12
-  }
- ],
- "updatedAt": "2026-11-18T13:12:29.360518+00:00"
+  "picks": [
+    {
+      "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
+      "source": "BleepingComputer",
+      "category": "macro",
+      "url": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
+      "published_at": "Wed, 18 Nov 2026 05:35:05 -0500",
+      "score": 195.0
+    },
+    {
+      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+      "source": "Krebs on Security",
+      "category": "macro",
+      "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+      "published_at": "Wed, 18 Nov 2026 02:52:04 +0000",
+      "score": 195.0
+    },
+    {
+      "title": "AI Will Make the Next 12 Months a Slaughterhouse for Crypto Security: Anchorage Exec",
+      "source": "Decrypt",
+      "category": "macro",
+      "url": "https://decrypt.co/383526/ai-will-make-the-next-12-months-a-slaughterhouse-for-crypto-security-anchorage-exec",
+      "published_at": "Wed, 18 Nov 2026 12:10:27 +0000",
+      "score": 165.0
+    }
+  ],
+  "updatedAt": "2026-11-18T13:17:35.103513+00:00"
 }
