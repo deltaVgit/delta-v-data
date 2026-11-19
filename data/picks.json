@@ -1,6 +1,14 @@
 {
   "picks": [
     {
+      "title": "Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November",
+      "source": "Decrypt",
+      "category": "macro",
+      "url": "https://decrypt.co/383597/bitcoin-struggles-to-hold-64000-as-etf-outflows-hit-2-9b-in-november",
+      "published_at": "Thu, 19 Nov 2026 10:25:05 +0000",
+      "score": 360.0
+    },
+    {
       "title": "Senators: Treasury must ensure ‘equal footing’ for stablecoin issuers in GENIUS Act implementation",
       "source": "The Block",
       "category": "macro",
@@ -15,15 +23,7 @@
       "url": "https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups",
       "published_at": "Wed, 18 Nov 2026 20:38:42 GMT",
       "score": 246.0
-    },
-    {
-      "title": "Bitcoin Tanks Ahead of Anthropic’s IPO. Should We Really Blame AI?",
-      "source": "Decrypt",
-      "category": "macro",
-      "url": "https://decrypt.co/383551/bitcoin-tanks-ahead-anthropics-ipo-should-we-really-blame-ai",
-      "published_at": "Wed, 18 Nov 2026 19:16:02 +0000",
-      "score": 240.0
     }
   ],
-  "updatedAt": "2026-11-19T10:17:37.974144+00:00"
+  "updatedAt": "2026-11-19T10:32:34.534538+00:00"
 }
