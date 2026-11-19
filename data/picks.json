@@ -1,29 +1,101 @@
 {
-  "picks": [
-    {
-      "title": "Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November",
-      "source": "Decrypt",
-      "category": "macro",
-      "url": "https://decrypt.co/383597/bitcoin-struggles-to-hold-64000-as-etf-outflows-hit-2-9b-in-november",
-      "published_at": "Thu, 19 Nov 2026 10:25:05 +0000",
-      "score": 360.0
-    },
-    {
-      "title": "Senators: Treasury must ensure ‘equal footing’ for stablecoin issuers in GENIUS Act implementation",
-      "source": "The Block",
-      "category": "macro",
-      "url": "https://www.theblock.co/news/regulation/2026-11-18-senators-treasury-must-ensure-equal-footing-for-stablecoin-issuers-in-genius-act-implementation-443501",
-      "published_at": "Wed, 18 Nov 2026 22:09:17 +0000",
-      "score": 285.0
-    },
-    {
-      "title": "Cold Relic Turns One Cloud Breach Into Another",
-      "source": "Dark Reading",
-      "category": "macro",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another",
-      "published_at": "Wed, 18 Nov 2026 21:59:46 GMT",
-      "score": 195.0
-    }
-  ],
-  "updatedAt": "2026-11-19T13:47:41.629428+00:00"
+ "picks": [
+  {
+   "title": "NVIDIA investigating Gentlemen ransomware breach claims",
+   "url": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
+   "source": "BleepingComputer",
+   "published_at": "Thu, 19 Nov 2026 04:23:21 -0500",
+   "summary": "NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]",
+   "score": 70
+  },
+  {
+   "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
+   "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
+   "source": "BleepingComputer",
+   "published_at": "Thu, 19 Nov 2026 08:08:08 -0500",
+   "summary": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
+   "score": 40
+  },
+  {
+   "title": "Cold Relic Turns One Cloud Breach Into Another",
+   "url": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another",
+   "source": "Dark Reading",
+   "published_at": "Wed, 18 Nov 2026 21:59:46 GMT",
+   "summary": "The Russia-linked threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks.",
+   "score": 38
+  },
+  {
+   "title": "Binance Wins $6.5B Freezing Order Over Hack That Can Be Served via the Blockchain",
+   "url": "https://decrypt.co/383608/binance-wins-6-5b-freezing-order-over-hack-that-can-be-served-via-the-blockchain",
+   "source": "Decrypt",
+   "published_at": "Thu, 19 Nov 2026 12:59:14 +0000",
+   "summary": "An Abu Dhabi court s worldwide injunction targets the unknown hackers, backed by a living list of 26,000 wallets holding stolen funds.",
+   "score": 34
+  },
+  {
+   "title": "North Korean hackers used Sky s stablecoin system, putting billions at freeze risk",
+   "url": "https://www.coindesk.com/business/2026/11/19/north-korean-hackers-used-sky-s-stablecoin-system-putting-billions-at-freeze-risk",
+   "source": "CoinDesk",
+   "published_at": "Thu, 19 Nov 2026 11:30:00 +0000",
+   "summary": "",
+   "score": 34
+  },
+  {
+   "title": "Binance Hack Wallet Moves Another $248 Million in ETH",
+   "url": "https://thedefiant.io/news/hacks/binance-hack-wallet-moves-another-248-million-in-eth",
+   "source": "The Defiant",
+   "published_at": "Thu, 19 Nov 2026 07:37:45 GMT",
+   "summary": "Twelve transfers made up the largest of three daily batches, but the transactions were wallet-to-wallet movements, not bitcoin swaps.",
+   "score": 34
+  },
+  {
+   "title": "Ethereum block builders received the most in a $3.4 million vault hack, data shows",
+   "url": "https://www.coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows",
+   "source": "CoinDesk",
+   "published_at": "Thu, 19 Nov 2026 05:39:06 +0000",
+   "summary": "",
+   "score": 34
+  },
+  {
+   "title": "Critical Java vulnerability puts millions of sites, services, and devices at risk of remote code execution",
+   "url": "https://www.tomshardware.com/tech-industry/cyber-security/critical-java-vulnerability-puts-millions-of-sites-services-and-devices-at-risk-of-remote-code-execution-triggers-with-64-as-and-an-sign-openjdk-optimization-bug-lets-an-attacker-trigger-it-just-by-inputting-repeated-text",
+   "source": "Tom's Hardware",
+   "published_at": "Thu, 19 Nov 2026 10:30:00 +0000",
+   "summary": "Millions of sites, services, and devices are at risk of remote code execution thanks to a critical bug in the widely-used Java software. Attackers can trigger the bug by just inputting repeated text",
+   "score": 30
+  },
+  {
+   "title": "Only Talking About Yourself as a Defense Mechanism Against Being Vulnerable",
+   "url": "https://www.lesswrong.com/posts/t6DxjBM37X3egjxz2/only-talking-about-yourself-as-a-defense-mechanism-against",
+   "source": "LessWrong",
+   "published_at": "Wed, 18 Nov 2026 23:07:46 GMT",
+   "summary": "Something about their conversation seemed odd to me. Then I realized they weren’t, in fact, having a conversation at all. What would happen is the first one would talk about himself for ten minutes or so. Then the other guy would talk about himself for ten minutes. And they alternated in this way, i",
+   "score": 30
+  },
+  {
+   "title": "K3 Capital Says sBOLD Vault Flaw Drained 3.43M BOLD",
+   "url": "https://thedefiant.io/news/security/k3-capital-says-sbold-vault-flaw-drained-3-43m-bold",
+   "source": "The Defiant",
+   "published_at": "Thu, 19 Nov 2026 12:59:37 GMT",
+   "summary": "The post-mortem traces the loss to unused token-spending permissions in K3 s vault. Liquity said its underlying protocol was unaffected.",
+   "score": 26
+  },
+  {
+   "title": "NRW.BANK Links Ethereum Bond to Central-Bank Settlement",
+   "url": "https://thedefiant.io/converge/tradfi-and-fintech/nrw-bank-links-ethereum-bond-to-central-bank-settlement",
+   "source": "The Defiant",
+   "published_at": "Thu, 19 Nov 2026 12:08:07 GMT",
+   "summary": "DZ BANK bought the bond using the Eurosystem’s Pontes pilot. The banks said the transaction finished in less than an hour.",
+   "score": 16
+  },
+  {
+   "title": "Attending the Anthropic IPO protest for banning RSI tomorrow (Nov 19)",
+   "url": "https://www.lesswrong.com/posts/7FDTTWLDYHMG2WB5v/attending-the-anthropic-ipo-protest-for-banning-rsi-tomorrow",
+   "source": "LessWrong",
+   "published_at": "Thu, 19 Nov 2026 05:31:23 GMT",
+   "summary": "I m going to protest the Anthropic IPO tomorrow, at 11am outside Anthropic s offices at 500 Howard St, San Francisco . The primary ask of the protest is for the government to ban recursive self improvement, and/or for labs to stop doing it voluntarily. See: I think Anthropic leaders and employees ar",
+   "score": 16
+  }
+ ],
+ "updatedAt": "2026-11-19T13:48:18.839965+00:00"
 }
