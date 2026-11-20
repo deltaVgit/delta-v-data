@@ -9,21 +9,21 @@
       "score": 216.0
     },
     {
-      "title": "VMware patches vCenter zero-day exploited in attacks since September",
-      "source": "BleepingComputer",
-      "category": "macro",
-      "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
-      "published_at": "Thu, 19 Nov 2026 19:26:25 -0500",
-      "score": 195.0
-    },
-    {
       "title": "Meet SHRINCS: Bitcoin s Emerging Frontrunner for a Post-Quantum Signature",
       "source": "Decrypt",
       "category": "macro",
       "url": "https://decrypt.co/383666/meet-shrincs-bitcoin-emerging-frontrunner-post-quantum-signature",
       "published_at": "Thu, 19 Nov 2026 20:46:02 +0000",
       "score": 177.0
+    },
+    {
+      "title": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
+      "source": "CoinDesk",
+      "category": "market",
+      "url": "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
+      "published_at": "Fri, 20 Nov 2026 04:28:52 +0000",
+      "score": 135.0
     }
   ],
-  "updatedAt": "2026-11-20T11:17:42.600013+00:00"
+  "updatedAt": "2026-11-20T11:32:43.788897+00:00"
 }
