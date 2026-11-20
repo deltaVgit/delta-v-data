@@ -1,101 +1,29 @@
 {
- "picks": [
-  {
-   "title": "Citi Says Customers Are Responsible When AI Banking Agents Go Rogue—Even After a Hack",
-   "url": "https://decrypt.co/383677/citi-customers-responsible-ai-banking-agents-rogue-hack",
-   "source": "Decrypt",
-   "published_at": "Thu, 19 Nov 2026 22:36:02 +0000",
-   "summary": "Citibank’s updated terms put customers on the hook for outside AI agents, including leaked logins.",
-   "score": 50
-  },
-  {
-   "title": "Living off the Local Model: Abusing Browser-Embedded Language Models for Post-Exploitation",
-   "url": "https://arxiv.org/abs/2611.25086",
-   "source": "arXiv cs.CL",
-   "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
-   "summary": "arXiv:2611.25086v1 Announce Type: cross Abstract: Browsers now ship local language models to ordinary endpoints. Google includes Gemini Nano in Chrome to enable productivity features such as summarization, with inference running entirely on the device. These browser-embedded models provide new livin",
-   "score": 48
-  },
-  {
-   "title": "VMware patches vCenter zero-day exploited in attacks since September",
-   "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
-   "source": "BleepingComputer",
-   "published_at": "Thu, 19 Nov 2026 19:26:25 -0500",
-   "summary": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
-   "score": 40
-  },
-  {
-   "title": "Second Norwegian Energy Company Breached in Two Days",
-   "url": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached",
-   "source": "Dark Reading",
-   "published_at": "Thu, 19 Nov 2026 20:14:15 GMT",
-   "summary": "No specific link has been drawn between the two incidents, though they certainly sing the same notes.",
-   "score": 38
-  },
-  {
-   "title": "Wiz Suspects Certificate Compromise in Microsoft AI Package Hack",
-   "url": "https://thedefiant.io/frontier/ai/wiz-suspects-certificate-compromise-in-microsoft-ai-package-hack",
-   "source": "The Defiant",
-   "published_at": "Fri, 20 Nov 2026 04:31:36 GMT",
-   "summary": "Wiz says a client certificate and private key for Microsoft s release service appear compromised. An initial upload attempt was blocked, but a second succeeded.",
-   "score": 34
-  },
-  {
-   "title": "Hackers Leak Visa, Mastercard and JPMorgan Customer Data",
-   "url": "https://decrypt.co/383663/hackers-leak-visa-mastercard-jpmorgan-data",
-   "source": "Decrypt",
-   "published_at": "Thu, 19 Nov 2026 20:15:32 +0000",
-   "summary": "A ransomware group breached third-party vendors, not the companies’ own systems. Visa said no card data was affected while Mastercard cited a limited cardholder subset.",
-   "score": 34
-  },
-  {
-   "title": "Navigating Vulnerability Hysteria in the AI Era",
-   "url": "https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era",
-   "source": "Dark Reading",
-   "published_at": "Thu, 19 Nov 2026 19:46:44 GMT",
-   "summary": "This installment of the Reporters Notebook video series examines the fallout from recent high-severity flaw disclosures, exploring how fears of AI-assisted exploits trigger widespread panic, operational disruptions, and growing warning fatigue.",
-   "score": 30
-  },
-  {
-   "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
-   "url": "https://github.com/openssl/openssl/pull/33652",
-   "source": "Hacker News Frontpage",
-   "published_at": "Fri, 20 Nov 2026 02:01:09 +0000",
-   "summary": "Comments URL: Points: 9",
-   "score": 28
-  },
-  {
-   "title": "Trump s Democratic SEC pick suggests tokenization policy deserves full rule process",
-   "url": "https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process",
-   "source": "CoinDesk",
-   "published_at": "Thu, 19 Nov 2026 18:15:56 +0000",
-   "summary": "",
-   "score": 16
-  },
-  {
-   "title": "Here s what s crashing gold and likely weighing on bitcoin too",
-   "url": "https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too",
-   "source": "CoinDesk",
-   "published_at": "Fri, 20 Nov 2026 06:12:15 +0000",
-   "summary": "",
-   "score": 14
-  },
-  {
-   "title": "SpaceX AI-Chip Debt Sale Raises $32 Billion: Report",
-   "url": "https://thedefiant.io/frontier/technology/spacex-ai-chip-debt-sale-raises-32-billion-report",
-   "source": "The Defiant",
-   "published_at": "Fri, 20 Nov 2026 04:31:12 GMT",
-   "summary": "Bloomberg reported yields topping 8% on bonds tied to an Apollo-managed financing for Nvidia chips that SpaceX plans to lease.",
-   "score": 12
-  },
-  {
-   "title": "CROO LAUNCHES CROO SKILL, OPENING ITS AI AGENT NETWORK TO CLAUDE CODE AND CODEX USERS",
-   "url": "https://www.tradingview.com/news/chainwire:1062cb5fc094b:0-croo-launches-croo-skill-opening-its-ai-agent-network-to-claude-code-and-codex-users/",
-   "source": "MarketNewsFeed [OTHER]",
-   "published_at": "2026-11-20T08:34:32Z",
-   "summary": "",
-   "score": 10
-  }
- ],
- "updatedAt": "2026-11-20T09:10:19.496085+00:00"
+  "picks": [
+    {
+      "title": "Coinbase backs CFTC proposal to distinguish prediction market contracts from gambling",
+      "source": "The Block",
+      "category": "macro",
+      "url": "https://www.theblock.co/news/business/2026-11-19-coinbase-backs-cftc-prediction-markets-444152",
+      "published_at": "Fri, 20 Nov 2026 04:24:05 +0000",
+      "score": 216.0
+    },
+    {
+      "title": "VMware patches vCenter zero-day exploited in attacks since September",
+      "source": "BleepingComputer",
+      "category": "macro",
+      "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+      "published_at": "Thu, 19 Nov 2026 19:26:25 -0500",
+      "score": 195.0
+    },
+    {
+      "title": "Meet SHRINCS: Bitcoin s Emerging Frontrunner for a Post-Quantum Signature",
+      "source": "Decrypt",
+      "category": "macro",
+      "url": "https://decrypt.co/383666/meet-shrincs-bitcoin-emerging-frontrunner-post-quantum-signature",
+      "published_at": "Thu, 19 Nov 2026 20:46:02 +0000",
+      "score": 177.0
+    }
+  ],
+  "updatedAt": "2026-11-20T09:17:37.190505+00:00"
 }
