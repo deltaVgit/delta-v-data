@@ -1,20 +1,20 @@
 {
   "picks": [
     {
+      "title": "Bitcoin ETFs Shed $582M in a Day as BTC Drops Below $62K",
+      "source": "Decrypt",
+      "category": "macro",
+      "url": "https://decrypt.co/383685/bitcoin-etfs-shed-582m-in-a-day-as-btc-drops-below-62k",
+      "published_at": "Fri, 20 Nov 2026 11:50:51 +0000",
+      "score": 360.0
+    },
+    {
       "title": "Coinbase backs CFTC proposal to distinguish prediction market contracts from gambling",
       "source": "The Block",
       "category": "macro",
       "url": "https://www.theblock.co/news/business/2026-11-19-coinbase-backs-cftc-prediction-markets-444152",
       "published_at": "Fri, 20 Nov 2026 04:24:05 +0000",
       "score": 216.0
-    },
-    {
-      "title": "Meet SHRINCS: Bitcoin s Emerging Frontrunner for a Post-Quantum Signature",
-      "source": "Decrypt",
-      "category": "macro",
-      "url": "https://decrypt.co/383666/meet-shrincs-bitcoin-emerging-frontrunner-post-quantum-signature",
-      "published_at": "Thu, 19 Nov 2026 20:46:02 +0000",
-      "score": 177.0
     },
     {
       "title": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
@@ -25,5 +25,5 @@
       "score": 135.0
     }
   ],
-  "updatedAt": "2026-11-20T11:47:34.828624+00:00"
+  "updatedAt": "2026-11-20T12:02:38.185876+00:00"
 }
