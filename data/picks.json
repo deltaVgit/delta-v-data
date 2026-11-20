@@ -1,29 +1,101 @@
 {
-  "picks": [
-    {
-      "title": "Bitcoin ETFs Shed $582M in a Day as BTC Drops Below $62K",
-      "source": "Decrypt",
-      "category": "macro",
-      "url": "https://decrypt.co/383685/bitcoin-etfs-shed-582m-in-a-day-as-btc-drops-below-62k",
-      "published_at": "Fri, 20 Nov 2026 11:50:51 +0000",
-      "score": 360.0
-    },
-    {
-      "title": "Coinbase backs CFTC proposal to distinguish prediction market contracts from gambling",
-      "source": "The Block",
-      "category": "macro",
-      "url": "https://www.theblock.co/news/business/2026-11-19-coinbase-backs-cftc-prediction-markets-444152",
-      "published_at": "Fri, 20 Nov 2026 04:24:05 +0000",
-      "score": 216.0
-    },
-    {
-      "title": "Bitcoin bots pounced within seconds when researchers exposed their keys",
-      "source": "CoinDesk",
-      "category": "macro",
-      "url": "https://www.coindesk.com/tech/2026/11/20/bitcoin-bots-pounced-within-seconds-when-researchers-exposed-their-keys",
-      "published_at": "Fri, 20 Nov 2026 13:30:22 +0000",
-      "score": 141.0
-    }
-  ],
-  "updatedAt": "2026-11-20T17:47:47.716332+00:00"
+ "picks": [
+  {
+   "title": "Living off the Local Model: Abusing Browser-Embedded Language Models for Post-Exploitation",
+   "url": "https://arxiv.org/abs/2611.25086",
+   "source": "arXiv cs.CL",
+   "published_at": "Fri, 20 Nov 2026 00:00:00 -0500",
+   "summary": "arXiv:2611.25086v1 Announce Type: cross Abstract: Browsers now ship local language models to ordinary endpoints. Google includes Gemini Nano in Chrome to enable productivity features such as summarization, with inference running entirely on the device. These browser-embedded models provide new livin",
+   "score": 48
+  },
+  {
+   "title": "Amazon Says AI Agents Found and Exploited a Zero-Day",
+   "url": "https://thedefiant.io/frontier/ai/amazon-says-ai-agents-found-and-exploited-a-zero-day",
+   "source": "The Defiant",
+   "published_at": "Fri, 20 Nov 2026 17:36:11 GMT",
+   "summary": "CJ Moses said agents took over a university server after discovering an upload flaw. Amazon assessed the attacker s China link with moderate confidence.",
+   "score": 40
+  },
+  {
+   "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+   "url": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
+   "source": "BleepingComputer",
+   "published_at": "Fri, 20 Nov 2026 10:58:06 -0500",
+   "summary": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers personal information and marketing data. [...]",
+   "score": 38
+  },
+  {
+   "title": "N-able says recent security breach led to major service outage",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
+   "source": "BleepingComputer",
+   "published_at": "Fri, 20 Nov 2026 08:18:36 -0500",
+   "summary": "N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services worldwide. [...]",
+   "score": 38
+  },
+  {
+   "title": "Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host",
+   "url": "https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host",
+   "source": "Decrypt",
+   "published_at": "Fri, 20 Nov 2026 17:41:45 +0000",
+   "summary": "Wagyu’s XMR1 token fell more than 99% after an attacker moved 5.2 million tokens out of its deployer account and sold a fraction of them for $13.5 million.",
+   "score": 34
+  },
+  {
+   "title": "Wagyu’s XMR1 wrapped Monero plunges 99% after $13 million hack as founder promises refunds",
+   "url": "https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747",
+   "source": "The Block",
+   "published_at": "Fri, 20 Nov 2026 16:11:22 +0000",
+   "summary": "Wagyu’s founder pledged refunds after an attacker sold XMR1 Wrapped Monero tokens in a $13 million exploit.",
+   "score": 34
+  },
+  {
+   "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+   "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+   "source": "BleepingComputer",
+   "published_at": "Fri, 20 Nov 2026 12:30:00 -0500",
+   "summary": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
+   "score": 34
+  },
+  {
+   "title": "Thousands of vulnerable fridges patched against cyberattacks in secret operation",
+   "url": "https://www.tomshardware.com/tech-industry/cyber-security/thousands-of-vulnerable-fridges-patched-against-cyberattacks-in-secret-operation-uk-takes-action-following-hacks-that-destroyed-food-supplies-with-50-degree-defrosting-hijack",
+   "source": "Tom's Hardware",
+   "published_at": "Fri, 20 Nov 2026 13:30:00 +0000",
+   "summary": "Following devastating hacks that caused European fridges to reach 50 degrees Celsius, destroying food stocks, the U.K. has implemented nationwide patching to ensure similar attacks won t affect its fridges.",
+   "score": 30
+  },
+  {
+   "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+   "url": "https://github.com/openssl/openssl/pull/33652",
+   "source": "Hacker News Frontpage",
+   "published_at": "Fri, 20 Nov 2026 02:01:09 +0000",
+   "summary": "Comments URL: Points: 9",
+   "score": 28
+  },
+  {
+   "title": "Senate Passes Bill Banning Prediction Market Bets on War, Terrorism and Death",
+   "url": "https://decrypt.co/383700/senate-passes-bill-banning-prediction-market-bets-on-war-terrorism-and-death",
+   "source": "Decrypt",
+   "published_at": "Fri, 20 Nov 2026 15:42:51 +0000",
+   "summary": "Sen. Adam Schiff s DEATH BETS Act would bar U.S.-regulated exchanges from listing contracts tied to war, assassinations or deaths.",
+   "score": 16
+  },
+  {
+   "title": "U.S. Senate passes bill to ban prediction market bets on war and death",
+   "url": "https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death",
+   "source": "CoinDesk",
+   "published_at": "Fri, 20 Nov 2026 14:25:57 +0000",
+   "summary": "",
+   "score": 16
+  },
+  {
+   "title": "MoonPay Applies for National Trust Bank Charter to Grow Custody and Stablecoin Business",
+   "url": "https://decrypt.co/383688/moonpay-applies-for-national-trust-bank-charter-to-grow-custody-and-stablecoin-business",
+   "source": "Decrypt",
+   "published_at": "Fri, 20 Nov 2026 12:10:14 +0000",
+   "summary": "The crypto payments firm joins a rush of crypto companies seeking federal trust charters, which face growing political scrutiny.",
+   "score": 16
+  }
+ ],
+ "updatedAt": "2026-11-20T17:53:50.466036+00:00"
 }
