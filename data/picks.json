@@ -1,14 +1,6 @@
 {
   "picks": [
     {
-      "title": "Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November",
-      "source": "Decrypt",
-      "category": "macro",
-      "url": "https://decrypt.co/383597/bitcoin-struggles-to-hold-64000-as-etf-outflows-hit-2-9b-in-november",
-      "published_at": "Thu, 19 Nov 2026 10:25:05 +0000",
-      "score": 360.0
-    },
-    {
       "title": "Coinbase backs CFTC proposal to distinguish prediction market contracts from gambling",
       "source": "The Block",
       "category": "macro",
@@ -23,7 +15,15 @@
       "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
       "published_at": "Thu, 19 Nov 2026 19:26:25 -0500",
       "score": 195.0
+    },
+    {
+      "title": "Meet SHRINCS: Bitcoin s Emerging Frontrunner for a Post-Quantum Signature",
+      "source": "Decrypt",
+      "category": "macro",
+      "url": "https://decrypt.co/383666/meet-shrincs-bitcoin-emerging-frontrunner-post-quantum-signature",
+      "published_at": "Thu, 19 Nov 2026 20:46:02 +0000",
+      "score": 177.0
     }
   ],
-  "updatedAt": "2026-11-20T04:47:37.149884+00:00"
+  "updatedAt": "2026-11-20T05:02:34.782908+00:00"
 }
