@@ -1,12 +1,12 @@
 {
   "picks": [
     {
-      "title": "Bitcoin ETFs Shed $582M in a Day as BTC Drops Below $62K",
+      "title": "Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure",
       "source": "Decrypt",
-      "category": "macro",
-      "url": "https://decrypt.co/383685/bitcoin-etfs-shed-582m-in-a-day-as-btc-drops-below-62k",
-      "published_at": "Fri, 20 Nov 2026 11:50:51 +0000",
-      "score": 360.0
+      "category": "market",
+      "url": "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure",
+      "published_at": "Fri, 20 Nov 2026 18:46:03 +0000",
+      "score": 225.0
     },
     {
       "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
@@ -25,5 +25,5 @@
       "score": 210.0
     }
   ],
-  "updatedAt": "2026-11-21T17:47:34.531989+00:00"
+  "updatedAt": "2026-11-21T18:02:34.283383+00:00"
 }
