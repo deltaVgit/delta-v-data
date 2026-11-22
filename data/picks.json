@@ -1,101 +1,29 @@
 {
- "picks": [
-  {
-   "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
-   "source": "BleepingComputer",
-   "published_at": "Sun, 22 Nov 2026 13:45:37 -0500",
-   "summary": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers routers and KVM devices, with some affected users reporting backdoors and reverse shells giving remote access to infected devices. [...]",
-   "score": 74
-  },
-  {
-   "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
-   "url": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
-   "source": "BleepingComputer",
-   "published_at": "Sun, 22 Nov 2026 10:43:04 -0500",
-   "summary": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers payment card information, including credit card numbers and CVV security codes. [...]",
-   "score": 72
-  },
-  {
-   "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
-   "url": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
-   "source": "BleepingComputer",
-   "published_at": "Sat, 21 Nov 2026 17:59:58 -0500",
-   "summary": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]",
-   "score": 72
-  },
-  {
-   "title": "Fusionist Urges ACE Trading Pause After Exploit Alert",
-   "url": "https://thedefiant.io/news/hacks/fusionist-urges-ace-trading-pause-after-exploit-alert",
-   "source": "The Defiant",
-   "published_at": "Sun, 22 Nov 2026 20:13:12 GMT",
-   "summary": "Blockaid estimated about $1.04 million in USDT had been extracted as Fusionist asked users to pause ACE transfers, trades and bridging on BSC.",
-   "score": 40
-  },
-  {
-   "title": "Cysic Bridge Exploit Minted 10 Million Tokens on BNB",
-   "url": "https://thedefiant.io/news/hacks/cysic-bridge-exploit-minted-10-million-tokens-on-bnb",
-   "source": "The Defiant",
-   "published_at": "Sun, 22 Nov 2026 04:10:34 GMT",
-   "summary": "Cysic said transfers resumed by Oct. 28 after the attack. PeckShield tracked roughly $744,000 sent to Tornado Cash.",
-   "score": 40
-  },
-  {
-   "title": "Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers",
-   "url": "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
-   "source": "The Block",
-   "published_at": "Sat, 21 Nov 2026 18:51:14 +0000",
-   "summary": "South Korean exchanges Upbit and Bithumb both suspended CYBER deposits and withdrawals, citing a suspected security incident.",
-   "score": 40
-  },
-  {
-   "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
-   "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
-   "source": "BleepingComputer",
-   "published_at": "Sat, 21 Nov 2026 13:01:58 -0500",
-   "summary": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]",
-   "score": 40
-  },
-  {
-   "title": "Microsoft Entra Connect Health flaw exploited to access tenant data",
-   "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-access-tenant-data/",
-   "source": "BleepingComputer",
-   "published_at": "Sat, 21 Nov 2026 13:01:58 -0500",
-   "summary": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]",
-   "score": 40
-  },
-  {
-   "title": "CHAINFLIP’S LOSSES CLIMB TO $12 MILLION AFTER PROTOCOL DISCLOSES 122.9 BTC THEFT, OFFERS HACKER BOUNTY",
-   "url": "https://www.tradingview.com/news/the_block:2507a52e3094b:0-chainflip-s-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty/",
-   "source": "MarketNewsFeed [CRYPTO]",
-   "published_at": "2026-11-22T19:13:28Z",
-   "summary": "",
-   "score": 34
-  },
-  {
-   "title": "Chainflip’s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty",
-   "url": "https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829",
-   "source": "The Block",
-   "published_at": "Sun, 22 Nov 2026 18:58:57 +0000",
-   "summary": "Chainflip offered the attacker a 10% bounty to return the remainder of the $12 million in stolen BTC, ETH, and stablecoins by Monday.",
-   "score": 34
-  },
-  {
-   "title": "Fluidkey Says Unpatched Tool Enabled $1.6 Million Hack",
-   "url": "https://thedefiant.io/news/hacks/fluidkey-says-unpatched-tool-enabled-1-6-million-hack",
-   "source": "The Defiant",
-   "published_at": "Sun, 22 Nov 2026 02:49:00 GMT",
-   "summary": "Its post-mortem says stolen session tokens let an attacker stage transfers that users apps signed. Personal data and viewing keys were also exposed.",
-   "score": 34
-  },
-  {
-   "title": "FBI reportedly hacked again, this time targeting nationwide police database",
-   "url": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
-   "source": "BleepingComputer",
-   "published_at": "Sat, 21 Nov 2026 09:26:04 -0500",
-   "summary": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency s National Crime Information Center (NCIC), which is used to share information between local, state, and federal law enforcement agencies. [...]",
-   "score": 34
-  }
- ],
- "updatedAt": "2026-11-22T21:13:18.956467+00:00"
+  "picks": [
+    {
+      "title": "Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure",
+      "source": "Decrypt",
+      "category": "market",
+      "url": "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure",
+      "published_at": "Fri, 20 Nov 2026 18:46:03 +0000",
+      "score": 225.0
+    },
+    {
+      "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
+      "source": "CoinDesk",
+      "category": "macro",
+      "url": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
+      "published_at": "Sat, 21 Nov 2026 12:30:00 +0000",
+      "score": 210.0
+    },
+    {
+      "title": "China s Armory Castle Lays Siege to VMware vCenter Zero-Day",
+      "source": "Dark Reading",
+      "category": "macro",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day",
+      "published_at": "Fri, 20 Nov 2026 21:03:27 GMT",
+      "score": 210.0
+    }
+  ],
+  "updatedAt": "2026-11-22T21:17:41.619034+00:00"
 }
