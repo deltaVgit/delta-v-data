@@ -1,6 +1,14 @@
 {
   "picks": [
     {
+      "title": "Spot bitcoin ETFs shed $1.8 billion in past week as outflows become ‘structural’: analysts",
+      "source": "The Block",
+      "category": "macro",
+      "url": "https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857",
+      "published_at": "Mon, 23 Nov 2026 05:47:21 +0000",
+      "score": 255.0
+    },
+    {
       "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
       "source": "BleepingComputer",
       "category": "macro",
@@ -15,15 +23,7 @@
       "url": "https://decrypt.co/383743/googles-quantum-chip-beats-classical-limits-in-impossible-game-tests-105-qubits",
       "published_at": "Sun, 22 Nov 2026 14:01:02 +0000",
       "score": 153.0
-    },
-    {
-      "title": "Trump to host second memecoin dinner tonight with TRUMP down 99% from peak",
-      "source": "The Block",
-      "category": "macro",
-      "url": "https://www.theblock.co/news/ecosystems/2026-11-22-trump-to-host-second-memecoin-dinner-tonight-with-trump-down-99-from-peak-444828",
-      "published_at": "Sun, 22 Nov 2026 20:58:33 +0000",
-      "score": 150.0
     }
   ],
-  "updatedAt": "2026-11-23T05:47:08.205590+00:00"
+  "updatedAt": "2026-11-23T06:02:19.679853+00:00"
 }
