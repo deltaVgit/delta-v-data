@@ -1,12 +1,12 @@
 {
   "picks": [
     {
-      "title": "Spot bitcoin ETFs shed $1.8 billion in past week as outflows become ‘structural’: analysts",
+      "title": "Ark buys $146 million in Anthropic shares last week, trims Ethereum and Solana Staking ETF holdings",
       "source": "The Block",
-      "category": "macro",
-      "url": "https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857",
-      "published_at": "Mon, 23 Nov 2026 05:47:21 +0000",
-      "score": 255.0
+      "category": "market",
+      "url": "https://www.theblock.co/news/business/2026-11-23-ark-buys-146-million-worth-anthropic-since-debut-444866",
+      "published_at": "Mon, 23 Nov 2026 07:12:52 +0000",
+      "score": 225.0
     },
     {
       "title": "AI Agents Zip From Flaw Discovery to Root Access in 11 Minutes",
@@ -25,5 +25,5 @@
       "score": 180.0
     }
   ],
-  "updatedAt": "2026-11-23T22:02:35.130106+00:00"
+  "updatedAt": "2026-11-23T22:17:33.275924+00:00"
 }
