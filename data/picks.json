@@ -1,101 +1,29 @@
 {
- "picks": [
-  {
-   "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
-   "source": "BleepingComputer",
-   "published_at": "Sun, 22 Nov 2026 13:45:37 -0500",
-   "summary": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers routers and KVM devices, with some affected users reporting backdoors and reverse shells giving remote access to infected devices. [...]",
-   "score": 74
-  },
-  {
-   "title": "FBI PROBES SECOND CYBERATTACK IN MONTHS AS HACKERS BREACH KEY CRIME DATABASE, SOURCES SAY – FOX",
-   "url": "https://x.com/FirstSquawk/status/2124827840449528269",
-   "source": "MarketNewsFeed [OTHER]",
-   "published_at": "2026-11-23T11:30:27Z",
-   "summary": "",
-   "score": 72
-  },
-  {
-   "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
-   "url": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
-   "source": "BleepingComputer",
-   "published_at": "Sun, 22 Nov 2026 10:43:04 -0500",
-   "summary": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers payment card information, including credit card numbers and CVV security codes. [...]",
-   "score": 72
-  },
-  {
-   "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
-   "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
-   "source": "BleepingComputer",
-   "published_at": "Mon, 23 Nov 2026 02:44:19 -0500",
-   "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]",
-   "score": 40
-  },
-  {
-   "title": "A $2 million exploit leads to a $3.7 million free-for-all as traders empty Fusionist’s ACE bridge",
-   "url": "https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838",
-   "source": "The Block",
-   "published_at": "Sun, 22 Nov 2026 23:17:08 +0000",
-   "summary": "One trader managed to turn about $50 into nearly $17,700 in the wake of the exploit, according to The Block s analysis.",
-   "score": 40
-  },
-  {
-   "title": "Fusionist Urges ACE Trading Pause After Exploit Alert",
-   "url": "https://thedefiant.io/news/hacks/fusionist-urges-ace-trading-pause-after-exploit-alert",
-   "source": "The Defiant",
-   "published_at": "Sun, 22 Nov 2026 20:13:12 GMT",
-   "summary": "Blockaid estimated about $1.04 million in USDT had been extracted as Fusionist asked users to pause ACE transfers, trades and bridging on BSC.",
-   "score": 40
-  },
-  {
-   "title": "Chainflip’s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty",
-   "url": "https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829",
-   "source": "The Block",
-   "published_at": "Sun, 22 Nov 2026 18:58:57 +0000",
-   "summary": "Chainflip offered the attacker a 10% bounty to return the remainder of the $12 million in stolen BTC, ETH, and stablecoins by Monday.",
-   "score": 34
-  },
-  {
-   "title": "BOFA SEES GLOBAL GROWTH AT 3.4% IN 2027, U.S. 10-YEAR YIELD REACHING 4.75%BANK OF AMERICA GLOBAL RESEARCH RELEASED ITS 2027 ECONOMIC OUTLOOK, FORECASTING RESILIENT GLOBAL GROWTH BUT ELEVATED U.S. BORR",
-   "url": "https://x.com/DeItaone/status/2124828928749494641",
-   "source": "MarketNewsFeed [MACRO]",
-   "published_at": "2026-11-23T11:34:44Z",
-   "summary": "",
-   "score": 24
-  },
-  {
-   "title": "Banana Cases",
-   "url": "https://www.lesswrong.com/posts/z4WhPLKXfaKaEf6Ex/banana-cases",
-   "source": "LessWrong",
-   "published_at": "Mon, 23 Nov 2026 04:20:56 GMT",
-   "summary": "Ages ago I saw some banana cases in the grocery store. They seemedlike a gimmick: why would you get a piece of plastic for such aspecific use? A decade later we have a set of three and use them~daily. Nora (5y) really likes bananas, and is now in kindergarten. She wantsto bring them to school, which",
-   "score": 16
-  },
-  {
-   "title": "Weird finger-wearable gaming mouse raises $43,000 on Kickstarter, a staggering 8x its crowdfunding goal",
-   "url": "https://www.tomshardware.com/peripherals/gaming-mice/weird-finger-wearable-gaming-mouse-kickstarter-breaks-8x-its-crowdfunding-goal-but-it-potentially-has-major-design-flaws-and-is-kind-of-sketchy",
-   "source": "Tom's Hardware",
-   "published_at": "Mon, 23 Nov 2026 11:30:00 +0000",
-   "summary": "The Borslon finger-worn gaming mouse is the first of its kind, reaching $43,000 in its Kickstarter campaign and shattering its $5,000 goal. However, it may have some major design flaws.",
-   "score": 12
-  },
-  {
-   "title": "Visa launches experimental AI agent wallet for eligible US users to earn OUSD from paid tasks",
-   "url": "https://www.theblock.co/news/business/2026-11-23-visa-launches-experimental-ai-agent-wallet-for-eligible-us-users-to-earn-ousd-from-paid-tasks-444903",
-   "source": "The Block",
-   "published_at": "Mon, 23 Nov 2026 11:22:51 +0000",
-   "summary": "Visa is extending its agent verification infrastructure into paid work, allowing AI agents to earn OUSD via participating task marketplaces.",
-   "score": 10
-  },
-  {
-   "title": "Singapore’s OCBC, StraitsX launch pilot for cross-border business stablecoin payments",
-   "url": "https://www.theblock.co/news/business/2026-11-23-ocbc-straitsx-pilot-stablecoin-payments-444880",
-   "source": "The Block",
-   "published_at": "Mon, 23 Nov 2026 10:04:03 +0000",
-   "summary": "The setup uses StraitsX s infrastructure for onchain collection and compliance, while OCBC handles the fiat off-ramp.",
-   "score": 10
-  }
- ],
- "updatedAt": "2026-11-23T11:59:40.565544+00:00"
+  "picks": [
+    {
+      "title": "Spot bitcoin ETFs shed $1.8 billion in past week as outflows become ‘structural’: analysts",
+      "source": "The Block",
+      "category": "macro",
+      "url": "https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857",
+      "published_at": "Mon, 23 Nov 2026 05:47:21 +0000",
+      "score": 255.0
+    },
+    {
+      "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
+      "source": "BleepingComputer",
+      "category": "macro",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
+      "published_at": "Mon, 23 Nov 2026 02:44:19 -0500",
+      "score": 255.0
+    },
+    {
+      "title": "Bitcoin Rebounds to $61K After Weekend Plunge to Two-Year Low",
+      "source": "Decrypt",
+      "category": "market",
+      "url": "https://decrypt.co/383758/bitcoin-rebounds-to-61k-after-weekend-plunge-to-two-year-low",
+      "published_at": "Mon, 23 Nov 2026 11:14:22 +0000",
+      "score": 180.0
+    }
+  ],
+  "updatedAt": "2026-11-23T12:02:25.870494+00:00"
 }
