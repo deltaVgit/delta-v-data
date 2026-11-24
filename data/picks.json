@@ -1,19 +1,19 @@
 {
   "picks": [
     {
+      "title": "CFTC staff say bitcoin, ether can count toward derivatives firms’ operating expenses",
+      "source": "The Block",
+      "category": "macro",
+      "url": "https://www.theblock.co/news/regulation/2026-11-23-cftc-staff-bitcoin-ether-count-toward-derivatives-firms-operating-expenses-445435",
+      "published_at": "Tue, 24 Nov 2026 00:33:22 +0000",
+      "score": 210.0
+    },
+    {
       "title": "AI Agents Zip From Flaw Discovery to Root Access in 11 Minutes",
       "source": "Dark Reading",
       "category": "macro",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes",
       "published_at": "Mon, 23 Nov 2026 16:17:21 GMT",
-      "score": 186.0
-    },
-    {
-      "title": "Cross River Bank launches first bitcoin-backed loans with LendingUSA, offering up to $250,000",
-      "source": "The Block",
-      "category": "macro",
-      "url": "https://www.theblock.co/news/deals/2026-11-23-lendingusa-cross-river-bitcoin-backed-loans-444842",
-      "published_at": "Mon, 23 Nov 2026 12:05:02 +0000",
       "score": 186.0
     },
     {
@@ -25,5 +25,5 @@
       "score": 180.0
     }
   ],
-  "updatedAt": "2026-11-24T00:32:12.933175+00:00"
+  "updatedAt": "2026-11-24T00:47:09.963446+00:00"
 }
