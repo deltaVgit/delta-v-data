@@ -1,29 +1,101 @@
 {
-  "picks": [
-    {
-      "title": "CFTC staff say bitcoin, ether can count toward derivatives firms’ operating expenses",
-      "source": "The Block",
-      "category": "macro",
-      "url": "https://www.theblock.co/news/regulation/2026-11-23-cftc-staff-bitcoin-ether-count-toward-derivatives-firms-operating-expenses-445435",
-      "published_at": "Tue, 24 Nov 2026 00:33:22 +0000",
-      "score": 210.0
-    },
-    {
-      "title": "AI Agents Zip From Flaw Discovery to Root Access in 11 Minutes",
-      "source": "Dark Reading",
-      "category": "macro",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes",
-      "published_at": "Mon, 23 Nov 2026 16:17:21 GMT",
-      "score": 186.0
-    },
-    {
-      "title": "Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More",
-      "source": "Decrypt",
-      "category": "market",
-      "url": "https://decrypt.co/383800/tom-lee-ethereum-scarce-bitcoin-bitmine-buys-more",
-      "published_at": "Mon, 23 Nov 2026 16:46:03 +0000",
-      "score": 180.0
-    }
-  ],
-  "updatedAt": "2026-11-24T09:02:16.007776+00:00"
+ "picks": [
+  {
+   "title": "Microsoft Azure flaw exploited to steal customers API credentials",
+   "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
+   "source": "BleepingComputer",
+   "published_at": "Mon, 23 Nov 2026 14:42:20 -0500",
+   "summary": "Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks against energy companies. [...]",
+   "score": 40
+  },
+  {
+   "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
+   "url": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
+   "source": "BleepingComputer",
+   "published_at": "Mon, 23 Nov 2026 15:54:51 -0500",
+   "summary": "A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. [...]",
+   "score": 38
+  },
+  {
+   "title": "DOJ moves to recover $1.17 billion from Binance hack, Strategy buys another 457 BTC, and more",
+   "url": "https://www.theblock.co/newsletters/the-daily/2026-11-24-doj-binance-hack-strategy-bitcoin-more-crypto-news-445430",
+   "source": "The Block",
+   "published_at": "Tue, 24 Nov 2026 05:40:00 +0000",
+   "summary": "In today s newsletter, DOJ moves to recover $1.17 billion from Binance hack; Strategy buys another 457 BTC as Saylor says the dots aren t done ; and more.",
+   "score": 34
+  },
+  {
+   "title": "Chainflip Suspects Key Theft in $12.6 Million Vault Hack",
+   "url": "https://thedefiant.io/news/hacks/chainflip-suspects-key-theft-in-12-6-million-vault-hack",
+   "source": "The Defiant",
+   "published_at": "Tue, 24 Nov 2026 04:36:59 GMT",
+   "summary": "The first report identifies validly signed transfers outside the protocol but leaves parts of the suspected key theft unconfirmed. Services remain paused.",
+   "score": 34
+  },
+  {
+   "title": "North Korea Moves $247 Million of Binance Hack Loot Through Bitcoin Mixers",
+   "url": "https://decrypt.co/383844/north-korea-247-million-binance-hack-bitcoin-mixers",
+   "source": "Decrypt",
+   "published_at": "Mon, 23 Nov 2026 20:36:02 +0000",
+   "summary": "Roughly a month after the $6.4 billion hack, Elliptic says nearly all of the coinjoin mixing was coordinated by one person who “refuses to block funds such as these.",
+   "score": 34
+  },
+  {
+   "title": "DOJ seeks $1.17 billion in USDC tied to Binance hack; Circle could issue replacement tokens",
+   "url": "https://www.theblock.co/news/regulation/2026-11-23-doj-1-17-billion-usdc-binance-hack-circle-replacement-tokens-445398",
+   "source": "The Block",
+   "published_at": "Mon, 23 Nov 2026 20:00:34 +0000",
+   "summary": "The U.S. Justice Department is seeking to recover about $1.17 billion in USDC tied to the Oct. 29 Binance hack.",
+   "score": 34
+  },
+  {
+   "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
+   "url": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
+   "source": "BleepingComputer",
+   "published_at": "Mon, 23 Nov 2026 13:38:40 -0500",
+   "summary": "LaLiga, Spain s top men s football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. [...]",
+   "score": 34
+  },
+  {
+   "title": "Behind the Alias: How One Researcher Unmasked a Decade of Ransomware Actors",
+   "url": "https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors",
+   "source": "Dark Reading",
+   "published_at": "Mon, 23 Nov 2026 17:45:52 GMT",
+   "summary": "Ransomware isn t slowing down. A new framework gives security teams the edge to trace attackers back to their source.",
+   "score": 32
+  },
+  {
+   "title": "Cross River Bank launches first bitcoin-backed loans with LendingUSA, offering up to $250,000",
+   "url": "https://www.theblock.co/news/deals/2026-11-23-lendingusa-cross-river-bitcoin-backed-loans-444842",
+   "source": "The Block",
+   "published_at": "Mon, 23 Nov 2026 12:05:02 +0000",
+   "summary": "LendingUSA and Cross River launch bitcoin-secured loans of $10,000 to $250,000 with 30%, 50% or 70% LTV, so borrowers can keep their BTC.",
+   "score": 26
+  },
+  {
+   "title": "California court terminates lawsuit against Coinbase over TerraUSD purchases",
+   "url": "https://www.theblock.co/news/markets/2026-11-23-california-court-terminates-lawsuit-coinbase-terrausd-445448",
+   "source": "The Block",
+   "published_at": "Tue, 24 Nov 2026 03:05:45 +0000",
+   "summary": "Plaintiff Larry Pearl purchased TerraUSD on Coinbase shortly before the token collapsed and accused Coinbase of misrepresentation.",
+   "score": 18
+  },
+  {
+   "title": "MacBook Neo falls to all-time low $599 in Amazon Black Friday sale — 256GB Citrus model price matches its original launch (Update: now $649)",
+   "url": "https://www.tomshardware.com/laptops/macbook-neo-falls-to-all-time-low-usd599-in-amazon-black-friday-sale-256gb-citrus-model-price-matches-its-original-launch",
+   "source": "Tom's Hardware",
+   "published_at": "Mon, 23 Nov 2026 21:09:03 +0000",
+   "summary": "Apple s MacBook Neo in citrus is down to $599, its original launch price from earlier this year, at Amazon.",
+   "score": 18
+  },
+  {
+   "title": "Kalshi halts operations in Utah while dodging immediate ban in New York",
+   "url": "https://www.theblock.co/news/regulation/2026-11-23-kalshi-pauses-operations-utah-dodging-ban-new-york-445456",
+   "source": "The Block",
+   "published_at": "Tue, 24 Nov 2026 04:28:02 +0000",
+   "summary": "Kalshi has suspended operations in Utah after a federal judge allowed the state to enforce its gambling laws.",
+   "score": 16
+  }
+ ],
+ "updatedAt": "2026-11-24T09:08:16.423743+00:00"
 }
