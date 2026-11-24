@@ -1,6 +1,14 @@
 {
   "picks": [
     {
+      "title": "What the CFTC’s New Crypto Reserves Guidance Actually Allows—And What It Doesn’t",
+      "source": "Decrypt",
+      "category": "macro",
+      "url": "https://decrypt.co/383906/cftc-new-crypto-reserves-guidance-actually-allows-what-it-doesnt",
+      "published_at": "Tue, 24 Nov 2026 18:55:27 +0000",
+      "score": 300.0
+    },
+    {
       "title": "Ethereum treasury firm BTCS sells $43.8 million in ETH to cut Aave debt, CEO says ‘we do not take this lightly’",
       "source": "The Block",
       "category": "macro",
@@ -15,15 +23,7 @@
       "url": "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/",
       "published_at": "Tue, 24 Nov 2026 10:01:11 -0500",
       "score": 255.0
-    },
-    {
-      "title": "Bitcoin drops as November spot ETF outflows increase to record $4.71 billion",
-      "source": "CoinDesk",
-      "category": "market",
-      "url": "https://www.coindesk.com/daybook-us/2026/11/24/bitcoin-drops-as-november-spot-etf-outflows-increase-to-record-usd4-71-billion",
-      "published_at": "Tue, 24 Nov 2026 12:36:28 +0000",
-      "score": 180.0
     }
   ],
-  "updatedAt": "2026-11-24T18:47:12.189219+00:00"
+  "updatedAt": "2026-11-24T19:02:22.786351+00:00"
 }
