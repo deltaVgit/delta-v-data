@@ -1,101 +1,29 @@
 {
- "picks": [
-  {
-   "title": "Ansem Meme Coin Crashes After $2.57 Million Wallet Drain, Bullpen Confirms Security Breach",
-   "url": "https://decrypt.co/383889/ansem-meme-coin-crashes-wallet-drain-bullpen-security-breach",
-   "source": "Decrypt",
-   "published_at": "Tue, 24 Nov 2026 17:43:03 +0000",
-   "summary": "Bullpen identified unauthorized transfers from as many as 19 early accounts after millions moved from wallets linked to Ansem.",
-   "score": 78
-  },
-  {
-   "title": "Amazon says hackers AI agents found and exploited 0-day with little human input",
-   "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
-   "source": "Ars Technica",
-   "published_at": "Tue, 24 Nov 2026 12:30:05 +0000",
-   "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
-   "score": 74
-  },
-  {
-   "title": "Hackers reportedly breached CIA intelligence analysis system",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
-   "source": "BleepingComputer",
-   "published_at": "Wed, 25 Nov 2026 02:45:03 -0500",
-   "summary": "Unknown attackers have reportedly breached an open-source intelligence analysis system at the US Central Intelligence Agency (CIA) [...]",
-   "score": 72
-  },
-  {
-   "title": "Vulnerability could let hacker hijack electric trailer braking system remotely via Bluetooth, apply any amount of force remotely",
-   "url": "https://www.tomshardware.com/tech-industry/cyber-security/vulnerability-could-let-hacker-hijack-electric-trailer-braking-system-remotely-via-bluetooth-apply-any-amount-of-force-remotely-elecbrakes-flaw-reverse-engineered-using-claude-patched-by-manufacturer",
-   "source": "Tom's Hardware",
-   "published_at": "Tue, 24 Nov 2026 12:38:32 +0000",
-   "summary": "After noticing that his Elecbrakes remote had automatically paired to a stranger s trailer, Patrick Forck s cyber security spider senses tingled.",
-   "score": 64
-  },
-  {
-   "title": "Coldcard Bitcoin Exploit, Revisited: How a Hidden Flaw Survived Years of Audits",
-   "url": "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits",
-   "source": "Decrypt",
-   "published_at": "Tue, 24 Nov 2026 21:16:02 +0000",
-   "summary": "Coinkite’s postmortem reveals a software random-number generator shipped in place of the hardware one for over five years, slipping past at least 15 reviews.",
-   "score": 40
-  },
-  {
-   "title": "Rackspace shuts down Spot cloud platform after security breach",
-   "url": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
-   "source": "BleepingComputer",
-   "published_at": "Tue, 24 Nov 2026 16:37:30 -0500",
-   "summary": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and download their data. [...]",
-   "score": 38
-  },
-  {
-   "title": "Radware discloses breach exposing customer cloud access keys",
-   "url": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
-   "source": "BleepingComputer",
-   "published_at": "Tue, 24 Nov 2026 12:49:05 -0500",
-   "summary": "Cybersecurity company Radware says attackers gained access to some of its customers account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left exposed online. [...]",
-   "score": 38
-  },
-  {
-   "title": "European Commission confirms data theft in EU Academy breach",
-   "url": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
-   "source": "BleepingComputer",
-   "published_at": "Tue, 24 Nov 2026 11:22:44 -0500",
-   "summary": "The European Commission, the European Union s main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]",
-   "score": 38
-  },
-  {
-   "title": "Justice Department Moves to Forfeit $1.1B in USDC From North Korea s Binance Hack",
-   "url": "https://decrypt.co/383874/justice-department-moves-to-forfeit-1-1b-in-usdc-from-north-koreas-binance-hack",
-   "source": "Decrypt",
-   "published_at": "Tue, 24 Nov 2026 14:13:03 +0000",
-   "summary": "U.S. authorities say they ve now helped freeze, seize or return more than $2.9 billion of the crypto stolen from Binance in October.",
-   "score": 34
-  },
-  {
-   "title": "Hackers compromise Check Point Servers in 22 organizations",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
-   "source": "BleepingComputer",
-   "published_at": "Tue, 24 Nov 2026 11:15:23 -0500",
-   "summary": "Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...]",
-   "score": 34
-  },
-  {
-   "title": "U.S. seeks $1.1 billion seized in Binance hack as North Korean funds keep moving",
-   "url": "https://www.coindesk.com/policy/2026/11/24/u-s-seeks-usd1-1-billion-seized-in-binance-hack-as-north-korean-funds-keep-moving",
-   "source": "CoinDesk",
-   "published_at": "Tue, 24 Nov 2026 10:58:51 +0000",
-   "summary": "",
-   "score": 34
-  },
-  {
-   "title": "CertiK Trains Interpol Investigators to Trace and Freeze Stolen Crypto",
-   "url": "https://decrypt.co/383857/certik-trains-interpol-investigators-to-trace-and-freeze-stolen-crypto",
-   "source": "Decrypt",
-   "published_at": "Tue, 24 Nov 2026 13:46:03 +0000",
-   "summary": "The blockchain security firm walked officers from across Asia and the South Pacific through a real wallet-theft case at a workshop in Hanoi.",
-   "score": 30
-  }
- ],
- "updatedAt": "2026-11-25T09:15:48.216075+00:00"
+  "picks": [
+    {
+      "title": "Bitcoin, ether get CFTC staff nod for expense requirements, Ethereum Foundation doubles security team, and more",
+      "source": "The Block",
+      "category": "macro",
+      "url": "https://www.theblock.co/newsletters/the-daily/2026-11-25-bitcoin-ether-cftc-staff-nod-ethereum-foundation-doubles-security-team-more-crypto-news-446074",
+      "published_at": "Wed, 25 Nov 2026 05:15:00 +0000",
+      "score": 315.0
+    },
+    {
+      "title": "What the CFTC’s New Crypto Reserves Guidance Actually Allows—And What It Doesn’t",
+      "source": "Decrypt",
+      "category": "macro",
+      "url": "https://decrypt.co/383906/cftc-new-crypto-reserves-guidance-actually-allows-what-it-doesnt",
+      "published_at": "Tue, 24 Nov 2026 18:55:27 +0000",
+      "score": 300.0
+    },
+    {
+      "title": "Bitcoin drops as November spot ETF outflows increase to record $4.71 billion",
+      "source": "CoinDesk",
+      "category": "market",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/24/bitcoin-drops-as-november-spot-etf-outflows-increase-to-record-usd4-71-billion",
+      "published_at": "Tue, 24 Nov 2026 12:36:28 +0000",
+      "score": 180.0
+    }
+  ],
+  "updatedAt": "2026-11-25T09:17:29.963762+00:00"
 }
