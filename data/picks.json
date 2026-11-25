@@ -1,14 +1,6 @@
 {
   "picks": [
     {
-      "title": "Bitcoin, ether get CFTC staff nod for expense requirements, Ethereum Foundation doubles security team, and more",
-      "source": "The Block",
-      "category": "macro",
-      "url": "https://www.theblock.co/newsletters/the-daily/2026-11-25-bitcoin-ether-cftc-staff-nod-ethereum-foundation-doubles-security-team-more-crypto-news-446074",
-      "published_at": "Wed, 25 Nov 2026 05:15:00 +0000",
-      "score": 315.0
-    },
-    {
       "title": "Morning Minute: Ethereum Focuses on Security As AI Threats Rise",
       "source": "Decrypt",
       "category": "macro",
@@ -23,7 +15,15 @@
       "url": "https://blog.ethereum.org/en/2026/11/25/devcon-mumbai-wrap",
       "published_at": "Wed, 25 Nov 2026 00:00:00 GMT",
       "score": 231.0
+    },
+    {
+      "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
+      "source": "BleepingComputer",
+      "category": "macro",
+      "url": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
+      "published_at": "Wed, 25 Nov 2026 10:00:00 -0500",
+      "score": 210.0
     }
   ],
-  "updatedAt": "2026-11-25T19:32:07.559531+00:00"
+  "updatedAt": "2026-11-25T19:47:06.237421+00:00"
 }
