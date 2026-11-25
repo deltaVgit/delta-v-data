@@ -1,101 +1,29 @@
 {
- "picks": [
-  {
-   "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
-   "source": "BleepingComputer",
-   "published_at": "Wed, 25 Nov 2026 05:10:20 -0500",
-   "summary": "The Drupal security team has confirmed that a critical vulnerability that lets attackers hijack unpatched sites has been actively exploited since at least Thursday. [...]",
-   "score": 74
-  },
-  {
-   "title": "Hackers reportedly breached CIA intelligence analysis system",
-   "url": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
-   "source": "BleepingComputer",
-   "published_at": "Wed, 25 Nov 2026 02:45:03 -0500",
-   "summary": "Unknown attackers have reportedly breached an open-source intelligence analysis system at the US Central Intelligence Agency (CIA) [...]",
-   "score": 72
-  },
-  {
-   "title": "South Korean crypto exchange Bithumb warns of phishing after deeper October breach probe",
-   "url": "https://www.coindesk.com/tech/2026/11/25/south-korean-crypto-exchange-bithumb-warns-of-phishing-after-deeper-october-breach-probe",
-   "source": "CoinDesk",
-   "published_at": "Wed, 25 Nov 2026 14:47:17 +0000",
-   "summary": "",
-   "score": 62
-  },
-  {
-   "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
-   "url": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
-   "source": "BleepingComputer",
-   "published_at": "Wed, 25 Nov 2026 10:00:00 -0500",
-   "summary": "Eclypsium s November InfraTrust report warns that most infrastructure security advisories addressing exploited vulnerabilities over the past month involve flaws in third-party software bundled into products rather than code developed by the vendors themselves. [...]",
-   "score": 40
-  },
-  {
-   "title": "Tether Sought 20% Fees From Some Hack Victims: Bloomberg",
-   "url": "https://thedefiant.io/news/hacks/tether-sought-20-fees-from-some-hack-victims-bloomberg",
-   "source": "The Defiant",
-   "published_at": "Wed, 25 Nov 2026 18:46:07 GMT",
-   "summary": "Tether says fees help cover reissuance and legal costs. Bloomberg reported that Bittok is still waiting for frozen USDT more than five years after a hack.",
-   "score": 34
-  },
-  {
-   "title": "US Treasury information chief spent three days vibecoding Civilization game clone amidst Treasury database hack",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-treasury-information-chief-spent-three-days-vibecoding-civilization-game-clone-amidst-treasury-database-hack-ai-agent-studiously-attends-to-personal-project-github-users-raise-tickets-asking-him-to-attend-to-cybersecurity-incident",
-   "source": "Tom's Hardware",
-   "published_at": "Wed, 25 Nov 2026 15:00:00 +0000",
-   "summary": "Legatum, a vibecoded browser-based Civilization clone by the US Treasury s own CIO is getting constant updates while the Treasury faces a cybersecurity issue.",
-   "score": 34
-  },
-  {
-   "title": "A familiar Iranian hacking group has found a new way to cause chaos",
-   "url": "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/",
-   "source": "Ars Technica",
-   "published_at": "Wed, 25 Nov 2026 14:29:43 +0000",
-   "summary": "France blames an Iranian cyber unit for sabotaging hundreds of supermarket freezers.",
-   "score": 34
-  },
-  {
-   "title": "Tracking Incidents of Hacking Using AI Tools",
-   "url": "https://www.schneier.com/blog/archives/2026/11/tracking-incidents-of-hacking-using-ai-tools.html",
-   "source": "Schneier on Security",
-   "published_at": "2026-11-25T12:07:21Z",
-   "summary": "Daniel Meissler is tracking incidents of AI-enhanced hacking, and the offensive harnesses the hackers are using.",
-   "score": 34
-  },
-  {
-   "title": "Lawsuit reveals Trump’s alleged strong-arming of Intel",
-   "url": "https://www.tomshardware.com/tech-industry/policy/lawsuit-reveals-trumps-alleged-strong-arming-of-intel-troubled-chipmaker-allegedly-forced-to-give-white-house-10-percent-stake-for-release-of-chips-act-funds",
-   "source": "Tom's Hardware",
-   "published_at": "Wed, 25 Nov 2026 16:39:23 +0000",
-   "summary": "The president apparently threatened the Intel board with consequences if they did not accept his demand for a 10% stake on the company.",
-   "score": 18
-  },
-  {
-   "title": "CoreWeave Banks Plan $4.5 Billion Meta-Tied Loan Sale",
-   "url": "https://thedefiant.io/frontier/markets/coreweave-banks-plan-4-5-billion-meta-tied-loan-sale",
-   "source": "The Defiant",
-   "published_at": "Wed, 25 Nov 2026 17:49:55 GMT",
-   "summary": "Bloomberg says the pending financing would pay for GPUs at a Georgia data center, with the debt repaid gradually over the loan s life.",
-   "score": 16
-  },
-  {
-   "title": "EU bank watchdog seeks European Commission rules for crypto firms offering DeFi lending",
-   "url": "https://www.coindesk.com/policy/2026/11/25/eu-bank-watchdog-seeks-european-commission-rules-for-crypto-firms-offering-defi-lending",
-   "source": "CoinDesk",
-   "published_at": "Wed, 25 Nov 2026 16:02:31 +0000",
-   "summary": "",
-   "score": 16
-  },
-  {
-   "title": "Husband of Jensen Huang’s mistress has much more significant Chinese intelligence connections than her, report claims",
-   "url": "https://www.tomshardware.com/tech-industry/big-tech/husband-of-jensen-huangs-mistress-has-much-more-significant-chinese-intelligence-connections-than-her-report-claims-us-officials-warn-he-was-asset-with-ministry-of-state-security-connections",
-   "source": "Tom's Hardware",
-   "published_at": "Wed, 25 Nov 2026 13:11:02 +0000",
-   "summary": "The husband of alleged Chinese spy Alice Huang, the former Megaspeed employee who was involved in an affair with Nvidia CEO Jensen Huang, has even stronger ties to the Chinese intelligence services, U.S. intelligence officials have told Congress.",
-   "score": 16
-  }
- ],
- "updatedAt": "2026-11-25T19:18:33.320958+00:00"
+  "picks": [
+    {
+      "title": "Bitcoin, ether get CFTC staff nod for expense requirements, Ethereum Foundation doubles security team, and more",
+      "source": "The Block",
+      "category": "macro",
+      "url": "https://www.theblock.co/newsletters/the-daily/2026-11-25-bitcoin-ether-cftc-staff-nod-ethereum-foundation-doubles-security-team-more-crypto-news-446074",
+      "published_at": "Wed, 25 Nov 2026 05:15:00 +0000",
+      "score": 315.0
+    },
+    {
+      "title": "Morning Minute: Ethereum Focuses on Security As AI Threats Rise",
+      "source": "Decrypt",
+      "category": "macro",
+      "url": "https://decrypt.co/383945/morning-minute-ethereum-focuses-on-security-as-ai-threats-rise",
+      "published_at": "Wed, 25 Nov 2026 13:41:38 +0000",
+      "score": 231.0
+    },
+    {
+      "title": "Devcon 8 India Recap: Four Days in Mumbai, and What s Next",
+      "source": "Ethereum Foundation Blog",
+      "category": "macro",
+      "url": "https://blog.ethereum.org/en/2026/11/25/devcon-mumbai-wrap",
+      "published_at": "Wed, 25 Nov 2026 00:00:00 GMT",
+      "score": 231.0
+    }
+  ],
+  "updatedAt": "2026-11-25T19:32:07.559531+00:00"
 }
