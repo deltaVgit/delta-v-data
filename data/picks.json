@@ -1,20 +1,20 @@
 {
   "picks": [
     {
+      "title": "Bitcoin, ether get CFTC staff nod for expense requirements, Ethereum Foundation doubles security team, and more",
+      "source": "The Block",
+      "category": "macro",
+      "url": "https://www.theblock.co/newsletters/the-daily/2026-11-25-bitcoin-ether-cftc-staff-nod-ethereum-foundation-doubles-security-team-more-crypto-news-446074",
+      "published_at": "Wed, 25 Nov 2026 05:15:00 +0000",
+      "score": 315.0
+    },
+    {
       "title": "What the CFTC’s New Crypto Reserves Guidance Actually Allows—And What It Doesn’t",
       "source": "Decrypt",
       "category": "macro",
       "url": "https://decrypt.co/383906/cftc-new-crypto-reserves-guidance-actually-allows-what-it-doesnt",
       "published_at": "Tue, 24 Nov 2026 18:55:27 +0000",
       "score": 300.0
-    },
-    {
-      "title": "Ethereum treasury firm BTCS sells $43.8 million in ETH to cut Aave debt, CEO says ‘we do not take this lightly’",
-      "source": "The Block",
-      "category": "macro",
-      "url": "https://www.theblock.co/news/business/2026-11-24-ethereum-treasury-firm-btcs-sells-43-8-million-eth-cut-aave-debt-ceo-says-we-do-not-take-this-lightly-445562",
-      "published_at": "Tue, 24 Nov 2026 15:27:50 +0000",
-      "score": 285.0
     },
     {
       "title": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era",
@@ -25,5 +25,5 @@
       "score": 255.0
     }
   ],
-  "updatedAt": "2026-11-25T05:47:11.731683+00:00"
+  "updatedAt": "2026-11-25T06:02:04.496195+00:00"
 }
