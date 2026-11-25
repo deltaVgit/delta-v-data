@@ -1,101 +1,29 @@
 {
- "picks": [
-  {
-   "title": "Ansem Meme Coin Crashes After $2.57 Million Wallet Drain, Bullpen Confirms Security Breach",
-   "url": "https://decrypt.co/383889/ansem-meme-coin-crashes-wallet-drain-bullpen-security-breach",
-   "source": "Decrypt",
-   "published_at": "Tue, 24 Nov 2026 17:43:03 +0000",
-   "summary": "Bullpen identified unauthorized transfers from as many as 19 early accounts after millions moved from wallets linked to Ansem.",
-   "score": 78
-  },
-  {
-   "title": "Amazon says hackers AI agents found and exploited 0-day with little human input",
-   "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
-   "source": "Ars Technica",
-   "published_at": "Tue, 24 Nov 2026 12:30:05 +0000",
-   "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
-   "score": 74
-  },
-  {
-   "title": "Vulnerability could let hacker hijack electric trailer braking system remotely via Bluetooth, apply any amount of force remotely",
-   "url": "https://www.tomshardware.com/tech-industry/cyber-security/vulnerability-could-let-hacker-hijack-electric-trailer-braking-system-remotely-via-bluetooth-apply-any-amount-of-force-remotely-elecbrakes-flaw-reverse-engineered-using-claude-patched-by-manufacturer",
-   "source": "Tom's Hardware",
-   "published_at": "Tue, 24 Nov 2026 12:38:32 +0000",
-   "summary": "After noticing that his Elecbrakes remote had automatically paired to a stranger s trailer, Patrick Forck s cyber security spider senses tingled.",
-   "score": 64
-  },
-  {
-   "title": "Coldcard Bitcoin Exploit, Revisited: How a Hidden Flaw Survived Years of Audits",
-   "url": "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits",
-   "source": "Decrypt",
-   "published_at": "Tue, 24 Nov 2026 21:16:02 +0000",
-   "summary": "Coinkite’s postmortem reveals a software random-number generator shipped in place of the hardware one for over five years, slipping past at least 15 reviews.",
-   "score": 40
-  },
-  {
-   "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
-   "url": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
-   "source": "BleepingComputer",
-   "published_at": "Tue, 24 Nov 2026 08:34:23 -0500",
-   "summary": "OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without restarting services. [...]",
-   "score": 40
-  },
-  {
-   "title": "An unclassified CIA system was breached in a cyberattack",
-   "url": "https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77",
-   "source": "Hacker News Frontpage",
-   "published_at": "Tue, 24 Nov 2026 21:24:27 +0000",
-   "summary": "Comments URL: Points: 92",
-   "score": 38
-  },
-  {
-   "title": "Rackspace shuts down Spot cloud platform after security breach",
-   "url": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
-   "source": "BleepingComputer",
-   "published_at": "Tue, 24 Nov 2026 16:37:30 -0500",
-   "summary": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and download their data. [...]",
-   "score": 38
-  },
-  {
-   "title": "Ghost Hunt: a steering approach to model backdoors",
-   "url": "https://www.lesswrong.com/posts/QazdpnzTYqARAB8Ed/ghost-hunt-a-steering-approach-to-model-backdoors-1",
-   "source": "LessWrong",
-   "published_at": "Tue, 24 Nov 2026 15:05:19 GMT",
-   "summary": "TL;DR We tried to switch off the backdoors in 16 backdoored models (up to 8B) using activation steering. Steering along a probe direction built from the six questions in Anthropic s Simple probes can catch sleeper agents post worked no better than random directions. No single push switched off the b",
-   "score": 38
-  },
-  {
-   "title": "Radware discloses breach exposing customer cloud access keys",
-   "url": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
-   "source": "BleepingComputer",
-   "published_at": "Tue, 24 Nov 2026 12:49:05 -0500",
-   "summary": "Cybersecurity company Radware says attackers gained access to some of its customers account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left exposed online. [...]",
-   "score": 38
-  },
-  {
-   "title": "European Commission confirms data theft in EU Academy breach",
-   "url": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
-   "source": "BleepingComputer",
-   "published_at": "Tue, 24 Nov 2026 11:22:44 -0500",
-   "summary": "The European Commission, the European Union s main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]",
-   "score": 38
-  },
-  {
-   "title": "McDonald s Japan data breach exposes customer location information",
-   "url": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
-   "source": "BleepingComputer",
-   "published_at": "Tue, 24 Nov 2026 09:09:37 -0500",
-   "summary": "McDonald s Japan, the fast-food giant s Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company s official smartphone app. [...]",
-   "score": 38
-  },
-  {
-   "title": "Justice Department Moves to Forfeit $1.1B in USDC From North Korea s Binance Hack",
-   "url": "https://decrypt.co/383874/justice-department-moves-to-forfeit-1-1b-in-usdc-from-north-koreas-binance-hack",
-   "source": "Decrypt",
-   "published_at": "Tue, 24 Nov 2026 14:13:03 +0000",
-   "summary": "U.S. authorities say they ve now helped freeze, seize or return more than $2.9 billion of the crypto stolen from Binance in October.",
-   "score": 34
-  }
- ],
- "updatedAt": "2026-11-25T00:48:06.941798+00:00"
+  "picks": [
+    {
+      "title": "What the CFTC’s New Crypto Reserves Guidance Actually Allows—And What It Doesn’t",
+      "source": "Decrypt",
+      "category": "macro",
+      "url": "https://decrypt.co/383906/cftc-new-crypto-reserves-guidance-actually-allows-what-it-doesnt",
+      "published_at": "Tue, 24 Nov 2026 18:55:27 +0000",
+      "score": 300.0
+    },
+    {
+      "title": "Ethereum treasury firm BTCS sells $43.8 million in ETH to cut Aave debt, CEO says ‘we do not take this lightly’",
+      "source": "The Block",
+      "category": "macro",
+      "url": "https://www.theblock.co/news/business/2026-11-24-ethereum-treasury-firm-btcs-sells-43-8-million-eth-cut-aave-debt-ceo-says-we-do-not-take-this-lightly-445562",
+      "published_at": "Tue, 24 Nov 2026 15:27:50 +0000",
+      "score": 285.0
+    },
+    {
+      "title": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era",
+      "source": "BleepingComputer",
+      "category": "macro",
+      "url": "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/",
+      "published_at": "Tue, 24 Nov 2026 10:01:11 -0500",
+      "score": 255.0
+    }
+  ],
+  "updatedAt": "2026-11-25T01:02:30.298259+00:00"
 }
