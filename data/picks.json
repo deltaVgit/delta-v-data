@@ -1,29 +1,101 @@
 {
-  "picks": [
-    {
-      "title": "Bitcoin Falls Further as Inflation, Trump Tariffs and AI Selloff Rattle Markets",
-      "source": "Decrypt",
-      "category": "macro",
-      "url": "https://decrypt.co/383967/bitcoin-sinks-inflation-trump-tariffs-ai-selloff",
-      "published_at": "Wed, 25 Nov 2026 16:52:50 +0000",
-      "score": 225.0
-    },
-    {
-      "title": "Hyperliquid’s HYPE will join bitcoin, ether and more in Franklin Templeton’s crypto ETF",
-      "source": "The Block",
-      "category": "macro",
-      "url": "https://www.theblock.co/news/markets/2026-11-25-franklin-templeton-ezpz-etf-adds-hyperliquid-hype-446686",
-      "published_at": "Wed, 25 Nov 2026 16:54:15 +0000",
-      "score": 195.0
-    },
-    {
-      "title": "Cyprus Becomes Espionage Target for Iranian Hackers",
-      "source": "Dark Reading",
-      "category": "macro",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/cyprus-espionage-target-iranian-hackers",
-      "published_at": "Thu, 26 Nov 2026 08:00:00 GMT",
-      "score": 150.0
-    }
-  ],
-  "updatedAt": "2026-11-26T10:47:06.782139+00:00"
+ "picks": [
+  {
+   "title": "What Is Artex? The AI Hacking Tool Linked to the US Spy Agency Breach",
+   "url": "https://decrypt.co/383997/what-is-artex-ai-hacking-tool-us-spy-agency-breach",
+   "source": "Decrypt",
+   "published_at": "Wed, 25 Nov 2026 20:06:03 +0000",
+   "summary": "Microsoft says state-backed hackers and cybercriminals are using Artex to automate attacks with AI agents, exploiting familiar security flaws at speeds that leave defenders little time to respond or recover.",
+   "score": 72
+  },
+  {
+   "title": "1Password customer data stolen after employee GitHub account breach",
+   "url": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
+   "source": "BleepingComputer",
+   "published_at": "Wed, 25 Nov 2026 16:33:33 -0500",
+   "summary": "1Password has disclosed a data breach after a an employee s corporate GitHub account was hacked and used to deploy malicious code to the company s backend services to steal customer data. [...]",
+   "score": 68
+  },
+  {
+   "title": "The 1Password Breach Didn’t Touch Your Vault. The Phishing Emails Might",
+   "url": "https://decrypt.co/384002/1password-breach-vaults-phishing-emails",
+   "source": "Decrypt",
+   "published_at": "Wed, 25 Nov 2026 21:16:02 +0000",
+   "summary": "An attacker compromised an employee’s GitHub account to reach 1Password’s backend and copy customer names and emails, but the company says vault contents, encryption keys and your Secret Key were never exposed.",
+   "score": 62
+  },
+  {
+   "title": "Bitcoin miners hit by hashrate hijacking attack exploiting unencrypted connections",
+   "url": "https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723",
+   "source": "The Block",
+   "published_at": "Wed, 25 Nov 2026 19:37:10 +0000",
+   "summary": "Braiins warns that an attacker is redirecting miners compute power to steal bitcoin mining rewards.",
+   "score": 40
+  },
+  {
+   "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
+   "source": "BleepingComputer",
+   "published_at": "Wed, 25 Nov 2026 17:05:09 -0500",
+   "summary": "Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet. [...]",
+   "score": 40
+  },
+  {
+   "title": "Cyprus Becomes Espionage Target for Iranian Hackers",
+   "url": "https://www.darkreading.com/cyberattacks-data-breaches/cyprus-espionage-target-iranian-hackers",
+   "source": "Dark Reading",
+   "published_at": "Thu, 26 Nov 2026 08:00:00 GMT",
+   "summary": "A previously undocumented Iranian threat group called Volant Manticore is targeting Cypriot organizations as part of an intelligence-gathering effort for Tehran.",
+   "score": 34
+  },
+  {
+   "title": "Lawsuit reveals Trump’s alleged strong-arming of Intel",
+   "url": "https://www.tomshardware.com/tech-industry/policy/lawsuit-reveals-trumps-alleged-strong-arming-of-intel-troubled-chipmaker-allegedly-forced-to-give-white-house-10-percent-stake-for-release-of-chips-act-funds",
+   "source": "Tom's Hardware",
+   "published_at": "Wed, 25 Nov 2026 16:39:23 +0000",
+   "summary": "The president apparently threatened the Intel board with consequences if they did not accept his demand for a 10% stake on the company.",
+   "score": 18
+  },
+  {
+   "title": "Ripple is worth $90 a share to one fund and $300 to another, SEC filings show",
+   "url": "https://www.coindesk.com/markets/2026/11/26/ripple-is-worth-usd90-a-share-to-one-fund-and-usd300-to-another-sec-filings-show",
+   "source": "CoinDesk",
+   "published_at": "Thu, 26 Nov 2026 05:30:38 +0000",
+   "summary": "",
+   "score": 16
+  },
+  {
+   "title": "China s Google Just Released Its Fast New AI Model for Free",
+   "url": "https://decrypt.co/384015/china-google-released-fast-new-ai-model-free-baidu-ernie",
+   "source": "Decrypt",
+   "published_at": "Wed, 25 Nov 2026 22:38:09 +0000",
+   "summary": "Baidu has released the weights of its new high-speed reasoning model, giving developers a commercially usable alternative to proprietary AI services from OpenAI, Google, and Anthropic",
+   "score": 16
+  },
+  {
+   "title": "EU bank watchdog seeks European Commission rules for crypto firms offering DeFi lending",
+   "url": "https://www.coindesk.com/policy/2026/11/25/eu-bank-watchdog-seeks-european-commission-rules-for-crypto-firms-offering-defi-lending",
+   "source": "CoinDesk",
+   "published_at": "Wed, 25 Nov 2026 16:02:31 +0000",
+   "summary": "",
+   "score": 16
+  },
+  {
+   "title": "Pump.fun Plans Block0 Fee on New Launches From Dec. 4",
+   "url": "https://thedefiant.io/news/defi/pump-fun-plans-block0-fee-on-new-launches-from-dec-4",
+   "source": "The Defiant",
+   "published_at": "Wed, 25 Nov 2026 22:43:35 GMT",
+   "summary": "Each coin s creator wallet will be exempt, but other wallets would pay even if the creator controls them. The fee rate remains unannounced.",
+   "score": 10
+  },
+  {
+   "title": "Google search alternative Kagi launches Gmail rival",
+   "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
+   "source": "Ars Technica",
+   "published_at": "Wed, 25 Nov 2026 20:57:09 +0000",
+   "summary": "The pitch is an unusual combination of privacy promises and AI features.",
+   "score": 10
+  }
+ ],
+ "updatedAt": "2026-11-26T10:56:46.416524+00:00"
 }
