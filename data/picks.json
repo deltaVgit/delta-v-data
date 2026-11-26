@@ -1,14 +1,6 @@
 {
   "picks": [
     {
-      "title": "Another Bitcoin Mining Firm Flags Hashrate Hijacking Attacks That Reroute Rewards",
-      "source": "Decrypt",
-      "category": "macro",
-      "url": "https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks",
-      "published_at": "Wed, 25 Nov 2026 20:36:03 +0000",
-      "score": 195.0
-    },
-    {
       "title": "Bitcoin ETFs are bleeding cash and the Fed is unlikely to help",
       "source": "CoinDesk",
       "category": "macro",
@@ -23,7 +15,15 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/cyprus-espionage-target-iranian-hackers",
       "published_at": "Thu, 26 Nov 2026 08:00:00 GMT",
       "score": 150.0
+    },
+    {
+      "title": "The 1Password Breach Didn’t Touch Your Vault. The Phishing Emails Might",
+      "source": "Decrypt",
+      "category": "macro",
+      "url": "https://decrypt.co/384002/1password-breach-vaults-phishing-emails",
+      "published_at": "Wed, 25 Nov 2026 21:16:02 +0000",
+      "score": 150.0
     }
   ],
-  "updatedAt": "2026-11-26T16:17:27.999050+00:00"
+  "updatedAt": "2026-11-26T16:32:08.001238+00:00"
 }
