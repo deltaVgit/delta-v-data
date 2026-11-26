@@ -1,20 +1,20 @@
 {
   "picks": [
     {
-      "title": "Bitcoin Falls Further as Inflation, Trump Tariffs and AI Selloff Rattle Markets",
+      "title": "Another Bitcoin Mining Firm Flags Hashrate Hijacking Attacks That Reroute Rewards",
       "source": "Decrypt",
       "category": "macro",
-      "url": "https://decrypt.co/383967/bitcoin-sinks-inflation-trump-tariffs-ai-selloff",
-      "published_at": "Wed, 25 Nov 2026 16:52:50 +0000",
-      "score": 225.0
+      "url": "https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks",
+      "published_at": "Wed, 25 Nov 2026 20:36:03 +0000",
+      "score": 195.0
     },
     {
-      "title": "Hyperliquid’s HYPE will join bitcoin, ether and more in Franklin Templeton’s crypto ETF",
-      "source": "The Block",
+      "title": "Bitcoin ETFs are bleeding cash and the Fed is unlikely to help",
+      "source": "CoinDesk",
       "category": "macro",
-      "url": "https://www.theblock.co/news/markets/2026-11-25-franklin-templeton-ezpz-etf-adds-hyperliquid-hype-446686",
-      "published_at": "Wed, 25 Nov 2026 16:54:15 +0000",
-      "score": 195.0
+      "url": "https://www.coindesk.com/daybook-us/2026/11/26/bitcoin-etfs-are-bleeding-cash-and-the-fed-is-unlikely-to-help",
+      "published_at": "Thu, 26 Nov 2026 12:14:46 +0000",
+      "score": 150.0
     },
     {
       "title": "Cyprus Becomes Espionage Target for Iranian Hackers",
@@ -25,5 +25,5 @@
       "score": 150.0
     }
   ],
-  "updatedAt": "2026-11-26T12:02:10.456454+00:00"
+  "updatedAt": "2026-11-26T12:17:29.594713+00:00"
 }
