@@ -1,101 +1,29 @@
 {
- "picks": [
-  {
-   "title": "Standard Chartered s Zodia Custody suffers data breach, exposing client information",
-   "url": "https://www.coindesk.com/tech/2026/11/26/standard-chartered-s-zodia-custody-suffers-data-breach-exposing-client-information",
-   "source": "CoinDesk",
-   "published_at": "Thu, 26 Nov 2026 12:38:51 +0000",
-   "summary": "",
-   "score": 38
-  },
-  {
-   "title": "Binance Hack Flows Through THORChain Top $600M: Reuters",
-   "url": "https://thedefiant.io/news/hacks/binance-hack-flows-through-thorchain-top-600m-reuters",
-   "source": "The Defiant",
-   "published_at": "Thu, 26 Nov 2026 21:35:55 GMT",
-   "summary": "The estimate may count the same funds more than once. The FBI had asked THORChain node operators to block transactions tied to the theft.",
-   "score": 34
-  },
-  {
-   "title": "Microsoft Links China, North Korea Hackers to ARTEX",
-   "url": "https://thedefiant.io/frontier/ai/microsoft-links-china-north-korea-hackers-to-artex",
-   "source": "The Defiant",
-   "published_at": "Thu, 26 Nov 2026 19:19:13 GMT",
-   "summary": "Microsoft says the AI tool can turn initial probing into lasting access with elevated permissions within minutes, depending on the target’s defenses and the attacker’s setup.",
-   "score": 34
-  },
-  {
-   "title": "Binance Says Post-Hack Withdrawal Suspension Is Over",
-   "url": "https://thedefiant.io/news/cefi/binance-says-post-hack-withdrawal-suspension-is-over",
-   "source": "The Defiant",
-   "published_at": "Thu, 26 Nov 2026 19:17:27 GMT",
-   "summary": "Withdrawals are open on nearly all networks, the exchange says, with a small number still paused for maintenance or upgrades.",
-   "score": 34
-  },
-  {
-   "title": "Standard Chartered s Zodia Custody Says Hackers Accessed Client Contact Details",
-   "url": "https://decrypt.co/384033/standard-chartereds-zodia-custody-says-hackers-accessed-client-contact-details",
-   "source": "Decrypt",
-   "published_at": "Thu, 26 Nov 2026 13:13:19 +0000",
-   "summary": "The crypto custodian said an unauthorized party accessed some client and staff names and emails, but found no unauthorized transactions.",
-   "score": 34
-  },
-  {
-   "title": "UK Regulator Cites Binance Hack as It Plans Tougher DeFi Rules Than US and EU: Report",
-   "url": "https://decrypt.co/384027/uk-regulator-cites-binance-hack-as-it-plans-tougher-defi-rules-than-us-and-eu-report",
-   "source": "Decrypt",
-   "published_at": "Thu, 26 Nov 2026 11:50:23 +0000",
-   "summary": "The FCA plans to require DeFi platforms to be authorized and to keep regulated exchanges from routing UK retail trades to them.",
-   "score": 34
-  },
-  {
-   "title": "Cyprus Becomes Espionage Target for Iranian Hackers",
-   "url": "https://www.darkreading.com/cyberattacks-data-breaches/cyprus-espionage-target-iranian-hackers",
-   "source": "Dark Reading",
-   "published_at": "Thu, 26 Nov 2026 08:00:00 GMT",
-   "summary": "A previously undocumented Iranian threat group called Volant Manticore is targeting Cypriot organizations as part of an intelligence-gathering effort for Tehran.",
-   "score": 34
-  },
-  {
-   "title": "Draining peatlands is responsible for a few percent of our global warming",
-   "url": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
-   "source": "Ars Technica",
-   "published_at": "Thu, 26 Nov 2026 12:15:42 +0000",
-   "summary": "Detailed estimate going back to 1800 shows how much carbon is being liberated.",
-   "score": 26
-  },
-  {
-   "title": "Remus malware steals Gmail messages via fake Google Sheets extension",
-   "url": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
-   "source": "BleepingComputer",
-   "published_at": "Thu, 26 Nov 2026 10:23:28 -0500",
-   "summary": "The Remus infostealer is stealing Gmail messages through a stealthy malicious Chrome extension, a capability the malware operators marketed as a zero-day exploit in Google s email service. [...]",
-   "score": 26
-  },
-  {
-   "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
-   "url": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
-   "source": "BleepingComputer",
-   "published_at": "Thu, 26 Nov 2026 06:50:17 -0500",
-   "summary": "A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that steals sensitive data, including Gmail and Outlook emails. [...]",
-   "score": 26
-  },
-  {
-   "title": "sensor-actuator bandwidth is an undertheorized crux about takeoff dynamics",
-   "url": "https://www.lesswrong.com/posts/M9QrTzASRb6DfWric/sensor-actuator-bandwidth-is-an-undertheorized-crux-about",
-   "source": "LessWrong",
-   "published_at": "Thu, 26 Nov 2026 19:55:00 GMT",
-   "summary": "epistemic status: written quickly, been annoyed for years that this isn t common language . software-only singularities differ from other scenarios because the physical world is hard. However, epistemology and philosophy of science has so far underperformed in measuring complexity of different disci",
-   "score": 16
-  },
-  {
-   "title": "Israel Discount Bank Adds Bitcoin and Ether Trading",
-   "url": "https://thedefiant.io/converge/tradfi-and-fintech/israel-discount-bank-adds-bitcoin-and-ether-trading",
-   "source": "The Defiant",
-   "published_at": "Thu, 26 Nov 2026 16:29:51 GMT",
-   "summary": "Eligible retail customers can use their existing securities accounts, but they can’t move coins to or from outside wallets.",
-   "score": 16
-  }
- ],
- "updatedAt": "2026-11-26T23:35:02.298890+00:00"
+  "picks": [
+    {
+      "title": "Bitcoin ETFs are bleeding cash and the Fed is unlikely to help",
+      "source": "CoinDesk",
+      "category": "macro",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/26/bitcoin-etfs-are-bleeding-cash-and-the-fed-is-unlikely-to-help",
+      "published_at": "Thu, 26 Nov 2026 12:14:46 +0000",
+      "score": 150.0
+    },
+    {
+      "title": "Cyprus Becomes Espionage Target for Iranian Hackers",
+      "source": "Dark Reading",
+      "category": "macro",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/cyprus-espionage-target-iranian-hackers",
+      "published_at": "Thu, 26 Nov 2026 08:00:00 GMT",
+      "score": 150.0
+    },
+    {
+      "title": "Remus malware steals Gmail messages via fake Google Sheets extension",
+      "source": "BleepingComputer",
+      "category": "cyber",
+      "url": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
+      "published_at": "Thu, 26 Nov 2026 10:23:28 -0500",
+      "score": 135.0
+    }
+  ],
+  "updatedAt": "2026-11-26T23:47:11.742806+00:00"
 }
