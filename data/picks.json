@@ -1,20 +1,12 @@
 {
   "picks": [
     {
-      "title": "Morning Minute: Ethereum Focuses on Security As AI Threats Rise",
+      "title": "Bitcoin Falls Further as Inflation, Trump Tariffs and AI Selloff Rattle Markets",
       "source": "Decrypt",
       "category": "macro",
-      "url": "https://decrypt.co/383945/morning-minute-ethereum-focuses-on-security-as-ai-threats-rise",
-      "published_at": "Wed, 25 Nov 2026 13:41:38 +0000",
-      "score": 231.0
-    },
-    {
-      "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
-      "source": "BleepingComputer",
-      "category": "macro",
-      "url": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
-      "published_at": "Wed, 25 Nov 2026 10:00:00 -0500",
-      "score": 210.0
+      "url": "https://decrypt.co/383967/bitcoin-sinks-inflation-trump-tariffs-ai-selloff",
+      "published_at": "Wed, 25 Nov 2026 16:52:50 +0000",
+      "score": 225.0
     },
     {
       "title": "Hyperliquid’s HYPE will join bitcoin, ether and more in Franklin Templeton’s crypto ETF",
@@ -23,7 +15,15 @@
       "url": "https://www.theblock.co/news/markets/2026-11-25-franklin-templeton-ezpz-etf-adds-hyperliquid-hype-446686",
       "published_at": "Wed, 25 Nov 2026 16:54:15 +0000",
       "score": 195.0
+    },
+    {
+      "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
+      "source": "BleepingComputer",
+      "category": "cyber",
+      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
+      "published_at": "Wed, 25 Nov 2026 17:05:09 -0500",
+      "score": 90.0
     }
   ],
-  "updatedAt": "2026-11-26T04:47:07.488638+00:00"
+  "updatedAt": "2026-11-26T05:02:20.444922+00:00"
 }
