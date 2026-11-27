@@ -1,6 +1,14 @@
 {
   "picks": [
     {
+      "title": "Ethereum devs schedule Glamsterdam upgrade for Hoodi testnet on Dec. 15",
+      "source": "The Block",
+      "category": "market",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-27-ethereum-devs-schedule-glamsterdam-upgrade-hoodi-447051",
+      "published_at": "Fri, 27 Nov 2026 07:51:14 +0000",
+      "score": 198.0
+    },
+    {
       "title": "Bitcoin ETFs are bleeding cash and the Fed is unlikely to help",
       "source": "CoinDesk",
       "category": "macro",
@@ -15,15 +23,7 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/cyprus-espionage-target-iranian-hackers",
       "published_at": "Thu, 26 Nov 2026 08:00:00 GMT",
       "score": 150.0
-    },
-    {
-      "title": "Remus malware steals Gmail messages via fake Google Sheets extension",
-      "source": "BleepingComputer",
-      "category": "cyber",
-      "url": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
-      "published_at": "Thu, 26 Nov 2026 10:23:28 -0500",
-      "score": 135.0
     }
   ],
-  "updatedAt": "2026-11-27T07:47:02.754931+00:00"
+  "updatedAt": "2026-11-27T08:02:22.243502+00:00"
 }
