@@ -1,29 +1,101 @@
 {
-  "picks": [
-    {
-      "title": "AI math breakthroughs revive Bitcoin security fears, but practical threat remains unproven: K33",
-      "source": "The Block",
-      "category": "macro",
-      "url": "https://www.theblock.co/news/ecosystems/2026-11-27-ai-math-breakthroughs-revive-bitcoin-security-fears-but-practical-threat-remains-unproven-k33-447549",
-      "published_at": "Fri, 27 Nov 2026 14:24:21 +0000",
-      "score": 231.0
-    },
-    {
-      "title": "Drupal warns of new site takeover flaw exploited in attacks",
-      "source": "BleepingComputer",
-      "category": "macro",
-      "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/",
-      "published_at": "Fri, 27 Nov 2026 05:10:15 -0500",
-      "score": 195.0
-    },
-    {
-      "title": "Could AI Break Bitcoin? Not Yet, Research Firm K33 Says",
-      "source": "Decrypt",
-      "category": "macro",
-      "url": "https://decrypt.co/384218/could-ai-break-bitcoin-not-yet-research-firm-k33-says",
-      "published_at": "Fri, 27 Nov 2026 20:46:02 +0000",
-      "score": 186.0
-    }
-  ],
-  "updatedAt": "2026-11-28T16:02:08.671860+00:00"
+ "picks": [
+  {
+   "title": "US Air Force cloud platform reportedly hacked in latest federal breach",
+   "url": "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/",
+   "source": "BleepingComputer",
+   "published_at": "Fri, 27 Nov 2026 10:09:40 -0500",
+   "summary": "Hackers have reportedly breached the US Air Force s Cloud One computing platform, adding to a recent wave of cyberattacks affecting US government agencies, including the FBI, CIA, and Treasury Department. [...]",
+   "score": 72
+  },
+  {
+   "title": "XRP NFT PLATFORM HIT BY SECURITY EXPLOIT, KEY WALLET DISCLOSURE MADE",
+   "url": "https://www.tradingview.com/news/u_today:f82d8d108094b:0-xrp-nft-platform-hit-by-security-exploit-key-wallet-disclosure-made/",
+   "source": "MarketNewsFeed [CRYPTO]",
+   "published_at": "2026-11-28T15:28:07Z",
+   "summary": "",
+   "score": 40
+  },
+  {
+   "title": "Drupal warns of new site takeover flaw exploited in attacks",
+   "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/",
+   "source": "BleepingComputer",
+   "published_at": "Fri, 27 Nov 2026 05:10:15 -0500",
+   "summary": "The Drupal security team says attackers are exploiting a second critical vulnerability that lets them breach and hijack unpatched websites. [...]",
+   "score": 40
+  },
+  {
+   "title": "SafePal Extends August Breach Disclosure to Older Orders",
+   "url": "https://thedefiant.io/news/security/safepal-extends-august-breach-disclosure-to-older-orders",
+   "source": "The Defiant",
+   "published_at": "Sat, 28 Nov 2026 04:36:31 GMT",
+   "summary": "The hardware-wallet maker says it cannot email buyers in the newly identified group individually and warns of fake firmware-update emails and letters.",
+   "score": 38
+  },
+  {
+   "title": "New Boston Scientific data breach exposes personal, medical info",
+   "url": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
+   "source": "BleepingComputer",
+   "published_at": "Fri, 27 Nov 2026 13:57:42 -0500",
+   "summary": "Medical technology company Boston Scientific is sending data breach notices to individuals affected by a cyberattack on the firm. [...]",
+   "score": 38
+  },
+  {
+   "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+   "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
+   "source": "Hacker News Frontpage",
+   "published_at": "Sat, 28 Nov 2026 11:57:04 +0000",
+   "summary": "Comments URL: Points: 5",
+   "score": 34
+  },
+  {
+   "title": "Hackers Hit US Air Force Cloud System Running Air-Defense and Munitions Data",
+   "url": "https://decrypt.co/384174/us-air-force-hack-cloud-system-air-defense-munitions-data",
+   "source": "Decrypt",
+   "published_at": "Fri, 27 Nov 2026 17:43:29 +0000",
+   "summary": "The intrusion at Cloud One, discovered during a system upgrade, has prompted a Cyber Command damage assessment and disrupted the platform that runs air-defense radar feeds, munitions tracking and personnel data.",
+   "score": 34
+  },
+  {
+   "title": "US Air Force s cloud computing platform hacked",
+   "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+   "source": "Hacker News Best",
+   "published_at": "Fri, 27 Nov 2026 12:54:11 +0000",
+   "summary": "Comments URL: Points: 350",
+   "score": 34
+  },
+  {
+   "title": "Brazil’s stock exchange teams up with major banks to launch real-pegged stablecoin",
+   "url": "https://www.coindesk.com/business/2026/11/27/brazil-s-stock-exchange-teams-up-with-major-banks-to-launch-real-pegged-stablecoin",
+   "source": "CoinDesk",
+   "published_at": "Fri, 27 Nov 2026 10:51:27 +0000",
+   "summary": "",
+   "score": 26
+  },
+  {
+   "title": "Malwarebytes Antivirus: Get 50% off during Black Friday 2026",
+   "url": "https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/",
+   "source": "BleepingComputer",
+   "published_at": "Fri, 27 Nov 2026 09:22:06 -0500",
+   "summary": "Malwarebytes 2026 Black Friday and Cyber Monday sale is now live, offering 50% off security subscriptions for individuals, families, and small businesses, including its antivirus software, VPN, identity theft protection, and personal data removal services. [...]",
+   "score": 26
+  },
+  {
+   "title": "Banned Nvidia Blackwell AI racks surface in China — data center tied to $14M loan and alleged spy Alice Huang",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/banned-nvidia-blackwell-ai-racks-surface-in-china-data-center-tied-to-usd14m-loan-and-alleged-spy-alice-huang",
+   "source": "Tom's Hardware",
+   "published_at": "Sat, 28 Nov 2026 15:22:32 +0000",
+   "summary": "Nvidia s Blackwell AI chips were installed in a Chinese data center linked to Alice Huang, a suspected spy. This is despite the high-performance AI server chips being under export controls.",
+   "score": 16
+  },
+  {
+   "title": "BNB Chain Names Woori Bank in Planned Stablecoin Pilot",
+   "url": "https://thedefiant.io/converge/tradfi-and-fintech/bnb-chain-names-woori-bank-in-planned-stablecoin-pilot",
+   "source": "The Defiant",
+   "published_at": "Sat, 28 Nov 2026 12:10:34 GMT",
+   "summary": "The exploratory project would start with the Brazil–South Korea and Hong Kong–South Korea payment corridors.",
+   "score": 16
+  }
+ ],
+ "updatedAt": "2026-11-28T16:16:00.017764+00:00"
 }
